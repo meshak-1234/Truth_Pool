@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "claim": "Tanjiro Kamado is the eldest of the Kamado children.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Tanjiro is the eldest Kamado sibling, and Nezuko and his younger brothers and sister look to him as the head of the household after their father's death.",
+    "source_name": "Demon Slayer Wiki - Tanjiro Kamado",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Tanjiro_Kamado"
+  },
+  {
+    "id": 2,
+    "claim": "Nezuko Kamado is Tanjiro's older sister.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Nezuko is Tanjiro's younger sister.",
+    "source_name": "Demon Slayer Wiki - Nezuko Kamado",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Nezuko_Kamado"
+  },
+  {
+    "id": 3,
+    "claim": "Tanjiro's main goal is to turn his sister Nezuko back into a human.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "After Nezuko is turned into a demon, Tanjiro becomes a demon slayer to find a cure for her.",
+    "source_name": "Demon Slayer Wiki - Tanjiro Kamado",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Tanjiro_Kamado"
+  },
+  {
+    "id": 4,
+    "claim": "Zenitsu Agatsuma uses Water Breathing.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Zenitsu uses Thunder Breathing. Water Breathing is the style Tanjiro and Giyu Tomioka use.",
+    "source_name": "Demon Slayer Wiki - Zenitsu Agatsuma",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma"
+  },
+  {
+    "id": 5,
+    "claim": "Tanjiro has an exceptionally keen sense of smell.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Tanjiro uses his sense of smell to track demons and detect danger and emotions.",
+    "source_name": "Demon Slayer Wiki - Tanjiro Kamado",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Tanjiro_Kamado"
+  },
+  {
+    "id": 6,
+    "claim": "Inosuke Hashibira wears a wolf's head over his face.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Inosuke wears the head of a wild boar, not a wolf.",
+    "source_name": "Demon Slayer Wiki - Inosuke Hashibira",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Inosuke_Hashibira"
+  },
+  {
+    "id": 7,
+    "claim": "Zenitsu Agatsuma uses Thunder Breathing.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Zenitsu's Breathing Style is Thunder Breathing, which he learned from his master.",
+    "source_name": "Demon Slayer Wiki - Zenitsu Agatsuma",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma"
+  },
+  {
+    "id": 8,
+    "claim": "Giyu Tomioka is the Flame Hashira.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Giyu Tomioka is the Water Hashira.",
+    "source_name": "Demon Slayer Wiki - Giyu Tomioka",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Giyu_Tomioka"
+  },
+  {
+    "id": 9,
+    "claim": "Giyu Tomioka is the Water Hashira.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Giyu is the Hashira who uses Water Breathing and first meets Tanjiro and Nezuko.",
+    "source_name": "Demon Slayer Wiki - Giyu Tomioka",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Giyu_Tomioka"
+  },
+  {
+    "id": 10,
+    "claim": "Kasugai Crows are demons that hunt Demon Slayer Corps members.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Kasugai Crows are messenger birds that assist the Demon Slayer Corps. They are not demons.",
+    "source_name": "Demon Slayer Wiki - Demon Slayer Corps",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Demon_Slayer_Corps"
+  },
+  {
+    "id": 11,
+    "claim": "Kasugai Crows carry messages and mission assignments to members of the Demon Slayer Corps.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Crows act as messengers and guides for Corps members.",
+    "source_name": "Demon Slayer Wiki - Demon Slayer Corps",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Demon_Slayer_Corps"
+  },
+  {
+    "id": 12,
+    "claim": "Nezuko is turned into a demon but refuses to eat human flesh.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Nezuko resists her hunger for humans and sleeps instead of feeding on people.",
+    "source_name": "Demon Slayer Wiki - Nezuko Kamado",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Nezuko_Kamado"
+  },
+  {
+    "id": 13,
+    "claim": "Muzan Kibutsuji is the first demon and the main antagonist who turned Nezuko into a demon.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Muzan is the progenitor of demons and the one who attacked the Kamado family.",
+    "source_name": "Demon Slayer Wiki - Muzan Kibutsuji",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Muzan_Kibutsuji"
+  },
+  {
+    "id": 14,
+    "claim": "Nezuko eats humans to survive.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Nezuko does not eat humans. She sleeps to recover energy instead.",
+    "source_name": "Demon Slayer Wiki - Nezuko Kamado",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Nezuko_Kamado"
+  },
+  {
+    "id": 15,
+    "claim": "Zenitsu is known for fighting best while asleep.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "When Zenitsu falls asleep, he unlocks his true skill and uses Thunder Breathing.",
+    "source_name": "Demon Slayer Wiki - Zenitsu Agatsuma",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma"
+  },
+  {
+    "id": 16,
+    "claim": "Sakonji Urokodaki is the Water Hashira who currently serves the Demon Slayer Corps.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Urokodaki is a former Water Hashira who now trains new swordsmen. Giyu Tomioka is the current Water Hashira.",
+    "source_name": "Demon Slayer Wiki - Sakonji Urokodaki",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Sakonji_Urokodaki"
+  },
+  {
+    "id": 17,
+    "claim": "Sakonji Urokodaki trains Tanjiro to become a demon slayer.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Giyu sends Tanjiro to Urokodaki, who trains him in Water Breathing.",
+    "source_name": "Demon Slayer Wiki - Sakonji Urokodaki",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Sakonji_Urokodaki"
+  },
+  {
+    "id": 18,
+    "claim": "Sakonji Urokodaki wears a tengu mask.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Urokodaki is recognizable by the tengu mask he wears.",
+    "source_name": "Demon Slayer Wiki - Sakonji Urokodaki",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Sakonji_Urokodaki"
+  },
+  {
+    "id": 19,
+    "claim": "Genya Shinazugawa is the Wind Hashira.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "The Wind Hashira is Genya's older brother, Sanemi Shinazugawa. Genya is not a Hashira.",
+    "source_name": "Demon Slayer Wiki - Genya Shinazugawa",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Genya_Shinazugawa"
+  },
+  {
+    "id": 20,
+    "claim": "Genya Shinazugawa is the younger brother of Sanemi Shinazugawa.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Genya is Sanemi's younger brother.",
+    "source_name": "Demon Slayer Wiki - Genya Shinazugawa",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Genya_Shinazugawa"
+  },
+  {
+    "id": 21,
+    "claim": "Genya Shinazugawa is Sanemi Shinazugawa's cousin.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Genya is Sanemi's younger brother, not his cousin.",
+    "source_name": "Demon Slayer Wiki - Genya Shinazugawa",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Genya_Shinazugawa"
+  },
+  {
+    "id": 22,
+    "claim": "Genya Shinazugawa cannot use Breathing Styles and fights with a firearm.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Genya is unable to use Breathing Styles and instead relies on a firearm and his ability to gain powers by eating demons.",
+    "source_name": "Demon Slayer Wiki - Genya Shinazugawa",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Genya_Shinazugawa"
+  },
+  {
+    "id": 23,
+    "claim": "Kagaya Ubuyashiki is the leader of the Demon Slayer Corps.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Kagaya is the head of the Corps and the head of the Ubuyashiki family.",
+    "source_name": "Demon Slayer Wiki - Kagaya Ubuyashiki",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kagaya_Ubuyashiki"
+  },
+  {
+    "id": 24,
+    "claim": "Kagaya Ubuyashiki is one of the nine Hashira.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Kagaya leads the Corps and is not a Hashira.",
+    "source_name": "Demon Slayer Wiki - Kagaya Ubuyashiki",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kagaya_Ubuyashiki"
+  },
+  {
+    "id": 25,
+    "claim": "The Demon Slayer Corps has twelve Hashira.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "There are nine Hashira. The Twelve Kizuki are demons under Muzan.",
+    "source_name": "Demon Slayer Wiki - Demon Slayer Corps",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Demon_Slayer_Corps"
+  },
+  {
+    "id": 26,
+    "claim": "The Final Selection requires candidates to survive for seven days.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Candidates must survive seven nights on the mountain filled with demons to pass the Final Selection.",
+    "source_name": "Demon Slayer Wiki - Final Selection",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Final_Selection"
+  },
+  {
+    "id": 27,
+    "claim": "The Final Selection is held on Mount Natagumo.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "The Final Selection takes place on Mount Fujikasane, which is surrounded by blooming wisteria.",
+    "source_name": "Demon Slayer Wiki - Final Selection",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Final_Selection"
+  },
+  {
+    "id": 28,
+    "claim": "The Final Selection takes place on Mount Fujikasane.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Mount Fujikasane is where candidates fight demons during the Final Selection.",
+    "source_name": "Demon Slayer Wiki - Final Selection",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Final_Selection"
+  },
+  {
+    "id": 29,
+    "claim": "Nichirin blades are made from ordinary steel.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Nichirin blades are forged from special ore and sand that absorb sunlight, which lets them kill demons.",
+    "source_name": "Demon Slayer Wiki - Nichirin Blade",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Blade"
+  },
+  {
+    "id": 30,
+    "claim": "A Nichirin blade changes color in its wielder's hands.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Nichirin blades change color once held, and the color depends on the user.",
+    "source_name": "Demon Slayer Wiki - Nichirin Blade",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Blade"
+  },
+  {
+    "id": 31,
+    "claim": "Tanjiro's Nichirin blade turns yellow.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Tanjiro's blade turns black. A yellow blade belongs to Zenitsu.",
+    "source_name": "Demon Slayer Wiki - Tanjiro Kamado",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Tanjiro_Kamado"
+  },
+  {
+    "id": 32,
+    "claim": "Tanjiro has five siblings.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Tanjiro's siblings are Nezuko, Takeo, Hanako, Shigeru, and Rokuta.",
+    "source_name": "Demon Slayer Wiki - Tanjiro Kamado",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Tanjiro_Kamado"
+  },
+  {
+    "id": 33,
+    "claim": "Nezuko is the youngest of the Kamado children.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Takeo, Hanako, Shigeru, and Rokuta are all younger than Nezuko.",
+    "source_name": "Demon Slayer Wiki - Nezuko Kamado",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Nezuko_Kamado"
+  },
+  {
+    "id": 34,
+    "claim": "Tanjiro's father, Tanjuro, died of illness before the demon attack on the family.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Tanjuro had been ill and had already passed away before Muzan attacked the Kamado family.",
+    "source_name": "Demon Slayer Wiki - Tanjiro Kamado",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Tanjiro_Kamado"
+  },
+  {
+    "id": 35,
+    "claim": "Tanjiro's father was killed by Muzan.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Tanjuro died of illness before the attack. Muzan did not kill him.",
+    "source_name": "Demon Slayer Wiki - Tanjiro Kamado",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Tanjiro_Kamado"
+  },
+  {
+    "id": 36,
+    "claim": "The Kamado family lived on Mount Sagiri.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "The Kamado family lived on Mount Kumotori. Urokodaki lives on Mount Sagiri.",
+    "source_name": "Demon Slayer Wiki - Tanjiro Kamado",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Tanjiro_Kamado"
+  },
+  {
+    "id": 37,
+    "claim": "Tanjiro's keenest sense, which he uses to track demons, is hearing.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Tanjiro relies on his sense of smell. Zenitsu is the character known for exceptional hearing.",
+    "source_name": "Demon Slayer Wiki - Tanjiro Kamado",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Tanjiro_Kamado"
+  },
+  {
+    "id": 38,
+    "claim": "Inosuke Hashibira developed his own Breathing Style, Beast Breathing, without a teacher.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Inosuke is self-taught and created Beast Breathing through his experience living in the wild.",
+    "source_name": "Demon Slayer Wiki - Inosuke Hashibira",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Inosuke_Hashibira"
+  },
+  {
+    "id": 39,
+    "claim": "Inosuke learned Beast Breathing from Sakonji Urokodaki.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Inosuke created Beast Breathing himself and was not trained by Urokodaki.",
+    "source_name": "Demon Slayer Wiki - Inosuke Hashibira",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Inosuke_Hashibira"
+  },
+  {
+    "id": 40,
+    "claim": "Zenitsu was trained by Sakonji Urokodaki.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Zenitsu was trained by Jigoro Kuwajima, a former Thunder Hashira.",
+    "source_name": "Demon Slayer Wiki - Zenitsu Agatsuma",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma"
+  },
+  {
+    "id": 41,
+    "claim": "Zenitsu Agatsuma was trained by Jigoro Kuwajima.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Jigoro Kuwajima, a former Thunder Hashira, taught Zenitsu Thunder Breathing.",
+    "source_name": "Demon Slayer Wiki - Jigoro Kuwajima",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Jigoro_Kuwajima"
+  },
+  {
+    "id": 42,
+    "claim": "Kanao Tsuyuri often flips a coin to make decisions.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Kanao relies on a coin flip because she has trouble deciding for herself.",
+    "source_name": "Demon Slayer Wiki - Kanao Tsuyuri",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kanao_Tsuyuri"
+  },
+  {
+    "id": 43,
+    "claim": "Kanao Tsuyuri is Shinobu Kocho's biological sister.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Kanao is not Shinobu's biological sister. She was taken in and raised by the Kocho sisters.",
+    "source_name": "Demon Slayer Wiki - Kanao Tsuyuri",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kanao_Tsuyuri"
+  },
+  {
+    "id": 44,
+    "claim": "Kanao Tsuyuri uses Water Breathing.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Kanao uses Flower Breathing.",
+    "source_name": "Demon Slayer Wiki - Kanao Tsuyuri",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kanao_Tsuyuri"
+  },
+  {
+    "id": 45,
+    "claim": "Kanao Tsuyuri is the Tsuguko of Shinobu Kocho.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Kanao is Shinobu's Tsuguko, meaning she is her designated successor.",
+    "source_name": "Demon Slayer Wiki - Kanao Tsuyuri",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kanao_Tsuyuri"
+  },
+  {
+    "id": 46,
+    "claim": "Sabito was Giyu Tomioka's brother.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Sabito was a fellow student of Urokodaki and a close friend of Giyu, not his brother.",
+    "source_name": "Demon Slayer Wiki - Giyu Tomioka",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Giyu_Tomioka"
+  },
+  {
+    "id": 47,
+    "claim": "Kasugai Crows only serve the Hashira.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Crows are assigned to Corps members generally, not just to Hashira.",
+    "source_name": "Demon Slayer Wiki - Demon Slayer Corps",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Demon_Slayer_Corps"
+  },
+  {
+    "id": 48,
+    "claim": "The Demon Slayer Corps is not officially recognized by the government.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "The Corps operates as an unofficial organization without government recognition.",
+    "source_name": "Demon Slayer Wiki - Demon Slayer Corps",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Demon_Slayer_Corps"
+  },
+  {
+    "id": 49,
+    "claim": "Zenitsu Agatsuma has mastered all six forms of Thunder Breathing.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Zenitsu can only use the First Form, Thunderclap and Flash, and uses it in a different way to compensate.",
+    "source_name": "Demon Slayer Wiki - Zenitsu Agatsuma",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma"
+  },
+  {
+    "id": 50,
+    "claim": "Inosuke Hashibira wears a boar's head and was raised by wild boars.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Inosuke was raised by boars in the mountains and wears a boar's head.",
+    "source_name": "Demon Slayer Wiki - Inosuke Hashibira",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Inosuke_Hashibira"
+  },
+  {
+    "id": 51,
+    "claim": "Demons in Demon Slayer can regenerate from wounds, including severed limbs.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Demons have powerful regeneration, and strong demons can quickly regrow lost limbs.",
+    "source_name": "Demon Slayer Wiki - Demon",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Demon"
+  },
+  {
+    "id": 52,
+    "claim": "Garlic is the main substance that kills demons in the Demon Slayer world.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Demons are killed by sunlight, by decapitation with a Nichirin blade, or by wisteria poison. Garlic plays no such role.",
+    "source_name": "Demon Slayer Wiki - Demon",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Demon"
+  },
+  {
+    "id": 53,
+    "claim": "Direct sunlight kills demons.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Sunlight is a fatal weakness for demons, which is why they stay hidden during the day.",
+    "source_name": "Demon Slayer Wiki - Demon",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Demon"
+  },
+  {
+    "id": 54,
+    "claim": "Muzan Kibutsuji is a human who leads the Demon Slayer Corps.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Muzan is the first demon and the enemy of the Corps. Kagaya Ubuyashiki leads the Corps.",
+    "source_name": "Demon Slayer Wiki - Muzan Kibutsuji",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Muzan_Kibutsuji"
+  },
+  {
+    "id": 55,
+    "claim": "The Twelve Kizuki are divided into six Upper Rank demons and six Lower Rank demons.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "The Twelve Kizuki consist of the Upper Moons and Lower Moons, each numbered one through six.",
+    "source_name": "Demon Slayer Wiki - Twelve Kizuki",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Twelve_Kizuki"
+  },
+  {
+    "id": 56,
+    "claim": "The Twelve Kizuki consist of eight Upper Rank demons and four Lower Rank demons.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "There are six Upper Rank and six Lower Rank demons.",
+    "source_name": "Demon Slayer Wiki - Twelve Kizuki",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Twelve_Kizuki"
+  },
+  {
+    "id": 57,
+    "claim": "The Upper Rank demons are stronger than the Lower Rank demons.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "The Upper Moons are Muzan's strongest demons, and the Lower Moons are far weaker.",
+    "source_name": "Demon Slayer Wiki - Twelve Kizuki",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Twelve_Kizuki"
+  },
+  {
+    "id": 58,
+    "claim": "Akaza is a Lower Rank demon.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Akaza is an Upper Rank demon, ranked Upper Three.",
+    "source_name": "Demon Slayer Wiki - Akaza",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Akaza"
+  },
+  {
+    "id": 59,
+    "claim": "Daki and Gyutaro are siblings.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Daki and Gyutaro are brother and sister who became demons together.",
+    "source_name": "Demon Slayer Wiki - Daki",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Daki"
+  },
+  {
+    "id": 60,
+    "claim": "Enmu is an Upper Rank demon.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Enmu is Lower One, the highest of the Lower Rank demons.",
+    "source_name": "Demon Slayer Wiki - Enmu",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Enmu"
+  },
+  {
+    "id": 61,
+    "claim": "Kokushibo is ranked Upper One among the Twelve Kizuki.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Kokushibo holds the top position among the Upper Rank demons.",
+    "source_name": "Demon Slayer Wiki - Kokushibo",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kokushibo"
+  },
+  {
+    "id": 62,
+    "claim": "Kokushibo is ranked Upper Two among the Twelve Kizuki.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Kokushibo is Upper One. Doma is Upper Two.",
+    "source_name": "Demon Slayer Wiki - Kokushibo",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kokushibo"
+  },
+  {
+    "id": 63,
+    "claim": "Doma is ranked Upper Two among the Twelve Kizuki.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Doma holds the second-highest Upper Rank position, below Kokushibo.",
+    "source_name": "Demon Slayer Wiki - Doma",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Doma"
+  },
+  {
+    "id": 64,
+    "claim": "Doma is ranked Upper Three among the Twelve Kizuki.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Doma is Upper Two. Akaza is Upper Three.",
+    "source_name": "Demon Slayer Wiki - Doma",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Doma"
+  },
+  {
+    "id": 65,
+    "claim": "Akaza is ranked Upper Three among the Twelve Kizuki.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Akaza is Upper Three, the demon who fights Rengoku on the Mugen Train.",
+    "source_name": "Demon Slayer Wiki - Akaza",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Akaza"
+  },
+  {
+    "id": 66,
+    "claim": "Akaza is ranked Upper Two among the Twelve Kizuki.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Akaza is Upper Three. Doma holds Upper Two.",
+    "source_name": "Demon Slayer Wiki - Akaza",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Akaza"
+  },
+  {
+    "id": 67,
+    "claim": "Hantengu is ranked Upper Four among the Twelve Kizuki.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Hantengu is Upper Four, below Akaza and above Gyokko.",
+    "source_name": "Demon Slayer Wiki - Hantengu",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Hantengu"
+  },
+  {
+    "id": 68,
+    "claim": "Hantengu is ranked Upper Six among the Twelve Kizuki.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Hantengu is Upper Four. Upper Six was held by Daki and Gyutaro, and later by Kaigaku.",
+    "source_name": "Demon Slayer Wiki - Hantengu",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Hantengu"
+  },
+  {
+    "id": 69,
+    "claim": "Gyokko is ranked Upper Five among the Twelve Kizuki.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Gyokko is Upper Five and fights in the Swordsmith Village.",
+    "source_name": "Demon Slayer Wiki - Gyokko",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Gyokko"
+  },
+  {
+    "id": 70,
+    "claim": "Gyokko is ranked Upper Six among the Twelve Kizuki.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Gyokko is Upper Five. Upper Six was held first by Daki and Gyutaro.",
+    "source_name": "Demon Slayer Wiki - Gyokko",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Gyokko"
+  },
+  {
+    "id": 71,
+    "claim": "Daki and Gyutaro together hold the Upper Six rank, at the time of the Entertainment District arc.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "The siblings share the Upper Six position, with Daki and Gyutaro counted as one rank.",
+    "source_name": "Demon Slayer Wiki - Daki",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Daki"
+  },
+  {
+    "id": 72,
+    "claim": "Daki is Gyutaro's older sister.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Daki is Gyutaro's younger sister.",
+    "source_name": "Demon Slayer Wiki - Daki",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Daki"
+  },
+  {
+    "id": 73,
+    "claim": "Rui is a Lower Five demon.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Rui holds the rank of Lower Five when he is encountered at Mount Natagumo.",
+    "source_name": "Demon Slayer Wiki - Rui",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Rui"
+  },
+  {
+    "id": 74,
+    "claim": "Rui is an Upper Five demon.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Rui is a Lower Rank demon, Lower Five. Gyokko is Upper Five.",
+    "source_name": "Demon Slayer Wiki - Rui",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Rui"
+  },
+  {
+    "id": 75,
+    "claim": "Enmu holds the rank of Lower One among the Twelve Kizuki.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Enmu is Lower One, the top Lower Rank demon, and appears in the Mugen Train arc.",
+    "source_name": "Demon Slayer Wiki - Enmu",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Enmu"
+  },
+  {
+    "id": 76,
+    "claim": "Enmu holds the rank of Lower Five among the Twelve Kizuki.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Enmu is Lower One. Rui is Lower Five.",
+    "source_name": "Demon Slayer Wiki - Enmu",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Enmu"
+  },
+  {
+    "id": 77,
+    "claim": "Akaza kills Kyojuro Rengoku during the Mugen Train arc.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Rengoku is fatally wounded in his fight with Akaza after he refuses to become a demon.",
+    "source_name": "Demon Slayer Wiki - Akaza",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Akaza"
+  },
+  {
+    "id": 78,
+    "claim": "Kyojuro Rengoku kills Akaza during the Mugen Train arc.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Rengoku is the one who dies in that fight. Akaza survives and is defeated much later.",
+    "source_name": "Demon Slayer Wiki - Akaza",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Akaza"
+  },
+  {
+    "id": 79,
+    "claim": "Doma's Blood Demon Art is based on ice.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Doma uses cryokinesis to create freezing mist and ice constructs.",
+    "source_name": "Demon Slayer Wiki - Doma",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Doma"
+  },
+  {
+    "id": 80,
+    "claim": "Doma's Blood Demon Art is based on fire.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Doma's art is ice-based, not fire-based.",
+    "source_name": "Demon Slayer Wiki - Doma",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Doma"
+  },
+  {
+    "id": 81,
+    "claim": "Gyutaro fights with blood sickles that carry poison.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Gyutaro uses sickles and his blood to inflict poison on his enemies.",
+    "source_name": "Demon Slayer Wiki - Gyutaro",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Gyutaro"
+  },
+  {
+    "id": 82,
+    "claim": "Gyutaro's primary weapon is a living obi.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "The obi belongs to Daki. Gyutaro uses blood sickles.",
+    "source_name": "Demon Slayer Wiki - Gyutaro",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Gyutaro"
+  },
+  {
+    "id": 83,
+    "claim": "Daki fights using obi sashes that she controls.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Daki's obi can cut, bind, and absorb victims.",
+    "source_name": "Demon Slayer Wiki - Daki",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Daki"
+  },
+  {
+    "id": 84,
+    "claim": "Akaza fights using Flame Breathing.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Akaza uses a martial arts style called Destructive Death. Flame Breathing is Rengoku's Breathing Style.",
+    "source_name": "Demon Slayer Wiki - Akaza",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Akaza"
+  },
+  {
+    "id": 85,
+    "claim": "Nakime's Blood Demon Art uses a biwa to reshape the Infinity Castle.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Nakime plays her biwa to rearrange the rooms of the Infinity Castle.",
+    "source_name": "Demon Slayer Wiki - Nakime",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Nakime"
+  },
+  {
+    "id": 86,
+    "claim": "Kokushibo was once a human named Michikatsu Tsugikuni, the elder twin brother of Yoriichi Tsugikuni.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Kokushibo's human name was Michikatsu, and he was Yoriichi's older twin brother.",
+    "source_name": "Demon Slayer Wiki - Kokushibo",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kokushibo"
+  },
+  {
+    "id": 87,
+    "claim": "Kokushibo was Yoriichi Tsugikuni's younger brother.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Michikatsu, who became Kokushibo, was the elder twin.",
+    "source_name": "Demon Slayer Wiki - Kokushibo",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kokushibo"
+  },
+  {
+    "id": 88,
+    "claim": "Kokushibo uses Moon Breathing, a Breathing Style derived from Sun Breathing.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Kokushibo's swordsmanship is Moon Breathing, which he developed from Sun Breathing.",
+    "source_name": "Demon Slayer Wiki - Kokushibo",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kokushibo"
+  },
+  {
+    "id": 89,
+    "claim": "Doma killed Kanae Kocho, the older sister of Shinobu Kocho.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Doma killed Kanae, which is why Shinobu hunts him.",
+    "source_name": "Demon Slayer Wiki - Doma",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Doma"
+  },
+  {
+    "id": 90,
+    "claim": "Doma is killed by Shinobu Kocho's poison alone.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Shinobu's poison weakens Doma, but Kanao Tsuyuri and Inosuke Hashibira deliver the final blow.",
+    "source_name": "Demon Slayer Wiki - Doma",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Doma"
+  },
+  {
+    "id": 91,
+    "claim": "Kaigaku becomes Upper Six after Daki and Gyutaro are killed.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "After the siblings die in the Entertainment District arc, Kaigaku takes the Upper Six rank.",
+    "source_name": "Demon Slayer Wiki - Kaigaku",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kaigaku"
+  },
+  {
+    "id": 92,
+    "claim": "Kaigaku personally killed his teacher, Jigoro Kuwajima.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Jigoro took his own life in shame after Kaigaku became a demon. Kaigaku did not kill him.",
+    "source_name": "Demon Slayer Wiki - Kaigaku",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kaigaku"
+  },
+  {
+    "id": 93,
+    "claim": "Zenitsu Agatsuma defeats Kaigaku using the Seventh Form of Thunder Breathing.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Zenitsu creates his own Seventh Form, Flaming Thunder God, to beat Kaigaku.",
+    "source_name": "Demon Slayer Wiki - Kaigaku",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kaigaku"
+  },
+  {
+    "id": 94,
+    "claim": "Akaza was a human named Hakuji before he became a demon.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Akaza's human name was Hakuji, and his past is revealed late in the manga.",
+    "source_name": "Demon Slayer Wiki - Akaza",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Akaza"
+  },
+  {
+    "id": 95,
+    "claim": "Gyokko is killed by Zenitsu Agatsuma.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Muichiro Tokito defeats Gyokko in the Swordsmith Village arc.",
+    "source_name": "Demon Slayer Wiki - Gyokko",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Gyokko"
+  },
+  {
+    "id": 96,
+    "claim": "Rui is killed by Tanjiro Kamado.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Giyu Tomioka beheads Rui at Mount Natagumo after Tanjiro and Nezuko face him.",
+    "source_name": "Demon Slayer Wiki - Rui",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Rui"
+  },
+  {
+    "id": 97,
+    "claim": "Hantengu's true body is his strongest form.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Hantengu's true body is small and weak, and his emotion-based clones do the fighting.",
+    "source_name": "Demon Slayer Wiki - Hantengu",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Hantengu"
+  },
+  {
+    "id": 98,
+    "claim": "Muzan Kibutsuji searches for the Blue Spider Lily to overcome his weakness to sunlight.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Muzan believes the Blue Spider Lily will let him walk in sunlight, so he hunts for it for centuries.",
+    "source_name": "Demon Slayer Wiki - Muzan Kibutsuji",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Muzan_Kibutsuji"
+  },
+  {
+    "id": 99,
+    "claim": "Kokushibo is the demon who turned Muzan Kibutsuji.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Muzan is the first demon and was transformed by a doctor's medicine. Kokushibo was turned by Muzan.",
+    "source_name": "Demon Slayer Wiki - Muzan Kibutsuji",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Muzan_Kibutsuji"
+  },
+  {
+    "id": 100,
+    "claim": "Nakime's Blood Demon Art revolves around a drum.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Nakime uses a biwa, a lute, not a drum.",
+    "source_name": "Demon Slayer Wiki - Nakime",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Nakime"
+  },
+  {
+    "id": 101,
+    "claim": "Nichirin swords are forged from ore that absorbs sunlight, which is what makes them able to kill demons.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Nichirin blades are made from scarlet crimson iron ore and sand that soak up sunlight, the property that lets them harm and kill demons.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Nichirin Blade",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Blade"
+  },
+  {
+    "id": 102,
+    "claim": "Tanjiro Kamado invented Water Breathing.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Water Breathing is an established style taught by Sakonji Urokodaki and used by Giyu Tomioka. Tanjiro learned it; he did not create it.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Water Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Water_Breathing"
+  },
+  {
+    "id": 103,
+    "claim": "Beheading a demon with a Nichirin sword is one of the ways to kill it.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Cutting off a demon's head with a Nichirin blade kills it. Exposure to sunlight is the other main method.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Nichirin Blade",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Blade"
+  },
+  {
+    "id": 104,
+    "claim": "Silver weapons are the standard tool Demon Slayers use to kill demons.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Silver has no special effect on demons in this series. Demon Slayers rely on Nichirin swords made from sunlight-absorbing ore.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Nichirin Blade",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Blade"
+  },
+  {
+    "id": 105,
+    "claim": "Wisteria flowers repel demons.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Demons avoid wisteria, and wisteria is also used to make poison that harms them.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Wisteria",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Wisteria"
+  },
+  {
+    "id": 106,
+    "claim": "The color of a Nichirin sword is chosen by the swordsmith who forges it.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "A Nichirin blade changes color when gripped by its wielder, and the color reflects the user, not a smith's choice.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Nichirin Blade",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Blade"
+  },
+  {
+    "id": 107,
+    "claim": "Kyojuro Rengoku, the Flame Hashira, uses Flame Breathing.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Rengoku is a master of Flame Breathing, a style his family has passed down.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Flame Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Flame_Breathing"
+  },
+  {
+    "id": 108,
+    "claim": "Zenitsu Agatsuma uses Water Breathing.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Zenitsu uses Thunder Breathing, which he learned from Jigoro Kuwajima.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Thunder Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Thunder_Breathing"
+  },
+  {
+    "id": 109,
+    "claim": "Inosuke Hashibira fights with two jagged Nichirin swords.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Inosuke wields a pair of serrated Nichirin blades, which he uses in his own Beast Breathing style.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Inosuke Hashibira",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Inosuke_Hashibira"
+  },
+  {
+    "id": 110,
+    "claim": "Mitsuri Kanroji, the Love Hashira, uses Stone Breathing.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Mitsuri uses Love Breathing. Stone Breathing belongs to Gyomei Himejima.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Love Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Love_Breathing"
+  },
+  {
+    "id": 111,
+    "claim": "Hinokami Kagura is a dance passed down in the Kamado family that corresponds to Sun Breathing.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "The Kamado family performs Hinokami Kagura as a ritual dance, and it is the form of Sun Breathing Tanjiro draws on in battle.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Hinokami Kagura",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Hinokami_Kagura"
+  },
+  {
+    "id": 112,
+    "claim": "Hinokami Kagura is a style derived from Water Breathing.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Hinokami Kagura corresponds to Sun Breathing, the original style from which the other Breathing Styles descend. It is not derived from Water Breathing, even though Tanjiro first trained in Water Breathing.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Hinokami Kagura",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Hinokami_Kagura"
+  },
+  {
+    "id": 113,
+    "claim": "Giyu Tomioka created an Eleventh Form of Water Breathing called Calm.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Water Breathing has ten established forms. Giyu devised an eleventh, Calm, as his own original technique.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Giyu Tomioka",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Giyu_Tomioka"
+  },
+  {
+    "id": 114,
+    "claim": "Thunder Breathing originally has ten forms.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Thunder Breathing has six forms. Zenitsu later created a seventh of his own.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Thunder Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Thunder_Breathing"
+  },
+  {
+    "id": 115,
+    "claim": "Zenitsu Agatsuma created a Seventh Form of Thunder Breathing called Flaming Thunder God.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "The six original Thunder Breathing forms were taught by his master. Zenitsu devised the Seventh Form himself.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Thunder Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Thunder_Breathing"
+  },
+  {
+    "id": 116,
+    "claim": "The Ninth Form of Flame Breathing is named Rengoku.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Flame Breathing has nine forms, and the last one, Rengoku, is the strongest technique of the style.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Flame Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Flame_Breathing"
+  },
+  {
+    "id": 117,
+    "claim": "Gyomei Himejima, the Stone Hashira, fights with a katana.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Gyomei's Nichirin weapon is a hatchet and spiked flail joined by a chain, not a katana.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Stone Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Stone_Breathing"
+  },
+  {
+    "id": 118,
+    "claim": "Gyomei Himejima's Nichirin weapon is an axe and a spiked flail connected by a chain.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "His chained weapon is an unusual non-sword Nichirin weapon, which he uses with Stone Breathing.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Stone Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Stone_Breathing"
+  },
+  {
+    "id": 119,
+    "claim": "Muichiro Tokito became a Hashira after only about two months of holding a sword.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Muichiro rose to Mist Hashira very quickly, within roughly two months of picking up a sword.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Muichiro Tokito",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Muichiro_Tokito"
+  },
+  {
+    "id": 120,
+    "claim": "Mist Breathing has nine forms.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Mist Breathing has seven forms, ending with the Seventh Form, Obscuring Clouds.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Mist Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Mist_Breathing"
+  },
+  {
+    "id": 121,
+    "claim": "Obanai Iguro's Serpent Breathing is derived from Water Breathing.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Serpent Breathing is a derivative of Water Breathing. Its sinuous cutting movements are used by the Serpent Hashira.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Serpent Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Serpent_Breathing"
+  },
+  {
+    "id": 122,
+    "claim": "Insect Breathing is derived from Serpent Breathing.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Insect Breathing is derived from Flower Breathing, the style of Shinobu's sister Kanae.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Insect Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Insect_Breathing"
+  },
+  {
+    "id": 123,
+    "claim": "Shinobu Kocho cannot behead demons, so she kills them with wisteria poison delivered by her sword.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Shinobu lacks the strength to cut through a demon's neck. Her thin blade injects poison made from wisteria instead.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Shinobu Kocho",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Shinobu_Kocho"
+  },
+  {
+    "id": 124,
+    "claim": "Tengen Uzui, the Sound Hashira, fights with a single long katana.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Tengen uses two large cleaver-like Nichirin swords joined by a chain.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Sound Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Sound_Breathing"
+  },
+  {
+    "id": 125,
+    "claim": "Tengen Uzui's Nichirin weapons are two large cleaver-like swords connected by a chain.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "His dual swords and chain are used with Sound Breathing.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Sound Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Sound_Breathing"
+  },
+  {
+    "id": 126,
+    "claim": "Inosuke Hashibira developed Beast Breathing himself rather than being taught it by a master.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Inosuke grew up in the wild and built his own fighting style, Beast Breathing, without formal instruction.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Beast Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Beast_Breathing"
+  },
+  {
+    "id": 127,
+    "claim": "Sakonji Urokodaki taught Inosuke Hashibira Beast Breathing.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Urokodaki trained Tanjiro and Giyu in Water Breathing. Inosuke created Beast Breathing on his own.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Beast Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Beast_Breathing"
+  },
+  {
+    "id": 128,
+    "claim": "Total Concentration Breathing involves breathing continuously, which greatly boosts a person's physical abilities.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "It is a sustained breathing method used as a training foundation, and it increases the user's strength and stamina.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Total Concentration Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Total_Concentration_Breathing"
+  },
+  {
+    "id": 129,
+    "claim": "Total Concentration Breathing is a Breathing Style with its own set of numbered forms.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Total Concentration Breathing is a breathing method that supports the Breathing Styles. It has no numbered forms of its own.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Total Concentration Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Total_Concentration_Breathing"
+  },
+  {
+    "id": 130,
+    "claim": "Nezuko Kamado's Blood Demon Art, Exploding Blood, sets her blood on fire and burns demons.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Her flames are tied to her blood, and they burn demons. Humans are left unharmed.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Nezuko Kamado",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Nezuko_Kamado"
+  },
+  {
+    "id": 131,
+    "claim": "Nichirin swords are forged by Demon Slayers themselves rather than by specialized swordsmiths.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Nichirin swords are made by specialized swordsmiths in a hidden village. Demon Slayers only wield them.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Nichirin Blade",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Blade"
+  },
+  {
+    "id": 132,
+    "claim": "The Final Selection takes place on Mount Fujikasane, which is covered in wisteria.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Wisteria around the mountain keeps captured demons confined during the exam.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Final Selection",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Final_Selection"
+  },
+  {
+    "id": 133,
+    "claim": "All demons possess the same Blood Demon Art.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Blood Demon Arts are unique abilities that differ from demon to demon.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Blood Demon Art",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Blood_Demon_Art"
+  },
+  {
+    "id": 134,
+    "claim": "Hotaru Haganezuka is the swordsmith who forged Tanjiro Kamado's Nichirin sword.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Haganezuka is a swordsmith known for his fierce devotion to his blades, and he made Tanjiro's sword.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Hotaru Haganezuka",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Hotaru_Haganezuka"
+  },
+  {
+    "id": 135,
+    "claim": "Demon Slayer Marks appear only on swordsmen who use Sun Breathing.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Marks have appeared on swordsmen of several different Breathing Styles, not only Sun Breathing users.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Demon Slayer Mark",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Demon_Slayer_Mark"
+  },
+  {
+    "id": 136,
+    "claim": "Hinokami Kagura has twelve named forms, and Tanjiro uses a thirteenth form by chaining all twelve together.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "The twelve forms are performed in a continuous cycle. Tanjiro calls that sequence the Thirteenth Form.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Hinokami Kagura",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Hinokami_Kagura"
+  },
+  {
+    "id": 137,
+    "claim": "Demon Slayer Marks appear when the user's heart rate rises above 200 beats per minute and body temperature above 39 degrees Celsius.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "This physical condition is what triggers a Mark. It places heavy strain on the user's body.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Demon Slayer Mark",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Demon_Slayer_Mark"
+  },
+  {
+    "id": 138,
+    "claim": "Sanemi Shinazugawa's rare marechi blood can intoxicate demons.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Marechi blood is so potent that demons become dazed and drunk when they smell it. Sanemi uses this alongside Wind Breathing.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Sanemi Shinazugawa",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Sanemi_Shinazugawa"
+  },
+  {
+    "id": 139,
+    "claim": "The Ninth Form of Wind Breathing is named Idaten Typhoon.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Idaten Typhoon is the Ninth Form of Wind Breathing, the style Sanemi uses.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Wind Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Wind_Breathing"
+  },
+  {
+    "id": 140,
+    "claim": "Kanao Tsuyuri's Equinoctial Vermilion Eye is a Flower Breathing technique that places severe strain on her eyes.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "It is Kanao's own final Flower Breathing technique. Using it pushes her eyesight to its limit.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Flower Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Flower_Breathing"
+  },
+  {
+    "id": 141,
+    "claim": "Kokushibo, a demon, uses Moon Breathing, a Breathing Style he created as a human swordsman.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Kokushibo was once a Sun Breathing swordsman. He developed Moon Breathing and kept using it after becoming a demon.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Kokushibo",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kokushibo"
+  },
+  {
+    "id": 142,
+    "claim": "The Fifth Form of Water Breathing is Whirlpool.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Whirlpool is the Sixth Form. The Fifth Form is Blessed Rain After the Drought.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Water Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Water_Breathing"
+  },
+  {
+    "id": 143,
+    "claim": "The First Form of Flame Breathing is Blazing Universe.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "The First Form is Unknowing Fire. Blazing Universe is the Third Form.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Flame Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Flame_Breathing"
+  },
+  {
+    "id": 144,
+    "claim": "Moon Breathing is derived from Wind Breathing.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Moon Breathing is derived from Sun Breathing. Kokushibo built it from the Sun Breathing he once learned.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Moon Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Moon_Breathing"
+  },
+  {
+    "id": 145,
+    "claim": "Shinobu Kocho's wisteria poison kills a demon the moment she stabs it.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Her poison works over time and depends on the dose delivered. It is not an instant kill.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Shinobu Kocho",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Shinobu_Kocho"
+  },
+  {
+    "id": 146,
+    "claim": "Kanao Tsuyuri's Equinoctial Vermilion Eye is a technique of Insect Breathing.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Kanao uses Flower Breathing. Insect Breathing is Shinobu's style.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Flower Breathing",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Flower_Breathing"
+  },
+  {
+    "id": 147,
+    "claim": "Water Breathing lets a swordsman create literal water from the Nichirin sword.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Breathing Styles are specialized breathing and sword techniques. The flowing water seen in the art and anime is a visual depiction of the movement, not literal water creation.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Breathing Styles",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Breathing_Styles"
+  },
+  {
+    "id": 148,
+    "claim": "Sakonji Urokodaki created the Eleventh Form of Water Breathing, Calm.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Giyu Tomioka devised the Eleventh Form, Calm, on his own.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Giyu Tomioka",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Giyu_Tomioka"
+  },
+  {
+    "id": 149,
+    "claim": "The Selfless State requires a swordsman to consciously plan each attack.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "In the Selfless State the body reacts and attacks instinctively, without conscious thought.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Selfless State",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Selfless_State"
+  },
+  {
+    "id": 150,
+    "claim": "The Transparent World is an ability that only demons can use.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Human swordsmen, including Hashira and Tanjiro, can reach the Transparent World, which lets them perceive an opponent's body and movements.",
+    "source_name": "Demon Slayer Wiki (Fandom) - Transparent World",
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Transparent_World"
+  },
+  {
+    "id": 151,
+    "claim": "Gyomei Himejima, the Stone Hashira, is blind.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Gyomei is the Stone Hashira and is described as blind. He relies on his other senses in battle and is the strongest of the nine Hashira.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 152,
+    "claim": "Tanjiro Kamado was promoted to Hashira before the final battle against Muzan.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Tanjiro never became a Hashira in the manga. He served as an ordinary Demon Slayer, one of the few at his rank to fight in the climactic battle.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 153,
+    "claim": "Sanemi Shinazugawa, the Wind Hashira, is the older brother of Genya Shinazugawa.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Sanemi is Genya's elder brother. Their strained relationship stems from the death of their mother, whom Sanemi killed after she became a demon.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 154,
+    "claim": "Giyu Tomioka is the Flame Hashira.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Giyu Tomioka is the Water Hashira. The Flame Hashira is Kyojuro Rengoku.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 155,
+    "claim": "Kyojuro Rengoku was killed by Upper Rank Three Akaza at the end of the Mugen Train arc.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "After Tanjiro and the others defeated Enmu, Akaza attacked. Rengoku fought him, was mortally wounded and died while protecting the train's passengers and his companions.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 156,
+    "claim": "Gyomei Himejima is the Wind Hashira.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Gyomei Himejima is the Stone Hashira. The Wind Hashira is Sanemi Shinazugawa.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 157,
+    "claim": "Tengen Uzui, the Sound Hashira, has three wives: Hinatsuru, Makio and Suma.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Tengen is a former shinobi with three wives, all of whom accompany him into the Entertainment District to find Upper Rank Six.",
+    "source_name": "Demon Slayer official anime website",
+    "source_url": "https://www.demonslayer-anime.com/"
+  },
+  {
+    "id": 158,
+    "claim": "Kyojuro Rengoku died during the Entertainment District arc.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Rengoku died at the end of the Mugen Train arc, which precedes the Entertainment District arc. Tengen Uzui was the Hashira at the center of the Entertainment District arc.",
+    "source_name": "Demon Slayer official anime website",
+    "source_url": "https://www.demonslayer-anime.com/"
+  },
+  {
+    "id": 159,
+    "claim": "Obanai Iguro, the Serpent Hashira, is accompanied by a snake named Kaburamaru.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Kaburamaru is Obanai's constant companion and is closely tied to his Serpent Breathing style.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 160,
+    "claim": "The demon Tamayo is the biological daughter of Muzan Kibutsuji.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Easy",
+    "explanation": "Tamayo was a human turned into a demon by Muzan. She is not his daughter, and she turned against him and developed medicine to cure demons.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 161,
+    "claim": "Muichiro Tokito, the Mist Hashira, has a twin brother named Yuichiro.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Muichiro and Yuichiro are twin brothers. Yuichiro was killed by a demon, and the trauma left Muichiro with lost memories for a long time.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 162,
+    "claim": "Muichiro Tokito's twin brother is Genya Shinazugawa.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Muichiro's twin is Yuichiro. Genya is Sanemi Shinazugawa's younger brother and has no relation to Muichiro.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 163,
+    "claim": "Mitsuri Kanroji's Love Breathing is derived from Flame Breathing.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Love Breathing is a derivative of Flame Breathing. It is used by Mitsuri, the Love Hashira, with her unusual whip-like sword.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 164,
+    "claim": "Shinobu Kocho decapitates demons with her sword just like most Demon Slayers.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Shinobu lacks the strength to decapitate demons. She instead stabs them and injects wisteria-based poison that she develops herself.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 165,
+    "claim": "Obanai Iguro's Serpent Breathing is derived from Water Breathing.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Serpent Breathing is a derivative of Water Breathing. Obanai uses it as the Serpent Hashira.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 166,
+    "claim": "Kokushibo was Upper Rank Two among the Twelve Kizuki.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Kokushibo was Upper Rank One, the strongest of the Twelve Kizuki. Doma held Upper Rank Two.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 167,
+    "claim": "Shinobu Kocho's Insect Breathing is derived from Flower Breathing.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Insect Breathing is a derivative of Flower Breathing. Flower Breathing was used by her late sister Kanae, the former Flower Hashira.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 168,
+    "claim": "Sun Breathing is a derivative of Water Breathing.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Sun Breathing is the original Breathing Style created by Yoriichi Tsugikuni. Other Breathing Styles are derivations of it, not the other way around.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 169,
+    "claim": "Daki and Gyutaro, the Upper Rank Six demons, are siblings.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Daki and Gyutaro shared the Upper Rank Six position and were siblings. They were defeated by Tengen Uzui, Tanjiro, Zenitsu and Inosuke in the Entertainment District arc.",
+    "source_name": "Demon Slayer official anime website",
+    "source_url": "https://www.demonslayer-anime.com/"
+  },
+  {
+    "id": 170,
+    "claim": "Upper Rank Three Akaza was killed by Kyojuro Rengoku.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Akaza killed Rengoku. He was later defeated at the Infinity Castle by Tanjiro and Giyu Tomioka.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 171,
+    "claim": "Enmu, the Lower Rank One demon, was killed by Tanjiro Kamado on the Mugen Train.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Enmu hid his neck within the train's body. Tanjiro found it and decapitated him, with Rengoku protecting the passengers.",
+    "source_name": "Demon Slayer official anime website",
+    "source_url": "https://www.demonslayer-anime.com/"
+  },
+  {
+    "id": 172,
+    "claim": "Rengoku's younger brother Senjuro Rengoku became a Hashira.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Senjuro was Kyojuro's younger brother but never became a Hashira. He did not become a Demon Slayer in the manga.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 173,
+    "claim": "Tengen Uzui retired from the Demon Slayer Corps after the Entertainment District arc and survived the series.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Tengen lost his left eye and left hand in the Entertainment District arc and retired as Hashira. He survived to the end of the manga.",
+    "source_name": "Demon Slayer official anime website",
+    "source_url": "https://www.demonslayer-anime.com/"
+  },
+  {
+    "id": 174,
+    "claim": "The Hashira Training arc takes place between the Mugen Train arc and the Entertainment District arc.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "The correct order is Mugen Train, Entertainment District, Swordsmith Village, then Hashira Training. Hashira Training prepared the Corps for the final fight with Muzan.",
+    "source_name": "Demon Slayer official anime website",
+    "source_url": "https://www.demonslayer-anime.com/"
+  },
+  {
+    "id": 175,
+    "claim": "Tamayo was originally a human who was turned into a demon by Muzan Kibutsuji.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Muzan transformed Tamayo into a demon. She later broke free of his control and, with Yushiro, researched ways to cure demons.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 176,
+    "claim": "Sun Breathing has twelve forms, and the thirteenth Hinokami Kagura form is formed by chaining the twelve together.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "The Kamado family's Hinokami Kagura dance has twelve forms. Tanjiro learns that the thirteenth is formed by performing all twelve in sequence, which is Yoriichi's Sun Breathing.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 177,
+    "claim": "Muichiro Tokito awakened his Demon Slayer Mark during the Mugen Train arc.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Muichiro awakened his Mark during the Swordsmith Village arc while fighting Upper Rank Five Gyokko. He did not fight in the Mugen Train arc.",
+    "source_name": "Demon Slayer official anime website",
+    "source_url": "https://www.demonslayer-anime.com/"
+  },
+  {
+    "id": 178,
+    "claim": "Muichiro Tokito became a Hashira after only two months as a Demon Slayer, at age fourteen.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Muichiro became the Mist Hashira after only two months, making him the youngest Hashira in Corps history.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 179,
+    "claim": "Shinobu Kocho killed Upper Rank Two Doma with her sword.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Doma killed Shinobu. Shinobu poisoned him before dying, and Kanao Tsuyuri and Inosuke Hashibira finished him off.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 180,
+    "claim": "Zenitsu Agatsuma created Thunder Breathing's Seventh Form, Flaming Thunder God.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Zenitsu invented the Seventh Form himself. It is his own technique and not part of the original Thunder Breathing taught by his master.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 181,
+    "claim": "Giyu Tomioka and Tanjiro Kamado fought Upper Rank Two Doma at the Infinity Castle.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Giyu and Tanjiro fought Upper Rank Three Akaza. Doma was fought by Shinobu Kocho, then by Kanao Tsuyuri and Inosuke Hashibira.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 182,
+    "claim": "Giyu Tomioka created Water Breathing's Eleventh Form, Dead Calm.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Water Breathing originally had ten forms. Giyu developed the Eleventh Form, Dead Calm, on his own.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 183,
+    "claim": "Genya Shinazugawa can use Wind Breathing like his brother Sanemi.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Genya cannot use any Breathing Style. He fights by eating demon flesh to gain temporary abilities.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 184,
+    "claim": "Muzan Kibutsuji has seven hearts and five brains.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Muzan has seven hearts and five brains, which lets him survive severe injuries. The Demon Slayers had to wear him down until sunrise.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 185,
+    "claim": "Kokushibo's Moon Breathing is a derivative of Water Breathing.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Moon Breathing was developed by Michikatsu Tsugikuni (Kokushibo) as a derivative of Sun Breathing, the style of his twin brother Yoriichi, not of Water Breathing.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 186,
+    "claim": "Muichiro Tokito defeated Upper Rank Five Gyokko in the Swordsmith Village arc.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Muichiro defeated Gyokko in the Swordsmith Village arc after awakening his Mark. He had help from Genya's disruption, Tanjiro and his own Mist Breathing.",
+    "source_name": "Demon Slayer official anime website",
+    "source_url": "https://www.demonslayer-anime.com/"
+  },
+  {
+    "id": 187,
+    "claim": "Demon Slayers who awaken the Demon Slayer Mark typically live to age forty.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Users of the Mark are said to die before turning twenty-five, with only exceptions like Yoriichi Tsugikuni surviving. This is a major revelation of the Swordsmith Village and Hashira Training arcs.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 188,
+    "claim": "Sanemi Shinazugawa has a rare blood that intoxicates demons who consume it.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Sanemi has rare 'marechi' blood. Demons who smell or drink it become drunk and weakened, which Sanemi uses against them in battle.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 189,
+    "claim": "Kagaya Ubuyashiki died of his illness before the Infinity Castle battles began.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Kagaya sacrificed himself in a trap meant to harm Muzan. He, his wife and children died in an explosion at the Ubuyashiki mansion, which triggered the Infinity Castle battles.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 190,
+    "claim": "Tengen Uzui lost his right eye and right hand in the fight against Gyutaro and Daki.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Tengen lost his left eye and left hand in the Entertainment District arc, not his right. The injuries forced him to retire as the Sound Hashira.",
+    "source_name": "Demon Slayer official anime website",
+    "source_url": "https://www.demonslayer-anime.com/"
+  },
+  {
+    "id": 191,
+    "claim": "The Demon Slayer Mark appears when the user's heart rate exceeds 200 beats per minute and body temperature exceeds 39 degrees Celsius.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "This is the condition for the Mark to manifest, which is why awakening it comes at a severe cost to the user's life.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 192,
+    "claim": "The lowest Demon Slayer Corps rank is Kinoe.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "The lowest rank is Mizunoto. Kinoe is the highest rank below the Hashira.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 193,
+    "claim": "Kokushibo's human name was Michikatsu Tsugikuni, and he was Yoriichi Tsugikuni's twin brother.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Michikatsu became the demon Kokushibo, Upper Rank One, out of envy of his twin Yoriichi's talent.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 194,
+    "claim": "The Kamado family preserved the Hinokami Kagura as a ritual dance passed down through the generations.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "The Kamado family performed the Hinokami Kagura as a yearly ritual, and Tanjiro's father Tanjuro passed it on to him.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 195,
+    "claim": "Kanae Kocho, Shinobu's sister, was the Flower Hashira before her death.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Hard",
+    "explanation": "Kanae was the Flower Hashira and was killed by Doma, whom Shinobu later confronted at the Infinity Castle.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 196,
+    "claim": "Nezuko Kamado remained a demon permanently and was never turned back into a human.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Nezuko was turned back into a human at the end of the story, which was the main goal of Tanjiro's journey.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 197,
+    "claim": "Muzan Kibutsuji was finally destroyed by Tanjiro's sword rather than by sunlight.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Muzan was kept alive until sunrise and was destroyed by sunlight. The Demon Slayers' coordinated efforts held him in place until dawn.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 198,
+    "claim": "The Infinity Castle battles took place before the Swordsmith Village arc.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "The Swordsmith Village arc came before the Hashira Training arc and the Infinity Castle battles. The Infinity Castle is the final major arc.",
+    "source_name": "Demon Slayer official anime website",
+    "source_url": "https://www.demonslayer-anime.com/"
+  },
+  {
+    "id": 199,
+    "claim": "Sun Breathing was created by Yoriichi Tsugikuni, and all other Breathing Styles are derived from it.",
+    "answer": "FACT",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "Sun Breathing is the original Breathing Style, and later styles are derived from it as weaker variants.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  },
+  {
+    "id": 200,
+    "claim": "The Demon Slayer Corps is a government-recognized organization.",
+    "answer": "TRAP",
+    "category": "Demon Slayer",
+    "difficulty": "Medium",
+    "explanation": "The Corps is a private, unofficial organization that is not recognized by the government. Its members carry swords illegally and operate in secret.",
+    "source_name": "VIZ Media - Demon Slayer: Kimetsu no Yaiba (official English manga)",
+    "source_url": "https://www.viz.com/demon-slayer-kimetsu-no-yaiba"
+  }
+]

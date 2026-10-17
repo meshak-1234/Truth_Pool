@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "claim": "In Marvel Comics, Peter Parker gains his powers after being bitten by a radioactive spider.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Amazing Fantasy #15 (1962) establishes that a radioactive spider bite gives Peter Parker his powers.",
+    "source_name": "Wikipedia - Spider-Man",
+    "source_url": "https://en.wikipedia.org/wiki/Spider-Man"
+  },
+  {
+    "id": 2,
+    "claim": "In the MCU film Iron Man (2008), Tony Stark is captured by terrorists in Vietnam.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "In the 2008 film Stark is captured in Afghanistan by the Ten Rings. Vietnam is the setting of the original 1963 comic origin.",
+    "source_name": "Wikipedia - Iron Man (2008 film)",
+    "source_url": "https://en.wikipedia.org/wiki/Iron_Man_(2008_film)"
+  },
+  {
+    "id": 3,
+    "claim": "In the MCU, Steve Rogers becomes Captain America after receiving the Super-Soldier Serum.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "In Captain America: The First Avenger, Dr. Abraham Erskine's serum transforms the frail Steve Rogers into a super-soldier.",
+    "source_name": "Wikipedia - Captain America: The First Avenger",
+    "source_url": "https://en.wikipedia.org/wiki/Captain_America:_The_First_Avenger"
+  },
+  {
+    "id": 4,
+    "claim": "In Marvel Comics, Thor's hammer Mjolnir is made of vibranium.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In the comics Mjolnir is forged from uru metal and enchanted by Odin. Vibranium is the metal of Wakanda.",
+    "source_name": "Wikipedia - Mjolnir (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Mjolnir_(comics)"
+  },
+  {
+    "id": 5,
+    "claim": "In Marvel Comics, Bruce Banner becomes the Hulk after exposure to gamma radiation.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "The Incredible Hulk #1 (1962) shows Banner caught in the blast of a gamma bomb, which causes his transformations.",
+    "source_name": "Wikipedia - Hulk",
+    "source_url": "https://en.wikipedia.org/wiki/Hulk_(comics)"
+  },
+  {
+    "id": 6,
+    "claim": "In Marvel Comics, the Hulk was green in his very first issue, The Incredible Hulk #1 (1962).",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The Hulk was gray in The Incredible Hulk #1; he was changed to green starting with issue #2 because of printing problems with the gray coloring.",
+    "source_name": "Wikipedia - Hulk",
+    "source_url": "https://en.wikipedia.org/wiki/Hulk_(comics)"
+  },
+  {
+    "id": 7,
+    "claim": "In the MCU, King T'Chaka of Wakanda is killed in a bombing at a United Nations conference in Vienna in Captain America: Civil War.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The Vienna bombing, orchestrated by Helmut Zemo, kills T'Chaka and sets T'Challa on a path of vengeance in Civil War.",
+    "source_name": "Wikipedia - Captain America: Civil War",
+    "source_url": "https://en.wikipedia.org/wiki/Captain_America:_Civil_War"
+  },
+  {
+    "id": 8,
+    "claim": "In Marvel Comics, Black Panther's suit is woven with adamantium.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The Black Panther suit is made with vibranium, Wakanda's signature metal. Adamantium is associated with Wolverine and Captain America-era alloys.",
+    "source_name": "Wikipedia - Black Panther (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Panther_(character)"
+  },
+  {
+    "id": 9,
+    "claim": "In Marvel Comics, Stephen Strange is a renowned neurosurgeon before he becomes a sorcerer.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Doctor Strange's origin has him as a brilliant but arrogant surgeon whose hands are ruined in a car accident, leading him to the mystic arts.",
+    "source_name": "Wikipedia - Doctor Strange",
+    "source_url": "https://en.wikipedia.org/wiki/Doctor_Strange"
+  },
+  {
+    "id": 10,
+    "claim": "In the MCU film Doctor Strange (2016), Stephen Strange travels to Tokyo to find Kamar-Taj.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In the film Strange travels to Kathmandu, Nepal, where he finds Kamar-Taj.",
+    "source_name": "Wikipedia - Doctor Strange (2016 film)",
+    "source_url": "https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)"
+  },
+  {
+    "id": 11,
+    "claim": "In the MCU, Natasha Romanoff was trained as an assassin in the Red Room program.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The MCU establishes the Red Room as the Soviet-linked program that trained Natasha Romanoff, most fully depicted in Black Widow (2021).",
+    "source_name": "Wikipedia - Black Widow (Natasha Romanoff)",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanoff)"
+  },
+  {
+    "id": 12,
+    "claim": "In the MCU, Natasha Romanoff sacrifices herself on Vormir to obtain the Mind Stone.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In Avengers: Endgame her sacrifice on Vormir obtains the Soul Stone. The Mind Stone was already in Vision's head in this timeline.",
+    "source_name": "Wikipedia - Avengers: Endgame",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Endgame"
+  },
+  {
+    "id": 13,
+    "claim": "In the MCU film Ant-Man (2015), Hank Pym recruits Scott Lang to become the new Ant-Man.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Hank Pym selects ex-convict Scott Lang to wear the Ant-Man suit and carry out a heist against Darren Cross.",
+    "source_name": "Wikipedia - Ant-Man (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Ant-Man_(film)"
+  },
+  {
+    "id": 14,
+    "claim": "In Marvel Comics, Hope van Dyne was the first character to use the name the Wasp.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Janet van Dyne was the original Wasp, debuting in Tales to Astonish #44 (1963).",
+    "source_name": "Wikipedia - Wasp (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Wasp_(comics)"
+  },
+  {
+    "id": 15,
+    "claim": "In Marvel Comics, Carol Danvers gains her powers after an explosion of a Kree device called the Psyche-Magnetron.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "Her comics origin has the Psyche-Magnetron explosion fusing Kree DNA with hers, giving her superhuman abilities.",
+    "source_name": "Wikipedia - Carol Danvers",
+    "source_url": "https://en.wikipedia.org/wiki/Carol_Danvers"
+  },
+  {
+    "id": 16,
+    "claim": "In the MCU film Captain Marvel (2019), Carol Danvers gains her powers from the Power Stone.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In the film she is exposed to energy from the Tesseract, which contains the Space Stone, when an engine is destroyed.",
+    "source_name": "Wikipedia - Captain Marvel (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Captain_Marvel_(film)"
+  },
+  {
+    "id": 17,
+    "claim": "In Marvel Comics, Matt Murdock loses his sight in a childhood accident involving a radioactive substance.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "As a boy Matt is blinded by radioactive material while saving a man, which also heightens his other senses.",
+    "source_name": "Wikipedia - Daredevil (Marvel Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics)"
+  },
+  {
+    "id": 18,
+    "claim": "In Marvel Comics, Matt Murdock's father Jack Murdock was a firefighter.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Jack Murdock was a boxer, not a firefighter.",
+    "source_name": "Wikipedia - Daredevil (Marvel Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics)"
+  },
+  {
+    "id": 19,
+    "claim": "In Marvel Comics, the Fantastic Four gain their powers from exposure to cosmic rays during an unauthorized space flight.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Fantastic Four #1 (1961) shows Reed Richards, Sue Storm, Johnny Storm and Ben Grimm bombarded by cosmic rays in space.",
+    "source_name": "Wikipedia - Fantastic Four",
+    "source_url": "https://en.wikipedia.org/wiki/Fantastic_Four"
+  },
+  {
+    "id": 20,
+    "claim": "In Marvel Comics, Sue Storm's powers include control of fire.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Sue Storm is the Invisible Woman, with invisibility and force fields. Her brother Johnny Storm controls fire.",
+    "source_name": "Wikipedia - Fantastic Four",
+    "source_url": "https://en.wikipedia.org/wiki/Fantastic_Four"
+  },
+  {
+    "id": 21,
+    "claim": "In Marvel Comics, Ben Grimm, the future Thing, was the pilot of the rocket in the Fantastic Four's origin.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Ben Grimm is a former test pilot who flies the unauthorized flight on which the team is exposed to cosmic rays.",
+    "source_name": "Wikipedia - Thing (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Thing_(comics)"
+  },
+  {
+    "id": 22,
+    "claim": "In Marvel Comics, Doctor Doom is the ruler of Wakanda.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Doctor Doom rules the fictional Eastern European nation of Latveria. Wakanda is ruled by the Black Panther.",
+    "source_name": "Wikipedia - Doctor Doom",
+    "source_url": "https://en.wikipedia.org/wiki/Doctor_Doom"
+  },
+  {
+    "id": 23,
+    "claim": "In Marvel Comics, Charles Xavier founds the X-Men.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Professor Charles Xavier assembles the original X-Men in The X-Men #1 (1963) to train young mutants.",
+    "source_name": "Wikipedia - Professor X",
+    "source_url": "https://en.wikipedia.org/wiki/Professor_X"
+  },
+  {
+    "id": 24,
+    "claim": "In Marvel Comics, Storm's mutant power is the ability to control magnetism.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Storm controls the weather. Magnetism is Magneto's power.",
+    "source_name": "Wikipedia - Storm (Marvel Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+  },
+  {
+    "id": 25,
+    "claim": "In Marvel Comics, Scott Summers (Cyclops) has a younger brother, Alex Summers, who is known as Havok.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Alex Summers is Scott's younger brother and uses the codename Havok.",
+    "source_name": "Wikipedia - Havok (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Havok_(comics)"
+  },
+  {
+    "id": 26,
+    "claim": "In Marvel Comics, Kitty Pryde's mutant power is teleportation.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Kitty Pryde can phase through solid matter. Nightcrawler is the X-Man who teleports.",
+    "source_name": "Wikipedia - Kitty Pryde",
+    "source_url": "https://en.wikipedia.org/wiki/Kitty_Pryde"
+  },
+  {
+    "id": 27,
+    "claim": "In the MCU, Peter Quill is abducted from Earth as a child in 1988.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Guardians of the Galaxy opens in 1988 with young Peter Quill taken by the Ravagers after his mother's death.",
+    "source_name": "Wikipedia - Guardians of the Galaxy (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+  },
+  {
+    "id": 28,
+    "claim": "In the MCU, Gamora's adoptive father is Ronan the Accuser.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Gamora was raised by Thanos, who is her adoptive father. Ronan is a Kree fanatic and an antagonist of the first Guardians film.",
+    "source_name": "Wikipedia - Gamora",
+    "source_url": "https://en.wikipedia.org/wiki/Gamora"
+  },
+  {
+    "id": 29,
+    "claim": "In Marvel Comics, Drax the Destroyer was originally a human named Arthur Douglas.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "In the comics Arthur Douglas is killed by Thanos and his spirit is reborn as the Destroyer, Drax.",
+    "source_name": "Wikipedia - Drax the Destroyer",
+    "source_url": "https://en.wikipedia.org/wiki/Drax_the_Destroyer"
+  },
+  {
+    "id": 30,
+    "claim": "In the MCU film Guardians of the Galaxy (2014), Drax says his wife and daughter were killed by Thanos.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In the film Drax blames Ronan the Accuser for killing his family.",
+    "source_name": "Wikipedia - Guardians of the Galaxy (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+  },
+  {
+    "id": 31,
+    "claim": "In Marvel Comics, Uncle Ben is killed by a burglar whom Peter Parker had earlier chosen not to stop.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "In Spider-Man's origin Peter lets a thief escape, and the same criminal later kills Ben Parker, teaching Peter that great power brings great responsibility.",
+    "source_name": "Wikipedia - Spider-Man",
+    "source_url": "https://en.wikipedia.org/wiki/Spider-Man"
+  },
+  {
+    "id": 32,
+    "claim": "In Marvel Comics, Spider-Man first appeared in The Amazing Spider-Man #1 (1963).",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Spider-Man debuted in Amazing Fantasy #15 (1962). The Amazing Spider-Man #1 followed in 1963.",
+    "source_name": "Wikipedia - Spider-Man",
+    "source_url": "https://en.wikipedia.org/wiki/Spider-Man"
+  },
+  {
+    "id": 33,
+    "claim": "In Marvel Comics, Captain America debuted in Captain America Comics #1 (1941), created by Joe Simon and Jack Kirby.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Captain America Comics #1 was published in 1941 and Simon and Kirby are credited as his creators.",
+    "source_name": "Wikipedia - Captain America",
+    "source_url": "https://en.wikipedia.org/wiki/Captain_America"
+  },
+  {
+    "id": 34,
+    "claim": "In the MCU film Captain America: The First Avenger, Steve Rogers crashes the Valkyrie plane into the Pacific Ocean.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Steve crashes the Valkyrie into the Arctic ice, where he is frozen for decades.",
+    "source_name": "Wikipedia - Captain America: The First Avenger",
+    "source_url": "https://en.wikipedia.org/wiki/Captain_America:_The_First_Avenger"
+  },
+  {
+    "id": 35,
+    "claim": "In the MCU film Iron Man 2, Tony Stark replaces the palladium core of his arc reactor with a new element he synthesizes.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "Palladium in the arc reactor is poisoning Stark, so he creates a new element based on his father's research to replace it.",
+    "source_name": "Wikipedia - Iron Man 2",
+    "source_url": "https://en.wikipedia.org/wiki/Iron_Man_2"
+  },
+  {
+    "id": 36,
+    "claim": "In the MCU, the Infinity Stone inside Loki's scepter is the Soul Stone.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "The scepter contains the Mind Stone, which is later placed in Vision's forehead in Avengers: Age of Ultron.",
+    "source_name": "Wikipedia - Avengers: Age of Ultron",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron"
+  },
+  {
+    "id": 37,
+    "claim": "In the MCU film Thor: Ragnarok, Mjolnir is destroyed by Hela.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Hela crushes Mjolnir with her hand, revealing that Thor's power does not depend on the hammer.",
+    "source_name": "Wikipedia - Thor: Ragnarok",
+    "source_url": "https://en.wikipedia.org/wiki/Thor:_Ragnarok"
+  },
+  {
+    "id": 38,
+    "claim": "In the MCU, Loki is Thor's biological brother, the son of Odin.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In Thor (2011), Loki learns he is the biological son of Laufey, king of the Frost Giants, and was adopted by Odin.",
+    "source_name": "Wikipedia - Thor (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Thor_(film)"
+  },
+  {
+    "id": 39,
+    "claim": "In the MCU film Avengers: Infinity War, Thor gets his axe Stormbreaker from the dwarf king Eitri on Nidavellir.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Thor travels to Nidavellir and works with Eitri to forge Stormbreaker in the dying star's forge.",
+    "source_name": "Wikipedia - Avengers: Infinity War",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
+  },
+  {
+    "id": 40,
+    "claim": "In the MCU, Clint Barton is first introduced in Thor (2011) as an agent of Hydra.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Clint Barton first appears in Thor (2011) as an agent of S.H.I.E.L.D., not Hydra.",
+    "source_name": "Wikipedia - Hawkeye (Clint Barton)",
+    "source_url": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)"
+  },
+  {
+    "id": 41,
+    "claim": "In the MCU, Clint Barton's wife is named Laura.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Avengers: Age of Ultron introduces Clint's wife Laura Barton and their family on a hidden farm.",
+    "source_name": "Wikipedia - Avengers: Age of Ultron",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron"
+  },
+  {
+    "id": 42,
+    "claim": "In the MCU film The Incredible Hulk (2008), Bruce Banner is hiding in Mexico at the start of the story.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The film opens with Banner hiding in a favela in Brazil.",
+    "source_name": "Wikipedia - The Incredible Hulk (film)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_(film)"
+  },
+  {
+    "id": 43,
+    "claim": "In Marvel Comics, Betty Ross is the daughter of General Thaddeus 'Thunderbolt' Ross.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Betty Ross is Bruce Banner's love interest and the daughter of General Ross, who hunts the Hulk.",
+    "source_name": "Wikipedia - Betty Ross",
+    "source_url": "https://en.wikipedia.org/wiki/Betty_Ross"
+  },
+  {
+    "id": 44,
+    "claim": "In Marvel Comics, Scott Lang was the first Ant-Man.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Hank Pym was the original Ant-Man. Scott Lang took the identity later, debuting in 1979.",
+    "source_name": "Wikipedia - Ant-Man",
+    "source_url": "https://en.wikipedia.org/wiki/Ant-Man"
+  },
+  {
+    "id": 45,
+    "claim": "In the MCU film Black Panther, Erik Killmonger's father N'Jobu is the brother of King T'Chaka.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "N'Jobu is T'Chaka's brother, which makes Killmonger T'Challa's cousin.",
+    "source_name": "Wikipedia - Black Panther (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Panther_(film)"
+  },
+  {
+    "id": 46,
+    "claim": "In Marvel Comics, Doctor Strange's Sanctum Sanctorum is located in Brooklyn Heights.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "The Sanctum Sanctorum is at 177A Bleecker Street in Greenwich Village, Manhattan.",
+    "source_name": "Wikipedia - Doctor Strange",
+    "source_url": "https://en.wikipedia.org/wiki/Doctor_Strange"
+  },
+  {
+    "id": 47,
+    "claim": "In Marvel Comics, the Punisher's real name is Frank Castle.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Frank Castle is the vigilante's real name, adopted as the Punisher after his family is killed.",
+    "source_name": "Wikipedia - Punisher",
+    "source_url": "https://en.wikipedia.org/wiki/Punisher"
+  },
+  {
+    "id": 48,
+    "claim": "In Marvel Comics, Luke Cage gains his powers through exposure to gamma radiation.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Luke Cage gets his unbreakable skin and super strength from an experimental procedure in prison, not from gamma radiation.",
+    "source_name": "Wikipedia - Luke Cage",
+    "source_url": "https://en.wikipedia.org/wiki/Luke_Cage"
+  },
+  {
+    "id": 49,
+    "claim": "In Marvel Comics, Marc Spector is empowered as Moon Knight by the Egyptian moon god Khonshu.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Marc Spector is resurrected as the avatar of Khonshu, the Egyptian god of the moon.",
+    "source_name": "Wikipedia - Moon Knight",
+    "source_url": "https://en.wikipedia.org/wiki/Moon_Knight"
+  },
+  {
+    "id": 50,
+    "claim": "In Marvel Comics, Deadpool's real name is Logan Howlett.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Deadpool's real name is Wade Wilson. Logan is the name associated with Wolverine.",
+    "source_name": "Wikipedia - Deadpool",
+    "source_url": "https://en.wikipedia.org/wiki/Deadpool"
+  },
+  {
+    "id": 51,
+    "claim": "In the MCU, Thanos collects the Infinity Stones in order to wipe out half of all life in the universe.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "In Avengers: Infinity War, Thanos believes the universe is overpopulated and uses the Infinity Gauntlet to eliminate half of all living beings.",
+    "source_name": "Wikipedia - Avengers: Infinity War",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
+  },
+  {
+    "id": 52,
+    "claim": "In the MCU, Thanos comes from the planet Xandar.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Thanos is from Titan, whose collapse he blames on overpopulation. Xandar is the Nova Corps' homeworld.",
+    "source_name": "Wikipedia - Thanos",
+    "source_url": "https://en.wikipedia.org/wiki/Thanos"
+  },
+  {
+    "id": 53,
+    "claim": "In Marvel Comics, Thanos is driven to commit atrocities in order to win the love of Death, a cosmic entity personified as a woman.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In the comics Thanos is obsessed with Mistress Death and carries out mass killings to impress her.",
+    "source_name": "Wikipedia - Thanos",
+    "source_url": "https://en.wikipedia.org/wiki/Thanos"
+  },
+  {
+    "id": 54,
+    "claim": "In Marvel Comics, Thanos first appeared in The Avengers #55 (1968).",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "Thanos debuted in Iron Man #55 (1973), created by Jim Starlin.",
+    "source_name": "Wikipedia - Thanos",
+    "source_url": "https://en.wikipedia.org/wiki/Thanos"
+  },
+  {
+    "id": 55,
+    "claim": "In the MCU film The Avengers (2012), Loki leads an invasion of New York with an army of Chitauri.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Loki opens a portal over New York and sends the alien Chitauri against Earth, leading to the Battle of New York.",
+    "source_name": "Wikipedia - The Avengers (2012 film)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)"
+  },
+  {
+    "id": 56,
+    "claim": "In the MCU film Avengers: Infinity War, Loki is killed by Ebony Maw.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Loki is killed by Thanos, who strangles him after Loki's failed attempt to stab Thanos.",
+    "source_name": "Wikipedia - Avengers: Infinity War",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
+  },
+  {
+    "id": 57,
+    "claim": "In Marvel Comics, Norman Osborn is the original Green Goblin.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Norman Osborn is the first Green Goblin, debuting as a Spider-Man foe in the 1960s. Harry Osborn takes up the identity later.",
+    "source_name": "Wikipedia - Green Goblin",
+    "source_url": "https://en.wikipedia.org/wiki/Green_Goblin"
+  },
+  {
+    "id": 58,
+    "claim": "In Marvel Comics, the Green Goblin first appeared in The Amazing Spider-Man #1 (1963).",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "The Green Goblin debuted in The Amazing Spider-Man #14 (1964), not in the first issue.",
+    "source_name": "Wikipedia - Green Goblin",
+    "source_url": "https://en.wikipedia.org/wiki/Green_Goblin"
+  },
+  {
+    "id": 59,
+    "claim": "In Marvel Comics, Gwen Stacy dies in The Amazing Spider-Man #121 (1973) after being thrown from a bridge by the Green Goblin.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "The Night Gwen Stacy Died story in issue #121 shows the Green Goblin throwing her from a bridge, and she dies as Spider-Man tries to save her.",
+    "source_name": "Wikipedia - Gwen Stacy",
+    "source_url": "https://en.wikipedia.org/wiki/Gwen_Stacy"
+  },
+  {
+    "id": 60,
+    "claim": "In the MCU film Spider-Man: Homecoming, Peter's classmate Liz Allan is the niece of Adrian Toomes, the Vulture.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Liz Allan is Adrian Toomes' daughter, not his niece.",
+    "source_name": "Wikipedia - Spider-Man: Homecoming",
+    "source_url": "https://en.wikipedia.org/wiki/Spider-Man:_Homecoming"
+  },
+  {
+    "id": 61,
+    "claim": "In Marvel Comics, Doctor Octopus is Otto Octavius, a scientist whose mechanical arms are fused to his body in a lab accident.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Otto Octavius's harness of mechanical arms fuses to him during an accident, giving rise to Doctor Octopus.",
+    "source_name": "Wikipedia - Doctor Octopus",
+    "source_url": "https://en.wikipedia.org/wiki/Doctor_Octopus"
+  },
+  {
+    "id": 62,
+    "claim": "In Marvel Comics, Kingpin's strength comes from a super-soldier serum.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Wilson Fisk has no superpowers. He is a peak-human fighter whose strength comes from training and his large frame.",
+    "source_name": "Wikipedia - Kingpin (Marvel Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Kingpin_(Marvel_Comics)"
+  },
+  {
+    "id": 63,
+    "claim": "In Marvel Comics, Kingpin first appeared in The Amazing Spider-Man #50 (1967).",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "Kingpin debuted as a Spider-Man villain in The Amazing Spider-Man #50, created by Stan Lee and John Romita Sr.",
+    "source_name": "Wikipedia - Kingpin (Marvel Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Kingpin_(Marvel_Comics)"
+  },
+  {
+    "id": 64,
+    "claim": "In Marvel Comics, the Venom symbiote bonded with Eddie Brock before it ever bonded with Peter Parker.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The symbiote first bonded with Peter Parker and became his black costume before it bonded with Eddie Brock.",
+    "source_name": "Wikipedia - Venom (Marvel Comics character)",
+    "source_url": "https://en.wikipedia.org/wiki/Venom_(Marvel_Comics_character)"
+  },
+  {
+    "id": 65,
+    "claim": "In Marvel Comics, Eddie Brock is a journalist who blames Spider-Man for ruining his career.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Brock's career collapses after a story he publishes is discredited, and he blames Spider-Man, which makes him a host for the symbiote.",
+    "source_name": "Wikipedia - Venom (Marvel Comics character)",
+    "source_url": "https://en.wikipedia.org/wiki/Venom_(Marvel_Comics_character)"
+  },
+  {
+    "id": 66,
+    "claim": "In Marvel Comics, Carnage's host is Flash Thompson.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Carnage's host is the serial killer Cletus Kasady. Flash Thompson is the host of Venom as Agent Venom.",
+    "source_name": "Wikipedia - Carnage (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Carnage_(character)"
+  },
+  {
+    "id": 67,
+    "claim": "In Marvel Comics, Carnage and other symbiotes are vulnerable to fire and loud sound.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Symbiotes in the comics are established as weak to intense heat and high-frequency sound, which are used to subdue them.",
+    "source_name": "Wikipedia - Carnage (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Carnage_(character)"
+  },
+  {
+    "id": 68,
+    "claim": "In the MCU film Black Panther, Erik Killmonger helps Ulysses Klaue steal a vibranium artifact from a museum in Paris.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The artifact is stolen from a museum in London, not Paris.",
+    "source_name": "Wikipedia - Black Panther (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Panther_(film)"
+  },
+  {
+    "id": 69,
+    "claim": "In the MCU film Black Panther, Killmonger claims the Wakandan throne by defeating T'Challa in ritual combat.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Killmonger challenges T'Challa under Wakandan tradition, wins the fight and takes the throne.",
+    "source_name": "Wikipedia - Black Panther (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Panther_(film)"
+  },
+  {
+    "id": 70,
+    "claim": "In the MCU film Guardians of the Galaxy (2014), the Orb that Ronan the Accuser seeks contains the Mind Stone.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The Orb contains the Power Stone. The Mind Stone is in Loki's scepter.",
+    "source_name": "Wikipedia - Guardians of the Galaxy (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+  },
+  {
+    "id": 71,
+    "claim": "In the MCU, Ronan the Accuser is a Kree extremist who wants to destroy Xandar.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Ronan rejects the peace treaty between the Kree and Xandar and plans to destroy the planet using the Power Stone.",
+    "source_name": "Wikipedia - Ronan the Accuser",
+    "source_url": "https://en.wikipedia.org/wiki/Ronan_the_Accuser"
+  },
+  {
+    "id": 72,
+    "claim": "In Marvel Comics, Kang the Conqueror is a descendant of Tony Stark.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Kang is Nathaniel Richards, a descendant of Reed Richards of the Fantastic Four.",
+    "source_name": "Wikipedia - Kang the Conqueror",
+    "source_url": "https://en.wikipedia.org/wiki/Kang_the_Conqueror"
+  },
+  {
+    "id": 73,
+    "claim": "In the MCU, He Who Remains, introduced in the Disney+ series Loki, is a variant of Kang the Conqueror.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "He Who Remains is established as a variant of Kang, which sets up the multiverse threat in later MCU stories.",
+    "source_name": "Wikipedia - Loki (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/Loki_(TV_series)"
+  },
+  {
+    "id": 74,
+    "claim": "In Marvel Comics, Magneto is the biological father of Cyclops.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Cyclops (Scott Summers) is the son of Christopher and Katherine Summers. Magneto's children in the comics include Quicksilver and Scarlet Witch.",
+    "source_name": "Wikipedia - Magneto (Marvel Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)"
+  },
+  {
+    "id": 75,
+    "claim": "In Marvel Comics, Magneto is a Holocaust survivor whose birth name is Max Eisenhardt.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Magneto's comics backstory has him born Max Eisenhardt and surviving the Holocaust, which shapes his views on mutant persecution.",
+    "source_name": "Wikipedia - Magneto (Marvel Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)"
+  },
+  {
+    "id": 76,
+    "claim": "In Marvel Comics, Ultron was created by Tony Stark.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "In the comics Ultron is created by Hank Pym. Tony Stark is the creator only in the MCU, alongside Bruce Banner.",
+    "source_name": "Wikipedia - Ultron",
+    "source_url": "https://en.wikipedia.org/wiki/Ultron"
+  },
+  {
+    "id": 77,
+    "claim": "In the MCU film Avengers: Age of Ultron, Ultron is created by Tony Stark and Bruce Banner.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Stark and Banner secretly build an AI using the Mind Stone's energy, which becomes Ultron.",
+    "source_name": "Wikipedia - Avengers: Age of Ultron",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron"
+  },
+  {
+    "id": 78,
+    "claim": "In the MCU film Captain America: The First Avenger, the Red Skull is killed when Steve Rogers hits him with his shield.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The Red Skull touches the Tesseract and is disintegrated by it, not killed by the shield.",
+    "source_name": "Wikipedia - Captain America: The First Avenger",
+    "source_url": "https://en.wikipedia.org/wiki/Captain_America:_The_First_Avenger"
+  },
+  {
+    "id": 79,
+    "claim": "In Marvel Comics, the Red Skull is a Nazi-linked arch-enemy of Captain America.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "The Red Skull is Captain America's best-known adversary, originally an agent of Nazi Germany.",
+    "source_name": "Wikipedia - Red Skull",
+    "source_url": "https://en.wikipedia.org/wiki/Red_Skull"
+  },
+  {
+    "id": 80,
+    "claim": "In the MCU film Iron Man (2008), Obadiah Stane is killed by a missile fired by James Rhodes.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Stane dies when Tony Stark overloads the arc reactor on the roof of Stark Industries and Stane's Iron Monger suit falls into it.",
+    "source_name": "Wikipedia - Iron Man (2008 film)",
+    "source_url": "https://en.wikipedia.org/wiki/Iron_Man_(2008_film)"
+  },
+  {
+    "id": 81,
+    "claim": "In the MCU film Iron Man 3, the public face of the Mandarin is an actor named Trevor Slattery.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The film reveals that the Mandarin seen on camera is Trevor Slattery, an actor hired by Aldrich Killian.",
+    "source_name": "Wikipedia - Iron Man 3",
+    "source_url": "https://en.wikipedia.org/wiki/Iron_Man_3"
+  },
+  {
+    "id": 82,
+    "claim": "In Marvel Comics, Flint Marko becomes the Sandman after being exposed to cosmic rays.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Marko gains his powers after wandering into a nuclear test site and being exposed to radiation, not cosmic rays.",
+    "source_name": "Wikipedia - Sandman (Marvel Comics character)",
+    "source_url": "https://en.wikipedia.org/wiki/Sandman_(Marvel_Comics_character)"
+  },
+  {
+    "id": 83,
+    "claim": "In the MCU film Spider-Man: Far From Home, Quentin Beck, alias Mysterio, is a former Stark Industries employee.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Beck is a disgruntled former Stark employee who uses illusion technology to stage fake elemental attacks.",
+    "source_name": "Wikipedia - Spider-Man: Far From Home",
+    "source_url": "https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home"
+  },
+  {
+    "id": 84,
+    "claim": "In the MCU film Spider-Man: Homecoming, Adrian Toomes' salvage business is shut down by S.H.I.E.L.D.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "His salvage contract after the Battle of New York is taken over by the Department of Damage Control, which leads him to turn to crime.",
+    "source_name": "Wikipedia - Spider-Man: Homecoming",
+    "source_url": "https://en.wikipedia.org/wiki/Spider-Man:_Homecoming"
+  },
+  {
+    "id": 85,
+    "claim": "In Marvel Comics, Doctor Doom's mother, Cynthia von Doom, made a pact with the demon Mephisto.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "Cynthia von Doom is a sorceress who bargained with Mephisto, and her soul being held by him later drives Doom's attempts to rescue her.",
+    "source_name": "Wikipedia - Doctor Doom",
+    "source_url": "https://en.wikipedia.org/wiki/Doctor_Doom"
+  },
+  {
+    "id": 86,
+    "claim": "In Marvel Comics, Galactus first appeared in Fantastic Four #1 (1961).",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Galactus debuted in Fantastic Four #48 (1966), as part of the Galactus Trilogy.",
+    "source_name": "Wikipedia - Galactus",
+    "source_url": "https://en.wikipedia.org/wiki/Galactus"
+  },
+  {
+    "id": 87,
+    "claim": "In Marvel Comics, Norrin Radd becomes the Silver Surfer by serving as Galactus's herald to save his home planet.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Norrin Radd agrees to serve Galactus so that the planet Zenn-La will be spared from being consumed.",
+    "source_name": "Wikipedia - Silver Surfer",
+    "source_url": "https://en.wikipedia.org/wiki/Silver_Surfer"
+  },
+  {
+    "id": 88,
+    "claim": "In Marvel Comics, the mutant Apocalypse was born in ancient Greece.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Apocalypse, born En Sabah Nur, is established as being born in ancient Egypt thousands of years ago.",
+    "source_name": "Wikipedia - Apocalypse (Marvel Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Apocalypse_(Marvel_Comics)"
+  },
+  {
+    "id": 89,
+    "claim": "In Marvel Comics, Mystique is the mother of Nightcrawler.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Mystique is Nightcrawler's biological mother; his father is the mutant Azazel.",
+    "source_name": "Wikipedia - Mystique (Marvel Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Mystique_(Marvel_Comics)"
+  },
+  {
+    "id": 90,
+    "claim": "In Marvel Comics, Bullseye's signature ability is expert archery with a bow.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Bullseye's signature ability is perfect aim with any thrown object. Archery is Hawkeye's specialty.",
+    "source_name": "Wikipedia - Bullseye (Marvel Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Bullseye_(Marvel_Comics)"
+  },
+  {
+    "id": 91,
+    "claim": "In the MCU film The Incredible Hulk (2008), Emil Blonsky is a Royal Marines officer who becomes the Abomination.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Blonsky, a Russian-born British Royal Marine, takes an enhancement serum and transforms into the Abomination.",
+    "source_name": "Wikipedia - The Incredible Hulk (film)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_(film)"
+  },
+  {
+    "id": 92,
+    "claim": "In the MCU film Captain America: Civil War, Helmut Zemo is an active agent of Hydra.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Zemo is a Sokovian former military officer driven by revenge for his family's death, not a Hydra agent.",
+    "source_name": "Wikipedia - Captain America: Civil War",
+    "source_url": "https://en.wikipedia.org/wiki/Captain_America:_Civil_War"
+  },
+  {
+    "id": 93,
+    "claim": "In the MCU film Doctor Strange (2016), Stephen Strange defeats Dormammu by trapping him in a time loop.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Strange uses the Eye of Agamotto to loop time and repeatedly dies until Dormammu agrees to leave Earth alone.",
+    "source_name": "Wikipedia - Doctor Strange (2016 film)",
+    "source_url": "https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)"
+  },
+  {
+    "id": 94,
+    "claim": "In the MCU film Doctor Strange (2016), Kaecilius is a former student of Baron Mordo.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Kaecilius is a former student of the Ancient One who breaks away after turning to Dormammu's power.",
+    "source_name": "Wikipedia - Doctor Strange (2016 film)",
+    "source_url": "https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)"
+  },
+  {
+    "id": 95,
+    "claim": "In the MCU film Black Panther: Wakanda Forever, Namor rules the underwater kingdom of Talokan.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Namor is the leader of the Talokanil, an underwater civilization, and becomes an antagonist to Wakanda.",
+    "source_name": "Wikipedia - Black Panther: Wakanda Forever",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Panther:_Wakanda_Forever"
+  },
+  {
+    "id": 96,
+    "claim": "In the MCU, Hela is Thor's younger sister.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In Thor: Ragnarok, Hela is Odin's firstborn child, making her Thor's older sister.",
+    "source_name": "Wikipedia - Thor: Ragnarok",
+    "source_url": "https://en.wikipedia.org/wiki/Thor:_Ragnarok"
+  },
+  {
+    "id": 97,
+    "claim": "In the MCU film Thor: The Dark World, Malekith, the leader of the Dark Elves, seeks the Aether.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Malekith wants to use the Aether to plunge the universe into darkness during the Convergence.",
+    "source_name": "Wikipedia - Thor: The Dark World",
+    "source_url": "https://en.wikipedia.org/wiki/Thor:_The_Dark_World"
+  },
+  {
+    "id": 98,
+    "claim": "In the MCU, the Aether from Thor: The Dark World is later revealed to be the Space Stone.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The Aether is the Reality Stone. The Space Stone is the Tesseract.",
+    "source_name": "Wikipedia - Thor: The Dark World",
+    "source_url": "https://en.wikipedia.org/wiki/Thor:_The_Dark_World"
+  },
+  {
+    "id": 99,
+    "claim": "In the MCU film Avengers: Infinity War, the Red Skull appears as the keeper of the Soul Stone on Vormir.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The Red Skull is revealed as Stonekeeper on Vormir, guiding those who seek the Soul Stone.",
+    "source_name": "Wikipedia - Avengers: Infinity War",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
+  },
+  {
+    "id": 100,
+    "claim": "In the MCU film Avengers: Infinity War, Thanos obtains the Soul Stone by sacrificing Nebula.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Thanos sacrifices Gamora to obtain the Soul Stone.",
+    "source_name": "Wikipedia - Avengers: Infinity War",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
+  },
+  {
+    "id": 101,
+    "claim": "MCU: The Mind Stone was embedded in Vision's forehead.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "The Mind Stone powers Vision's body after Ultron's creation in Avengers: Age of Ultron and remains in his forehead until Thanos removes it in Infinity War.",
+    "source_name": "Wikipedia: Avengers: Age of Ultron",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron"
+  },
+  {
+    "id": 102,
+    "claim": "MCU: The Soul Stone was found on the planet Xandar.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "The Soul Stone was on Vormir. Xandar is the Nova Corps homeworld where the Power Stone was stored after Guardians of the Galaxy.",
+    "source_name": "Wikipedia: Avengers: Infinity War",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
+  },
+  {
+    "id": 103,
+    "claim": "MCU: Thor's axe Stormbreaker was forged on Nidavellir.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In Infinity War, Thor, Rocket and Groot travel to Nidavellir, where the dwarf king Eitri forges Stormbreaker.",
+    "source_name": "Wikipedia: Avengers: Infinity War",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
+  },
+  {
+    "id": 104,
+    "claim": "MCU: Thanos destroyed Mjolnir in Avengers: Infinity War.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Mjolnir was destroyed by Hela in Thor: Ragnarok, not by Thanos.",
+    "source_name": "Wikipedia: Thor: Ragnarok",
+    "source_url": "https://en.wikipedia.org/wiki/Thor:_Ragnarok"
+  },
+  {
+    "id": 105,
+    "claim": "MCU: Pym Particles shrink objects by reducing the distance between atoms.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In Ant-Man, Hank Pym explains that his particles reduce the space between atoms, shrinking size while keeping mass.",
+    "source_name": "Wikipedia: Ant-Man (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Ant-Man_(film)"
+  },
+  {
+    "id": 106,
+    "claim": "MCU: Scott Lang discovered Pym Particles.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Hank Pym discovered Pym Particles. Scott Lang only inherits the Ant-Man suit and technology.",
+    "source_name": "Wikipedia: Ant-Man (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Ant-Man_(film)"
+  },
+  {
+    "id": 107,
+    "claim": "Comics: Hank Pym created Ultron.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In the comics, Ultron was created by Hank Pym, who is also the original Ant-Man.",
+    "source_name": "Wikipedia: Ultron",
+    "source_url": "https://en.wikipedia.org/wiki/Ultron"
+  },
+  {
+    "id": 108,
+    "claim": "MCU: Ultron was created by Tony Stark and Hank Pym.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In the MCU, Ultron is created by Tony Stark and Bruce Banner in Age of Ultron. Hank Pym is not involved.",
+    "source_name": "Wikipedia: Avengers: Age of Ultron",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron"
+  },
+  {
+    "id": 109,
+    "claim": "Comics: The 1991 Infinity Gauntlet series was written by Jim Starlin.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "The Infinity Gauntlet (1991) was written by Jim Starlin and illustrated by George Pérez and Ron Lim.",
+    "source_name": "Wikipedia: The Infinity Gauntlet",
+    "source_url": "https://en.wikipedia.org/wiki/The_Infinity_Gauntlet"
+  },
+  {
+    "id": 110,
+    "claim": "Comics: In the 1991 Infinity Gauntlet, Thanos acted mainly to end overpopulation.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In the 1991 comic, Thanos's motive is to win the affection of the entity Death. The overpopulation motive belongs to the MCU.",
+    "source_name": "Wikipedia: The Infinity Gauntlet",
+    "source_url": "https://en.wikipedia.org/wiki/The_Infinity_Gauntlet"
+  },
+  {
+    "id": 111,
+    "claim": "Comics (Earth-616): Mjolnir is forged from the metal Uru.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In mainstream Marvel comics, Mjolnir was forged from Uru, an enchantable Asgardian metal.",
+    "source_name": "Wikipedia: Mjolnir (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Mjolnir_(comics)"
+  },
+  {
+    "id": 112,
+    "claim": "MCU: Thor lost his eye during the Battle of New York.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Thor loses his eye in a fight with Hela in Thor: Ragnarok, not in The Avengers (2012).",
+    "source_name": "Wikipedia: Thor: Ragnarok",
+    "source_url": "https://en.wikipedia.org/wiki/Thor:_Ragnarok"
+  },
+  {
+    "id": 113,
+    "claim": "MCU: The Hulkbuster armor is Iron Man's Mark 44.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In Age of Ultron, the Hulkbuster is the Mark 44 armor, built to contain Hulk.",
+    "source_name": "Wikipedia: Iron Man's armor",
+    "source_url": "https://en.wikipedia.org/wiki/Iron_Man%27s_armor"
+  },
+  {
+    "id": 114,
+    "claim": "MCU: Tony Stark's new arc reactor core in Iron Man 2 was based on vibranium.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "Tony synthesizes a new element, using a design from Howard Stark's research. Vibranium is not used in Iron Man 2.",
+    "source_name": "Wikipedia: Iron Man 2",
+    "source_url": "https://en.wikipedia.org/wiki/Iron_Man_2"
+  },
+  {
+    "id": 115,
+    "claim": "MCU: The Black Panther gains his powers from the Heart-Shaped Herb.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "In Black Panther, the herb grants T'Challa enhanced strength, speed and senses.",
+    "source_name": "Wikipedia: Black Panther (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Panther_(film)"
+  },
+  {
+    "id": 116,
+    "claim": "MCU: Wakanda is located in South America.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Wakanda is a fictional nation in Africa.",
+    "source_name": "Wikipedia: Black Panther (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Panther_(film)"
+  },
+  {
+    "id": 117,
+    "claim": "MCU: The Time Stone is housed in the Eye of Agamotto.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Doctor Strange wears the Eye of Agamotto, which contains the Time Stone.",
+    "source_name": "Wikipedia: Doctor Strange (2016 film)",
+    "source_url": "https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)"
+  },
+  {
+    "id": 118,
+    "claim": "MCU: Thanos took the Time Stone from Doctor Strange by force on Titan.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Strange willingly gives Thanos the Time Stone to save Tony Stark's life.",
+    "source_name": "Wikipedia: Avengers: Infinity War",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
+  },
+  {
+    "id": 119,
+    "claim": "MCU: In Endgame, Bruce Banner persuades the Ancient One to give up the Time Stone.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Banner meets the Ancient One in 2012 New York and convinces her to hand over the Time Stone, which she lends on the condition that it is returned.",
+    "source_name": "Wikipedia: Avengers: Endgame",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Endgame"
+  },
+  {
+    "id": 120,
+    "claim": "MCU: The Battle of New York took place in 2018.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "The Battle of New York takes place in 2012 in The Avengers.",
+    "source_name": "Wikipedia: The Avengers (2012 film)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)"
+  },
+  {
+    "id": 121,
+    "claim": "Comics: The Fantastic Four gained powers from cosmic rays during a space flight.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Reed Richards, Sue Storm, Johnny Storm and Ben Grimm are exposed to cosmic rays on an experimental rocket flight.",
+    "source_name": "Wikipedia: Fantastic Four",
+    "source_url": "https://en.wikipedia.org/wiki/Fantastic_Four"
+  },
+  {
+    "id": 122,
+    "claim": "Comics: Johnny Storm is the Fantastic Four's rock-skinned Thing.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "The Thing is Ben Grimm. Johnny Storm is the Human Torch.",
+    "source_name": "Wikipedia: Fantastic Four",
+    "source_url": "https://en.wikipedia.org/wiki/Fantastic_Four"
+  },
+  {
+    "id": 123,
+    "claim": "MCU: Peter Quill's father, Ego, is a Celestial.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Guardians of the Galaxy Vol. 2 reveals Ego as a Celestial who created a living planet around himself.",
+    "source_name": "Wikipedia: Guardians of the Galaxy Vol. 2",
+    "source_url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2"
+  },
+  {
+    "id": 124,
+    "claim": "MCU: Nebula is Thanos's biological daughter.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Thanos adopted Nebula and Gamora. Neither is his biological child.",
+    "source_name": "Wikipedia: Avengers: Infinity War",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
+  },
+  {
+    "id": 125,
+    "claim": "Comics: Professor X uses Cerebro to detect mutants.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Cerebro is a device that amplifies Charles Xavier's telepathy to locate mutants.",
+    "source_name": "Wikipedia: Cerebro",
+    "source_url": "https://en.wikipedia.org/wiki/Cerebro"
+  },
+  {
+    "id": 126,
+    "claim": "Comics: Storm was a founding member of the original 1963 X-Men.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Storm debuted in Giant-Size X-Men #1 (1975) as part of the new X-Men team.",
+    "source_name": "Wikipedia: Storm (Marvel Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+  },
+  {
+    "id": 127,
+    "claim": "Comics: Sentinels are giant robots built to hunt mutants.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Sentinels are mutant-hunting robots in the X-Men comics.",
+    "source_name": "Wikipedia: Sentinel (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Sentinel_(comics)"
+  },
+  {
+    "id": 128,
+    "claim": "Comics: Wolverine's skeleton is bonded with vibranium.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Wolverine's skeleton and claws are bonded with adamantium, not vibranium.",
+    "source_name": "Wikipedia: Wolverine (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Wolverine_(character)"
+  },
+  {
+    "id": 129,
+    "claim": "Comics: Thanos is an Eternal from the moon Titan.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In the comics, Thanos is the son of A'Lars and a member of the Titan branch of the Eternals.",
+    "source_name": "Wikipedia: Thanos",
+    "source_url": "https://en.wikipedia.org/wiki/Thanos"
+  },
+  {
+    "id": 130,
+    "claim": "Comics: Doctor Doom rules the nation of Wakanda.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Doctor Doom rules Latveria. Wakanda is the home of the Black Panther.",
+    "source_name": "Wikipedia: Doctor Doom",
+    "source_url": "https://en.wikipedia.org/wiki/Doctor_Doom"
+  },
+  {
+    "id": 131,
+    "claim": "Comics: The Silver Surfer was a herald of Galactus.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Norrin Radd becomes the Silver Surfer to serve as Galactus's herald and spare his homeworld.",
+    "source_name": "Wikipedia: Galactus",
+    "source_url": "https://en.wikipedia.org/wiki/Galactus"
+  },
+  {
+    "id": 132,
+    "claim": "Comics: Galactus was born in the same universe he now devours.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "Galactus began as Galan of Taa in the universe that preceded the current one.",
+    "source_name": "Wikipedia: Galactus",
+    "source_url": "https://en.wikipedia.org/wiki/Galactus"
+  },
+  {
+    "id": 133,
+    "claim": "MCU: Bruce Banner was the first Avenger to use the Nano Gauntlet to reverse the Blip.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In Endgame, Banner snaps with the Nano Gauntlet and restores those who vanished.",
+    "source_name": "Wikipedia: Avengers: Endgame",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Endgame"
+  },
+  {
+    "id": 134,
+    "claim": "MCU: Tony Stark wielded Mjolnir in Avengers: Endgame.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Captain America wields Mjolnir in Endgame. Tony Stark does not.",
+    "source_name": "Wikipedia: Avengers: Endgame",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Endgame"
+  },
+  {
+    "id": 135,
+    "claim": "MCU: Rocket Raccoon was created by the High Evolutionary.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Guardians of the Galaxy Vol. 3 shows the High Evolutionary experimenting on Rocket.",
+    "source_name": "Wikipedia: Guardians of the Galaxy Vol. 3",
+    "source_url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._3"
+  },
+  {
+    "id": 136,
+    "claim": "MCU: Ronan the Accuser sought the Mind Stone in Guardians of the Galaxy.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Ronan sought the Power Stone, held in the Orb. The Mind Stone was elsewhere.",
+    "source_name": "Wikipedia: Guardians of the Galaxy (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+  },
+  {
+    "id": 137,
+    "claim": "MCU: The Sokovia Accords are named after the country devastated in Age of Ultron.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The Accords are named for Sokovia, where the Avengers fought Ultron, and they regulate enhanced individuals.",
+    "source_name": "Wikipedia: Captain America: Civil War",
+    "source_url": "https://en.wikipedia.org/wiki/Captain_America:_Civil_War"
+  },
+  {
+    "id": 138,
+    "claim": "MCU: The Guardians of the Galaxy first meet in the Knowhere prison.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "They meet in the Kyln, a Nova Corps prison. Knowhere is a different location.",
+    "source_name": "Wikipedia: Guardians of the Galaxy (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+  },
+  {
+    "id": 139,
+    "claim": "MCU: The Time Variance Authority prunes variant timelines.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In the Loki series, the TVA removes timelines that branch away from the Sacred Timeline.",
+    "source_name": "Wikipedia: Loki (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/Loki_(TV_series)"
+  },
+  {
+    "id": 140,
+    "claim": "MCU: Scott Lang was the first person to enter the Quantum Realm.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Janet van Dyne became trapped in the Quantum Realm in 1987, long before Scott Lang.",
+    "source_name": "Wikipedia: Ant-Man and the Wasp",
+    "source_url": "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp"
+  },
+  {
+    "id": 141,
+    "claim": "Comics: The first Cosmic Cube was created by A.I.M.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "The first Cosmic Cube was built by the scientific organization Advanced Idea Mechanics (A.I.M.).",
+    "source_name": "Wikipedia: Cosmic Cube",
+    "source_url": "https://en.wikipedia.org/wiki/Cosmic_Cube"
+  },
+  {
+    "id": 142,
+    "claim": "Comics: Captain America was a founding member of the Avengers.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "Cap joined in Avengers #4. The founders were Iron Man, Thor, Ant-Man, the Wasp and Hulk.",
+    "source_name": "Wikipedia: Avengers (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers_(comics)"
+  },
+  {
+    "id": 143,
+    "claim": "MCU: In Endgame, Banner says changing the past creates branched timelines.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Banner explains that altering the past does not change the Avengers' own present, but creates a branch reality.",
+    "source_name": "Wikipedia: Avengers: Endgame",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Endgame"
+  },
+  {
+    "id": 144,
+    "claim": "MCU: Obadiah Stane helped Tony Stark build the Mark I armor in captivity.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Ho Yinsen helped Tony build the Mark I. Stane is Tony's betrayer.",
+    "source_name": "Wikipedia: Iron Man (2008 film)",
+    "source_url": "https://en.wikipedia.org/wiki/Iron_Man_(2008_film)"
+  },
+  {
+    "id": 145,
+    "claim": "Comics: Vibranium absorbs vibrations and kinetic energy.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Marvel's vibranium is a fictional metal that absorbs vibrations and kinetic energy.",
+    "source_name": "Wikipedia: Vibranium",
+    "source_url": "https://en.wikipedia.org/wiki/Vibranium"
+  },
+  {
+    "id": 146,
+    "claim": "MCU: Thanos's snap erased 10% of all life in the universe.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "The snap erases half of all life in the universe.",
+    "source_name": "Wikipedia: Avengers: Infinity War",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
+  },
+  {
+    "id": 147,
+    "claim": "MCU: Vision lifted Mjolnir in Avengers: Age of Ultron.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Vision lifts Mjolnir and hands it to Thor, demonstrating that he is worthy.",
+    "source_name": "Wikipedia: Avengers: Age of Ultron",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron"
+  },
+  {
+    "id": 148,
+    "claim": "Comics: Magneto is Professor X's biological brother.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Magneto and Xavier are friends turned adversaries, not brothers.",
+    "source_name": "Wikipedia: Magneto (Marvel Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)"
+  },
+  {
+    "id": 149,
+    "claim": "MCU: Groot belongs to the Flora colossus species.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Groot is a Flora colossus, a tree-like extraterrestrial species.",
+    "source_name": "Wikipedia: Guardians of the Galaxy (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+  },
+  {
+    "id": 150,
+    "claim": "MCU: Thanos is from the planet Xandar.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Thanos is from Titan. Xandar is the Nova Corps homeworld.",
+    "source_name": "Wikipedia: Avengers: Infinity War",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
+  },
+  {
+    "id": 151,
+    "claim": "Comics: Spider-Man first appeared in Amazing Fantasy #15 (1962).",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Peter Parker debuted in Amazing Fantasy #15, created by Stan Lee and Steve Ditko, before getting his own series.",
+    "source_name": "Wikipedia: Spider-Man",
+    "source_url": "https://en.wikipedia.org/wiki/Spider-Man"
+  },
+  {
+    "id": 152,
+    "claim": "Comics: The Hulk's skin was green in The Incredible Hulk #1 (1962).",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The Hulk was gray in his first issue. His color was changed to green starting with issue #2 because of printing problems.",
+    "source_name": "Wikipedia: Hulk (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Hulk_(comics)"
+  },
+  {
+    "id": 153,
+    "claim": "Comics: Kamala Khan, the modern Ms. Marvel, is from Jersey City.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Kamala Khan is a Pakistani-American teenager living in Jersey City, New Jersey.",
+    "source_name": "Wikipedia: Kamala Khan",
+    "source_url": "https://en.wikipedia.org/wiki/Kamala_Khan"
+  },
+  {
+    "id": 154,
+    "claim": "Comics: Carol Danvers was the first hero to use the name Captain Marvel.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Mar-Vell, a Kree warrior, was the first Marvel Comics Captain Marvel. Carol Danvers took the name later.",
+    "source_name": "Wikipedia: Carol Danvers",
+    "source_url": "https://en.wikipedia.org/wiki/Carol_Danvers"
+  },
+  {
+    "id": 155,
+    "claim": "Comics: Daredevil's heightened senses came from exposure to radioactive material.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Matt Murdock was blinded by a radioactive substance, which sharpened his remaining senses.",
+    "source_name": "Wikipedia: Daredevil (Marvel Comics character)",
+    "source_url": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)"
+  },
+  {
+    "id": 156,
+    "claim": "Comics: Daredevil's secret identity is Foggy Nelson.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Daredevil is Matt Murdock. Foggy Nelson is his best friend and law partner.",
+    "source_name": "Wikipedia: Daredevil (Marvel Comics character)",
+    "source_url": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)"
+  },
+  {
+    "id": 157,
+    "claim": "Comics: Stephen Strange was a neurosurgeon before becoming a sorcerer.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Strange was a renowned surgeon whose hands were damaged in a car accident, which led him to seek mystical healing.",
+    "source_name": "Wikipedia: Doctor Strange",
+    "source_url": "https://en.wikipedia.org/wiki/Doctor_Strange"
+  },
+  {
+    "id": 158,
+    "claim": "Comics: Doctor Strange first trained under the Ancient One in Egypt.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In the comics, Strange travels to the Himalayas in Tibet to find the Ancient One. The MCU film changes the location to Kamar-Taj in Nepal.",
+    "source_name": "Wikipedia: Doctor Strange",
+    "source_url": "https://en.wikipedia.org/wiki/Doctor_Strange"
+  },
+  {
+    "id": 159,
+    "claim": "Comics: Moon Knight's powers are granted by the Egyptian moon god Khonshu.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Marc Spector, a mercenary, is revived by Khonshu and becomes the god's avatar.",
+    "source_name": "Wikipedia: Moon Knight",
+    "source_url": "https://en.wikipedia.org/wiki/Moon_Knight"
+  },
+  {
+    "id": 160,
+    "claim": "Comics: Johnny Blaze made his Ghost Rider deal with Dormammu.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Johnny Blaze sold his soul to Mephisto, not Dormammu.",
+    "source_name": "Wikipedia: Ghost Rider",
+    "source_url": "https://en.wikipedia.org/wiki/Ghost_Rider"
+  },
+  {
+    "id": 161,
+    "claim": "Comics: Blade debuted in The Tomb of Dracula #10 (1973).",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "Blade was created by Marv Wolfman and Gene Colan and first appeared in The Tomb of Dracula #10, not in a film.",
+    "source_name": "Wikipedia: Blade (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Blade_(character)"
+  },
+  {
+    "id": 162,
+    "claim": "Comics: Wolverine's birth name is Logan.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Wolverine was born James Howlett. Logan is the name he adopted.",
+    "source_name": "Wikipedia: Wolverine (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Wolverine_(character)"
+  },
+  {
+    "id": 163,
+    "claim": "MCU: Wanda and Pietro Maximoff are twins.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "In Avengers: Age of Ultron, Wanda and Pietro are twin siblings from Sokovia.",
+    "source_name": "Wikipedia: Avengers: Age of Ultron",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron"
+  },
+  {
+    "id": 164,
+    "claim": "MCU: Loki is Odin's biological son.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "In Thor (2011), Loki learns he is the biological son of Laufey, king of the Frost Giants, and was adopted by Odin.",
+    "source_name": "Wikipedia: Thor (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Thor_(film)"
+  },
+  {
+    "id": 165,
+    "claim": "Comics: Hela is the daughter of Loki.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In the comics, Hela is Loki's daughter with Angrboda. This differs from the MCU, where she is Odin's daughter.",
+    "source_name": "Wikipedia: Hela (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Hela_(comics)"
+  },
+  {
+    "id": 166,
+    "claim": "Comics: Peter Parker was bitten by a radioactive spider at Oscorp.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In the original comics, Peter is bitten at a science exhibition. Oscorp's role comes from later adaptations.",
+    "source_name": "Wikipedia: Spider-Man",
+    "source_url": "https://en.wikipedia.org/wiki/Spider-Man"
+  },
+  {
+    "id": 167,
+    "claim": "Comics: Ultron built Vision using the body of the original Human Torch.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "In Avengers #134-135, Ultron creates Vision from the android body of the original Human Torch. Vision later turns against Ultron.",
+    "source_name": "Wikipedia: Vision (Marvel Comics character)",
+    "source_url": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics_character)"
+  },
+  {
+    "id": 168,
+    "claim": "Comics: Hawkeye gained his skills from a super-soldier serum.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Clint Barton has no superpowers. He is a master archer trained through years of practice.",
+    "source_name": "Wikipedia: Hawkeye (Clint Barton)",
+    "source_url": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)"
+  },
+  {
+    "id": 169,
+    "claim": "Comics: In House of M, Scarlet Witch declares 'No more mutants.'",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "After the reality-altering events of House of M, Wanda's words strip the powers from most of the world's mutants.",
+    "source_name": "Wikipedia: House of M",
+    "source_url": "https://en.wikipedia.org/wiki/House_of_M"
+  },
+  {
+    "id": 170,
+    "claim": "Comics: Black Widow debuted in Tales of Suspense #39.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "Black Widow debuted in Tales of Suspense #52 (1964). Issue #39 is Iron Man's debut.",
+    "source_name": "Wikipedia: Black Widow (Natasha Romanoff)",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanoff)"
+  },
+  {
+    "id": 171,
+    "claim": "Comics: Black Panther debuted in Fantastic Four #52 (1966).",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "T'Challa first appeared in Fantastic Four #52, created by Stan Lee and Jack Kirby.",
+    "source_name": "Wikipedia: Black Panther (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Panther_(comics)"
+  },
+  {
+    "id": 172,
+    "claim": "Comics: Thor's first mortal alter ego, Donald Blake, was a veterinarian.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Donald Blake was a physician, not a veterinarian.",
+    "source_name": "Wikipedia: Thor (Marvel Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
+  },
+  {
+    "id": 173,
+    "claim": "Comics: Captain America Comics #1 (1941) shows Cap punching Hitler on its cover.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The cover of Captain America Comics #1, by Joe Simon and Jack Kirby, shows Cap hitting Adolf Hitler.",
+    "source_name": "Wikipedia: Captain America",
+    "source_url": "https://en.wikipedia.org/wiki/Captain_America"
+  },
+  {
+    "id": 174,
+    "claim": "Comics: Cyclops's younger brother is Quicksilver.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Cyclops's younger brother is Alex Summers, also known as Havok. Quicksilver is Pietro Maximoff.",
+    "source_name": "Wikipedia: Cyclops (Marvel Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Cyclops_(Marvel_Comics)"
+  },
+  {
+    "id": 175,
+    "claim": "Comics: Miles Morales originated in the Ultimate Marvel universe, Earth-1610.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Miles Morales debuted in the Ultimate Marvel imprint (Earth-1610) before later joining the main continuity.",
+    "source_name": "Wikipedia: Miles Morales",
+    "source_url": "https://en.wikipedia.org/wiki/Miles_Morales"
+  },
+  {
+    "id": 176,
+    "claim": "Comics: The Dark Phoenix Saga was written by Stan Lee.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The Dark Phoenix Saga was written by Chris Claremont and illustrated by John Byrne.",
+    "source_name": "Wikipedia: The Dark Phoenix Saga",
+    "source_url": "https://en.wikipedia.org/wiki/The_Dark_Phoenix_Saga"
+  },
+  {
+    "id": 177,
+    "claim": "Comics: Iron Man debuted in Tales of Suspense #39 (1963).",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Tony Stark's Iron Man first appeared in Tales of Suspense #39, in a story by Stan Lee and Larry Lieber.",
+    "source_name": "Wikipedia: Iron Man",
+    "source_url": "https://en.wikipedia.org/wiki/Iron_Man"
+  },
+  {
+    "id": 178,
+    "claim": "Comics: The Kree and Skrull empires are long-time allies.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "The Kree and Skrulls are enemies, most famously in the Kree-Skrull War.",
+    "source_name": "Wikipedia: Skrull",
+    "source_url": "https://en.wikipedia.org/wiki/Skrull"
+  },
+  {
+    "id": 179,
+    "claim": "Comics: Rocket Raccoon debuted in Marvel Preview #7 (1976).",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "Rocket Raccoon first appeared in Marvel Preview #7, years before his Guardians of the Galaxy fame.",
+    "source_name": "Wikipedia: Rocket Raccoon",
+    "source_url": "https://en.wikipedia.org/wiki/Rocket_Raccoon"
+  },
+  {
+    "id": 180,
+    "claim": "MCU: Namor rules the underwater kingdom of Atlantis.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "In Black Panther: Wakanda Forever, Namor rules Talokan. Atlantis is his kingdom in the comics.",
+    "source_name": "Wikipedia: Black Panther: Wakanda Forever",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Panther:_Wakanda_Forever"
+  },
+  {
+    "id": 181,
+    "claim": "Comics: Wolverine first appeared in The Incredible Hulk #180-181 (1974).",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Wolverine debuted in the Hulk's own series before joining the X-Men.",
+    "source_name": "Wikipedia: Wolverine (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Wolverine_(character)"
+  },
+  {
+    "id": 182,
+    "claim": "Comics: Miles Morales is a clone of Peter Parker.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Miles is an independent teenager bitten by a genetically altered spider. The clone is Ben Reilly.",
+    "source_name": "Wikipedia: Miles Morales",
+    "source_url": "https://en.wikipedia.org/wiki/Miles_Morales"
+  },
+  {
+    "id": 183,
+    "claim": "Comics: Deadpool debuted in The New Mutants #98 (1991).",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Deadpool was created by Rob Liefeld and Fabian Nicieza and first appeared in The New Mutants #98.",
+    "source_name": "Wikipedia: Deadpool",
+    "source_url": "https://en.wikipedia.org/wiki/Deadpool"
+  },
+  {
+    "id": 184,
+    "claim": "Comics: The Wasp, Janet van Dyne, is Hank Pym's sister.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Janet van Dyne is Hank Pym's wife and a founding Avenger.",
+    "source_name": "Wikipedia: Wasp (Janet van Dyne)",
+    "source_url": "https://en.wikipedia.org/wiki/Wasp_(Janet_van_Dyne)"
+  },
+  {
+    "id": 185,
+    "claim": "Comics: The Eternals were created by Jack Kirby in 1976.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Kirby created the Eternals for Marvel in 1976, building on his ideas about ancient cosmic beings.",
+    "source_name": "Wikipedia: Eternals (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Eternals_(comics)"
+  },
+  {
+    "id": 186,
+    "claim": "Comics: Nick Fury first appeared in Avengers #1 (1963).",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Nick Fury debuted in Sgt. Fury and His Howling Commandos #1 (1963) as a WWII soldier. His modern spy version appeared in Fantastic Four #21.",
+    "source_name": "Wikipedia: Nick Fury",
+    "source_url": "https://en.wikipedia.org/wiki/Nick_Fury"
+  },
+  {
+    "id": 187,
+    "claim": "Comics: S.H.I.E.L.D. originally stood for Supreme Headquarters, International Espionage, Law-Enforcement Division.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "This was the original name in the comics. It was later changed to Strategic Homeland Intervention, Enforcement and Logistics Division.",
+    "source_name": "Wikipedia: S.H.I.E.L.D.",
+    "source_url": "https://en.wikipedia.org/wiki/S.H.I.E.L.D."
+  },
+  {
+    "id": 188,
+    "claim": "Comics: Rocket Raccoon is a natural Earth raccoon.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Rocket is from the planet Halfworld, where he was engineered and not an Earth animal.",
+    "source_name": "Wikipedia: Rocket Raccoon",
+    "source_url": "https://en.wikipedia.org/wiki/Rocket_Raccoon"
+  },
+  {
+    "id": 189,
+    "claim": "Comics: Hydra's motto is 'Cut off one limb, two more shall take its place.'",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "This is Hydra's well-known slogan, referencing the many-headed serpent from Greek myth.",
+    "source_name": "Wikipedia: Hydra (Marvel Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Hydra_(Marvel_Comics)"
+  },
+  {
+    "id": 190,
+    "claim": "Comics: Doctor Strange's Sanctum Sanctorum is located in Brooklyn.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "The Sanctum Sanctorum is on Bleecker Street in Greenwich Village, Manhattan.",
+    "source_name": "Wikipedia: Doctor Strange",
+    "source_url": "https://en.wikipedia.org/wiki/Doctor_Strange"
+  },
+  {
+    "id": 191,
+    "claim": "Comics: Dormammu rules the Dark Dimension.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Dormammu is the ruler of the Dark Dimension and one of Doctor Strange's greatest enemies.",
+    "source_name": "Wikipedia: Dormammu",
+    "source_url": "https://en.wikipedia.org/wiki/Dormammu"
+  },
+  {
+    "id": 192,
+    "claim": "Comics: The Inhumans originated from the Skrull Empire.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "The Inhumans were created through Kree genetic experiments on early humans, not by the Skrulls.",
+    "source_name": "Wikipedia: Inhumans",
+    "source_url": "https://en.wikipedia.org/wiki/Inhumans"
+  },
+  {
+    "id": 193,
+    "claim": "Comics: Adam Warlock was first created by the Enclave under the name Him.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Hard",
+    "explanation": "Scientists called the Enclave created the artificial being Him, who later became Adam Warlock.",
+    "source_name": "Wikipedia: Adam Warlock",
+    "source_url": "https://en.wikipedia.org/wiki/Adam_Warlock"
+  },
+  {
+    "id": 194,
+    "claim": "Comics: Vision is a mutant.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Vision is a synthezoid, an artificial android, not a mutant.",
+    "source_name": "Wikipedia: Vision (Marvel Comics character)",
+    "source_url": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics_character)"
+  },
+  {
+    "id": 195,
+    "claim": "Comics: Hawkeye first appeared as a villain in an Iron Man story.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Hawkeye debuted in Tales of Suspense #57 as an antagonist to Iron Man, then later joined the Avengers.",
+    "source_name": "Wikipedia: Hawkeye (Clint Barton)",
+    "source_url": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)"
+  },
+  {
+    "id": 196,
+    "claim": "Comics: The Punisher debuted in Daredevil #1.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "The Punisher debuted in The Amazing Spider-Man #129 (1974) as a Spider-Man antagonist.",
+    "source_name": "Wikipedia: Punisher",
+    "source_url": "https://en.wikipedia.org/wiki/Punisher"
+  },
+  {
+    "id": 197,
+    "claim": "Comics: Namor first appeared in Marvel Comics #1 (1939).",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Namor the Sub-Mariner was one of Marvel's earliest characters, debuting in Marvel Comics #1 in 1939.",
+    "source_name": "Wikipedia: Namor",
+    "source_url": "https://en.wikipedia.org/wiki/Namor"
+  },
+  {
+    "id": 198,
+    "claim": "Comics: Angel (Warren Worthington III) comes from a poor family.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Medium",
+    "explanation": "Warren Worthington III is the heir to a wealthy family fortune.",
+    "source_name": "Wikipedia: Angel (Marvel Comics character)",
+    "source_url": "https://en.wikipedia.org/wiki/Angel_(Marvel_Comics_character)"
+  },
+  {
+    "id": 199,
+    "claim": "MCU: Steve Rogers hands Sam Wilson the Captain America shield in Endgame.",
+    "answer": "FACT",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "In Avengers: Endgame, an elderly Steve Rogers gives Sam the shield and passes on the mantle.",
+    "source_name": "Wikipedia: Avengers: Endgame",
+    "source_url": "https://en.wikipedia.org/wiki/Avengers:_Endgame"
+  },
+  {
+    "id": 200,
+    "claim": "Comics: Nightcrawler's biological mother is Rogue.",
+    "answer": "TRAP",
+    "category": "Marvel Universe",
+    "difficulty": "Easy",
+    "explanation": "Nightcrawler's biological mother is Mystique. Rogue is Mystique's adopted daughter.",
+    "source_name": "Wikipedia: Nightcrawler (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Nightcrawler_(comics)"
+  }
+]

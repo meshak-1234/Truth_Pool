@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Truth Pool — Facts. Fibs. You Decide.</title>
+
+  <meta name="description" content="Truth Pool is the ultimate fandom quiz game where you spot the truth, catch the lies, and outsmart the traps across Marvel, DC, Anime, Gaming, and more.">
+
+
+
+  <!-- Comic & Modern Typography from Google Fonts -->
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+
+  <link rel="preconnect" href="
+
+  <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Poppins:wght@400;500;600;700;800;900&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Styling -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Loading Overlay -->
+  <div id="loading-overlay" class="loading-overlay">
+    <div class="spinner"></div>
+    <p id="loading-message" style="color: var(--color-slate-grey); font-weight: 600;">Loading fandom question datasets...</p>
+  </div>
+
+  <div class="container">
+    <!-- Header -->
+    <header class="site-header">
+      <!-- Logo Group with Official Truth Pool Branding & Masked Hero Emblem -->
+      <div class="logo-group" id="header-logo-group" role="button" tabindex="0" title="Truth Pool — Home">
+        <img src="assets/truth-pool-emblem.png" alt="Truth Pool Emblem" class="header-emblem-badge" aria-hidden="true">
+        <img src="assets/truth-pool-logo.png" alt="Truth Pool" class="header-logo-img">
+      </div>
+
+      <!-- Navigation Links -->
+      <nav class="header-nav" aria-label="Main Navigation">
+        <button type="button" class="nav-link-btn active" id="nav-home">Home</button>
+        <button type="button" class="nav-link-btn" id="nav-play">Fandoms</button>
+        <button type="button" class="nav-link-btn" id="nav-badges">Fandom Badges</button>
+        <button type="button" class="nav-link-btn" id="nav-dashboard">Dashboard</button>
+        <button type="button" class="nav-link-btn" id="nav-about">How to Play</button>
+      </nav>
+
+      <!-- Header Actions -->
+      <div class="header-actions">
+        <!-- Full-Screen Accessible Toggle Button -->
+        <button type="button" id="fullscreen-toggle-btn" class="fullscreen-toggle-btn" title="Enter Fullscreen" aria-label="Enter Fullscreen Mode">
+          <span class="fs-icon fs-icon-enter" aria-hidden="true">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"/>
+            </svg>
+          </span>
+          <span class="fs-icon fs-icon-exit" style="display: none;" aria-hidden="true">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 14h6m0 0v6m0-6L3 21m17-7h-6m0 0v6m0-6l7 7M10 4v6m0 0H4m6 0L3 3m10 7h6m-6 0V4m0 6l7-7"/>
+            </svg>
+          </span>
+          <span class="sr-only">Toggle Fullscreen</span>
+        </button>
+
+        <div class="dataset-pill">
+          <span class="pulse-dot"></span>
+          <span id="dataset-status">Initializing...</span>
+        </div>
+
+        <!-- Quick Nav Login / Sign Up buttons for Guest -->
+        <div id="nav-guest-actions" class="nav-auth-buttons">
+          <button type="button" id="btn-nav-login" class="btn btn-outline-pill" title="Sign In to Truth Pool">Login</button>
+          <button type="button" id="btn-nav-register" class="btn btn-red-pill" title="Create Truth Pool Account">Sign Up</button>
+        </div>
+
+        <!-- Authenticated Profile & Stats triggers -->
+        <!-- Header XP & Level Indicator (shown when signed in) -->
+        <div id="header-xp-panel" class="xp-header-panel" style="display: none;" title="Your Player Level & XP Progress">
+          <span id="header-level-badge" class="xp-level-badge">Lvl 1</span>
+          <div class="xp-bar-col">
+            <div class="xp-bar-track">
+              <div id="header-xp-bar-fill" class="xp-bar-fill" style="width: 0%;"></div>
+            </div>
+            <span id="header-xp-label" class="xp-label">0 XP</span>
+          </div>
+        </div>
+
+        <button id="stats-trigger-btn" class="stats-trigger-btn" type="button" style="display: none;" title="View Your Game History & Statistics">
+          <span aria-hidden="true">📊</span>
+          <span class="stats-btn-text">My Stats</span>
+        </button>
+
+        <button id="auth-trigger-btn" class="auth-trigger-btn" type="button" aria-haspopup="dialog" aria-expanded="false" title="Account & Profile">
+          <span class="auth-trigger-icon" aria-hidden="true">👤</span>
+          <span id="auth-trigger-text">Sign In</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- VIEW 0: Full-Screen Landscape Landing Page -->
+    <main id="view-landing" class="view landing-view active">
+      <!-- Background Ambient FX (Midnight Blue, Halftone Comic Dots & Glows) -->
+      <div class="landing-bg-fx" aria-hidden="true">
+        <div class="comic-halftone-overlay"></div>
+        <div class="glow-spot glow-spot-blue"></div>
+        <div class="glow-spot glow-spot-red"></div>
+        <div class="glow-spot glow-spot-center"></div>
+        <canvas id="landing-particles-canvas" class="landing-particles-canvas"></canvas>
+      </div>
+
+      <!-- Main Landscape Hero Arena -->
+      <section class="landing-hero-section" aria-label="Truth Pool Main Arena">
+        <div class="landing-hero-grid">
+
+          <!-- Left Column: Big Comic Typography, Subtitle & Calls to Action -->
+          <div class="hero-left-content">
+            <div class="hero-badge-pill">
+              <span class="badge-star">★</span>
+              <span>OFFICIAL SUPERHERO QUIZ ARENA</span>
+            </div>
+
+            <h1 class="landing-title-3d">
+              <span class="title-white">FACTS. FIBS.</span>
+              <span class="title-red">YOU DECIDE.</span>
+            </h1>
+
+            <p class="hero-comic-subtitle">
+              The ultimate multiverse FACT or TRAP quiz arena! Spot the truth, catch the lies, and outsmart the traps across 2,200 verified claims and 11 legendary fandoms.
+            </p>
+
+            <div class="hero-cta-group">
+              <button id="btn-start-playing" class="btn btn-hero-red" type="button" aria-label="Start Exploring Truth Pool">
+                <span class="btn-text">Start Exploring</span>
+                <span class="btn-arrow" aria-hidden="true">→</span>
+              </button>
+              <button id="btn-landing-how-to-play" class="btn btn-outline-pill" type="button" aria-label="How to Play Truth Pool">
+                <span class="btn-text">📖 How to Play</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- Right Column: 3D Interactive Mascot Sphere with Floating FACT! & TRAP! Cards -->
+          <div class="hero-right-visual" id="landing-parallax-stage">
+            <div class="comic-action-burst" aria-hidden="true">
+              <div class="burst-shard shard-red-1"></div>
+              <div class="burst-shard shard-red-2"></div>
+              <div class="burst-shard shard-blue-1"></div>
+              <div class="burst-shard shard-blue-2"></div>
+            </div>
+
+            <!-- Floating FACT! Speech Card -->
+            <div class="comic-speech-card speech-fact" id="landing-card-fact" tabindex="0" aria-label="Fact preview">
+              <div class="speech-inner">
+                <span class="speech-badge">FACT!</span>
+                <p class="speech-claim">"A single day on Venus lasts longer than an entire Venusian year."</p>
+                <div class="speech-footer">
+                  <span class="speech-stat">✓ Truth Spot On</span>
+                  <span class="speech-pts">+10 PTS</span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Central 3D Masked Mascot Sphere -->
+            <div class="hero-mascot-container" id="landing-mascot-sphere">
+              <div id="landing-center-core" class="mascot-core-wrapper">
+                <div class="mascot-platform-glow" id="landing-platform-3d" aria-hidden="true"></div>
+                <img src="assets/truth-pool-hero.png" alt="Truth Pool Hero Mascot" class="hero-mascot-img">
+              </div>
+            </div>
+
+            <!-- Floating TRAP! Speech Card -->
+            <div class="comic-speech-card speech-trap" id="landing-card-myth" tabindex="0" aria-label="Trap preview">
+              <div class="speech-inner">
+                <span class="speech-badge badge-trap">TRAP!</span>
+                <p class="speech-claim">"Humans only use 10% of their brains — unlock the rest for genius power."</p>
+                <div class="speech-footer">
+                  <span class="speech-stat">✕ Deceptive Fib</span>
+                  <span class="speech-pts pts-danger">0 PTS</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+      <!-- Bottom Feature Strip (Original Superhero Badges) -->
+      <section class="landing-features-strip" aria-label="Game Features">
+        <div class="features-grid">
+          <div class="feature-card feature-card-action" data-action="play" tabindex="0" role="button" title="Explore 11 Fandom Arenas">
+            <div class="feature-icon-box icon-blue">🌌</div>
+            <div class="feature-info">
+              <h3 class="feature-title">Test Your Instincts</h3>
+              <p class="feature-desc">2,200 verified claims across Marvel, DC, Anime, Game of Thrones, and The Boys.</p>
+            </div>
+          </div>
+
+          <div class="feature-card feature-card-action" data-action="play" tabindex="0" role="button" title="Earn Points & Level Up">
+            <div class="feature-icon-box icon-red">⚡</div>
+            <div class="feature-info">
+              <h3 class="feature-title">Earn Points</h3>
+              <p class="feature-desc">Fast spot-on answers award +10 points, multipliers, combo streaks, and level promotions.</p>
+            </div>
+          </div>
+
+          <div class="feature-card feature-card-action" data-action="achievements" tabindex="0" role="button" title="View Fandom Badges & Achievements">
+            <div class="feature-icon-box icon-blue">🛡️</div>
+            <div class="feature-info">
+              <h3 class="feature-title">Unlock Achievements</h3>
+              <p class="feature-desc">Earn 22 exclusive fandom badges across Tier 1 (100 Qs) and Tier 2 (200 Qs).</p>
+            </div>
+          </div>
+
+          <div class="feature-card feature-card-action" data-action="stats" tabindex="0" role="button" title="View Dashboard & History">
+            <div class="feature-icon-box icon-red">📜</div>
+            <div class="feature-info">
+              <h3 class="feature-title">Mission Records</h3>
+              <p class="feature-desc">Personal player dashboard, career accuracy, and mission history saved to your profile.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- VIEW 1: Premium Fandom Selection Page -->
+    <main id="view-setup" class="view fandom-selection-view">
+      <!-- Return to Main Menu Link -->
+      <div class="setup-nav-row">
+        <button type="button" id="btn-back-to-landing" class="btn-back-link">
+          <span aria-hidden="true">←</span> Main Menu
+        </button>
+      </div>
+
+      <div class="welcome-hero fandoms-hero">
+        <div class="badges-hero-badge">🌌</div>
+        <h2 class="hero-title">Multiverse Fandom Arenas</h2>
+        <p class="hero-description">
+          Choose any of the 11 legendary universes below. Each universe contains 200 verified claims across easy, medium, and hard tiers. Spot the truths, catch the traps, and conquer the multiverse!
+        </p>
+      </div>
+
+      <!-- Fandom Filter & Game Mode Options Toolbar -->
+      <section class="fandom-toolbar-card card" aria-label="Game Configuration and Search">
+        <div class="fandom-toolbar-grid">
+          <!-- Search Input -->
+          <div class="search-input-wrap">
+            <span class="search-icon" aria-hidden="true">🔍</span>
+            <input type="search" id="fandom-search-input" class="badges-search-input" placeholder="Search fandoms (Marvel, One Piece, Dragon Ball...)" aria-label="Search fandoms">
+          </div>
+
+          <!-- Round Length Pills -->
+          <div class="round-length-group">
+            <label class="form-label sr-only">Questions Per Round</label>
+            <div id="round-length-pills" class="pill-selector">
+              <button type="button" class="pill-btn active" data-length="10" id="pill-len-10">10 Questions</button>
+              <button type="button" class="pill-btn" data-length="20" id="pill-len-20">20 Questions</button>
+              <button type="button" class="pill-btn" data-length="50" id="pill-len-50">50 Questions</button>
+            </div>
+          </div>
+
+          <!-- Difficulty Selector -->
+          <div class="form-group" style="margin-bottom: 0;">
+            <label for="difficulty-select" class="sr-only">Difficulty</label>
+            <select id="difficulty-select" class="select-control">
+              <option value="all">All Difficulties (Mixed)</option>
+              <option value="Easy">Easy</option>
+              <option value="Medium">Medium</option>
+              <option value="Hard">Hard</option>
+            </select>
+          </div>
+
+          <!-- Quick Action: Mix All Fandoms -->
+          <div class="toolbar-action-col">
+            <button type="button" id="btn-play-all-fandoms" class="btn btn-outline-pill btn-block" title="Play a mixed round across all 11 fandoms">
+              ⚡ Mix All Fandoms
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- 11 Fandom Cards Grid (Rendered dynamically by fandomSelection.js) -->
+      <section class="fandoms-grid-container" aria-label="Available Fandom Arenas">
+        <div id="fandoms-grid" class="fandoms-grid">
+          <!-- Populated dynamically by js/fandomSelection.js -->
+        </div>
+      </section>
+
+      <!-- Backwards compatibility card (Category select & Start button for tests) -->
+      <div class="card setup-card" style="display: none;">
+        <select id="category-select" class="select-control">
+          <option value="all">All Categories (Mixed)</option>
+        </select>
+        <button id="start-game-btn" class="btn btn-hero-red btn-block">
+          Start Game →
+        </button>
+      </div>
+    </main>
+
+    <!-- VIEW 2: Premium Game Arena Screen -->
+    <main id="view-arena" class="view">
+      <!-- Arena Header -->
+      <div class="arena-header">
+        <button type="button" id="btn-arena-exit" class="btn-arena-exit" title="Exit Round and return to Fandom Selection">
+          <span aria-hidden="true">←</span> Exit Round
+        </button>
+
+        <div class="meta-badges">
+          <span id="category-badge" class="badge">Marvel Universe</span>
+          <span id="difficulty-badge" class="badge badge-difficulty-medium">Medium</span>
+        </div>
+
+        <div class="arena-status-boxes">
+          <div class="arena-streak-box" id="arena-streak-box" title="Current Correct Streak">
+            <span class="streak-flame" aria-hidden="true">🔥</span>
+            <span>Streak:</span>
+            <span id="arena-streak-val">0</span>
+          </div>
+          <div class="arena-score-box">
+            <span>Score:</span>
+            <span id="current-score">0</span>
+            <span>pts</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Hero Red Progress Bar -->
+      <div class="progress-bar-container">
+        <div id="progress-bar-fill" class="progress-fill"></div>
+      </div>
+
+      <!-- Claim Card -->
+      <div class="card claim-card">
+        <div id="question-counter" class="question-counter">Question 1 of 10</div>
+        <p id="claim-text" class="claim-text">Loading claim...</p>
+      </div>
+
+      <!-- Answer Choice Buttons: FACT and TRAP -->
+      <div class="answers-grid">
+        <button id="btn-fact" class="btn-answer btn-fact" aria-label="Answer Fact">
+          <span class="icon">✓</span> FACT <span class="kbd-hint">[F]</span>
+        </button>
+        <button id="btn-myth" class="btn-answer btn-myth" aria-label="Answer Trap">
+          <span class="icon">✕</span> TRAP <span class="kbd-hint">[T]</span>
+        </button>
+      </div>
+
+      <!-- Immediate Feedback Section -->
+      <div id="feedback-container" class="feedback-container">
+        <div id="feedback-card" class="card feedback-card">
+          <div class="feedback-header">
+            <div id="feedback-title" class="feedback-title">✓ Spot On! +10 Points</div>
+            <div id="correct-answer-pill" class="correct-answer-pill">Answer: FACT</div>
+          </div>
+          <p id="explanation-text" class="explanation-text">Explanation details...</p>
+          <div id="source-citation" class="source-citation">
+            <strong>Source:</strong>
+            <span id="source-name">Reference</span>
+            <span>—</span>
+            <a id="source-link" class="source-link" href="#" target="_blank" rel="noopener noreferrer">View Reference</a>
+          </div>
+        </div>
+
+        <button id="next-question-btn" class="btn btn-hero-red btn-block">
+          Next Question → <span class="kbd-hint">[Enter]</span>
+        </button>
+      </div>
+    </main>
+
+    <!-- VIEW 3: Premium Completion Screen -->
+    <main id="view-completion" class="view">
+      <div class="card completion-container">
+        <div class="trophy-badge">🏆</div>
+        <h2 class="completion-title">Round Complete!</h2>
+        <p class="completion-subtitle">Here is how your instincts performed in Truth Pool:</p>
+
+        <!-- Stats Grid -->
+        <div class="stats-grid">
+          <div class="stat-box">
+            <div id="final-score" class="stat-value" style="color: var(--color-hero-red);">0</div>
+            <div class="stat-label">Final Score</div>
+          </div>
+          <div class="stat-box">
+            <div id="stat-correct" class="stat-value" style="color: var(--color-hero-blue);">0</div>
+            <div class="stat-label">Facts Spot On</div>
+          </div>
+          <div class="stat-box">
+            <div id="stat-incorrect" class="stat-value" style="color: var(--color-hero-red);">0</div>
+            <div class="stat-label">Traps Sprung</div>
+          </div>
+          <div class="stat-box">
+            <div id="stat-accuracy" class="stat-value" style="color: var(--color-hero-blue);">0%</div>
+            <div class="stat-label">Accuracy</div>
+          </div>
+        </div>
+
+        <!-- XP Earned Section (populated by JS after save, hidden until then) -->
+        <div id="completion-xp-section" class="completion-xp-section" style="display: none;">
+          <div class="completion-xp-earned">
+            <span class="xp-earned-icon" aria-hidden="true">⚡</span>
+            <div>
+              <div class="xp-earned-label">XP Earned</div>
+              <div id="stat-xp-earned" class="xp-earned-value">+0 XP</div>
+            </div>
+          </div>
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <span id="completion-xp-level" class="xp-level-badge">Lvl 1</span>
+            <span id="completion-xp-lvl-up" class="completion-xp-lvl-up">🎉 LEVEL UP!</span>
+          </div>
+        </div>
+
+        <!-- Round Save Status & Persistence Feedback -->
+        <div id="completion-save-status" class="completion-save-status">
+          <!-- Populated dynamically: saving, saved, error with retry, or guest prompt -->
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="completion-actions">
+          <button id="play-again-btn" class="btn btn-hero-red">Play Again</button>
+          <button id="btn-completion-view-badges" class="btn btn-hero-blue">View Fandom Badges</button>
+          <button id="return-home-btn" class="btn btn-hero-dark">Return to Home</button>
+        </div>
+      </div>
+    </main>
+
+    <!-- VIEW 4: Premium Fandom Badge Collection Page -->
+    <main id="view-badges" class="view fandom-badges-view">
+      <!-- Back to Main Menu & View Header -->
+      <div class="setup-nav-row">
+        <button type="button" id="btn-badges-back-landing" class="btn-back-link">
+          <span aria-hidden="true">←</span> Main Menu
+        </button>
+        <div class="badges-header-actions-top">
+          <button type="button" id="btn-refresh-badges" class="btn-icon-refresh" title="Refresh Badge Progress">↻ Refresh Badges</button>
+        </div>
+      </div>
+
+      <div class="fandom-badges-hero">
+        <div class="badges-hero-badge">🎖️</div>
+        <h2 class="badges-hero-title">Fandom Hall of Badges</h2>
+        <p class="badges-hero-subtitle">
+          Earn 22 exclusive badges across 11 legendary fandoms. Complete 100 unique questions in a fandom to unlock <strong>Tier 1</strong>, and conquer all 200 questions to master <strong>Tier 2</strong>.
+        </p>
+      </div>
+
+      <!-- Summary Metrics Grid -->
+      <section class="badges-summary-grid" aria-label="Badge Progression Overview">
+        <div class="summary-metric-card">
+          <span class="metric-icon" aria-hidden="true">🏆</span>
+          <div class="metric-content">
+            <span class="metric-label">Total Badges Earned</span>
+            <span id="summary-unlocked-count" class="metric-value">0 / 22</span>
+          </div>
+        </div>
+
+        <div class="summary-metric-card summary-card-progress">
+          <div class="metric-progress-header">
+            <span class="metric-label">Overall Completion</span>
+            <span id="summary-completion-pct" class="metric-value">0%</span>
+          </div>
+          <div class="metric-bar-track">
+            <div id="summary-completion-fill" class="metric-bar-fill" style="width: 0%;"></div>
+          </div>
+        </div>
+
+        <div class="summary-metric-card">
+          <span class="metric-icon" aria-hidden="true">⭐</span>
+          <div class="metric-content">
+            <span class="metric-label">Fandoms Mastered (200 Qs)</span>
+            <span id="summary-completed-fandoms" class="metric-value">0 / 11</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Controls & Filter Bar -->
+      <section class="badges-controls-bar" aria-label="Badge Filters and Search">
+        <div class="search-input-wrap">
+          <span class="search-icon" aria-hidden="true">🔍</span>
+          <input type="search" id="badges-search-input" class="badges-search-input" placeholder="Search badges, fandoms, or lore..." aria-label="Search badges" />
+          <button type="button" id="btn-clear-search" class="btn-clear-search" style="display: none;" aria-label="Clear search">&times;</button>
+        </div>
+
+        <div class="filters-cluster">
+          <div class="badge-filter-tabs" role="tablist" aria-label="Filter Badges by Status">
+            <button type="button" class="badge-filter-btn active" data-filter="all" role="tab" aria-selected="true">All Badges</button>
+            <button type="button" class="badge-filter-btn" data-filter="unlocked" role="tab" aria-selected="false">✓ Unlocked</button>
+            <button type="button" class="badge-filter-btn" data-filter="locked" role="tab" aria-selected="false">🔒 Locked</button>
+          </div>
+
+          <div class="fandom-select-wrap">
+            <label for="badges-fandom-filter" class="sr-only">Filter by Fandom</label>
+            <select id="badges-fandom-filter" class="badges-fandom-select" aria-label="Select Fandom">
+              <option value="all">All Fandoms (11)</option>
+            </select>
+          </div>
+        </div>
+      </section>
+
+      <!-- Fandom Badges Dynamic Container -->
+      <div id="fandom-badges-content" class="fandom-badges-content">
+        <!-- Rendered dynamically by fandomBadges.js -->
+      </div>
+    </main>
+
+    <!-- VIEW 5: Personal Player Dashboard -->
+    <main id="view-dashboard" class="view player-dashboard-view">
+      <div id="dashboard-container" class="dashboard-container">
+        <!-- Rendered dynamically by js/playerDashboard.js -->
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+      <div class="footer-content">
+        <p><strong>Truth Pool</strong> Engine &copy; 2026. Facts. Fibs. You Decide.</p>
+        <p class="footer-sub">All 2,200 claims sourced from validated datasets across 11 multiverse fandoms.</p>
+      </div>
+    </footer>
+  </div>
+
+  <!-- About Truth Pool Modal / How to Play Manual -->
+  <div id="about-modal" class="auth-modal" role="dialog" aria-modal="true" aria-labelledby="about-modal-title" style="display: none;">
+    <div class="auth-modal-backdrop" id="about-modal-backdrop"></div>
+    <div class="card auth-modal-card about-modal-card">
+      <button id="about-modal-close" class="auth-modal-close-btn" type="button" aria-label="Close dialog">&times;</button>
+      <div class="about-modal-header">
+        <img src="assets/truth-pool-logo.png" alt="Truth Pool" class="about-logo-img">
+        <h2 id="about-modal-title" class="about-comic-title">Welcome to Truth Pool</h2>
+        <p class="about-comic-tagline">Facts. Fibs. You Decide. — Game Manual & Guide</p>
+      </div>
+      <div class="about-modal-body">
+        <div class="about-feature-box">
+          <span class="about-icon">🎯</span>
+          <div>
+            <strong>11 Multiverse Fandoms & 2,200 Claims</strong>
+            <p>Test your lore instincts across Marvel, DC, Naruto, One Piece, Dragon Ball, Bleach, Demon Slayer, Ben 10, My Hero Academia, Game of Thrones, and The Boys. Each universe holds 200 validated claims.</p>
+          </div>
+        </div>
+        <div class="about-feature-box">
+          <span class="about-icon">⚡</span>
+          <div>
+            <strong>Scoring, Streaks & Player XP</strong>
+            <p>Every spot-on answer awards +10 points. Maintain combo streaks for maximum momentum. Each completed round awards 10 XP per answered question plus 5 bonus XP per correct answer, driving rank promotions.</p>
+          </div>
+        </div>
+        <div class="about-feature-box">
+          <span class="about-icon">🎖️</span>
+          <div>
+            <strong>22 Exclusive Fandom Badges</strong>
+            <p>Every fandom features two permanent badges: Tier 1 unlocks at 100 unique completed questions, and Tier 2 Mastery unlocks at all 200 unique completed questions.</p>
+          </div>
+        </div>
+        <div class="about-feature-box">
+          <span class="about-icon">⌨️</span>
+          <div>
+            <strong>Tactile Controls & Keyboard Shortcuts</strong>
+            <p>Play effortlessly with mouse or keyboard: press <kbd class="kbd-key">F</kbd> for FACT, <kbd class="kbd-key">T</kbd> for TRAP, <kbd class="kbd-key">Enter</kbd> or <kbd class="kbd-key">Space</kbd> for Next Question, and <kbd class="kbd-key">Esc</kbd> to exit or close dialogs.</p>
+          </div>
+        </div>
+      </div>
+      <div class="about-modal-footer">
+        <button type="button" id="btn-about-play-now" class="btn btn-hero-red btn-block">Enter Fandom Arenas Now →</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Arena Exit Confirmation Modal -->
+  <div id="arena-exit-modal" class="auth-modal" role="dialog" aria-modal="true" aria-labelledby="arena-exit-title" style="display: none;">
+    <div class="auth-modal-backdrop" id="arena-exit-backdrop"></div>
+    <div class="card auth-modal-card" style="max-width: 440px; text-align: center;">
+      <h3 id="arena-exit-title" style="font-family: var(--font-comic); font-size: 1.8rem; color: var(--color-hero-red); margin-bottom: 8px;">Exit Active Round?</h3>
+      <p style="color: var(--color-slate-grey); font-size: 0.95rem; line-height: 1.5; margin-bottom: 24px;">
+        Leaving this round early will discard your active question streak and round score.
+      </p>
+      <div style="display: flex; gap: 12px; justify-content: center;">
+        <button type="button" id="btn-arena-cancel-exit" class="btn btn-hero-dark" style="flex: 1;">Keep Playing</button>
+        <button type="button" id="btn-arena-confirm-exit" class="btn btn-hero-red" style="flex: 1;">Yes, Exit</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Authentication Modal -->
+  <div id="auth-modal" class="auth-modal" role="dialog" aria-modal="true" aria-labelledby="auth-modal-title" style="display: none;">
+    <div class="auth-modal-backdrop" id="auth-modal-backdrop"></div>
+    <div class="card auth-modal-card">
+      <button id="auth-modal-close" class="auth-modal-close-btn" type="button" aria-label="Close dialog">&times;</button>
+
+      <!-- Panel 1: Sign In / Register (Guest Mode) -->
+      <div id="auth-guest-panel">
+        <div class="auth-tabs" role="tablist">
+          <button id="tab-login" class="auth-tab-btn active" type="button" role="tab" aria-selected="true">Sign In</button>
+          <button id="tab-register" class="auth-tab-btn" type="button" role="tab" aria-selected="false">Register</button>
+        </div>
+
+        <h2 id="auth-modal-title" class="auth-modal-title">Welcome to Truth Pool</h2>
+        <p id="auth-modal-subtitle" class="auth-modal-subtitle">Sign in to your Truth Pool account to track your progress</p>
+
+        <div id="auth-alert" class="auth-alert" style="display: none;" role="alert"></div>
+
+        <!-- Sign In Form -->
+        <form id="form-login" class="auth-form" novalidate>
+          <div class="form-group">
+            <label for="login-email" class="form-label">Email</label>
+            <input type="email" id="login-email" class="auth-input" placeholder="you@example.com" autocomplete="email" required>
+          </div>
+          <div class="form-group">
+            <label for="login-password" class="form-label">Password</label>
+            <input type="password" id="login-password" class="auth-input" placeholder="Enter password" autocomplete="current-password" required>
+          </div>
+          <button type="submit" id="btn-submit-login" class="btn btn-hero-red btn-block auth-submit-btn">
+            Sign In
+          </button>
+        </form>
+
+        <!-- Register Form -->
+        <form id="form-register" class="auth-form" style="display: none;" novalidate>
+          <div class="form-group">
+            <label for="register-username" class="form-label">Username</label>
+            <input type="text" id="register-username" class="auth-input" placeholder="Between 3 and 50 characters" autocomplete="username" minlength="3" maxlength="50" required>
+          </div>
+          <div class="form-group">
+            <label for="register-email" class="form-label">Email</label>
+            <input type="email" id="register-email" class="auth-input" placeholder="you@example.com" autocomplete="email" required>
+          </div>
+          <div class="form-group">
+            <label for="register-password" class="form-label">Password</label>
+            <input type="password" id="register-password" class="auth-input" placeholder="At least 8 characters" autocomplete="new-password" minlength="8" required>
+          </div>
+          <button type="submit" id="btn-submit-register" class="btn btn-hero-red btn-block auth-submit-btn">
+            Create Account
+          </button>
+        </form>
+      </div>
+
+      <!-- Panel 2: Account Profile & History/Stats (Authenticated Mode) -->
+      <div id="auth-user-panel" style="display: none;">
+        <div class="auth-tabs user-sub-tabs" role="tablist">
+          <button id="tab-user-profile" class="auth-tab-btn active" type="button" role="tab" aria-selected="true">Account Profile</button>
+          <button id="tab-user-history" class="auth-tab-btn" type="button" role="tab" aria-selected="false">Game History & Stats</button>
+          <button id="tab-user-achievements" class="auth-tab-btn" type="button" role="tab" aria-selected="false">Achievements</button>
+        </div>
+
+        <div id="auth-user-alert" class="auth-alert" style="display: none;" role="alert"></div>
+
+        <!-- Subpanel A: Account Details & Management -->
+        <div id="user-subpanel-profile">
+          <h2 class="auth-modal-title">Account Profile</h2>
+          <p class="auth-modal-subtitle">Signed in to Truth Pool</p>
+
+          <div class="auth-profile-details">
+            <div class="profile-field">
+              <span class="profile-field-label">Username</span>
+              <span id="profile-username" class="profile-field-val">—</span>
+            </div>
+            <div class="profile-field">
+              <span class="profile-field-label">Email</span>
+              <span id="profile-email" class="profile-field-val">—</span>
+            </div>
+            <div class="profile-field">
+              <span class="profile-field-label">Session Status</span>
+              <span class="profile-badge-active">Active</span>
+            </div>
+          </div>
+
+          <div class="auth-actions-group">
+            <button type="button" id="btn-logout" class="btn btn-hero-dark">
+              Sign Out
+            </button>
+
+            <div class="delete-account-wrapper">
+              <button type="button" id="btn-show-delete-confirm" class="btn-text-danger">
+                Delete Account
+              </button>
+              <div id="delete-confirm-box" class="delete-confirm-box" style="display: none;">
+                <p class="delete-warning-text">Are you sure? This will permanently delete your user account and all your game history records.</p>
+                <div class="delete-confirm-buttons">
+                  <button type="button" id="btn-cancel-delete" class="btn btn-secondary btn-sm">Cancel</button>
+                  <button type="button" id="btn-confirm-delete" class="btn btn-danger btn-sm">Yes, Delete Account</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Subpanel B: Player Statistics & Game History -->
+        <div id="user-subpanel-history" style="display: none;">
+          <div class="history-header-row">
+            <div>
+              <h2 class="auth-modal-title" style="margin-bottom: 2px;">Truth Pool Career Statistics</h2>
+              <p class="auth-modal-subtitle" style="margin-bottom: 12px;">Your verified performance across completed rounds</p>
+            </div>
+            <button type="button" id="btn-refresh-history" class="btn-icon-refresh" title="Refresh Statistics">↻ Refresh</button>
+          </div>
+
+          <!-- Aggregate Statistics Grid -->
+          <div class="stats-overview-grid">
+            <div class="stat-card">
+              <span class="stat-card-num" id="player-stat-rounds">0</span>
+              <span class="stat-card-title">Completed Rounds</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-card-num" id="player-stat-answered">0</span>
+              <span class="stat-card-title">Questions Answered</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-card-num" id="player-stat-correct" style="color: var(--color-hero-blue);">0</span>
+              <span class="stat-card-title">Facts Spot On</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-card-num" id="player-stat-accuracy" style="color: var(--color-golden-yellow);">0%</span>
+              <span class="stat-card-title">Overall Accuracy</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-card-num" id="player-stat-best">0</span>
+              <span class="stat-card-title">Best Score</span>
+            </div>
+
+            <!-- XP & Level Card (Full width in stats grid) -->
+            <div id="xp-stats-card" class="xp-stats-card">
+              <span id="player-stat-level" class="xp-stats-badge-lg">Level 1 Novice</span>
+              <div class="xp-stats-bar-col">
+                <div class="xp-stats-bar-track">
+                  <div id="xp-stats-bar-fill" class="xp-stats-bar-fill" style="width: 0%;"></div>
+                </div>
+                <div class="xp-stats-text">
+                  <span id="xp-stats-pct-text">0% to next level</span>
+                  <span id="xp-stats-needed-text">100 XP needed</span>
+                </div>
+              </div>
+              <span class="xp-stats-total">Total XP: <strong id="player-stat-xp" style="color: var(--color-hero-blue);">0</strong></span>
+            </div>
+          </div>
+
+          <!-- Recent Games List Section -->
+          <div class="history-list-section">
+            <h3 class="history-list-heading">Recent Games</h3>
+
+            <!-- Loading Spinner -->
+            <div id="history-loading" class="history-loading-indicator" style="display: none;">
+              <span class="spinner-sm"></span>
+              <span>Loading game history...</span>
+            </div>
+
+            <!-- Error State with Retry -->
+            <div id="history-error-container" class="auth-alert auth-alert-error" style="display: none;">
+              <span id="history-error-text">Failed to load game history.</span>
+              <button type="button" id="btn-retry-history" class="btn btn-secondary btn-sm" style="margin-left: 12px; display: inline-block;">Retry</button>
+            </div>
+
+            <!-- Empty State for new accounts -->
+            <div id="history-empty-container" class="history-empty-state" style="display: none;">
+              <div class="empty-icon">🎮</div>
+              <p class="empty-title">No games played yet</p>
+              <p class="empty-desc">Complete your first round to record your score, accuracy, and career history!</p>
+            </div>
+
+            <!-- History Table -->
+            <div id="history-table-container" class="history-table-container" style="display: none;">
+              <table class="history-table">
+                <thead>
+                  <tr>
+                    <th>Date</th>
+                    <th>Score</th>
+                    <th>Category</th>
+                    <th>Difficulty</th>
+                    <th>Accuracy</th>
+                  </tr>
+                </thead>
+                <tbody id="history-table-body">
+                  <!-- Populated dynamically -->
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <!-- Subpanel C: Achievement Badges Dashboard -->
+        <div id="user-subpanel-achievements" style="display: none;">
+          <div class="history-header-row">
+            <div>
+              <h2 class="auth-modal-title" style="margin-bottom: 2px;">Mission Achievements</h2>
+              <p class="auth-modal-subtitle" style="margin-bottom: 12px;">Track your verified achievements and milestone progress</p>
+            </div>
+            <div class="dash-ach-count-pill" style="align-self: flex-start;">
+              <span id="modal-ach-count" class="dash-ach-count">0 / 10</span>
+            </div>
+          </div>
+
+          <div class="dash-ach-track-box" style="margin-bottom: 14px;">
+            <div class="dash-ach-track">
+              <div id="modal-ach-fill" class="dash-ach-fill" style="width: 0%;"></div>
+            </div>
+          </div>
+
+          <div id="modal-achievements-grid" class="achievements-badges-grid">
+            <!-- Rendered dynamically by achievements.js -->
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Fandom Badge Detail Popover Modal -->
+  <div id="fandom-badge-detail-modal" class="auth-modal fandom-detail-modal" role="dialog" aria-modal="true" aria-labelledby="badge-modal-title" style="display: none;">
+    <div class="auth-modal-backdrop" id="badge-modal-backdrop"></div>
+    <div class="card auth-modal-card fandom-detail-modal-card">
+      <button id="badge-modal-close" class="auth-modal-close-btn" type="button" aria-label="Close dialog">&times;</button>
+
+      <div class="badge-detail-modal-header">
+        <div id="badge-modal-emblem" class="badge-detail-emblem-wrap"></div>
+        <div class="badge-detail-title-col">
+          <div class="badge-detail-tags">
+            <span id="badge-modal-tier" class="modal-tier-pill tier-1">Tier 1</span>
+            <span id="badge-modal-status" class="modal-status-pill locked">Locked</span>
+          </div>
+          <h2 id="badge-modal-title" class="badge-modal-title">Badge Title</h2>
+          <p id="badge-modal-fandom" class="badge-modal-fandom">Fandom Name</p>
+        </div>
+      </div>
+
+      <div class="badge-detail-modal-body">
+        <div class="detail-box">
+          <span class="detail-box-label">Description & Lore</span>
+          <p id="badge-modal-desc" class="detail-box-text">—</p>
+        </div>
+
+        <div class="detail-box">
+          <span class="detail-box-label">Unlock Condition</span>
+          <p id="badge-modal-req" class="detail-box-text">—</p>
+        </div>
+
+        <p id="badge-modal-date" class="badge-modal-date" style="display: none;">Unlocked on —</p>
+      </div>
+
+      <div class="badge-detail-modal-footer">
+        <button type="button" id="btn-close-badge-detail" class="btn btn-hero-dark btn-block" onclick="document.getElementById('badge-modal-close').click()">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Fandom Badge Unlock Celebration Modal -->
+  <div id="fandom-celebration-modal" class="auth-modal fandom-celebration-modal" role="dialog" aria-modal="true" aria-labelledby="celebration-badge-title" style="display: none;">
+    <div class="auth-modal-backdrop" id="celebration-modal-backdrop"></div>
+    <div id="celebration-particles" class="celebration-particles-canvas" aria-hidden="true"></div>
+    <div class="card auth-modal-card celebration-modal-card">
+      <button id="celebration-modal-close" class="auth-modal-close-btn" type="button" aria-label="Close celebration dialog">&times;</button>
+
+      <div class="celebration-burst-glow" aria-hidden="true"></div>
+
+      <div class="celebration-header">
+        <span class="celebration-banner-tag">🎉 NEW FANDOM BADGE UNLOCKED!</span>
+        <div id="celebration-emblem-wrap" class="celebration-emblem-wrap"></div>
+        <span id="celebration-badge-tier" class="celebration-tier-badge gold">★ TIER 2 MASTER UNLOCKED!</span>
+        <h2 id="celebration-badge-title" class="celebration-title">Master of the Omnitrix</h2>
+        <p id="celebration-badge-fandom" class="celebration-fandom">Ben 10</p>
+      </div>
+
+      <div class="celebration-body">
+        <p id="celebration-badge-desc" class="celebration-desc">Mastered all 200 Ben 10 questions — you wield the Omnitrix like a pro.</p>
+      </div>
+
+      <div class="celebration-footer">
+        <button type="button" id="btn-celebration-ack" class="btn btn-hero-red btn-block">Awesome! View Hall of Badges →</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Game Scripts -->
+  <script src="js/landing3d.js"></script>
+  <script src="js/gameEngine.js"></script>
+  <script src="js/auth.js"></script>
+  <script src="js/xp.js"></script>
+  <script src="js/achievements.js"></script>
+  <script src="js/fandomBadges.js"></script>
+  <script src="js/fandomSelection.js"></script>
+  <script src="js/playerDashboard.js"></script>
+  <script src="js/app.js"></script>
+
+  <!-- Level-Up Toast Notification (global, managed by xp.js) -->
+  <div id="levelup-toast" class="levelup-toast" role="status" aria-live="polite" aria-atomic="true">
+    <span class="levelup-toast-icon" aria-hidden="true">🚀</span>
+    <div class="levelup-toast-body">
+      <span class="levelup-toast-title" id="levelup-toast-title">Level Up!</span>
+      <span class="levelup-toast-sub" id="levelup-toast-sub">You reached Level 2</span>
+      <span class="levelup-toast-xp" id="levelup-toast-xp"></span>
+    </div>
+  </div>
+
+  <!-- Achievement Unlock Toast Notification (global, managed by achievements.js) -->
+  <div id="achievement-unlock-toast" class="levelup-toast achievement-unlock-toast" role="status" aria-live="polite" aria-atomic="true">
+    <span class="levelup-toast-icon ach-toast-icon" id="ach-toast-icon" aria-hidden="true">🏆</span>
+    <div class="levelup-toast-body">
+      <span class="levelup-toast-title ach-toast-title" id="ach-toast-title">Achievement Unlocked!</span>
+      <span class="levelup-toast-sub ach-toast-sub" id="ach-toast-sub">First Victory</span>
+    </div>
+  </div>
+</body>
+</html>

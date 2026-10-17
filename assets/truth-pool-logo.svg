@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="100%" height="100%">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="tpRedGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F87171"/>
+      <stop offset="50%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#B91C1C"/>
+    </linearGradient>
+    <linearGradient id="tpBlueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="50%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="tpYellowGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FDE68A"/>
+      <stop offset="40%" stop-color="#FBBF24"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+    <linearGradient id="tpWhiteGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#F1F5F9"/>
+      <stop offset="100%" stop-color="#CBD5E1"/>
+    </linearGradient>
+
+    <!-- Filter for Comic Dropshadow -->
+    <filter id="comicShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="4" dy="6" stdDeviation="0" flood-color="#050E1D" flood-opacity="0.9"/>
+    </filter>
+  </defs>
+
+  <!-- Left/Right Action Bursts -->
+  <polygon points="55,105 10,135 75,150" fill="#EF4444" opacity="0.9"/>
+  <polygon points="545,105 590,135 525,150" fill="#2563EB" opacity="0.9"/>
+
+  <!-- MASKED CHARACTER EMBLEM (Centered above TRUTH) -->
+  <g transform="translate(180, 5) scale(0.72)" filter="url(#comicShadow)">
+    <!-- Base Head Outline / Background -->
+    <circle cx="160" cy="115" r="92" fill="#0A182F" stroke="#050C17" stroke-width="8"/>
+
+    <!-- Left Half: Red Face -->
+    <path d="M 160,25 A 90,90 0 0,0 160,205 Z" fill="url(#tpRedGrad)"/>
+    <!-- Right Half: Blue Face -->
+    <path d="M 160,25 A 90,90 0 0,1 160,205 Z" fill="url(#tpBlueGrad)"/>
+
+    <!-- Central Mohawk Point -->
+    <polygon points="160,5 140,40 180,40" fill="#EF4444"/>
+    <polygon points="160,5 160,40 180,40" fill="#2563EB"/>
+    <polygon points="160,2 136,44 184,44" fill="none" stroke="#050C17" stroke-width="5"/>
+
+    <!-- Superhero Black Mask -->
+    <path d="M 85,120 Q 120,70 160,110 Q 200,70 235,120 Q 200,165 160,135 Q 120,165 85,120 Z"
+          fill="#050C17" stroke="#1E293B" stroke-width="4"/>
+
+    <!-- Left White Eye -->
+    <ellipse cx="125" cy="118" rx="26" ry="14" fill="#FFFFFF" transform="rotate(-12, 125, 118)"/>
+    <!-- Right White Eye -->
+    <ellipse cx="195" cy="118" rx="26" ry="14" fill="#FFFFFF" transform="rotate(12, 195, 118)"/>
+
+    <!-- Eye Highlights -->
+    <ellipse cx="128" cy="116" rx="22" ry="10" fill="#F8FAFC" transform="rotate(-12, 128, 116)"/>
+    <ellipse cx="192" cy="116" rx="22" ry="10" fill="#F8FAFC" transform="rotate(12, 192, 116)"/>
+  </g>
+
+  <!-- TRUTH TEXT (Big Comic White Block with Thick Blue/Dark Outline) -->
+  <g filter="url(#comicShadow)">
+    <!-- Outer Stroke -->
+    <text x="300" y="145" text-anchor="middle"
+          font-family="'Bangers', 'Impact', sans-serif" font-size="88" font-weight="900"
+          letter-spacing="4" fill="none" stroke="#0B1F3B" stroke-width="18" stroke-linejoin="round">TRUTH</text>
+    <text x="300" y="145" text-anchor="middle"
+          font-family="'Bangers', 'Impact', sans-serif" font-size="88" font-weight="900"
+          letter-spacing="4" fill="none" stroke="#2563EB" stroke-width="8" stroke-linejoin="round">TRUTH</text>
+    <!-- Inner Fill -->
+    <text x="300" y="145" text-anchor="middle"
+          font-family="'Bangers', 'Impact', sans-serif" font-size="88" font-weight="900"
+          letter-spacing="4" fill="url(#tpWhiteGrad)">TRUTH</text>
+  </g>
+
+  <!-- POOL TEXT (Golden Yellow with Question-Mark Target 'O') -->
+  <g filter="url(#comicShadow)" transform="translate(0, 10)">
+    <!-- P -->
+    <text x="180" y="195" text-anchor="middle"
+          font-family="'Bangers', 'Impact', sans-serif" font-size="76" font-weight="900"
+          fill="none" stroke="#0B1F3B" stroke-width="16" stroke-linejoin="round">P</text>
+    <text x="180" y="195" text-anchor="middle"
+          font-family="'Bangers', 'Impact', sans-serif" font-size="76" font-weight="900"
+          fill="url(#tpYellowGrad)">P</text>
+
+    <!-- First O: Target Red Disc with '?' -->
+    <g transform="translate(255, 170)">
+      <!-- Outer Yellow Ring -->
+      <circle cx="0" cy="0" r="32" fill="none" stroke="#0B1F3B" stroke-width="14"/>
+      <circle cx="0" cy="0" r="32" fill="url(#tpYellowGrad)"/>
+      <!-- Inner Red Target -->
+      <circle cx="0" cy="0" r="22" fill="#EF4444" stroke="#991B1B" stroke-width="3"/>
+      <!-- Question Mark -->
+      <text x="0" y="9" text-anchor="middle" font-family="'Bangers', sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">?</text>
+    </g>
+
+    <!-- Second O -->
+    <text x="335" y="195" text-anchor="middle"
+          font-family="'Bangers', 'Impact', sans-serif" font-size="76" font-weight="900"
+          fill="none" stroke="#0B1F3B" stroke-width="16" stroke-linejoin="round">O</text>
+    <text x="335" y="195" text-anchor="middle"
+          font-family="'Bangers', 'Impact', sans-serif" font-size="76" font-weight="900"
+          fill="url(#tpYellowGrad)">O</text>
+
+    <!-- L -->
+    <text x="405" y="195" text-anchor="middle"
+          font-family="'Bangers', 'Impact', sans-serif" font-size="76" font-weight="900"
+          fill="none" stroke="#0B1F3B" stroke-width="16" stroke-linejoin="round">L</text>
+    <text x="405" y="195" text-anchor="middle"
+          font-family="'Bangers', 'Impact', sans-serif" font-size="76" font-weight="900"
+          fill="url(#tpYellowGrad)">L</text>
+  </g>
+
+  <!-- TAGLINE: FACTS. FIBS. YOU DECIDE. -->
+  <text x="300" y="230" text-anchor="middle"
+        font-family="'Bangers', 'Comic Sans MS', sans-serif" font-size="20" font-weight="bold"
+        letter-spacing="2" fill="#F8FAFC">FACTS. FIBS. YOU DECIDE.</text>
+  <path d="M 220,236 Q 300,242 380,236" fill="none" stroke="#EF4444" stroke-width="3" stroke-linecap="round"/>
+</svg>

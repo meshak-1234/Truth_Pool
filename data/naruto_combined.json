@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "claim": "Naruto Uzumaki's birthday is October 10.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Official databook profile data lists Naruto's birthday as October 10.",
+    "source_name": "Narutopedia - Naruto Uzumaki",
+    "source_url": "https://naruto.fandom.com/wiki/Naruto_Uzumaki"
+  },
+  {
+    "id": 2,
+    "claim": "By the end of the main Naruto manga story, Naruto Uzumaki has become the Sixth Hokage.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. Kakashi Hatake becomes the Sixth Hokage; Naruto becomes the Seventh Hokage. (Spoiler: late Naruto: Shippuden / manga ending.)",
+    "source_name": "Narutopedia - Naruto Uzumaki",
+    "source_url": "https://naruto.fandom.com/wiki/Naruto_Uzumaki"
+  },
+  {
+    "id": 3,
+    "claim": "The Nine-Tailed Fox was sealed inside Naruto on the night he was born.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. The Nine-Tails attacked Konoha on the night of Naruto's birth and was sealed into him as a newborn. (Spoiler: origin of Naruto's jinchuriki status.)",
+    "source_name": "Narutopedia - Naruto Uzumaki",
+    "source_url": "https://naruto.fandom.com/wiki/Naruto_Uzumaki"
+  },
+  {
+    "id": 4,
+    "claim": "Naruto's father, Minato Namikaze, was the Third Hokage.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. Minato was the Fourth Hokage. The Third Hokage was Hiruzen Sarutobi. (Spoiler: Naruto's parentage.)",
+    "source_name": "Narutopedia - Minato Namikaze",
+    "source_url": "https://naruto.fandom.com/wiki/Minato_Namikaze"
+  },
+  {
+    "id": 5,
+    "claim": "In Part I of Naruto, Team 7 consists of Naruto Uzumaki, Sasuke Uchiha and Sakura Haruno, led by Kakashi Hatake.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. This is the original Team 7 lineup after the Academy graduation.",
+    "source_name": "Narutopedia - Team 7",
+    "source_url": "https://naruto.fandom.com/wiki/Team_7"
+  },
+  {
+    "id": 6,
+    "claim": "At the start of Part I of Naruto, Sasuke Uchiha's main goal is to kill Orochimaru, who destroyed the Uchiha clan.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. Sasuke's goal is to kill his older brother Itachi, who massacred the Uchiha clan. Orochimaru is a separate antagonist. (Spoiler: Uchiha massacre.)",
+    "source_name": "Narutopedia - Sasuke Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Sasuke_Uchiha"
+  },
+  {
+    "id": 7,
+    "claim": "Kakashi Hatake's left Sharingan eye was originally a gift from his teammate Obito Uchiha.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Obito gave Kakashi his left eye before his apparent death. (Spoiler: Kakashi's backstory.)",
+    "source_name": "Narutopedia - Kakashi Hatake",
+    "source_url": "https://naruto.fandom.com/wiki/Kakashi_Hatake"
+  },
+  {
+    "id": 8,
+    "claim": "Sakura Haruno becomes a student of Tsunade, learning medical ninjutsu and superhuman strength.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Sakura becomes Tsunade's apprentice and trains in medical ninjutsu and chakra-enhanced strength.",
+    "source_name": "Narutopedia - Sakura Haruno",
+    "source_url": "https://naruto.fandom.com/wiki/Sakura_Haruno"
+  },
+  {
+    "id": 9,
+    "claim": "Iruka Umino was Naruto's teacher at the Ninja Academy.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Iruka taught Naruto at the Academy and was the first to truly acknowledge him.",
+    "source_name": "Narutopedia - Iruka Umino",
+    "source_url": "https://naruto.fandom.com/wiki/Iruka_Umino"
+  },
+  {
+    "id": 10,
+    "claim": "Rock Lee is a gifted user of ninjutsu and genjutsu in addition to taijutsu.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. Rock Lee is unable to use ninjutsu or genjutsu and relies entirely on taijutsu.",
+    "source_name": "Narutopedia - Rock Lee",
+    "source_url": "https://naruto.fandom.com/wiki/Rock_Lee"
+  },
+  {
+    "id": 11,
+    "claim": "Gaara of the Sand is the jinchuriki of the One-Tailed Shukaku.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Gaara hosts Shukaku, the One-Tailed Beast.",
+    "source_name": "Narutopedia - Gaara",
+    "source_url": "https://naruto.fandom.com/wiki/Gaara"
+  },
+  {
+    "id": 12,
+    "claim": "Jiraiya was a member of the Akatsuki.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. Jiraiya investigated Akatsuki as an enemy and was killed by its leader Pain. (Spoiler: Jiraiya's fate.)",
+    "source_name": "Narutopedia - Jiraiya",
+    "source_url": "https://naruto.fandom.com/wiki/Jiraiya"
+  },
+  {
+    "id": 13,
+    "claim": "Jiraiya, Tsunade and Orochimaru are collectively known as the Legendary Sannin.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. The three were Hiruzen Sarutobi's students and earned the title after the Second Great Ninja War.",
+    "source_name": "Narutopedia - Jiraiya",
+    "source_url": "https://naruto.fandom.com/wiki/Jiraiya"
+  },
+  {
+    "id": 14,
+    "claim": "Hinata Hyuga is a member of the Hyuga clan and possesses the Byakugan.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Hinata is from the Hyuga clan, whose bloodline limit is the Byakugan.",
+    "source_name": "Narutopedia - Hinata Hyuga",
+    "source_url": "https://naruto.fandom.com/wiki/Hinata_Hy%C5%ABga"
+  },
+  {
+    "id": 15,
+    "claim": "Shikamaru Nara's signature clan technique is the Shadow Clone Jutsu.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. Shikamaru's signature technique is Shadow Possession Jutsu. Shadow Clone Jutsu is Naruto's trademark technique.",
+    "source_name": "Narutopedia - Shikamaru Nara",
+    "source_url": "https://naruto.fandom.com/wiki/Shikamaru_Nara"
+  },
+  {
+    "id": 16,
+    "claim": "In Part I of Naruto, Naruto and Sasuke fight at the Valley of the End after Sasuke leaves Konoha to seek Orochimaru's power.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Sasuke defects at the end of Part I and Naruto confronts him in a battle at the Valley of the End. (Spoiler: end of Part I.)",
+    "source_name": "Narutopedia - Sasuke Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Sasuke_Uchiha"
+  },
+  {
+    "id": 17,
+    "claim": "In Kakashi's bell test for Team 7, there are three bells for the three genin to compete for.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. There are only two bells, designed to force the genin into a test of teamwork.",
+    "source_name": "Narutopedia - Team 7",
+    "source_url": "https://naruto.fandom.com/wiki/Team_7"
+  },
+  {
+    "id": 18,
+    "claim": "Kakashi Hatake created the Chidori technique himself.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Kakashi developed the Chidori and later taught it to Sasuke.",
+    "source_name": "Narutopedia - Chidori",
+    "source_url": "https://naruto.fandom.com/wiki/Chidori"
+  },
+  {
+    "id": 19,
+    "claim": "Naruto learned the Rasengan from Kakashi Hatake.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Naruto learned the Rasengan from Jiraiya in Part I. Kakashi taught Sasuke the Chidori.",
+    "source_name": "Narutopedia - Rasengan",
+    "source_url": "https://naruto.fandom.com/wiki/Rasengan"
+  },
+  {
+    "id": 20,
+    "claim": "Naruto's parents are Minato Namikaze and Kushina Uzumaki.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Naruto's father is the Fourth Hokage Minato and his mother is Kushina Uzumaki. (Spoiler: revealed in Naruto: Shippuden.)",
+    "source_name": "Narutopedia - Kushina Uzumaki",
+    "source_url": "https://naruto.fandom.com/wiki/Kushina_Uzumaki"
+  },
+  {
+    "id": 21,
+    "claim": "Orochimaru places the Cursed Seal of Heaven on Sasuke during the Chunin Exams in the Forest of Death.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Orochimaru bites Sasuke's neck in the Forest of Death during the second exam.",
+    "source_name": "Narutopedia - Orochimaru",
+    "source_url": "https://naruto.fandom.com/wiki/Orochimaru"
+  },
+  {
+    "id": 22,
+    "claim": "Tsunade is the granddaughter of the Second Hokage, Tobirama Senju.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Tsunade is the granddaughter of the First Hokage Hashirama Senju (and grandniece of Tobirama).",
+    "source_name": "Narutopedia - Tsunade",
+    "source_url": "https://naruto.fandom.com/wiki/Tsunade"
+  },
+  {
+    "id": 23,
+    "claim": "At the end of the Chunin Exams in Part I, Shikamaru Nara is the only participant promoted to chunin.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Shikamaru is promoted for his strategic skill; the other participants are not promoted at that time.",
+    "source_name": "Narutopedia - Shikamaru Nara",
+    "source_url": "https://naruto.fandom.com/wiki/Shikamaru_Nara"
+  },
+  {
+    "id": 24,
+    "claim": "Might Guy is Rock Lee's sensei and Kakashi's self-proclaimed rival.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Guy leads Team Guy including Lee and constantly challenges Kakashi.",
+    "source_name": "Narutopedia - Might Guy",
+    "source_url": "https://naruto.fandom.com/wiki/Might_Guy"
+  },
+  {
+    "id": 25,
+    "claim": "Gaara is the eldest of the three Sand siblings, older than Temari and Kankuro.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Gaara is the youngest of the three; Temari is the eldest, then Kankuro, then Gaara.",
+    "source_name": "Narutopedia - Gaara",
+    "source_url": "https://naruto.fandom.com/wiki/Gaara"
+  },
+  {
+    "id": 26,
+    "claim": "Iruka Umino's parents were killed during the Nine-Tails' attack on Konoha.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Iruka lost his parents in the Nine-Tails' attack, which makes his later acceptance of Naruto significant. (Spoiler.)",
+    "source_name": "Narutopedia - Iruka Umino",
+    "source_url": "https://naruto.fandom.com/wiki/Iruka_Umino"
+  },
+  {
+    "id": 27,
+    "claim": "Sakura Haruno comes from a famous ninja clan, like Sasuke and Hinata.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Sakura comes from a civilian family with no prominent clan background.",
+    "source_name": "Narutopedia - Sakura Haruno",
+    "source_url": "https://naruto.fandom.com/wiki/Sakura_Haruno"
+  },
+  {
+    "id": 28,
+    "claim": "Jiraiya is the author of the Icha Icha novel series that Kakashi is often seen reading.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Jiraiya writes the Icha Icha series, and Kakashi is a well-known reader.",
+    "source_name": "Narutopedia - Jiraiya",
+    "source_url": "https://naruto.fandom.com/wiki/Jiraiya"
+  },
+  {
+    "id": 29,
+    "claim": "Orochimaru was exiled from Konoha for stealing the Forbidden Scroll of Seals.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Orochimaru defected after his unethical human experiments were discovered. The scroll theft was Naruto's, via Mizuki's deception.",
+    "source_name": "Narutopedia - Orochimaru",
+    "source_url": "https://naruto.fandom.com/wiki/Orochimaru"
+  },
+  {
+    "id": 30,
+    "claim": "Hinata Hyuga confesses her love to Naruto during Pain's assault on Konoha.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Hinata confronts Pain to protect Naruto and declares her feelings. (Spoiler: Naruto: Shippuden, Pain arc.)",
+    "source_name": "Narutopedia - Hinata Hyuga",
+    "source_url": "https://naruto.fandom.com/wiki/Hinata_Hy%C5%ABga"
+  },
+  {
+    "id": 31,
+    "claim": "Sasuke Uchiha first awakens his Sharingan during the fight against Haku in the Land of Waves arc.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Sasuke awakens the Sharingan in the fight with Haku while Naruto is in danger.",
+    "source_name": "Narutopedia - Sasuke Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Sasuke_Uchiha"
+  },
+  {
+    "id": 32,
+    "claim": "Naruto learned the Shadow Clone Jutsu directly from his teacher Iruka at the Academy.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Naruto learned it from the Scroll of Seals he took after Mizuki tricked him; it was not part of the Academy curriculum.",
+    "source_name": "Narutopedia - Naruto Uzumaki",
+    "source_url": "https://naruto.fandom.com/wiki/Naruto_Uzumaki"
+  },
+  {
+    "id": 33,
+    "claim": "Kakashi Hatake becomes the Fifth Hokage of Konoha.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Tsunade is the Fifth Hokage. Kakashi later becomes the Sixth. (Spoiler.)",
+    "source_name": "Narutopedia - Kakashi Hatake",
+    "source_url": "https://naruto.fandom.com/wiki/Kakashi_Hatake"
+  },
+  {
+    "id": 34,
+    "claim": "Neji Hyuga is Hinata Hyuga's older brother.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Neji is Hinata's older cousin from the Hyuga branch family.",
+    "source_name": "Narutopedia - Neji Hyuga",
+    "source_url": "https://naruto.fandom.com/wiki/Neji_Hy%C5%ABga"
+  },
+  {
+    "id": 35,
+    "claim": "Sasuke Uchiha kills his brother Itachi during Part I of Naruto.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Sasuke and Itachi fight in Naruto: Shippuden (Part II), not Part I. (Spoiler.)",
+    "source_name": "Narutopedia - Itachi Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Itachi_Uchiha"
+  },
+  {
+    "id": 36,
+    "claim": "Kakashi Hatake's father, Sakumo, was known as Konoha's White Fang.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Sakumo Hatake was celebrated as the White Fang of the Leaf, a legendary shinobi. (Spoiler: Kakashi's backstory.)",
+    "source_name": "Narutopedia - Sakumo Hatake",
+    "source_url": "https://naruto.fandom.com/wiki/Sakumo_Hatake"
+  },
+  {
+    "id": 37,
+    "claim": "Kakashi's father Sakumo Hatake died in battle during the Third Great Ninja War.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Sakumo took his own life after being shunned by the village for abandoning a mission to save his teammates. (Spoiler: sensitive backstory.)",
+    "source_name": "Narutopedia - Sakumo Hatake",
+    "source_url": "https://naruto.fandom.com/wiki/Sakumo_Hatake"
+  },
+  {
+    "id": 38,
+    "claim": "Jiraiya's Sage Mode is learned through senjutsu training at Mount Myoboku.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Jiraiya trained at Mount Myoboku with the toads to gain Sage Mode, and later taught Naruto there.",
+    "source_name": "Narutopedia - Jiraiya",
+    "source_url": "https://naruto.fandom.com/wiki/Jiraiya"
+  },
+  {
+    "id": 39,
+    "claim": "Jiraiya is killed by his former teammate Orochimaru.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Jiraiya is killed by Pain (Nagato) of the Akatsuki in Naruto: Shippuden. (Spoiler.)",
+    "source_name": "Narutopedia - Jiraiya",
+    "source_url": "https://naruto.fandom.com/wiki/Jiraiya"
+  },
+  {
+    "id": 40,
+    "claim": "Might Guy opens the Eighth Gate, the Gate of Death, during the Fourth Great Ninja War.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Guy opens the Eighth Gate to fight Madara Uchiha. (Spoiler: Fourth Great Ninja War.)",
+    "source_name": "Narutopedia - Eight Inner Gates",
+    "source_url": "https://naruto.fandom.com/wiki/Eight_Inner_Gates"
+  },
+  {
+    "id": 41,
+    "claim": "During the Chunin Exams, Rock Lee opens the Eighth Inner Gate to fight Gaara.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Lee opens up to the Fifth Gate against Gaara. Opening the Eighth Gate is reserved for Guy later in the series.",
+    "source_name": "Narutopedia - Rock Lee",
+    "source_url": "https://naruto.fandom.com/wiki/Rock_Lee"
+  },
+  {
+    "id": 42,
+    "claim": "Tsunade carries the Strength of a Hundred Seal, a diamond mark on her forehead.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Tsunade stores chakra in the seal over years, which she can release for powerful healing and strength.",
+    "source_name": "Narutopedia - Strength of a Hundred Seal",
+    "source_url": "https://naruto.fandom.com/wiki/Strength_of_a_Hundred_Seal"
+  },
+  {
+    "id": 43,
+    "claim": "Sakura Haruno learns the Strength of a Hundred Seal during Part I of Naruto.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Sakura learns the seal after training under Tsunade in Naruto: Shippuden (Part II). (Spoiler.)",
+    "source_name": "Narutopedia - Sakura Haruno",
+    "source_url": "https://naruto.fandom.com/wiki/Sakura_Haruno"
+  },
+  {
+    "id": 44,
+    "claim": "Shikamaru Nara's official databook profile lists his IQ as over 200.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. His databook entry states an IQ exceeding 200, reflecting his genius-level intellect.",
+    "source_name": "Narutopedia - Shikamaru Nara",
+    "source_url": "https://naruto.fandom.com/wiki/Shikamaru_Nara"
+  },
+  {
+    "id": 45,
+    "claim": "Gaara becomes the Kazekage during Part I of Naruto.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Gaara becomes the Fifth Kazekage in the time skip between Part I and Naruto: Shippuden (Part II). (Spoiler.)",
+    "source_name": "Narutopedia - Gaara",
+    "source_url": "https://naruto.fandom.com/wiki/Gaara"
+  },
+  {
+    "id": 46,
+    "claim": "After Gaara is killed by the Akatsuki, Chiyo sacrifices her own life to revive him.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Chiyo uses a forbidden technique to bring Gaara back to life at the cost of her own life. (Spoiler: Naruto: Shippuden.)",
+    "source_name": "Narutopedia - Chiyo",
+    "source_url": "https://naruto.fandom.com/wiki/Chiyo"
+  },
+  {
+    "id": 47,
+    "claim": "In Part I, Orochimaru's primary target for his next body transfer is Naruto Uzumaki.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. His target is Sasuke Uchiha because of the Sharingan. (Spoiler.)",
+    "source_name": "Narutopedia - Orochimaru",
+    "source_url": "https://naruto.fandom.com/wiki/Orochimaru"
+  },
+  {
+    "id": 48,
+    "claim": "Kakashi Hatake was a student of the Third Hokage, Hiruzen Sarutobi.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Kakashi was the student of Minato Namikaze, the Fourth Hokage. (Spoiler.)",
+    "source_name": "Narutopedia - Kakashi Hatake",
+    "source_url": "https://naruto.fandom.com/wiki/Kakashi_Hatake"
+  },
+  {
+    "id": 49,
+    "claim": "Asuma Sarutobi is killed by Itachi Uchiha.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Asuma is killed by Hidan of the Akatsuki in Naruto: Shippuden. (Spoiler.)",
+    "source_name": "Narutopedia - Asuma Sarutobi",
+    "source_url": "https://naruto.fandom.com/wiki/Asuma_Sarutobi"
+  },
+  {
+    "id": 50,
+    "claim": "Naruto defeats Neji Hyuga in the preliminary round of the Chunin Exams.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Naruto faces Kiba in the preliminaries; he defeats Neji in the first round of the finals tournament.",
+    "source_name": "Narutopedia - Neji Hyuga",
+    "source_url": "https://naruto.fandom.com/wiki/Neji_Hy%C5%ABga"
+  },
+  {
+    "id": 51,
+    "claim": "Itachi Uchiha massacred most of the Uchiha clan but spared his younger brother Sasuke.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Itachi killed the clan in one night and left Sasuke alive. (Spoiler: Uchiha massacre.)",
+    "source_name": "Narutopedia - Itachi Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Itachi_Uchiha"
+  },
+  {
+    "id": 52,
+    "claim": "Itachi Uchiha is Sasuke Uchiha's cousin.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. Itachi is Sasuke's older brother; both are sons of Fugaku and Mikoto Uchiha.",
+    "source_name": "Narutopedia - Itachi Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Itachi_Uchiha"
+  },
+  {
+    "id": 53,
+    "claim": "Akatsuki members wear black cloaks decorated with red clouds.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. The black cloak with red clouds is the organization's uniform.",
+    "source_name": "Narutopedia - Akatsuki",
+    "source_url": "https://naruto.fandom.com/wiki/Akatsuki"
+  },
+  {
+    "id": 54,
+    "claim": "Sasori's signature art form is explosive clay sculptures.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. Explosive clay is Deidara's art. Sasori is a puppet master who considers puppets eternal art.",
+    "source_name": "Narutopedia - Sasori",
+    "source_url": "https://naruto.fandom.com/wiki/Sasori"
+  },
+  {
+    "id": 55,
+    "claim": "Kisame Hoshigaki is Itachi Uchiha's partner in the Akatsuki.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Itachi and Kisame operate as a two-man team during Naruto: Shippuden's early arcs.",
+    "source_name": "Narutopedia - Kisame Hoshigaki",
+    "source_url": "https://naruto.fandom.com/wiki/Kisame_Hoshigaki"
+  },
+  {
+    "id": 56,
+    "claim": "Kakuzu's Akatsuki partner is Kisame Hoshigaki.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. Kakuzu is partnered with Hidan; Kisame is partnered with Itachi.",
+    "source_name": "Narutopedia - Kakuzu",
+    "source_url": "https://naruto.fandom.com/wiki/Kakuzu"
+  },
+  {
+    "id": 57,
+    "claim": "Madara Uchiha co-founded Konoha alongside Hashirama Senju.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Madara and Hashirama united their clans to found the village before their falling out. (Spoiler: Madara's history.)",
+    "source_name": "Narutopedia - Madara Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Madara_Uchiha"
+  },
+  {
+    "id": 58,
+    "claim": "Zetsu is a plant-like Akatsuki member with a black and white appearance.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Zetsu is shown as a half-black, half-white plant-like being who spies for the Akatsuki.",
+    "source_name": "Narutopedia - Zetsu",
+    "source_url": "https://naruto.fandom.com/wiki/Zetsu"
+  },
+  {
+    "id": 59,
+    "claim": "Zabuza Momochi is a missing-nin from Konoha.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. Zabuza is a missing-nin from Kirigakure (the Hidden Mist Village).",
+    "source_name": "Narutopedia - Zabuza Momochi",
+    "source_url": "https://naruto.fandom.com/wiki/Zabuza_Momochi"
+  },
+  {
+    "id": 60,
+    "claim": "Kisame Hoshigaki was originally a Konoha shinobi.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. Kisame is a former shinobi of Kirigakure and one of its Seven Ninja Swordsmen.",
+    "source_name": "Narutopedia - Kisame Hoshigaki",
+    "source_url": "https://naruto.fandom.com/wiki/Kisame_Hoshigaki"
+  },
+  {
+    "id": 61,
+    "claim": "Itachi Uchiha served in Konoha's ANBU before the Uchiha massacre.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Itachi was a member of ANBU and a prodigy before he left the village. (Spoiler.)",
+    "source_name": "Narutopedia - Itachi Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Itachi_Uchiha"
+  },
+  {
+    "id": 62,
+    "claim": "Itachi Uchiha carried out the Uchiha massacre entirely alone.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Obito Uchiha assisted Itachi in the massacre. (Spoiler: Fourth Great Ninja War revelations.)",
+    "source_name": "Narutopedia - Obito Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Obito_Uchiha"
+  },
+  {
+    "id": 63,
+    "claim": "During Naruto: Shippuden, Itachi Uchiha suffers from a terminal illness.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Itachi's illness weakens him and is revealed to be a factor in his final fight with Sasuke. (Spoiler.)",
+    "source_name": "Narutopedia - Itachi Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Itachi_Uchiha"
+  },
+  {
+    "id": 64,
+    "claim": "The masked Akatsuki member Tobi is the original Madara Uchiha.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Tobi is revealed to be Obito Uchiha, who took Madara's name. (Spoiler: Fourth Great Ninja War.)",
+    "source_name": "Narutopedia - Obito Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Obito_Uchiha"
+  },
+  {
+    "id": 65,
+    "claim": "Obito Uchiha was believed to have died at Kannabi Bridge during the Third Great Ninja War.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Konoha believed Obito was crushed by a boulder at Kannabi Bridge. (Spoiler.)",
+    "source_name": "Narutopedia - Obito Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Obito_Uchiha"
+  },
+  {
+    "id": 66,
+    "claim": "Obito Uchiha was Kakashi Hatake's student.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Obito was Kakashi's teammate on Minato Namikaze's team. (Spoiler.)",
+    "source_name": "Narutopedia - Obito Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Obito_Uchiha"
+  },
+  {
+    "id": 67,
+    "claim": "Madara Uchiha and Hashirama Senju fought each other at the Valley of the End.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Their battle at the Valley of the End shaped the landscape and ended with Hashirama's victory. (Spoiler.)",
+    "source_name": "Narutopedia - Madara Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Madara_Uchiha"
+  },
+  {
+    "id": 68,
+    "claim": "Madara Uchiha's younger brother was named Izuna.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Izuna Uchiha was Madara's younger brother and died in the Senju-Uchiha conflict. (Spoiler.)",
+    "source_name": "Narutopedia - Izuna Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Izuna_Uchiha"
+  },
+  {
+    "id": 69,
+    "claim": "Madara Uchiha obtained his Eternal Mangekyo Sharingan by transplanting his brother Izuna's eyes.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. After Izuna's death, Madara received his brother's eyes and gained the Eternal Mangekyo. (Spoiler.)",
+    "source_name": "Narutopedia - Madara Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Madara_Uchiha"
+  },
+  {
+    "id": 70,
+    "claim": "Nagato, the man behind Pain, was a member of the Uchiha clan.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Nagato is of Uzumaki descent and a native of Amegakure. (Spoiler.)",
+    "source_name": "Narutopedia - Nagato",
+    "source_url": "https://naruto.fandom.com/wiki/Nagato"
+  },
+  {
+    "id": 71,
+    "claim": "Nagato, Yahiko and Konan were orphans of Amegakure who were trained by Jiraiya.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Jiraiya took the three orphans as students during the Second Great Ninja War era. (Spoiler.)",
+    "source_name": "Narutopedia - Nagato",
+    "source_url": "https://naruto.fandom.com/wiki/Nagato"
+  },
+  {
+    "id": 72,
+    "claim": "Konan controls the Six Paths of Pain through chakra receivers.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Nagato controls the Six Paths of Pain with his Rinnegan. Konan is Nagato's partner. (Spoiler.)",
+    "source_name": "Narutopedia - Nagato",
+    "source_url": "https://naruto.fandom.com/wiki/Nagato"
+  },
+  {
+    "id": 73,
+    "claim": "Konan's signature ninja art is based on paper.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Konan manipulates paper in her origami-based techniques.",
+    "source_name": "Narutopedia - Konan",
+    "source_url": "https://naruto.fandom.com/wiki/Konan"
+  },
+  {
+    "id": 74,
+    "claim": "Kisame Hoshigaki wields the sword Kubikiribocho.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Kisame wields Samehada; Kubikiribocho belonged to Zabuza.",
+    "source_name": "Narutopedia - Kisame Hoshigaki",
+    "source_url": "https://naruto.fandom.com/wiki/Kisame_Hoshigaki"
+  },
+  {
+    "id": 75,
+    "claim": "Kisame Hoshigaki's sword Samehada can absorb chakra.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Samehada devours chakra from opponents and its jutsu.",
+    "source_name": "Narutopedia - Kisame Hoshigaki",
+    "source_url": "https://naruto.fandom.com/wiki/Kisame_Hoshigaki"
+  },
+  {
+    "id": 76,
+    "claim": "Deidara was originally a missing-nin from Kumogakure.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Deidara was a missing-nin from Iwagakure (the Hidden Stone Village).",
+    "source_name": "Narutopedia - Deidara",
+    "source_url": "https://naruto.fandom.com/wiki/Deidara"
+  },
+  {
+    "id": 77,
+    "claim": "Deidara dies by detonating himself in a final attack during his fight with Sasuke.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Deidara triggers his C0 self-destruct technique against Sasuke. (Spoiler: Naruto: Shippuden.)",
+    "source_name": "Narutopedia - Deidara",
+    "source_url": "https://naruto.fandom.com/wiki/Deidara"
+  },
+  {
+    "id": 78,
+    "claim": "Sasori is killed by Sakura Haruno and Chiyo.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Sakura and Chiyo defeat Sasori together. (Spoiler: Naruto: Shippuden.)",
+    "source_name": "Narutopedia - Sasori",
+    "source_url": "https://naruto.fandom.com/wiki/Sasori"
+  },
+  {
+    "id": 79,
+    "claim": "Kakuzu is originally a shinobi from Kirigakure.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Kakuzu is from Takigakure (the Hidden Waterfall Village).",
+    "source_name": "Narutopedia - Kakuzu",
+    "source_url": "https://naruto.fandom.com/wiki/Kakuzu"
+  },
+  {
+    "id": 80,
+    "claim": "Hidan's Jashin ritual lets him share wounds with a victim whose blood he has tasted.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Hidan's ritual links him to his victim so that damage to him is inflicted on the victim.",
+    "source_name": "Narutopedia - Hidan",
+    "source_url": "https://naruto.fandom.com/wiki/Hidan"
+  },
+  {
+    "id": 81,
+    "claim": "Zetsu was created by Orochimaru.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Zetsu is tied to Obito, Madara and Kaguya's will, not Orochimaru. (Spoiler.)",
+    "source_name": "Narutopedia - Zetsu",
+    "source_url": "https://naruto.fandom.com/wiki/Zetsu"
+  },
+  {
+    "id": 82,
+    "claim": "Kabuto Yakushi grew up as an orphan under the care of Nonou Yakushi.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Nonou took in the orphaned Kabuto and raised him. (Spoiler: Kabuto's backstory.)",
+    "source_name": "Narutopedia - Kabuto Yakushi",
+    "source_url": "https://naruto.fandom.com/wiki/Kabuto_Yakushi"
+  },
+  {
+    "id": 83,
+    "claim": "Danzo Shimura commanded Konoha's Uchiha-run Military Police Force.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. The Uchiha clan ran the Military Police Force. Danzo led the covert organization known as Root. (Spoiler.)",
+    "source_name": "Narutopedia - Danzo Shimura",
+    "source_url": "https://naruto.fandom.com/wiki/Danz%C5%8D_Shimura"
+  },
+  {
+    "id": 84,
+    "claim": "Danzo Shimura had multiple Sharingan implanted in his right arm.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Danzo's arm held many Sharingan used for Izanagi. (Spoiler.)",
+    "source_name": "Narutopedia - Danzo Shimura",
+    "source_url": "https://naruto.fandom.com/wiki/Danz%C5%8D_Shimura"
+  },
+  {
+    "id": 85,
+    "claim": "The Uchiha clan founded the Akatsuki organization.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Akatsuki was founded by Yahiko, Nagato and Konan, and later controlled by Obito. (Spoiler.)",
+    "source_name": "Narutopedia - Akatsuki",
+    "source_url": "https://naruto.fandom.com/wiki/Akatsuki"
+  },
+  {
+    "id": 86,
+    "claim": "Itachi Uchiha's Mangekyo Sharingan abilities include Amaterasu, Tsukuyomi and Susanoo.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. These are his three signature Mangekyo techniques.",
+    "source_name": "Narutopedia - Itachi Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Itachi_Uchiha"
+  },
+  {
+    "id": 87,
+    "claim": "Itachi Uchiha is killed by Obito Uchiha.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Itachi dies after his battle with Sasuke, weakened by illness. (Spoiler.)",
+    "source_name": "Narutopedia - Itachi Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Itachi_Uchiha"
+  },
+  {
+    "id": 88,
+    "claim": "Obito Uchiha's body was partly rebuilt using Hashirama Senju's cells.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. After the Kannabi Bridge incident, his injuries were treated with Hashirama's cells. (Spoiler.)",
+    "source_name": "Narutopedia - Obito Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Obito_Uchiha"
+  },
+  {
+    "id": 89,
+    "claim": "Obito Uchiha was the original founder of the Akatsuki.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Yahiko, Nagato and Konan founded Akatsuki. Obito later took control of it. (Spoiler.)",
+    "source_name": "Narutopedia - Obito Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Obito_Uchiha"
+  },
+  {
+    "id": 90,
+    "claim": "Madara Uchiha is revived with Edo Tensei during the Fourth Great Ninja War.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Kabuto revives Madara among other shinobi using Edo Tensei. (Spoiler.)",
+    "source_name": "Narutopedia - Madara Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Madara_Uchiha"
+  },
+  {
+    "id": 91,
+    "claim": "Pain invades Konoha in order to capture Gaara.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Pain attacks Konoha to capture Naruto and the Nine-Tails. Gaara's Akatsuki capture happens earlier. (Spoiler.)",
+    "source_name": "Narutopedia - Nagato",
+    "source_url": "https://naruto.fandom.com/wiki/Nagato"
+  },
+  {
+    "id": 92,
+    "claim": "Nagato can summon the Gedo Mazo statue using his Rinnegan.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Nagato summons the Gedo Mazo statue in Naruto: Shippuden. (Spoiler.)",
+    "source_name": "Narutopedia - Nagato",
+    "source_url": "https://naruto.fandom.com/wiki/Nagato"
+  },
+  {
+    "id": 93,
+    "claim": "Konan is killed in battle by Orochimaru.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Konan dies fighting Obito, who was posing as Madara. (Spoiler.)",
+    "source_name": "Narutopedia - Konan",
+    "source_url": "https://naruto.fandom.com/wiki/Konan"
+  },
+  {
+    "id": 94,
+    "claim": "Deidara's original Akatsuki partner was Hidan.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Deidara was partnered with Sasori. Hidan's partner is Kakuzu.",
+    "source_name": "Narutopedia - Deidara",
+    "source_url": "https://naruto.fandom.com/wiki/Deidara"
+  },
+  {
+    "id": 95,
+    "claim": "Hiruko is Sasori's true body.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Hiruko is a puppet shell Sasori uses to hide his true body, which is a puppet modeled on his younger self.",
+    "source_name": "Narutopedia - Sasori",
+    "source_url": "https://naruto.fandom.com/wiki/Sasori"
+  },
+  {
+    "id": 96,
+    "claim": "Hidan is defeated by Shikamaru Nara.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Shikamaru traps Hidan and buries him. (Spoiler.)",
+    "source_name": "Narutopedia - Hidan",
+    "source_url": "https://naruto.fandom.com/wiki/Hidan"
+  },
+  {
+    "id": 97,
+    "claim": "Kakuzu is killed by his partner Hidan.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Kakuzu is defeated by Naruto and Kakashi. (Spoiler.)",
+    "source_name": "Narutopedia - Kakuzu",
+    "source_url": "https://naruto.fandom.com/wiki/Kakuzu"
+  },
+  {
+    "id": 98,
+    "claim": "White Zetsu clones are derived from Hashirama Senju's cells.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. The White Zetsu army is created using Hashirama's cells. (Spoiler.)",
+    "source_name": "Narutopedia - Zetsu",
+    "source_url": "https://naruto.fandom.com/wiki/Zetsu"
+  },
+  {
+    "id": 99,
+    "claim": "Orochimaru was killed by Itachi Uchiha.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Itachi sealed Orochimaru's arms but did not kill him. (Spoiler.)",
+    "source_name": "Narutopedia - Orochimaru",
+    "source_url": "https://naruto.fandom.com/wiki/Orochimaru"
+  },
+  {
+    "id": 100,
+    "claim": "Danzo Shimura was killed by Kakashi Hatake.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Danzo dies fighting Sasuke Uchiha. (Spoiler.)",
+    "source_name": "Narutopedia - Danzo Shimura",
+    "source_url": "https://naruto.fandom.com/wiki/Danz%C5%8D_Shimura"
+  },
+  {
+    "id": 101,
+    "claim": "When a Shadow Clone is dispelled, its experiences return to the original user.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Shadow Clones transfer their memories and experiences to the user when dispelled.",
+    "source_name": "Narutopedia - Shadow Clone Technique",
+    "source_url": "https://naruto.fandom.com/wiki/Shadow_Clone_Technique"
+  },
+  {
+    "id": 102,
+    "claim": "Shadow Clones are intangible illusions that cannot physically touch anything.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. Shadow Clones are solid, physical copies that can fight and interact with objects. Illusory copies are a different technique.",
+    "source_name": "Narutopedia - Shadow Clone Technique",
+    "source_url": "https://naruto.fandom.com/wiki/Shadow_Clone_Technique"
+  },
+  {
+    "id": 103,
+    "claim": "The Sharingan allows its user to copy many ninjutsu, taijutsu and genjutsu techniques they witness.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Copying is one of the Sharingan's core abilities, though it has limits.",
+    "source_name": "Narutopedia - Sharingan",
+    "source_url": "https://naruto.fandom.com/wiki/Sharingan"
+  },
+  {
+    "id": 104,
+    "claim": "The Byakugan is a bloodline ability of the Uchiha clan.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. The Byakugan belongs to the Hyuga clan. The Sharingan is the Uchiha ability.",
+    "source_name": "Narutopedia - Byakugan",
+    "source_url": "https://naruto.fandom.com/wiki/Byakugan"
+  },
+  {
+    "id": 105,
+    "claim": "Wood Release is the signature ability of the First Hokage, Hashirama Senju.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Hashirama was famed for Wood Release, an ability he had from birth.",
+    "source_name": "Narutopedia - Wood Release",
+    "source_url": "https://naruto.fandom.com/wiki/Wood_Release"
+  },
+  {
+    "id": 106,
+    "claim": "The Rasengan is a Lightning Release technique.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. The basic Rasengan is pure chakra shaping with no nature transformation. Variants add natures such as wind.",
+    "source_name": "Narutopedia - Rasengan",
+    "source_url": "https://naruto.fandom.com/wiki/Rasengan"
+  },
+  {
+    "id": 107,
+    "claim": "Gaara's signature ability is controlling sand.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Gaara manipulates sand as both a weapon and a defense.",
+    "source_name": "Narutopedia - Gaara",
+    "source_url": "https://naruto.fandom.com/wiki/Gaara"
+  },
+  {
+    "id": 108,
+    "claim": "Amaterasu is a Water Release technique.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. Amaterasu is a Mangekyo Sharingan technique that produces inextinguishable black flames.",
+    "source_name": "Narutopedia - Amaterasu",
+    "source_url": "https://naruto.fandom.com/wiki/Amaterasu"
+  },
+  {
+    "id": 109,
+    "claim": "A jinchuriki is a person who hosts a tailed beast sealed inside them.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. The term refers to the human host of a tailed beast.",
+    "source_name": "Narutopedia - Jinchuriki",
+    "source_url": "https://naruto.fandom.com/wiki/Jinch%C5%ABriki"
+  },
+  {
+    "id": 110,
+    "claim": "There are only seven tailed beasts, numbered from one to seven tails.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. There are nine named tailed beasts, from the One-Tail to the Nine-Tails, plus the Ten-Tails. (Spoiler.)",
+    "source_name": "Narutopedia - Tailed Beasts",
+    "source_url": "https://naruto.fandom.com/wiki/Tailed_Beasts"
+  },
+  {
+    "id": 111,
+    "claim": "The Rasenshuriken is a Rasengan variant that incorporates wind chakra.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Naruto adds Wind Release to the Rasengan to create the Rasenshuriken.",
+    "source_name": "Narutopedia - Rasenshuriken",
+    "source_url": "https://naruto.fandom.com/wiki/Rasenshuriken"
+  },
+  {
+    "id": 112,
+    "claim": "When Naruto first used the Rasenshuriken, it damaged his own arm's chakra network.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. The technique initially harmed Naruto's own body until he gained the ability to use it more safely. (Spoiler: Naruto: Shippuden.)",
+    "source_name": "Narutopedia - Rasenshuriken",
+    "source_url": "https://naruto.fandom.com/wiki/Rasenshuriken"
+  },
+  {
+    "id": 113,
+    "claim": "The Chidori is a Wind Release technique.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. The Chidori is a Lightning Release technique.",
+    "source_name": "Narutopedia - Chidori",
+    "source_url": "https://naruto.fandom.com/wiki/Chidori"
+  },
+  {
+    "id": 114,
+    "claim": "In the basic chakra nature cycle, Lightning Release has an advantage over Earth Release.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Lightning is strong against Earth, while Wind is strong against Lightning.",
+    "source_name": "Narutopedia - Nature Transformation",
+    "source_url": "https://naruto.fandom.com/wiki/Nature_Transformation"
+  },
+  {
+    "id": 115,
+    "claim": "In the basic chakra nature cycle, Fire Release is strong against Water Release.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Water is strong against Fire. Fire is strong against Wind.",
+    "source_name": "Narutopedia - Nature Transformation",
+    "source_url": "https://naruto.fandom.com/wiki/Nature_Transformation"
+  },
+  {
+    "id": 116,
+    "claim": "Naruto's Kurama Chakra Mode is achieved through cooperation with Kurama.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Naruto and Kurama reach mutual understanding and can share chakra. (Spoiler: Fourth Great Ninja War arc.)",
+    "source_name": "Narutopedia - Kurama",
+    "source_url": "https://naruto.fandom.com/wiki/Kurama"
+  },
+  {
+    "id": 117,
+    "claim": "Naruto learns Sage Mode from Tsunade.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Naruto learns Sage Mode on Mount Myoboku under the toads, notably Fukasaku. Tsunade teaches medical ninjutsu.",
+    "source_name": "Narutopedia - Sage Mode",
+    "source_url": "https://naruto.fandom.com/wiki/Sage_Mode"
+  },
+  {
+    "id": 118,
+    "claim": "The Rinnegan is a dojutsu associated with the Sage of Six Paths.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. The Rinnegan is tied to the Sage of Six Paths. (Spoiler.)",
+    "source_name": "Narutopedia - Rinnegan",
+    "source_url": "https://naruto.fandom.com/wiki/Rinnegan"
+  },
+  {
+    "id": 119,
+    "claim": "The Mangekyo Sharingan can be awakened through normal training alone.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. In the series, the Mangekyo Sharingan is awakened through an intense emotional trauma, typically the loss of a loved one.",
+    "source_name": "Narutopedia - Mangekyo Sharingan",
+    "source_url": "https://naruto.fandom.com/wiki/Mangeky%C5%8D_Sharingan"
+  },
+  {
+    "id": 120,
+    "claim": "Prolonged use of the Mangekyo Sharingan can cause a user's eyesight to deteriorate.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. The Mangekyo strains the eyes and can lead to blindness.",
+    "source_name": "Narutopedia - Mangekyo Sharingan",
+    "source_url": "https://naruto.fandom.com/wiki/Mangeky%C5%8D_Sharingan"
+  },
+  {
+    "id": 121,
+    "claim": "The Byakugan's wide field of vision has a blind spot.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Despite its near-360-degree vision, the Byakugan has a small blind spot.",
+    "source_name": "Narutopedia - Byakugan",
+    "source_url": "https://naruto.fandom.com/wiki/Byakugan"
+  },
+  {
+    "id": 122,
+    "claim": "The Byakugan can copy the techniques of an opponent in the same way the Sharingan can.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. The Byakugan gives wide vision and the ability to see chakra, but it does not copy techniques.",
+    "source_name": "Narutopedia - Byakugan",
+    "source_url": "https://naruto.fandom.com/wiki/Byakugan"
+  },
+  {
+    "id": 123,
+    "claim": "The Mystical Palm Technique is a form of medical ninjutsu.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. It is a basic healing technique used by medical ninja.",
+    "source_name": "Narutopedia - Mystical Palm Technique",
+    "source_url": "https://naruto.fandom.com/wiki/Mystical_Palm_Technique"
+  },
+  {
+    "id": 124,
+    "claim": "Kushina Uzumaki used the Reaper Death Seal when sealing the Nine-Tails into Naruto.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Minato Namikaze used the Reaper Death Seal; Kushina's Adamantine Sealing Chains restrained the Nine-Tails. (Spoiler.)",
+    "source_name": "Narutopedia - Reaper Death Seal",
+    "source_url": "https://naruto.fandom.com/wiki/Reaper_Death_Seal"
+  },
+  {
+    "id": 125,
+    "claim": "A shinobi needs a signed contract, sealed with blood, to use a summoning technique with a particular animal.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. A contract signed in blood is required for the animal summoning techniques.",
+    "source_name": "Narutopedia - Summoning Technique",
+    "source_url": "https://naruto.fandom.com/wiki/Summoning_Technique"
+  },
+  {
+    "id": 126,
+    "claim": "Naruto's summoning contract is with the snakes.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Naruto's contract is with the toads of Mount Myoboku. The snakes are tied to Orochimaru.",
+    "source_name": "Narutopedia - Summoning Technique",
+    "source_url": "https://naruto.fandom.com/wiki/Summoning_Technique"
+  },
+  {
+    "id": 127,
+    "claim": "Gamabunta is a giant toad that Naruto summons.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Gamabunta is a large toad summoned by Naruto, as well as by Jiraiya and Minato.",
+    "source_name": "Narutopedia - Gamabunta",
+    "source_url": "https://naruto.fandom.com/wiki/Gamabunta"
+  },
+  {
+    "id": 128,
+    "claim": "The five basic chakra natures are Fire, Wind, Lightning, Earth and Water.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. These five are the basic nature transformations.",
+    "source_name": "Narutopedia - Nature Transformation",
+    "source_url": "https://naruto.fandom.com/wiki/Nature_Transformation"
+  },
+  {
+    "id": 129,
+    "claim": "Wood Release is one of the five basic chakra natures.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Wood Release is an advanced nature, not one of the five basic natures.",
+    "source_name": "Narutopedia - Wood Release",
+    "source_url": "https://naruto.fandom.com/wiki/Wood_Release"
+  },
+  {
+    "id": 130,
+    "claim": "Wood Release is a combination of Earth Release and Water Release.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. It blends Earth and Water natures.",
+    "source_name": "Narutopedia - Wood Release",
+    "source_url": "https://naruto.fandom.com/wiki/Wood_Release"
+  },
+  {
+    "id": 131,
+    "claim": "Ice Release is one of the five basic chakra natures.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Ice Release is an advanced nature that combines Water and Wind.",
+    "source_name": "Narutopedia - Ice Release",
+    "source_url": "https://naruto.fandom.com/wiki/Ice_Release"
+  },
+  {
+    "id": 132,
+    "claim": "Haku's Ice Release combines Water Release and Wind Release.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Haku's bloodline lets him combine these two natures into ice.",
+    "source_name": "Narutopedia - Ice Release",
+    "source_url": "https://naruto.fandom.com/wiki/Ice_Release"
+  },
+  {
+    "id": 133,
+    "claim": "The Hyuga Gentle Fist works by damaging only a target's external muscles.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. The Gentle Fist strikes the opponent's chakra network and internal organs.",
+    "source_name": "Narutopedia - Gentle Fist",
+    "source_url": "https://naruto.fandom.com/wiki/Gentle_Fist"
+  },
+  {
+    "id": 134,
+    "claim": "The Sharingan can copy any kekkei genkai the user sees.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. The Sharingan copies techniques, but bloodline abilities cannot be copied this way.",
+    "source_name": "Narutopedia - Sharingan",
+    "source_url": "https://naruto.fandom.com/wiki/Sharingan"
+  },
+  {
+    "id": 135,
+    "claim": "The Rasengan was invented by Jiraiya.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Minato Namikaze invented the Rasengan; Jiraiya taught it to Naruto. (Spoiler.)",
+    "source_name": "Narutopedia - Rasengan",
+    "source_url": "https://naruto.fandom.com/wiki/Rasengan"
+  },
+  {
+    "id": 136,
+    "claim": "Kakashi Hatake's Kamui is a space-time technique tied to his Mangekyo Sharingan.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Kakashi acquired the Mangekyo Sharingan and the Kamui ability. (Spoiler.)",
+    "source_name": "Narutopedia - Kamui",
+    "source_url": "https://naruto.fandom.com/wiki/Kamui"
+  },
+  {
+    "id": 137,
+    "claim": "Susanoo can only be used by Itachi Uchiha.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Susanoo is a Mangekyo ability used by several Uchiha, including Sasuke. (Spoiler.)",
+    "source_name": "Narutopedia - Susanoo",
+    "source_url": "https://naruto.fandom.com/wiki/Susanoo"
+  },
+  {
+    "id": 138,
+    "claim": "Matatabi is the Two-Tailed tailed beast.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Matatabi is the Two-Tails, a cat-like beast.",
+    "source_name": "Narutopedia - Tailed Beasts",
+    "source_url": "https://naruto.fandom.com/wiki/Tailed_Beasts"
+  },
+  {
+    "id": 139,
+    "claim": "Gyuki is the Seven-Tailed beast.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Gyuki is the Eight-Tails; the Seven-Tails is Chomei.",
+    "source_name": "Narutopedia - Tailed Beasts",
+    "source_url": "https://naruto.fandom.com/wiki/Tailed_Beasts"
+  },
+  {
+    "id": 140,
+    "claim": "Killer B is the jinchuriki of the Eight-Tailed beast.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Killer B hosts Gyuki, the Eight-Tails.",
+    "source_name": "Narutopedia - Tailed Beasts",
+    "source_url": "https://naruto.fandom.com/wiki/Tailed_Beasts"
+  },
+  {
+    "id": 141,
+    "claim": "Yagura, the Fourth Mizukage, was the jinchuriki of the Eight-Tails.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Yagura hosted the Three-Tails. (Spoiler.)",
+    "source_name": "Narutopedia - Tailed Beasts",
+    "source_url": "https://naruto.fandom.com/wiki/Tailed_Beasts"
+  },
+  {
+    "id": 142,
+    "claim": "Fu is the jinchuriki of the Seven-Tails.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Fu from Takigakure hosts the Seven-Tails.",
+    "source_name": "Narutopedia - Tailed Beasts",
+    "source_url": "https://naruto.fandom.com/wiki/Tailed_Beasts"
+  },
+  {
+    "id": 143,
+    "claim": "Han is the jinchuriki of the Four-Tails.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Han hosts the Five-Tails. The Four-Tails is hosted by Roshi.",
+    "source_name": "Narutopedia - Tailed Beasts",
+    "source_url": "https://naruto.fandom.com/wiki/Tailed_Beasts"
+  },
+  {
+    "id": 144,
+    "claim": "Naruto and Sasuke receive powers from the Sage of Six Paths in the Fourth Great Ninja War arc.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. The Sage of Six Paths grants each of them power. (Spoiler.)",
+    "source_name": "Narutopedia - Hagoromo Otsutsuki",
+    "source_url": "https://naruto.fandom.com/wiki/Hagoromo_%C5%8Ctsutsuki"
+  },
+  {
+    "id": 145,
+    "claim": "Hashirama Senju could suppress tailed beasts using Wood Release.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Hashirama's Wood Release allowed him to subdue tailed beasts. (Spoiler.)",
+    "source_name": "Narutopedia - Hashirama Senju",
+    "source_url": "https://naruto.fandom.com/wiki/Hashirama_Senju"
+  },
+  {
+    "id": 146,
+    "claim": "Madara Uchiha used his Sharingan to control the Nine-Tails during his fight with Hashirama Senju.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Madara controlled Kurama with his Sharingan at the Valley of the End. (Spoiler.)",
+    "source_name": "Narutopedia - Madara Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Madara_Uchiha"
+  },
+  {
+    "id": 147,
+    "claim": "Kaguya Otsutsuki is the Sage of Six Paths.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. The Sage of Six Paths is Hagoromo Otsutsuki, Kaguya's son. (Spoiler.)",
+    "source_name": "Narutopedia - Hagoromo Otsutsuki",
+    "source_url": "https://naruto.fandom.com/wiki/Hagoromo_%C5%8Ctsutsuki"
+  },
+  {
+    "id": 148,
+    "claim": "Sasuke obtained his Rinnegan from Nagato.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Sasuke's Rinnegan awakened through the influence of the Sage of Six Paths. (Spoiler.)",
+    "source_name": "Narutopedia - Rinnegan",
+    "source_url": "https://naruto.fandom.com/wiki/Rinnegan"
+  },
+  {
+    "id": 149,
+    "claim": "Izanagi can be used repeatedly with no penalty to the user.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Izanagi costs the user the use of the eye used for it. (Spoiler.)",
+    "source_name": "Narutopedia - Izanagi",
+    "source_url": "https://naruto.fandom.com/wiki/Izanagi"
+  },
+  {
+    "id": 150,
+    "claim": "The Dead Demon Consuming Seal can be used with no cost to the user's life.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. The seal costs the user their life. (Spoiler.)",
+    "source_name": "Narutopedia - Dead Demon Consuming Seal",
+    "source_url": "https://naruto.fandom.com/wiki/Dead_Demon_Consuming_Seal"
+  },
+  {
+    "id": 151,
+    "claim": "In Part I of Naruto, the second part of the Chunin Exams takes place in the Forest of Death.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. The second exam is a survival test held in Training Ground 44, nicknamed the Forest of Death.",
+    "source_name": "Narutopedia - Chunin Exams",
+    "source_url": "https://naruto.fandom.com/wiki/Chunin_Exams"
+  },
+  {
+    "id": 152,
+    "claim": "Amegakure, the Hidden Rain Village, is one of the Five Great Shinobi Villages.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. The Five Great Shinobi Villages are Konoha, Suna, Kiri, Kumo and Iwa. Ame is a smaller village.",
+    "source_name": "Narutopedia - Five Great Shinobi Countries",
+    "source_url": "https://naruto.fandom.com/wiki/Five_Great_Shinobi_Countries"
+  },
+  {
+    "id": 153,
+    "claim": "The leaders of the Five Great Shinobi Villages are called Kage, such as the Hokage and Kazekage.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Each great village is led by a Kage: Hokage, Kazekage, Mizukage, Raikage and Tsuchikage.",
+    "source_name": "Narutopedia - Kage",
+    "source_url": "https://naruto.fandom.com/wiki/Kage"
+  },
+  {
+    "id": 154,
+    "claim": "The leader of Sunagakure is called the Hokage.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. The leader of Sunagakure is the Kazekage. Hokage is the title of Konoha's leader.",
+    "source_name": "Narutopedia - Kazekage",
+    "source_url": "https://naruto.fandom.com/wiki/Kazekage"
+  },
+  {
+    "id": 155,
+    "claim": "Naruto and Jiraiya travel to find Tsunade so that she can become Konoha's Fifth Hokage.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Jiraiya and Naruto search for Tsunade to bring her back as Hokage after the Third Hokage's death. (Spoiler.)",
+    "source_name": "Narutopedia - Tsunade",
+    "source_url": "https://naruto.fandom.com/wiki/Tsunade"
+  },
+  {
+    "id": 156,
+    "claim": "In Part I, Sasuke leaves Konoha to join the Akatsuki.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. Sasuke leaves to join Orochimaru in the Sound Village to gain power. (Spoiler.)",
+    "source_name": "Narutopedia - Sasuke Uchiha",
+    "source_url": "https://naruto.fandom.com/wiki/Sasuke_Uchiha"
+  },
+  {
+    "id": 157,
+    "claim": "The Fourth Great Ninja War is fought by the Allied Shinobi Forces against an army led by Madara and Obito.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. The five nations unite as the Allied Shinobi Forces to oppose the Akatsuki's war effort. (Spoiler.)",
+    "source_name": "Narutopedia - Fourth Great Ninja War",
+    "source_url": "https://naruto.fandom.com/wiki/Fourth_Great_Ninja_War"
+  },
+  {
+    "id": 158,
+    "claim": "Hiruzen Sarutobi was the First Hokage of Konoha.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. The First Hokage was Hashirama Senju. Hiruzen was the Third Hokage.",
+    "source_name": "Narutopedia - Hokage",
+    "source_url": "https://naruto.fandom.com/wiki/Hokage"
+  },
+  {
+    "id": 159,
+    "claim": "Naruto's mother, Kushina, belonged to the Uzumaki clan of Uzushiogakure.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "True. Kushina was an Uzumaki from Uzushiogakure, the Hidden Whirlpool Village. (Spoiler.)",
+    "source_name": "Narutopedia - Kushina Uzumaki",
+    "source_url": "https://naruto.fandom.com/wiki/Kushina_Uzumaki"
+  },
+  {
+    "id": 160,
+    "claim": "The Uzumaki clan originally came from Kirigakure.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Easy",
+    "explanation": "False. The Uzumaki clan was based in Uzushiogakure in the Land of Whirlpools.",
+    "source_name": "Narutopedia - Uzumaki Clan",
+    "source_url": "https://naruto.fandom.com/wiki/Uzumaki_Clan"
+  },
+  {
+    "id": 161,
+    "claim": "The Five Kage Summit is called to address the threat posed by the Akatsuki and by Sasuke Uchiha's actions.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. The Kage meet to discuss how to deal with Akatsuki and Sasuke. (Spoiler: Naruto: Shippuden.)",
+    "source_name": "Narutopedia - Five Kage Summit",
+    "source_url": "https://naruto.fandom.com/wiki/Five_Kage_Summit"
+  },
+  {
+    "id": 162,
+    "claim": "The Five Kage Summit was held in Kumogakure.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. The summit takes place in the Land of Iron.",
+    "source_name": "Narutopedia - Five Kage Summit",
+    "source_url": "https://naruto.fandom.com/wiki/Five_Kage_Summit"
+  },
+  {
+    "id": 163,
+    "claim": "The Allied Shinobi Forces are formed from multiple shinobi nations to fight in the Fourth Great Ninja War.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. The alliance joins the shinobi nations together under one banner. (Spoiler.)",
+    "source_name": "Narutopedia - Allied Shinobi Forces",
+    "source_url": "https://naruto.fandom.com/wiki/Allied_Shinobi_Forces"
+  },
+  {
+    "id": 164,
+    "claim": "Minato Namikaze earned the nickname Yellow Flash during the Third Great Ninja War.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Minato became famed for his speed in the war, notably against Iwagakure. (Spoiler.)",
+    "source_name": "Narutopedia - Minato Namikaze",
+    "source_url": "https://naruto.fandom.com/wiki/Minato_Namikaze"
+  },
+  {
+    "id": 165,
+    "claim": "Kakashi Hatake is the original Yellow Flash of Konoha.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. The Yellow Flash title belongs to Minato. Kakashi is known as Copy Ninja Kakashi.",
+    "source_name": "Narutopedia - Kakashi Hatake",
+    "source_url": "https://naruto.fandom.com/wiki/Kakashi_Hatake"
+  },
+  {
+    "id": 166,
+    "claim": "The Uzumaki clan was known for its sealing techniques and strong life force.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Uzumaki members were renowned sealing masters with unusual vitality.",
+    "source_name": "Narutopedia - Uzumaki Clan",
+    "source_url": "https://naruto.fandom.com/wiki/Uzumaki_Clan"
+  },
+  {
+    "id": 167,
+    "claim": "The Senju and Uchiha clans were allies before the founding of Konoha.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. The two clans were bitter rivals before they united to found the village. (Spoiler.)",
+    "source_name": "Narutopedia - Senju Clan",
+    "source_url": "https://naruto.fandom.com/wiki/Senju_Clan"
+  },
+  {
+    "id": 168,
+    "claim": "In the Hyuga clan, the Caged Bird Seal is placed on members of the Branch family.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. The seal marks Branch family members and lets the Main family control them.",
+    "source_name": "Narutopedia - Hyuga Clan",
+    "source_url": "https://naruto.fandom.com/wiki/Hy%C5%ABga_Clan"
+  },
+  {
+    "id": 169,
+    "claim": "The Caged Bird Seal is placed on members of the Hyuga Main family.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. The Main family does not bear the seal; it is applied to the Branch family.",
+    "source_name": "Narutopedia - Hyuga Clan",
+    "source_url": "https://naruto.fandom.com/wiki/Hy%C5%ABga_Clan"
+  },
+  {
+    "id": 170,
+    "claim": "In Naruto: Shippuden, Sasuke forms a team called Hebi, later known as Taka.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Sasuke assembles his own team after leaving Orochimaru. (Spoiler.)",
+    "source_name": "Narutopedia - Taka",
+    "source_url": "https://naruto.fandom.com/wiki/Taka"
+  },
+  {
+    "id": 171,
+    "claim": "The invasion of Konoha during the Chunin Exams finals is orchestrated by Orochimaru together with Sunagakure.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Orochimaru's Sound Village and Suna launch the attack on Konoha. (Spoiler.)",
+    "source_name": "Narutopedia - Orochimaru",
+    "source_url": "https://naruto.fandom.com/wiki/Orochimaru"
+  },
+  {
+    "id": 172,
+    "claim": "Hiruzen Sarutobi dies during the invasion of Konoha.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. The Third Hokage dies fighting Orochimaru. (Spoiler.)",
+    "source_name": "Narutopedia - Hiruzen Sarutobi",
+    "source_url": "https://naruto.fandom.com/wiki/Hiruzen_Sarutobi"
+  },
+  {
+    "id": 173,
+    "claim": "Hiruzen Sarutobi is killed by Sasori during the invasion of Konoha.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Sasori is an Akatsuki member who has no role in the invasion. Hiruzen's fight is with Orochimaru. (Spoiler.)",
+    "source_name": "Narutopedia - Hiruzen Sarutobi",
+    "source_url": "https://naruto.fandom.com/wiki/Hiruzen_Sarutobi"
+  },
+  {
+    "id": 174,
+    "claim": "The Akatsuki seeks to capture the tailed beasts.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. The organization hunts the jinchuriki to extract the tailed beasts. (Spoiler.)",
+    "source_name": "Narutopedia - Akatsuki",
+    "source_url": "https://naruto.fandom.com/wiki/Akatsuki"
+  },
+  {
+    "id": 175,
+    "claim": "The Akatsuki seeks the tailed beasts so that its leader can become Hokage.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. The tailed beasts are collected for the organization's plans, not to install a Hokage. (Spoiler.)",
+    "source_name": "Narutopedia - Akatsuki",
+    "source_url": "https://naruto.fandom.com/wiki/Akatsuki"
+  },
+  {
+    "id": 176,
+    "claim": "Obito's main plan in the Fourth Great Ninja War is the Infinite Tsukuyomi.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "True. Obito's goal is to trap the world in a genjutsu. (Spoiler.)",
+    "source_name": "Narutopedia - Infinite Tsukuyomi",
+    "source_url": "https://naruto.fandom.com/wiki/Infinite_Tsukuyomi"
+  },
+  {
+    "id": 177,
+    "claim": "Chakra was first created by the Sage of Six Paths.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. In the series' account, chakra originates from the fruit of the God Tree, consumed by Kaguya. (Spoiler.)",
+    "source_name": "Narutopedia - Chakra",
+    "source_url": "https://naruto.fandom.com/wiki/Chakra"
+  },
+  {
+    "id": 178,
+    "claim": "Kaguya Otsutsuki created the nine tailed beasts.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. The Sage of Six Paths created the tailed beasts by splitting the Ten-Tails. (Spoiler.)",
+    "source_name": "Narutopedia - Tailed Beasts",
+    "source_url": "https://naruto.fandom.com/wiki/Tailed_Beasts"
+  },
+  {
+    "id": 179,
+    "claim": "Naruto's mother, Kushina, was the jinchuriki of the Eight-Tails.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Kushina was the Nine-Tails' jinchuriki before Naruto. (Spoiler.)",
+    "source_name": "Narutopedia - Kushina Uzumaki",
+    "source_url": "https://naruto.fandom.com/wiki/Kushina_Uzumaki"
+  },
+  {
+    "id": 180,
+    "claim": "Kakashi Hatake is the Hokage during the Fourth Great Ninja War.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Medium",
+    "explanation": "False. Tsunade is the Hokage during the war; Kakashi becomes Hokage afterward. (Spoiler.)",
+    "source_name": "Narutopedia - Fourth Great Ninja War",
+    "source_url": "https://naruto.fandom.com/wiki/Fourth_Great_Ninja_War"
+  },
+  {
+    "id": 181,
+    "claim": "The Sage of Six Paths created the nine tailed beasts by dividing the Ten-Tails' chakra.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. The Sage split the Ten-Tails' chakra into nine beasts. (Spoiler.)",
+    "source_name": "Narutopedia - Hagoromo Otsutsuki",
+    "source_url": "https://naruto.fandom.com/wiki/Hagoromo_%C5%8Ctsutsuki"
+  },
+  {
+    "id": 182,
+    "claim": "The Uchiha clan descends from Hamura Otsutsuki.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. The Uchiha descend from Indra, while Hamura's line leads to the Hyuga. (Spoiler.)",
+    "source_name": "Narutopedia - Hamura Otsutsuki",
+    "source_url": "https://naruto.fandom.com/wiki/Hamura_%C5%8Ctsutsuki"
+  },
+  {
+    "id": 183,
+    "claim": "The Hyuga clan descends from Hamura Otsutsuki, the younger brother of the Sage of Six Paths.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. The Hyuga clan is descended from Hamura. (Spoiler.)",
+    "source_name": "Narutopedia - Hamura Otsutsuki",
+    "source_url": "https://naruto.fandom.com/wiki/Hamura_%C5%8Ctsutsuki"
+  },
+  {
+    "id": 184,
+    "claim": "The Uchiha clan descends from Indra Otsutsuki, and the Senju clan from Asura Otsutsuki.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. The two clans trace their lineage to the Sage's two sons. (Spoiler.)",
+    "source_name": "Narutopedia - Hagoromo Otsutsuki",
+    "source_url": "https://naruto.fandom.com/wiki/Hagoromo_%C5%8Ctsutsuki"
+  },
+  {
+    "id": 185,
+    "claim": "The Senju clan descends from Indra Otsutsuki.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. The Senju descend from Asura. Indra's line leads to the Uchiha. (Spoiler.)",
+    "source_name": "Narutopedia - Hagoromo Otsutsuki",
+    "source_url": "https://naruto.fandom.com/wiki/Hagoromo_%C5%8Ctsutsuki"
+  },
+  {
+    "id": 186,
+    "claim": "The samurai of the Land of Iron are led by Mifune.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Mifune is the general of the Land of Iron's samurai. (Spoiler.)",
+    "source_name": "Narutopedia - Mifune",
+    "source_url": "https://naruto.fandom.com/wiki/Mifune"
+  },
+  {
+    "id": 187,
+    "claim": "Mifune is the leader of Konoha's ANBU.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Mifune leads the samurai of the Land of Iron, not Konoha's ANBU. (Spoiler.)",
+    "source_name": "Narutopedia - Mifune",
+    "source_url": "https://naruto.fandom.com/wiki/Mifune"
+  },
+  {
+    "id": 188,
+    "claim": "Uzushiogakure, the village of the Uzumaki clan, was destroyed.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Uzushiogakure was destroyed, scattering the Uzumaki clan. (Spoiler.)",
+    "source_name": "Narutopedia - Uzushiogakure",
+    "source_url": "https://naruto.fandom.com/wiki/Uzushiogakure"
+  },
+  {
+    "id": 189,
+    "claim": "Hashirama Senju's wife, Mito Uzumaki, was a jinchuriki of the Nine-Tails.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Mito served as the Nine-Tails' jinchuriki before Kushina. (Spoiler.)",
+    "source_name": "Narutopedia - Mito Uzumaki",
+    "source_url": "https://naruto.fandom.com/wiki/Mito_Uzumaki"
+  },
+  {
+    "id": 190,
+    "claim": "Tobirama Senju created the Edo Tensei technique.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Tobirama, the Second Hokage, created the Edo Tensei. (Spoiler.)",
+    "source_name": "Narutopedia - Tobirama Senju",
+    "source_url": "https://naruto.fandom.com/wiki/Tobirama_Senju"
+  },
+  {
+    "id": 191,
+    "claim": "Hiruzen Sarutobi trained under Tobirama Senju.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Hiruzen was a student of the Second Hokage. (Spoiler.)",
+    "source_name": "Narutopedia - Hiruzen Sarutobi",
+    "source_url": "https://naruto.fandom.com/wiki/Hiruzen_Sarutobi"
+  },
+  {
+    "id": 192,
+    "claim": "Naruto and Sasuke are described in the story as inheriting the chakra of Asura and Indra.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. The Sage of Six Paths says their chakra is inherited from his sons. (Spoiler.)",
+    "source_name": "Narutopedia - Naruto Uzumaki",
+    "source_url": "https://naruto.fandom.com/wiki/Naruto_Uzumaki"
+  },
+  {
+    "id": 193,
+    "claim": "Naruto and Sasuke's final battle takes place at the Valley of the End.",
+    "answer": "FACT",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "True. Their last fight takes place at the Valley of the End after the war. (Spoiler.)",
+    "source_name": "Narutopedia - Valley of the End",
+    "source_url": "https://naruto.fandom.com/wiki/Valley_of_the_End"
+  },
+  {
+    "id": 194,
+    "claim": "Tsunade became Hokage before Orochimaru's invasion of Konoha.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. The Third Hokage was still Hokage during the invasion. Tsunade became Fifth Hokage afterward. (Spoiler.)",
+    "source_name": "Narutopedia - Tsunade",
+    "source_url": "https://naruto.fandom.com/wiki/Tsunade"
+  },
+  {
+    "id": 195,
+    "claim": "Naruto and Jiraiya find Tsunade inside Konoha.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. They find Tsunade outside Konoha, in Tanzaku Town. (Spoiler.)",
+    "source_name": "Narutopedia - Tsunade",
+    "source_url": "https://naruto.fandom.com/wiki/Tsunade"
+  },
+  {
+    "id": 196,
+    "claim": "The invasion of Konoha is led by Pain.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. The invasion in Part I is led by Orochimaru. Pain attacks Konoha later in Naruto: Shippuden. (Spoiler.)",
+    "source_name": "Narutopedia - Orochimaru",
+    "source_url": "https://naruto.fandom.com/wiki/Orochimaru"
+  },
+  {
+    "id": 197,
+    "claim": "The Allied Shinobi Forces consist only of shinobi from Konoha and Suna.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. The alliance draws on the five great nations and the samurai of the Land of Iron. (Spoiler.)",
+    "source_name": "Narutopedia - Allied Shinobi Forces",
+    "source_url": "https://naruto.fandom.com/wiki/Allied_Shinobi_Forces"
+  },
+  {
+    "id": 198,
+    "claim": "Tsunade serves as the supreme commander of the Allied Shinobi Forces.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Mifune is the supreme commander of the alliance. (Spoiler.)",
+    "source_name": "Narutopedia - Mifune",
+    "source_url": "https://naruto.fandom.com/wiki/Mifune"
+  },
+  {
+    "id": 199,
+    "claim": "Kaguya Otsutsuki is sealed by Sasuke alone.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. Kaguya is sealed by Team 7 working together, with Naruto and Sasuke at the center. (Spoiler.)",
+    "source_name": "Narutopedia - Kaguya Otsutsuki",
+    "source_url": "https://naruto.fandom.com/wiki/Kaguya_%C5%8Ctsutsuki"
+  },
+  {
+    "id": 200,
+    "claim": "The Sage of Six Paths had three sons.",
+    "answer": "TRAP",
+    "category": "Naruto",
+    "difficulty": "Hard",
+    "explanation": "False. The Sage of Six Paths had two sons, Indra and Asura. (Spoiler.)",
+    "source_name": "Narutopedia - Hagoromo Otsutsuki",
+    "source_url": "https://naruto.fandom.com/wiki/Hagoromo_%C5%8Ctsutsuki"
+  }
+]

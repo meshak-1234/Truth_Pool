@@ -1,0 +1,39 @@
+# Environment variables and secrets
+.env
+.env.*
+*.env
+!*.env.example
+*.pem
+*.key
+*.cert
+
+# Python virtual environments & bytecode
+bluffenv/
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Database dumps and backups
+backups/
+*.sql
+*.sqlite3
+
+# Logs & temp files
+*.log
+scratch/
+.system_generated/
+
+# OS & Editor generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local dataset review and validation reports
+reports/

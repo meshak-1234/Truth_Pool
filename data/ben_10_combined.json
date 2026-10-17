@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "claim": "In the original Ben 10 series, Ben Tennyson discovers the Omnitrix during a summer trip with his cousin and grandfather.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "The original series begins with Ben, Gwen and Grandpa Max on a summer road trip, during which Ben finds the Omnitrix.",
+    "source_name": "Ben 10 Wiki - Omnitrix",
+    "source_url": "https://ben10.fandom.com/wiki/Omnitrix"
+  },
+  {
+    "id": 2,
+    "claim": "Gwen Tennyson is Ben Tennyson's sister.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Gwen is Ben's cousin, not his sister.",
+    "source_name": "Ben 10 Wiki - Gwen Tennyson",
+    "source_url": "https://ben10.fandom.com/wiki/Gwen_Tennyson"
+  },
+  {
+    "id": 3,
+    "claim": "Gwen Tennyson is Ben Tennyson's cousin.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Gwen and Ben are cousins who are both grandchildren of Max Tennyson.",
+    "source_name": "Ben 10 Wiki - Gwen Tennyson",
+    "source_url": "https://ben10.fandom.com/wiki/Gwen_Tennyson"
+  },
+  {
+    "id": 4,
+    "claim": "Grandpa Max is Ben Tennyson's father.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Max Tennyson is Ben's grandfather, not his father.",
+    "source_name": "Ben 10 Wiki - Max Tennyson",
+    "source_url": "https://ben10.fandom.com/wiki/Max_Tennyson"
+  },
+  {
+    "id": 5,
+    "claim": "Grandpa Max is a former member of the Plumbers.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Max is a veteran of the Plumbers, the secret organization that polices alien activity on Earth.",
+    "source_name": "Ben 10 Wiki - Max Tennyson",
+    "source_url": "https://ben10.fandom.com/wiki/Max_Tennyson"
+  },
+  {
+    "id": 6,
+    "claim": "In the original series, the Tennysons travel in a boat called the Rust Bucket.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "The Rust Bucket is Max's recreational vehicle (RV), not a boat.",
+    "source_name": "Ben 10 Wiki - Rust Bucket",
+    "source_url": "https://ben10.fandom.com/wiki/Rust_Bucket"
+  },
+  {
+    "id": 7,
+    "claim": "In the original series, the Tennysons travel in an RV known as the Rust Bucket.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "The Rust Bucket is Max Tennyson's RV, used on the family's road trip.",
+    "source_name": "Ben 10 Wiki - Rust Bucket",
+    "source_url": "https://ben10.fandom.com/wiki/Rust_Bucket"
+  },
+  {
+    "id": 8,
+    "claim": "Heatblast is a fiery alien form that Ben can transform into using the Omnitrix.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Heatblast is one of the Omnitrix aliens and is known for creating and controlling fire.",
+    "source_name": "Ben 10 Wiki - Heatblast",
+    "source_url": "https://ben10.fandom.com/wiki/Heatblast"
+  },
+  {
+    "id": 9,
+    "claim": "Wildmutt has excellent eyesight and relies mainly on sight.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Wildmutt is blind and relies on his senses of smell and hearing instead.",
+    "source_name": "Ben 10 Wiki - Wildmutt",
+    "source_url": "https://ben10.fandom.com/wiki/Wildmutt"
+  },
+  {
+    "id": 10,
+    "claim": "Wildmutt is blind.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Wildmutt has no eyes and navigates by smell and hearing.",
+    "source_name": "Ben 10 Wiki - Wildmutt",
+    "source_url": "https://ben10.fandom.com/wiki/Wildmutt"
+  },
+  {
+    "id": 11,
+    "claim": "Four Arms is known for superhuman strength.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Four Arms is one of Ben's strongest early forms and is known for his physical power.",
+    "source_name": "Ben 10 Wiki - Four Arms",
+    "source_url": "https://ben10.fandom.com/wiki/Four_Arms"
+  },
+  {
+    "id": 12,
+    "claim": "Grey Matter is the largest of Ben's early alien forms.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Grey Matter is the smallest of Ben's alien forms, not the largest.",
+    "source_name": "Ben 10 Wiki - Grey Matter",
+    "source_url": "https://ben10.fandom.com/wiki/Grey_Matter"
+  },
+  {
+    "id": 13,
+    "claim": "XLR8 is known for super speed.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "XLR8 is Ben's speed-based alien form.",
+    "source_name": "Ben 10 Wiki - XLR8",
+    "source_url": "https://ben10.fandom.com/wiki/XLR8"
+  },
+  {
+    "id": 14,
+    "claim": "Diamondhead's body is made of fire.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Diamondhead has a crystalline body. Fire is Heatblast's element.",
+    "source_name": "Ben 10 Wiki - Diamondhead",
+    "source_url": "https://ben10.fandom.com/wiki/Diamondhead"
+  },
+  {
+    "id": 15,
+    "claim": "Diamondhead has a body made of crystal.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Diamondhead is a crystalline alien who can launch crystal shards.",
+    "source_name": "Ben 10 Wiki - Diamondhead",
+    "source_url": "https://ben10.fandom.com/wiki/Diamondhead"
+  },
+  {
+    "id": 16,
+    "claim": "Heatblast is a Pyronite from the planet Pyros.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Heatblast belongs to the Pyronite species, whose homeworld is Pyros.",
+    "source_name": "Ben 10 Wiki - Heatblast",
+    "source_url": "https://ben10.fandom.com/wiki/Heatblast"
+  },
+  {
+    "id": 17,
+    "claim": "Diamondhead is a Tetramand.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Diamondhead is a Petrosapien. Tetramand is the species of Four Arms.",
+    "source_name": "Ben 10 Wiki - Diamondhead",
+    "source_url": "https://ben10.fandom.com/wiki/Diamondhead"
+  },
+  {
+    "id": 18,
+    "claim": "Four Arms is a Tetramand from the planet Khoros.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Four Arms belongs to the Tetramand species, which comes from Khoros.",
+    "source_name": "Ben 10 Wiki - Four Arms",
+    "source_url": "https://ben10.fandom.com/wiki/Four_Arms"
+  },
+  {
+    "id": 19,
+    "claim": "Four Arms is a Pyronite.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Four Arms is a Tetramand. Pyronite is the species of Heatblast.",
+    "source_name": "Ben 10 Wiki - Four Arms",
+    "source_url": "https://ben10.fandom.com/wiki/Four_Arms"
+  },
+  {
+    "id": 20,
+    "claim": "Grey Matter is a Galvan from the planet Galvan Prime.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Grey Matter is a Galvan, a species known for its intelligence.",
+    "source_name": "Ben 10 Wiki - Grey Matter",
+    "source_url": "https://ben10.fandom.com/wiki/Grey_Matter"
+  },
+  {
+    "id": 21,
+    "claim": "Grey Matter is a Kineceleran.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Grey Matter is a Galvan. Kineceleran is XLR8's species.",
+    "source_name": "Ben 10 Wiki - Grey Matter",
+    "source_url": "https://ben10.fandom.com/wiki/Grey_Matter"
+  },
+  {
+    "id": 22,
+    "claim": "XLR8 is a Kineceleran from the planet Kinet.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "XLR8 is a member of the Kineceleran species, whose homeworld is Kinet.",
+    "source_name": "Ben 10 Wiki - XLR8",
+    "source_url": "https://ben10.fandom.com/wiki/XLR8"
+  },
+  {
+    "id": 23,
+    "claim": "XLR8 is a Petrosapien.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "XLR8 is a Kineceleran. Petrosapien is Diamondhead's species.",
+    "source_name": "Ben 10 Wiki - XLR8",
+    "source_url": "https://ben10.fandom.com/wiki/XLR8"
+  },
+  {
+    "id": 24,
+    "claim": "Stinkfly is a Lepidopterran.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Stinkfly belongs to the Lepidopterran species.",
+    "source_name": "Ben 10 Wiki - Stinkfly",
+    "source_url": "https://ben10.fandom.com/wiki/Stinkfly"
+  },
+  {
+    "id": 25,
+    "claim": "Stinkfly is a Piscciss Volann.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Stinkfly is a Lepidopterran. Piscciss Volann is Ripjaws's species.",
+    "source_name": "Ben 10 Wiki - Stinkfly",
+    "source_url": "https://ben10.fandom.com/wiki/Stinkfly"
+  },
+  {
+    "id": 26,
+    "claim": "Ripjaws is a Piscciss Volann.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Ripjaws belongs to the aquatic Piscciss Volann species.",
+    "source_name": "Ben 10 Wiki - Ripjaws",
+    "source_url": "https://ben10.fandom.com/wiki/Ripjaws"
+  },
+  {
+    "id": 27,
+    "claim": "Ripjaws is an Arburian Pelarota.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Ripjaws is a Piscciss Volann. Arburian Pelarota is Cannonbolt's species.",
+    "source_name": "Ben 10 Wiki - Ripjaws",
+    "source_url": "https://ben10.fandom.com/wiki/Ripjaws"
+  },
+  {
+    "id": 28,
+    "claim": "Upgrade is a Galvanic Mechamorph.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Upgrade is a Galvanic Mechamorph, a species able to merge with technology.",
+    "source_name": "Ben 10 Wiki - Upgrade",
+    "source_url": "https://ben10.fandom.com/wiki/Upgrade"
+  },
+  {
+    "id": 29,
+    "claim": "Upgrade is a Galvan, the same species as Grey Matter.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Upgrade is a Galvanic Mechamorph, a different species from the Galvan that Grey Matter belongs to.",
+    "source_name": "Ben 10 Wiki - Upgrade",
+    "source_url": "https://ben10.fandom.com/wiki/Upgrade"
+  },
+  {
+    "id": 30,
+    "claim": "Ghostfreak is an Ectonurite.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Ghostfreak belongs to the Ectonurite species.",
+    "source_name": "Ben 10 Wiki - Ghostfreak",
+    "source_url": "https://ben10.fandom.com/wiki/Ghostfreak"
+  },
+  {
+    "id": 31,
+    "claim": "Ghostfreak is a Petrosapien.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Ghostfreak is an Ectonurite. Petrosapien is Diamondhead's species.",
+    "source_name": "Ben 10 Wiki - Ghostfreak",
+    "source_url": "https://ben10.fandom.com/wiki/Ghostfreak"
+  },
+  {
+    "id": 32,
+    "claim": "Cannonbolt is an Arburian Pelarota.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Cannonbolt belongs to the Arburian Pelarota species, which can roll into a ball.",
+    "source_name": "Ben 10 Wiki - Cannonbolt",
+    "source_url": "https://ben10.fandom.com/wiki/Cannonbolt"
+  },
+  {
+    "id": 33,
+    "claim": "Cannonbolt is a Florauna.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Cannonbolt is an Arburian Pelarota. Florauna is Wildvine's species.",
+    "source_name": "Ben 10 Wiki - Cannonbolt",
+    "source_url": "https://ben10.fandom.com/wiki/Cannonbolt"
+  },
+  {
+    "id": 34,
+    "claim": "Wildvine is a Florauna.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Wildvine belongs to the plant-based Florauna species.",
+    "source_name": "Ben 10 Wiki - Wildvine",
+    "source_url": "https://ben10.fandom.com/wiki/Wildvine"
+  },
+  {
+    "id": 35,
+    "claim": "Wildvine is a Pyronite.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Wildvine is a Florauna. Pyronite is Heatblast's species.",
+    "source_name": "Ben 10 Wiki - Wildvine",
+    "source_url": "https://ben10.fandom.com/wiki/Wildvine"
+  },
+  {
+    "id": 36,
+    "claim": "Kevin Levin first appears in the original Ben 10 series, in the episode titled \"Kevin 11\".",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Kevin debuts in the original series, where he is introduced as an antagonist.",
+    "source_name": "Ben 10 Wiki - Kevin Levin",
+    "source_url": "https://ben10.fandom.com/wiki/Kevin_Levin"
+  },
+  {
+    "id": 37,
+    "claim": "Kevin Levin first appears in Ben 10: Alien Force.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Kevin first appears in the original Ben 10 series. Alien Force later brings him back as an ally.",
+    "source_name": "Ben 10 Wiki - Kevin Levin",
+    "source_url": "https://ben10.fandom.com/wiki/Kevin_Levin"
+  },
+  {
+    "id": 38,
+    "claim": "Vilgax is a Chimeran.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Vilgax is a Chimeran conqueror who is the main villain of the original series.",
+    "source_name": "Ben 10 Wiki - Vilgax",
+    "source_url": "https://ben10.fandom.com/wiki/Vilgax"
+  },
+  {
+    "id": 39,
+    "claim": "Vilgax created the Omnitrix.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Azmuth created the Omnitrix. Vilgax is a conqueror who wants to take it.",
+    "source_name": "Ben 10 Wiki - Omnitrix",
+    "source_url": "https://ben10.fandom.com/wiki/Omnitrix"
+  },
+  {
+    "id": 40,
+    "claim": "Azmuth, a Galvan, is the creator of the Omnitrix.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Azmuth is the Galvan inventor who built the Omnitrix.",
+    "source_name": "Ben 10 Wiki - Azmuth",
+    "source_url": "https://ben10.fandom.com/wiki/Azmuth"
+  },
+  {
+    "id": 41,
+    "claim": "At the start of the original series, Ben Tennyson is twelve years old.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Ben is ten years old at the start of the original series.",
+    "source_name": "Ben 10 Wiki - Ben Tennyson",
+    "source_url": "https://ben10.fandom.com/wiki/Ben_Tennyson"
+  },
+  {
+    "id": 42,
+    "claim": "In Ben 10: Alien Force, Ben Tennyson is fifteen years old.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Alien Force takes place several years after the original series, with Ben at fifteen.",
+    "source_name": "Wikipedia - Ben 10: Alien Force",
+    "source_url": "https://en.wikipedia.org/wiki/Ben_10:_Alien_Force"
+  },
+  {
+    "id": 43,
+    "claim": "Ben 10: Alien Force takes place during the same summer as the original series.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Alien Force is set several years after the original series.",
+    "source_name": "Wikipedia - Ben 10: Alien Force",
+    "source_url": "https://en.wikipedia.org/wiki/Ben_10:_Alien_Force"
+  },
+  {
+    "id": 44,
+    "claim": "In Ben 10: Alien Force, Gwen's grandmother Verdona is revealed to be an Anodite.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Verdona's Anodite nature explains Gwen's magical abilities in Alien Force.",
+    "source_name": "Ben 10 Wiki - Verdona",
+    "source_url": "https://ben10.fandom.com/wiki/Verdona"
+  },
+  {
+    "id": 45,
+    "claim": "Gwen's magical abilities come from her grandfather Max being an Anodite.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Max is human. Gwen's Anodite heritage comes from her grandmother Verdona.",
+    "source_name": "Ben 10 Wiki - Gwen Tennyson",
+    "source_url": "https://ben10.fandom.com/wiki/Gwen_Tennyson"
+  },
+  {
+    "id": 46,
+    "claim": "Heatblast is the first alien that Ben transforms into in the original series.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Ben's first transformation in the original series is into Heatblast.",
+    "source_name": "Ben 10 Wiki - Heatblast",
+    "source_url": "https://ben10.fandom.com/wiki/Heatblast"
+  },
+  {
+    "id": 47,
+    "claim": "Four Arms is the first alien that Ben transforms into in the original series.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Ben's first transformation is into Heatblast, not Four Arms.",
+    "source_name": "Ben 10 Wiki - Heatblast",
+    "source_url": "https://ben10.fandom.com/wiki/Heatblast"
+  },
+  {
+    "id": 48,
+    "claim": "The Ultimatrix appears in the original 2005 Ben 10 series.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "The Ultimatrix belongs to Ben 10: Ultimate Alien. The original series features the Omnitrix.",
+    "source_name": "Ben 10 Wiki - Ultimatrix",
+    "source_url": "https://ben10.fandom.com/wiki/Ultimatrix"
+  },
+  {
+    "id": 49,
+    "claim": "Grandpa Max is revealed to be a Galvan.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Max is a human and a former Plumber. Galvans are a separate alien species.",
+    "source_name": "Ben 10 Wiki - Max Tennyson",
+    "source_url": "https://ben10.fandom.com/wiki/Max_Tennyson"
+  },
+  {
+    "id": 50,
+    "claim": "The original Ben 10 series first aired on Disney XD.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "The original series aired on Cartoon Network, not Disney XD.",
+    "source_name": "Wikipedia - Ben 10",
+    "source_url": "https://en.wikipedia.org/wiki/Ben_10"
+  },
+  {
+    "id": 51,
+    "claim": "In the original Ben 10 series, Dr. Animo first fights Ben, Gwen and Grandpa Max in the pilot episode.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "In the pilot, \"And Then There Were 10\", the mad scientist Dr. Animo first encounters the Tennysons at the M-Mart.",
+    "source_name": "TheTVDB - Ben 10 episode guide",
+    "source_url": "https://thetvdb.com/series/ben-10/allseasons/dvd"
+  },
+  {
+    "id": 52,
+    "claim": "In the original series, Dr. Animo's powers come from mystical charms.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Dr. Animo is a scientist who relies on genetic experimentation. Powers drawn from mystical charms belong to the magician Hex.",
+    "source_name": "TheTVDB - Ben 10 episode guide",
+    "source_url": "https://thetvdb.com/series/ben-10/allseasons/dvd"
+  },
+  {
+    "id": 53,
+    "claim": "In the original series, the clown Zombozo drains the happiness of others to sustain and empower himself.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Zombozo runs a circus and feeds on the happiness of the people around him.",
+    "source_name": "TheTVDB - Ben 10 episode guide",
+    "source_url": "https://thetvdb.com/series/ben-10/allseasons/dvd"
+  },
+  {
+    "id": 54,
+    "claim": "In the original series, Hex is a scientist known for creating mutant animals.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Hex is a magician whose powers come from mystical charms. Mutant animals are the work of Dr. Animo.",
+    "source_name": "TheTVDB - Ben 10 episode guide",
+    "source_url": "https://thetvdb.com/series/ben-10/allseasons/dvd"
+  },
+  {
+    "id": 55,
+    "claim": "In the original series, Hex is a magician whose powers come from mystical charms.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Hex draws his power from charms, and Ben defeats him as XLR8 with help from Gwen and Grandpa Max.",
+    "source_name": "TheTVDB - Ben 10 episode guide",
+    "source_url": "https://thetvdb.com/series/ben-10/allseasons/dvd"
+  },
+  {
+    "id": 56,
+    "claim": "In the original series, Charmcaster is Hex's daughter.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Charmcaster is Hex's niece, not his daughter.",
+    "source_name": "Wikipedia - Ben 10 (2005 TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/Ben_10_(2005_TV_series)"
+  },
+  {
+    "id": 57,
+    "claim": "In the original series, Vilgax first appears in the pilot episode while pursuing a ship carrying the Omnitrix.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Vilgax's first appearance is in \"And Then There Were 10\", where he chases the ship and later sends drones to Earth to retrieve the device.",
+    "source_name": "Ben 10 Verse Wiki - Vilgax",
+    "source_url": "https://ben10verse.fandom.com/wiki/Vilgax"
+  },
+  {
+    "id": 58,
+    "claim": "The Forever Knights are an alien conquest fleet.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "The Forever Knights are an organization of knights, not an alien fleet. They are dedicated to wiping out aliens on Earth.",
+    "source_name": "WatchMojo - Top 10 Ben 10 Villains",
+    "source_url": "https://www.watchmojo.com/articles/top-10-ben-10-villains"
+  },
+  {
+    "id": 59,
+    "claim": "The Forever Knights are an organization of knights dedicated to wiping out all aliens from Earth.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "This is the purpose of the Forever Knights, who are recurring enemies of the Tennysons.",
+    "source_name": "WatchMojo - Top 10 Ben 10 Villains",
+    "source_url": "https://www.watchmojo.com/articles/top-10-ben-10-villains"
+  },
+  {
+    "id": 60,
+    "claim": "Aggregor is first introduced in Ben 10: Alien Force.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Aggregor is the main villain of the first season of Ben 10: Ultimate Alien, not Alien Force.",
+    "source_name": "Wikipedia - Ben 10: Ultimate Alien",
+    "source_url": "https://en.wikipedia.org/wiki/Ben_10:_Ultimate_Alien"
+  },
+  {
+    "id": 61,
+    "claim": "In the original series, Driscoll, who leads the Forever Knights, is a former Plumber.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Driscoll was kicked out of the Plumbers for stealing technology from alien criminals, then joined the Forever Knights and became their leader.",
+    "source_name": "Wikipedia - Ben 10 (2005 TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/Ben_10_(2005_TV_series)"
+  },
+  {
+    "id": 62,
+    "claim": "In the original series, Enoch is one of the Forever Knights' leaders and mostly works behind the scenes.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Enoch rarely battles the Tennysons directly, in contrast to more hands-on Forever Knights.",
+    "source_name": "Wikipedia - Ben 10 (2005 TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/Ben_10_(2005_TV_series)"
+  },
+  {
+    "id": 63,
+    "claim": "Zs'Skayr first escapes the Omnitrix in the original series episode \"Ghostfreaked Out\".",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Zs'Skayr takes control of Ghostfreak during a battle with the Circus Freak Trio and forces his way out of the Omnitrix.",
+    "source_name": "Ben 10 Wiki (BreezeWiki mirror) - Zs'Skayr",
+    "source_url": "https://breezewiki.discard.no/ben10/wiki/Zs%27Skayr"
+  },
+  {
+    "id": 64,
+    "claim": "In Ben 10: Ultimate Alien, Aggregor kidnaps five powerful aliens from the Andromeda Galaxy in order to steal their powers.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "This is the central plot of the first season of Ultimate Alien.",
+    "source_name": "Wikipedia - Ben 10: Ultimate Alien",
+    "source_url": "https://en.wikipedia.org/wiki/Ben_10:_Ultimate_Alien"
+  },
+  {
+    "id": 65,
+    "claim": "In Ben 10: Ultimate Alien, Aggregor's ultimate plan is to absorb the power of a Celestialsapien.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Aggregor wants a Celestialsapien's power so he can reshape the universe to his will.",
+    "source_name": "TV Tropes - Ben 10 Villains: Ultimate Alien",
+    "source_url": "https://www.tvtropes.org/pmwiki/pmwiki.php/Characters/Ben10VillainsUltimateAlien"
+  },
+  {
+    "id": 66,
+    "claim": "In Ben 10: Ultimate Alien, the Map of Infinity that Aggregor seeks is divided into four pieces.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Azmuth complains that Aggregor has claimed three of the four pieces of the Map of Infinity.",
+    "source_name": "Ben 10 Wiki - Perplexahedron",
+    "source_url": "https://ben10.fandom.com/wiki/Perplexahedron_(Episode)"
+  },
+  {
+    "id": 67,
+    "claim": "In Ben 10: Alien Force, Albedo is a Galvan who asked Azmuth for an Omnitrix of his own.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Albedo is described as a young, arrogant Galvan who wanted his own Omnitrix.",
+    "source_name": "Wikipedia - Ben 10: Alien Force",
+    "source_url": "https://en.wikipedia.org/wiki/Ben_10:_Alien_Force"
+  },
+  {
+    "id": 68,
+    "claim": "In Ben 10: Alien Force, DNAliens are human-Xenocyte hybrids that serve the Highbreed.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "DNAliens are drones created from humans and Xenocytes, and they work for the Highbreed.",
+    "source_name": "Wikipedia - Ben 10: Alien Force",
+    "source_url": "https://en.wikipedia.org/wiki/Ben_10:_Alien_Force"
+  },
+  {
+    "id": 69,
+    "claim": "In Ben 10: Omniverse, Eon causes 11-year-old Ben and teenage Ben to swap minds.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "This happens in the episode \"Ben Again\", and Gwen, Rook and Professor Paradox have to set things right.",
+    "source_name": "NOW TV - Ben 10: Omniverse, Ben Again",
+    "source_url": "https://www.nowtv.com/ie/online/ben-10-omniverse/iYEQZ3EW7qQcSVwbTKgTN1/seasons/1/episodes/ben-again-episode-18/A5EK7jm4V166HM9khkYKb"
+  },
+  {
+    "id": 70,
+    "claim": "In Ben 10: Omniverse, Vilgax and Eon team up to wipe out every Ben in every dimension.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "This is the premise of the Omniverse episode \"And Then There Were None\".",
+    "source_name": "NOW TV - Ben 10: Omniverse, And Then There Were None",
+    "source_url": "https://www.nowtv.com/watch/ben-10-omniverse/iYEQZ3EW7qQcSVwbTKgTN1/seasons/1/episodes/and-then-there-were-none-episode-51/A5EK7jm4V166HMh1fuqrW"
+  },
+  {
+    "id": 71,
+    "claim": "In Ben 10: Omniverse, Psyphon is a former lackey of Vilgax.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Psyphon is elated when his old master Vilgax returns.",
+    "source_name": "NOW TV - Ben 10: Omniverse, And Then There Were None",
+    "source_url": "https://www.nowtv.com/watch/ben-10-omniverse/iYEQZ3EW7qQcSVwbTKgTN1/seasons/1/episodes/and-then-there-were-none-episode-51/A5EK7jm4V166HMh1fuqrW"
+  },
+  {
+    "id": 72,
+    "claim": "In the original series, Charmcaster appears loyal to her uncle Hex but is actually using him to gain power for herself.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Charmcaster's loyalty to Hex is a front for her own ambitions.",
+    "source_name": "Wikipedia - Ben 10 (2005 TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/Ben_10_(2005_TV_series)"
+  },
+  {
+    "id": 73,
+    "claim": "In the original series, Zombozo gains power by draining his victims' fear.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Zombozo drains his victims' happiness, not their fear.",
+    "source_name": "TheTVDB - Ben 10 episode guide",
+    "source_url": "https://thetvdb.com/series/ben-10/allseasons/dvd"
+  },
+  {
+    "id": 74,
+    "claim": "In the original series, Driscoll was never a Plumber before he led the Forever Knights.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Driscoll is a former Plumber who was thrown out for stealing technology from alien criminals before he joined the Forever Knights.",
+    "source_name": "Wikipedia - Ben 10 (2005 TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/Ben_10_(2005_TV_series)"
+  },
+  {
+    "id": 75,
+    "claim": "Zs'Skayr first escapes the Omnitrix in Ben 10: Alien Force.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Zs'Skayr first escapes in the original series episode \"Ghostfreaked Out\". Alien Force brings him back later.",
+    "source_name": "Ben 10 Wiki (BreezeWiki mirror) - Zs'Skayr",
+    "source_url": "https://breezewiki.discard.no/ben10/wiki/Zs%27Skayr"
+  },
+  {
+    "id": 76,
+    "claim": "Aggregor is a Chimeran, the same species as Vilgax.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Aggregor is an Osmosian, not a member of Vilgax's species.",
+    "source_name": "Wikipedia - Ben 10: Ultimate Alien",
+    "source_url": "https://en.wikipedia.org/wiki/Ben_10:_Ultimate_Alien"
+  },
+  {
+    "id": 77,
+    "claim": "In Ben 10: Ultimate Alien, Aggregor kidnaps five aliens from the Milky Way Galaxy.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "The five captives are taken from the Andromeda Galaxy.",
+    "source_name": "Wikipedia - Ben 10: Ultimate Alien",
+    "source_url": "https://en.wikipedia.org/wiki/Ben_10:_Ultimate_Alien"
+  },
+  {
+    "id": 78,
+    "claim": "In Ben 10: Ultimate Alien, Aggregor's ultimate goal is to absorb Vilgax's powers.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Aggregor wants to absorb the power of a Celestialsapien, not Vilgax's.",
+    "source_name": "TV Tropes - Ben 10 Villains: Ultimate Alien",
+    "source_url": "https://www.tvtropes.org/pmwiki/pmwiki.php/Characters/Ben10VillainsUltimateAlien"
+  },
+  {
+    "id": 79,
+    "claim": "In Ben 10: Ultimate Alien, the Map of Infinity is divided into two pieces.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "The Map of Infinity is divided into four pieces, three of which Aggregor claims at one point.",
+    "source_name": "Ben 10 Wiki - Perplexahedron",
+    "source_url": "https://ben10.fandom.com/wiki/Perplexahedron_(Episode)"
+  },
+  {
+    "id": 80,
+    "claim": "In Ben 10: Alien Force, Albedo is an Ectonurite.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Albedo is a Galvan. Ectonurite is the species of Zs'Skayr.",
+    "source_name": "Wikipedia - Ben 10: Alien Force",
+    "source_url": "https://en.wikipedia.org/wiki/Ben_10:_Alien_Force"
+  },
+  {
+    "id": 81,
+    "claim": "In Ben 10: Alien Force, DNAliens serve Vilgax.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "DNAliens are drones that serve the Highbreed, not Vilgax.",
+    "source_name": "Wikipedia - Ben 10: Alien Force",
+    "source_url": "https://en.wikipedia.org/wiki/Ben_10:_Alien_Force"
+  },
+  {
+    "id": 82,
+    "claim": "In Ben 10: Omniverse, Eon causes teenage Ben to swap minds with Kevin.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "In \"Ben Again\", Eon makes 11-year-old Ben and teenage Ben swap minds with each other.",
+    "source_name": "NOW TV - Ben 10: Omniverse, Ben Again",
+    "source_url": "https://www.nowtv.com/ie/online/ben-10-omniverse/iYEQZ3EW7qQcSVwbTKgTN1/seasons/1/episodes/ben-again-episode-18/A5EK7jm4V166HM9khkYKb"
+  },
+  {
+    "id": 83,
+    "claim": "In Ben 10: Omniverse, Vilgax and Eon team up to wipe out only Gwen across all dimensions.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Their target is every Ben in every dimension, not Gwen.",
+    "source_name": "NOW TV - Ben 10: Omniverse, And Then There Were None",
+    "source_url": "https://www.nowtv.com/watch/ben-10-omniverse/iYEQZ3EW7qQcSVwbTKgTN1/seasons/1/episodes/and-then-there-were-none-episode-51/A5EK7jm4V166HMh1fuqrW"
+  },
+  {
+    "id": 84,
+    "claim": "In Ben 10: Omniverse, Psyphon is a long-time enemy of Vilgax.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Psyphon is a former lackey of Vilgax and is delighted when Vilgax returns.",
+    "source_name": "NOW TV - Ben 10: Omniverse, And Then There Were None",
+    "source_url": "https://www.nowtv.com/watch/ben-10-omniverse/iYEQZ3EW7qQcSVwbTKgTN1/seasons/1/episodes/and-then-there-were-none-episode-51/A5EK7jm4V166HMh1fuqrW"
+  },
+  {
+    "id": 85,
+    "claim": "In Ben 10: Omniverse, Malware is a Pyronite.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Malware is described as a deformed Mechamorph, not a Pyronite.",
+    "source_name": "NOW TV - Ben 10: Omniverse, Malefactor",
+    "source_url": "https://www.nowtv.com/ie/online/ben-10-omniverse/iYEQZ3EW7qQcSVwbTKgTN1/seasons/1/episodes/malefactor-episode-15/A5EK7jm4V166HM8E29ZTw"
+  },
+  {
+    "id": 86,
+    "claim": "Vilgax's Shield of Seagle first appears in Ben 10: Alien Force, where it can generate a protective force field.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "The gauntlet first appears in \"Vengeance of Vilgax: Part 1\" and its gem generates a powerful personal force field.",
+    "source_name": "Ben 10 Wiki - Shield of Seagle",
+    "source_url": "https://ben10.fandom.com/wiki/Shield_of_Seagle"
+  },
+  {
+    "id": 87,
+    "claim": "The original Zs'Skayr was once the High Ecto-Lord of Anur Phaetos.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "This is part of Zs'Skayr's background as an Ectonurite ruler before he was trapped in the Omnitrix.",
+    "source_name": "Ben 10 Wiki (BreezeWiki mirror) - Zs'Skayr",
+    "source_url": "https://breezewiki.discard.no/ben10/wiki/Zs%27Skayr"
+  },
+  {
+    "id": 88,
+    "claim": "In Ben 10: Alien Force, DNA Repair Guns can turn DNAliens back into humans, destroying their Xenocytes.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "The guns reverse the transformation for human DNAliens, though they do not work on DNAliens of other species.",
+    "source_name": "Ben 10 Wiki (BreezeWiki mirror) - Xenocite",
+    "source_url": "https://breezewiki.discard.no/ben10/wiki/Xenocite"
+  },
+  {
+    "id": 89,
+    "claim": "In Ben 10: Alien Force, the Highbreed base in Santa Mira manufactures Xenocytes.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "The gang finds a Highbreed base in Santa Mira that makes the parasites which mutate humans into DNAliens.",
+    "source_name": "Wikipedia - List of Ben 10: Alien Force episodes",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Ben_10:_Alien_Force_episodes"
+  },
+  {
+    "id": 90,
+    "claim": "In Ben 10: Omniverse, the Incurseans take control of Earth.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Rook and the Plumbers must stop the Incurseans while Ben is missing.",
+    "source_name": "NOW TV - Ben 10: Omniverse, It's a Mad Ben World Pt 1",
+    "source_url": "https://www.nowtv.com/watch/ben-10-omniverse/iYEQZ3EW7qQcSVwbTKgTN1/seasons/1/episodes/its-a-mad-ben-world-pt-1-episode-69/A5EK7jm4V166HMhUFXSq"
+  },
+  {
+    "id": 91,
+    "claim": "In Ben 10: Omniverse, Khyber is known as the Huntsman.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Khyber the Huntsman is one of the antagonists introduced in the series.",
+    "source_name": "NOW TV - Ben 10: Omniverse, Malefactor",
+    "source_url": "https://www.nowtv.com/ie/online/ben-10-omniverse/iYEQZ3EW7qQcSVwbTKgTN1/seasons/1/episodes/malefactor-episode-15/A5EK7jm4V166HM8E29ZTw"
+  },
+  {
+    "id": 92,
+    "claim": "In Ben 10: Omniverse, a deranged Malware launches a final attack on Azmuth.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Malware's final assault on Azmuth is part of his storyline in Omniverse.",
+    "source_name": "NOW TV - Ben 10: Omniverse, Malefactor",
+    "source_url": "https://www.nowtv.com/ie/online/ben-10-omniverse/iYEQZ3EW7qQcSVwbTKgTN1/seasons/1/episodes/malefactor-episode-15/A5EK7jm4V166HM8E29ZTw"
+  },
+  {
+    "id": 93,
+    "claim": "In the Omniverse episode \"Vilgax Must Croak\", Vilgax jumps in front of a blast to save Ben.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "When Attea fires a Techadon Dissipator, Vilgax takes the blast that would have hit Ben.",
+    "source_name": "Ben 10 Wiki - Vilgax Must Croak",
+    "source_url": "https://ben10.fandom.com/wiki/Vilgax_Must_Croak"
+  },
+  {
+    "id": 94,
+    "claim": "Vilgax's Shield of Seagle first appears in the original Ben 10 series.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "The Shield of Seagle first appears in Alien Force, in \"Vengeance of Vilgax: Part 1\".",
+    "source_name": "Ben 10 Wiki - Shield of Seagle",
+    "source_url": "https://ben10.fandom.com/wiki/Shield_of_Seagle"
+  },
+  {
+    "id": 95,
+    "claim": "In Ben 10: Alien Force, Xenocytes are manufactured by the Forever Knights.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "The Highbreed manufacture Xenocytes, which are used to create DNAliens.",
+    "source_name": "Ben 10 Wiki (BreezeWiki mirror) - Xenocite",
+    "source_url": "https://breezewiki.discard.no/ben10/wiki/Xenocite"
+  },
+  {
+    "id": 96,
+    "claim": "The Incurseans first appear in the original 2005 Ben 10 series.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "The Incurseans appear in Ben 10: Omniverse, including the episode where they take control of Earth.",
+    "source_name": "NOW TV - Ben 10: Omniverse, It's a Mad Ben World Pt 1",
+    "source_url": "https://www.nowtv.com/watch/ben-10-omniverse/iYEQZ3EW7qQcSVwbTKgTN1/seasons/1/episodes/its-a-mad-ben-world-pt-1-episode-69/A5EK7jm4V166HMhUFXSq"
+  },
+  {
+    "id": 97,
+    "claim": "In Ben 10: Omniverse, Khyber the Huntsman is the chief of the Plumbers.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Khyber is an antagonist known as the Huntsman who gathers information on Ben, not a Plumber chief.",
+    "source_name": "NOW TV - Ben 10: Omniverse, Malefactor",
+    "source_url": "https://www.nowtv.com/ie/online/ben-10-omniverse/iYEQZ3EW7qQcSVwbTKgTN1/seasons/1/episodes/malefactor-episode-15/A5EK7jm4V166HM8E29ZTw"
+  },
+  {
+    "id": 98,
+    "claim": "In Ben 10: Omniverse, Malware searches for the Map of Infinity.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Malware searches for a Helix. The Map of Infinity is what Aggregor seeks in Ultimate Alien.",
+    "source_name": "NOW TV - Ben 10: Omniverse, Malefactor",
+    "source_url": "https://www.nowtv.com/ie/online/ben-10-omniverse/iYEQZ3EW7qQcSVwbTKgTN1/seasons/1/episodes/malefactor-episode-15/A5EK7jm4V166HM8E29ZTw"
+  },
+  {
+    "id": 99,
+    "claim": "In the Omniverse episode \"Vilgax Must Croak\", Attea's Incurseans are trying to free Vilgax.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Rook tells Ben that Attea's group is not trying to free Vilgax. They have other plans.",
+    "source_name": "Ben 10 Wiki - Vilgax Must Croak",
+    "source_url": "https://ben10.fandom.com/wiki/Vilgax_Must_Croak"
+  },
+  {
+    "id": 100,
+    "claim": "In the Alien Force episode \"Ghost Town\", Zs'Skayr frees Vilgax.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "It is the other way around: Vilgax frees Zs'Skayr, on the condition that he reveal Omnitrix secrets and how to defeat Ben.",
+    "source_name": "Ben 10 Wiki (BreezeWiki mirror) - Zs'Skayr",
+    "source_url": "https://breezewiki.discard.no/ben10/wiki/Zs%27Skayr"
+  },
+  {
+    "id": 101,
+    "claim": "Heatblast is Ben's transformation into a Pyronite, a species from the planet Pyros.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Heatblast is a Pyronite, and Pyronites are native to the planet Pyros.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Heatblast"
+  },
+  {
+    "id": 102,
+    "claim": "Four Arms is Ben's transformation into a Vulpimancer.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Four Arms is a Tetramand. Vulpimancer is the species of Wildmutt.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Four_Arms"
+  },
+  {
+    "id": 103,
+    "claim": "Diamondhead is a Petrosapien.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Diamondhead is Ben's transformation into a Petrosapien, a crystalline species.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Diamondhead"
+  },
+  {
+    "id": 104,
+    "claim": "XLR8 is Ben's transformation into an Arburian Pelarota.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "XLR8 is a Kineceleran. Arburian Pelarota is the species of Cannonbolt.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/XLR8"
+  },
+  {
+    "id": 105,
+    "claim": "Wildmutt has no eyes and relies on senses such as smell to navigate.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Wildmutt is a Vulpimancer, a species without eyes, and it relies on its other senses, especially smell.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Wildmutt"
+  },
+  {
+    "id": 106,
+    "claim": "Grey Matter is a Galvanic Mechamorph.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Grey Matter is a Galvan. Galvanic Mechamorph is the species of Upgrade.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Grey_Matter"
+  },
+  {
+    "id": 107,
+    "claim": "Ripjaws is Ben's transformation into a Piscciss Volann.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Ripjaws is a Piscciss Volann, an amphibious species.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Ripjaws"
+  },
+  {
+    "id": 108,
+    "claim": "Stinkfly is Ben's transformation into a Necrofriggian.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Stinkfly is a Lepidopterran. Necrofriggian is the species of Big Chill.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Stinkfly"
+  },
+  {
+    "id": 109,
+    "claim": "Upgrade is a Galvanic Mechamorph.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Upgrade is the Omnitrix transformation into a Galvanic Mechamorph, a species able to merge with technology.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Upgrade"
+  },
+  {
+    "id": 110,
+    "claim": "Ghostfreak is Ben's transformation into a Vaxasaurian.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Ghostfreak is an Ectonurite. Vaxasaurian is the species of Humungousaur.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Ghostfreak"
+  },
+  {
+    "id": 111,
+    "claim": "Cannonbolt is an Arburian Pelarota from the planet Arburia.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Cannonbolt is an Arburian Pelarota, and Arburian Pelarotas are native to Arburia.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Arburian_Pelarota"
+  },
+  {
+    "id": 112,
+    "claim": "Swampfire is Ben's transformation into a Methanosian.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Swampfire is a Methanosian, a plant-like species able to control fire and plant life.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Swampfire"
+  },
+  {
+    "id": 113,
+    "claim": "Big Chill is Ben's transformation into a Necrofriggian.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Big Chill is a Necrofriggian, a moth-like species from a frozen world.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Big_Chill"
+  },
+  {
+    "id": 114,
+    "claim": "Humungousaur is Ben's transformation into a Vaxasaurian.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Humungousaur is a Vaxasaurian, a dinosaur-like species able to grow in size.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Humungousaur"
+  },
+  {
+    "id": 115,
+    "claim": "Jetray is Ben's transformation into an Aerophibian.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Jetray is an Aerophibian, a species adapted to both flying and swimming.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Jetray"
+  },
+  {
+    "id": 116,
+    "claim": "Echo Echo is Ben's transformation into a Sonorosian.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Echo Echo is a Sonorosian, a small sonic-based species that can duplicate itself.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Echo_Echo"
+  },
+  {
+    "id": 117,
+    "claim": "Chromastone is Ben's transformation into a Crystalsapien.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Chromastone is a Crystalsapien, a crystalline species able to absorb energy.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Chromastone"
+  },
+  {
+    "id": 118,
+    "claim": "Goop is Ben's transformation into a Polymorph.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Goop is a Polymorph, a gelatinous species whose body is held together by an anti-gravity projector.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Goop"
+  },
+  {
+    "id": 119,
+    "claim": "Alien X is Ben's transformation into a Celestialsapien.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Alien X is a Celestialsapien, a cosmic species with enormous power.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Alien_X"
+  },
+  {
+    "id": 120,
+    "claim": "Rath is Ben's transformation into an Appoplexian.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Rath is an Appoplexian, a tiger-like species known for aggression and strength.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Rath"
+  },
+  {
+    "id": 121,
+    "claim": "Ghostfreak can become intangible.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Ghostfreak's Ectonurite abilities include intangibility, invisibility, and possession.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Ghostfreak"
+  },
+  {
+    "id": 122,
+    "claim": "Wildmutt is a Vulpimancer.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Wildmutt is the Omnitrix's Vulpimancer transformation.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Vulpimancer"
+  },
+  {
+    "id": 123,
+    "claim": "The Ultimatrix lets Ben evolve certain aliens into Ultimate forms.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "The Ultimatrix, introduced in Ultimate Alien, lets Ben evolve some aliens into stronger Ultimate forms.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Ultimatrix"
+  },
+  {
+    "id": 124,
+    "claim": "Chromastone is a Petrosapien.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Chromastone is a Crystalsapien. Petrosapien is the species of Diamondhead.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Chromastone"
+  },
+  {
+    "id": 125,
+    "claim": "Big Chill is an Ectonurite.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Big Chill is a Necrofriggian. Ectonurite is the species of Ghostfreak.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Big_Chill"
+  },
+  {
+    "id": 126,
+    "claim": "Echo Echo is a Kineceleran.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Echo Echo is a Sonorosian. Kinecelerans are the species of XLR8.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Echo_Echo"
+  },
+  {
+    "id": 127,
+    "claim": "Goop is a Galvanic Mechamorph.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Goop is a Polymorph. Galvanic Mechamorph is the species of Upgrade.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Goop"
+  },
+  {
+    "id": 128,
+    "claim": "Rath is a Tetramand.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Rath is an Appoplexian. Tetramand is the species of Four Arms.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Rath"
+  },
+  {
+    "id": 129,
+    "claim": "Swampfire is a Pyronite.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Swampfire is a Methanosian. Pyronite is the species of Heatblast.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Swampfire"
+  },
+  {
+    "id": 130,
+    "claim": "Alien X is a Galvan.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Alien X is a Celestialsapien. Galvan is the species of Grey Matter.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Alien_X"
+  },
+  {
+    "id": 131,
+    "claim": "The Ultimatrix first appeared in the original Ben 10 series.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "The Ultimatrix debuted in Ben 10: Ultimate Alien, not in the original series.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Ultimatrix"
+  },
+  {
+    "id": 132,
+    "claim": "Piscciss Volanns are native to the planet Pyros.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Piscciss Volanns come from Piscciss. Pyros is the homeworld of the Pyronites.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Piscciss_Volann"
+  },
+  {
+    "id": 133,
+    "claim": "Lepidopterrans are native to the planet Kinet.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Lepidopterrans come from Lepidopterra. Kinet is the homeworld of the Kinecelerans.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Lepidopterran"
+  },
+  {
+    "id": 134,
+    "claim": "Vulpimancers rely mainly on highly developed eyesight.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Vulpimancers have no eyes and rely on other senses such as smell.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Vulpimancer"
+  },
+  {
+    "id": 135,
+    "claim": "Petrosapiens are native to Galvan Prime.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Petrosapiens come from Petropia. Galvan Prime is the homeworld of the Galvans.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Petrosapien"
+  },
+  {
+    "id": 136,
+    "claim": "Ultimate Swampfire is the Ultimatrix's evolved form of Swampfire.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Swampfire is one of the aliens that the Ultimatrix can evolve, into Ultimate Swampfire.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Ultimate_Swampfire"
+  },
+  {
+    "id": 137,
+    "claim": "Ben's Alien X can act only when a majority of its three minds agree.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Alien X's body is shared by Serena, Bellicus, and Ben, and the form acts only on a majority decision.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Alien_X"
+  },
+  {
+    "id": 138,
+    "claim": "Bellicus is the aggressive personality within Ben's Alien X form.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Bellicus is the impulsive, aggressive personality in Alien X, and Serena is the calmer one.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Alien_X"
+  },
+  {
+    "id": 139,
+    "claim": "In the original series, Ben's Omnitrix Master Control let him avoid the time-out limit.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Master Control removes the Omnitrix's time-out limit and gives Ben full control over his transformations.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Omnitrix"
+  },
+  {
+    "id": 140,
+    "claim": "Goop's body depends on an anti-gravity projector to hold its shape.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Goop is a Polymorph whose body is held together by an anti-gravity projector, which also lets it hover.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Goop"
+  },
+  {
+    "id": 141,
+    "claim": "Ghostfreak is vulnerable to bright light.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Ghostfreak's Ectonurite physiology is weakened by bright light, one of his main demonstrated weaknesses.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Ghostfreak"
+  },
+  {
+    "id": 142,
+    "claim": "Chromastone can absorb energy and redirect it as energy beams.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Chromastone is a Crystalsapien that absorbs energy attacks and releases the energy in focused beams.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Chromastone"
+  },
+  {
+    "id": 143,
+    "claim": "Ultimate Humungousaur is the evolved form of Cannonbolt.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Ultimate Humungousaur is the evolved form of Humungousaur, not Cannonbolt.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Ultimate_Humungousaur"
+  },
+  {
+    "id": 144,
+    "claim": "Alien X can act on Ben's decision alone without agreement from Serena or Bellicus.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Alien X acts only when a majority of its three minds agree, so Ben's vote alone is not enough.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Alien_X"
+  },
+  {
+    "id": 145,
+    "claim": "Serena is the aggressive personality within Alien X.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Bellicus is the aggressive personality, while Serena is the calmer, more reasoned one.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Alien_X"
+  },
+  {
+    "id": 146,
+    "claim": "Vilgax created the Ultimatrix.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "The Ultimatrix is an upgrade of the Omnitrix from Azmuth, the Galvan who created the Omnitrix, not from Vilgax.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Ultimatrix"
+  },
+  {
+    "id": 147,
+    "claim": "Methanosians are native to the planet Pyros.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Methanosians come from Methanos. Pyros is the homeworld of the Pyronites.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Methanosian"
+  },
+  {
+    "id": 148,
+    "claim": "The Omnitrix's time-out occurs only when Ben is injured.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "The Omnitrix times out after a set period, then Ben reverts and the device must recharge. Injury is not the trigger.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Omnitrix"
+  },
+  {
+    "id": 149,
+    "claim": "Big Chill's primary ranged attack is fire breath.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Big Chill is a Necrofriggian who breathes ice. Fire attacks belong to Heatblast and Swampfire.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Big_Chill"
+  },
+  {
+    "id": 150,
+    "claim": "Humungousaur can grow in size only when exposed to sunlight.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Humungousaur's size growth is a Vaxasaurian ability and does not depend on sunlight.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Humungousaur"
+  },
+  {
+    "id": 151,
+    "claim": "Azmuth is the Galvan who created the Omnitrix.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Azmuth, a Galvan inventor, designed and built the Omnitrix.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Azmuth"
+  },
+  {
+    "id": 152,
+    "claim": "Vilgax is a human.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Vilgax is an alien warlord of the species Chimera Sui Generis, not a human.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Vilgax"
+  },
+  {
+    "id": 153,
+    "claim": "Albedo is a Galvan.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Albedo is a Galvan, the same species as Azmuth.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Albedo"
+  },
+  {
+    "id": 154,
+    "claim": "Kevin Levin is Ben's cousin.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Gwen is Ben's cousin. Kevin Levin is a separate character who is not related to Ben.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Kevin_Levin"
+  },
+  {
+    "id": 155,
+    "claim": "Max Tennyson is Ben's grandfather.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Max Tennyson is Ben's grandfather and a retired Plumber.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Max_Tennyson"
+  },
+  {
+    "id": 156,
+    "claim": "Gwen Tennyson is Ben's cousin.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Gwen is Ben's cousin and a core member of his team.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Gwen_Tennyson"
+  },
+  {
+    "id": 157,
+    "claim": "Gwen Tennyson is Ben's older sister.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Gwen is Ben's cousin, not his sister.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Gwen_Tennyson"
+  },
+  {
+    "id": 158,
+    "claim": "The Plumbers are a secret organization that deals with extraterrestrial matters.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "The Plumbers are a secret organization that handles alien affairs on Earth and across the galaxy.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Plumbers"
+  },
+  {
+    "id": 159,
+    "claim": "The Forever Knights are an organization of knights in medieval-style armor.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "The Forever Knights are a secretive order of knights who wear medieval-style armor.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Forever_Knights"
+  },
+  {
+    "id": 160,
+    "claim": "Max Tennyson is Gwen's older brother.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Easy",
+    "explanation": "Max Tennyson is Gwen's grandfather, not her brother.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Max_Tennyson"
+  },
+  {
+    "id": 161,
+    "claim": "Clockwork is a Chronosapien.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Clockwork is the Omnitrix transformation into a Chronosapien, a species associated with time manipulation.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Clockwork"
+  },
+  {
+    "id": 162,
+    "claim": "Clockwork is a Celestialsapien.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Clockwork is a Chronosapien. Celestialsapien is the species of Alien X.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Clockwork"
+  },
+  {
+    "id": 163,
+    "claim": "Rook Blonko is a Revonnahgander.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Rook Blonko is a Revonnahgander and Ben's Plumber partner in Omniverse.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Rook_Blonko"
+  },
+  {
+    "id": 164,
+    "claim": "Rook Blonko is a Tetramand.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Rook is a Revonnahgander. Tetramand is the species of Four Arms.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Rook_Blonko"
+  },
+  {
+    "id": 165,
+    "claim": "Aggregor is an Osmosian.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Aggregor is an Osmosian, a species able to absorb energy and matter.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Aggregor"
+  },
+  {
+    "id": 166,
+    "claim": "Aggregor is a Galvanic Mechamorph.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Aggregor is an Osmosian. Galvanic Mechamorph is the species of Upgrade.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Aggregor"
+  },
+  {
+    "id": 167,
+    "claim": "Brainstorm is a Cerebrocrustacean.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Brainstorm is the Omnitrix transformation into a Cerebrocrustacean, a highly intelligent species.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Brainstorm"
+  },
+  {
+    "id": 168,
+    "claim": "Brainstorm is a Petrosapien.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Brainstorm is a Cerebrocrustacean. Petrosapien is the species of Diamondhead.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Brainstorm"
+  },
+  {
+    "id": 169,
+    "claim": "Spidermonkey is an Arachnichimp.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Spidermonkey is the Omnitrix transformation into an Arachnichimp.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Spidermonkey"
+  },
+  {
+    "id": 170,
+    "claim": "Spidermonkey is a Lepidopterran.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Spidermonkey is an Arachnichimp. Lepidopterran is the species of Stinkfly.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Spidermonkey"
+  },
+  {
+    "id": 171,
+    "claim": "Kevin Levin has Osmosian ancestry.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Kevin Levin is part Osmosian, which is the source of his power to absorb matter and energy.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Kevin_Levin"
+  },
+  {
+    "id": 172,
+    "claim": "Verdona is an Anodite.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Verdona is an Anodite, a being of pure energy, and was Max Tennyson's wife.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Verdona"
+  },
+  {
+    "id": 173,
+    "claim": "Gwen's Anodite ancestry comes from her grandfather, Max Tennyson.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Max Tennyson is human. Gwen's Anodite heritage comes from her grandmother Verdona.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Gwen_Tennyson"
+  },
+  {
+    "id": 174,
+    "claim": "The DNAliens serve the Highbreed.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "In Alien Force, the DNAliens are the Highbreed's soldiers and servants during the invasion of Earth.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/DNAliens"
+  },
+  {
+    "id": 175,
+    "claim": "In the original series, Ben's Omnitrix began with ten aliens available to him.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Ben started the original series with ten aliens unlocked on the Omnitrix.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Omnitrix"
+  },
+  {
+    "id": 176,
+    "claim": "In the original series, Ben's Omnitrix began with twenty aliens available to him.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "The original series started Ben with ten available aliens, not twenty.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Omnitrix"
+  },
+  {
+    "id": 177,
+    "claim": "Albedo's Ultimatrix transformations have inverted color schemes compared with Ben's.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Albedo's aliens appear with inverted color schemes compared to Ben's versions of the same aliens.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Albedo"
+  },
+  {
+    "id": 178,
+    "claim": "The 2016 Ben 10 series is a reboot with a continuity separate from the original series.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "The 2016 series is a reboot and does not continue the original series' continuity.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Ben_10_(2016_TV_series)"
+  },
+  {
+    "id": 179,
+    "claim": "Ultimate Echo Echo is the Ultimatrix evolution of Jetray.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "Ultimate Echo Echo is the evolved form of Echo Echo, not Jetray.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Ultimate_Echo_Echo"
+  },
+  {
+    "id": 180,
+    "claim": "The 2016 reboot is a direct continuation of the Omniverse storyline.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Medium",
+    "explanation": "The 2016 series is a reboot with its own continuity, not a continuation of Omniverse.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Ben_10_(2016_TV_series)"
+  },
+  {
+    "id": 181,
+    "claim": "Tetramands are native to the planet Khoros.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Khoros is the homeworld of the Tetramands, the species of Four Arms.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Tetramand"
+  },
+  {
+    "id": 182,
+    "claim": "Necrofriggians are native to the planet Kylmyys.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Kylmyys is the homeworld of the Necrofriggians, the species of Big Chill.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Necrofriggian"
+  },
+  {
+    "id": 183,
+    "claim": "Vaxasaurians are native to the planet Terradino.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Terradino is the homeworld of the Vaxasaurians, the species of Humungousaur.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Vaxasaurian"
+  },
+  {
+    "id": 184,
+    "claim": "Galvanic Mechamorphs are native to the planet Galvan B.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Galvan B is the homeworld of the Galvanic Mechamorphs, the species of Upgrade.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Galvanic_Mechamorph"
+  },
+  {
+    "id": 185,
+    "claim": "Big Chill can turn intangible to pass through solid objects.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Big Chill's Necrofriggian abilities include becoming intangible and phasing through matter.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Big_Chill"
+  },
+  {
+    "id": 186,
+    "claim": "Swampfire can regenerate damaged parts of his body.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Swampfire is a Methanosian whose body can regenerate from damage.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Swampfire"
+  },
+  {
+    "id": 187,
+    "claim": "Zs'Skayr is the name of an individual Ectonurite, not the name of the species.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Zs'Skayr is the Ectonurite whose DNA became the Ghostfreak form. Ectonurite is the species name.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Ghostfreak"
+  },
+  {
+    "id": 188,
+    "claim": "Appoplexians are native to the planet Appoplexia.",
+    "answer": "FACT",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Appoplexia is the homeworld of the Appoplexians, the species of Rath.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Appoplexian"
+  },
+  {
+    "id": 189,
+    "claim": "Tetramands are native to the planet Kylmyys.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Tetramands come from Khoros. Kylmyys is the homeworld of the Necrofriggians.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Tetramand"
+  },
+  {
+    "id": 190,
+    "claim": "Necrofriggians are native to the planet Khoros.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Necrofriggians come from Kylmyys. Khoros is the homeworld of the Tetramands.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Necrofriggian"
+  },
+  {
+    "id": 191,
+    "claim": "Galvanic Mechamorphs are native to Galvan Prime.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Galvanic Mechamorphs come from Galvan B. Galvan Prime is the homeworld of the Galvans.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Galvanic_Mechamorph"
+  },
+  {
+    "id": 192,
+    "claim": "Vaxasaurians are native to the planet Arburia.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Vaxasaurians come from Terradino. Arburia is the homeworld of the Arburian Pelarotas.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Vaxasaurian"
+  },
+  {
+    "id": 193,
+    "claim": "Appoplexians are native to the planet Terradino.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Appoplexians come from Appoplexia. Terradino is the homeworld of the Vaxasaurians.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Appoplexian"
+  },
+  {
+    "id": 194,
+    "claim": "Zs'Skayr is the name of the Ectonurite species.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Ectonurite is the species. Zs'Skayr is the name of one individual Ectonurite.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Ghostfreak"
+  },
+  {
+    "id": 195,
+    "claim": "Malware is a Galvan.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Malware is a Galvanic Mechamorph, not a Galvan.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Malware"
+  },
+  {
+    "id": 196,
+    "claim": "Aggregor is a Chronosapien.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Aggregor is an Osmosian. Chronosapien is the species of Clockwork.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Aggregor"
+  },
+  {
+    "id": 197,
+    "claim": "Brainstorm is an Osmosian.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Brainstorm is a Cerebrocrustacean. Osmosian is the species of Aggregor.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Brainstorm"
+  },
+  {
+    "id": 198,
+    "claim": "Clockwork is an Arachnichimp.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Clockwork is a Chronosapien. Arachnichimp is the species of Spidermonkey.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Clockwork"
+  },
+  {
+    "id": 199,
+    "claim": "Rook Blonko is an Appoplexian.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Rook is a Revonnahgander. Appoplexian is the species of Rath.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Rook_Blonko"
+  },
+  {
+    "id": 200,
+    "claim": "Kevin Levin is a pure-blooded Anodite.",
+    "answer": "TRAP",
+    "category": "Ben 10",
+    "difficulty": "Hard",
+    "explanation": "Kevin's powers come from Osmosian ancestry. Anodites are energy beings such as Verdona.",
+    "source_name": "Ben 10 Wiki (Fandom)",
+    "source_url": "https://ben10.fandom.com/wiki/Kevin_Levin"
+  }
+]

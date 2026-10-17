@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "claim": "The sigil of House Stark is a grey direwolf on a white field.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "House Stark's banner shows a grey direwolf running across a white field.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/House_Stark"
+  },
+  {
+    "id": 2,
+    "claim": "The sigil of House Lannister is a black stag on a golden field.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "A black stag on gold is the sigil of House Baratheon. House Lannister's sigil is a golden lion on a crimson field.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/House_Lannister"
+  },
+  {
+    "id": 3,
+    "claim": "Daenerys Targaryen is the daughter of King Aerys II, the Mad King.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Daenerys is the youngest child of Aerys II Targaryen and his sister-wife Queen Rhaella.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Daenerys_Targaryen"
+  },
+  {
+    "id": 4,
+    "claim": "Arya Stark is the eldest daughter of Eddard and Catelyn Stark.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Sansa Stark is the elder daughter. Arya is the younger of the two Stark daughters.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Arya_Stark"
+  },
+  {
+    "id": 5,
+    "claim": "Tyrion Lannister is the younger brother of Cersei and Jaime Lannister.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Tyrion is the youngest child of Tywin Lannister and Joanna Lannister, born after the twins Cersei and Jaime.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Tyrion_Lannister"
+  },
+  {
+    "id": 6,
+    "claim": "Ned Stark's wife is Lysa Arryn.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Ned Stark's wife is Catelyn Stark, née Tully. Lysa Arryn is Catelyn's sister and the wife of Jon Arryn.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Catelyn_Stark"
+  },
+  {
+    "id": 7,
+    "claim": "Robb Stark is proclaimed King in the North.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "After the arrest and execution of Ned Stark, the northern lords and the Riverlands lords name Robb King in the North.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Robb_Stark"
+  },
+  {
+    "id": 8,
+    "claim": "The sigil of House Greyjoy is a golden kraken on a black field.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "House Greyjoy of the Iron Islands bears a golden kraken on a black field.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/House_Greyjoy"
+  },
+  {
+    "id": 9,
+    "claim": "Cersei Lannister marries King Robert Baratheon.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Cersei is Robert Baratheon's queen, a marriage that joined House Lannister to the Iron Throne.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Cersei_Lannister"
+  },
+  {
+    "id": 10,
+    "claim": "Sansa Stark's direwolf is named Ghost.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Sansa's direwolf is Lady. Ghost is Jon Snow's albino direwolf.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Sansa_Stark"
+  },
+  {
+    "id": 11,
+    "claim": "Jon Snow serves as Lord Commander of the Night's Watch.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Jon Snow is elected the 998th Lord Commander of the Night's Watch at Castle Black.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jon_Snow"
+  },
+  {
+    "id": 12,
+    "claim": "Bran Stark loses the use of his legs after Jaime Lannister pushes him from a tower at Winterfell.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Jaime pushes Bran from a tower window after Bran sees him with Cersei. The fall leaves Bran paralyzed from the waist down.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Bran_Stark"
+  },
+  {
+    "id": 13,
+    "claim": "Tywin Lannister is Cersei Lannister's brother.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Tywin Lannister is Cersei's father. Her brothers are Jaime and Tyrion.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Tywin_Lannister"
+  },
+  {
+    "id": 14,
+    "claim": "Casterly Rock is the ancestral seat of House Lannister.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Casterly Rock, a massive fortress carved into a rock in the Westerlands, is the seat of House Lannister.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Casterly_Rock"
+  },
+  {
+    "id": 15,
+    "claim": "Robb Stark's direwolf is named Nymeria.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Robb's direwolf is Grey Wind. Nymeria is Arya Stark's direwolf.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Robb_Stark"
+  },
+  {
+    "id": 16,
+    "claim": "Stannis Baratheon is the younger brother of King Robert Baratheon and holds Dragonstone.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Stannis is the middle of the three Baratheon brothers, younger than Robert. He is Lord of Dragonstone.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Stannis_Baratheon"
+  },
+  {
+    "id": 17,
+    "claim": "Renly Baratheon is the eldest of the three Baratheon brothers.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Renly is the youngest brother. Robert is the eldest, followed by Stannis.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Renly_Baratheon"
+  },
+  {
+    "id": 18,
+    "claim": "Oberyn Martell of Dorne is nicknamed the Red Viper.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Prince Oberyn Martell is known as the Red Viper, a nickname reflecting his skill with poisoned weapons.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Oberyn_Martell"
+  },
+  {
+    "id": 19,
+    "claim": "The sigil of House Tyrell is a golden rose on a green field.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "House Tyrell of Highgarden bears a golden rose on a green field.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/House_Tyrell"
+  },
+  {
+    "id": 20,
+    "claim": "Highgarden is the seat of House Martell.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Highgarden is the seat of House Tyrell. House Martell rules Dorne from Sunspear.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Highgarden"
+  },
+  {
+    "id": 21,
+    "claim": "Lysa Arryn is Catelyn Stark's sister.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Lysa and Catelyn are both daughters of Hoster Tully. Lysa marries Jon Arryn and lives at the Eyrie.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Lysa_Arryn"
+  },
+  {
+    "id": 22,
+    "claim": "The seat of House Tully is Harrenhal.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "House Tully's seat is Riverrun, in the Riverlands. Harrenhal is a ruined castle held by other houses.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Riverrun"
+  },
+  {
+    "id": 23,
+    "claim": "Jorah Mormont is the son of Jeor Mormont, the Lord Commander of the Night's Watch.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Jorah is the son of Jeor Mormont. Jeor serves as Lord Commander at Castle Black.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jorah_Mormont"
+  },
+  {
+    "id": 24,
+    "claim": "Samwell Tarly is the son of Lord Mace Tyrell.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Samwell is the son of Randyll Tarly of Horn Hill. Mace Tyrell is the Lord of Highgarden.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Samwell_Tarly"
+  },
+  {
+    "id": 25,
+    "claim": "Gendry is a bastard son of King Robert Baratheon.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Gendry, a blacksmith's apprentice in King's Landing, is one of Robert Baratheon's illegitimate children.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Gendry"
+  },
+  {
+    "id": 26,
+    "claim": "Margaery Tyrell's first husband is King Joffrey Baratheon.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Margaery's first husband is Renly Baratheon. She marries Joffrey only after Renly's death.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Margaery_Tyrell"
+  },
+  {
+    "id": 27,
+    "claim": "Theon Greyjoy is raised at Winterfell as Ned Stark's ward.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "After Balon Greyjoy's failed rebellion, Theon is taken as a hostage and raised in the Stark household.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Theon_Greyjoy"
+  },
+  {
+    "id": 28,
+    "claim": "Yara Greyjoy is Theon Greyjoy's cousin.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Yara is Theon's sister. Both are children of Balon Greyjoy.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Yara_Greyjoy"
+  },
+  {
+    "id": 29,
+    "claim": "Varys serves as Master of Coin on King Robert's small council.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Varys is the Master of Whisperers. Petyr Baelish is the Master of Coin.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Varys"
+  },
+  {
+    "id": 30,
+    "claim": "Tywin Lannister served as Hand of the King to Aerys II Targaryen.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Tywin was the Mad King's Hand for many years, before the strained relationship between them ended in his resignation.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Tywin_Lannister"
+  },
+  {
+    "id": 31,
+    "claim": "Jon Arryn is Ned Stark's older brother.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Jon Arryn was Ned's foster father and mentor, not his brother. Ned was raised at the Eyrie alongside Robert Baratheon.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jon_Arryn"
+  },
+  {
+    "id": 32,
+    "claim": "Bran Stark is the youngest of Ned and Catelyn Stark's children.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Rickon Stark is the youngest. Bran is the second-youngest.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Rickon_Stark"
+  },
+  {
+    "id": 33,
+    "claim": "Viserys Targaryen is Daenerys Targaryen's older brother.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Viserys is the elder surviving son of Aerys II and Daenerys's older brother.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Viserys_Targaryen"
+  },
+  {
+    "id": 34,
+    "claim": "Daenerys Targaryen marries Khal Drogo in the city of Qarth.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Daenerys marries Khal Drogo in a Dothraki ceremony outside Pentos. She does not reach Qarth until later.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Daenerys_Targaryen"
+  },
+  {
+    "id": 35,
+    "claim": "The Night's Watch is led by an officer titled the Lord Protector.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "The Night's Watch is led by the Lord Commander. Lord Protector is not its title.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Night%27s_Watch"
+  },
+  {
+    "id": 36,
+    "claim": "Brynden Tully, known as the Blackfish, is Catelyn Stark's uncle.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Brynden is the younger brother of Hoster Tully, which makes him the uncle of Catelyn, Lysa and Edmure.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Brynden_Tully"
+  },
+  {
+    "id": 37,
+    "claim": "Edmure Tully marries Walda Frey at the Twins.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Edmure's bride is Roslin Frey. Walda Frey is a different member of House Frey.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Edmure_Tully"
+  },
+  {
+    "id": 38,
+    "claim": "Gregor Clegane is the older brother of Sandor Clegane.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Gregor, known as the Mountain, is Sandor's elder brother. Sandor is known as the Hound.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Gregor_Clegane"
+  },
+  {
+    "id": 39,
+    "claim": "Benjen Stark is Ned Stark's cousin.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Benjen is Ned Stark's younger brother and a ranger of the Night's Watch, not his cousin.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Benjen_Stark"
+  },
+  {
+    "id": 40,
+    "claim": "Euron Greyjoy is the brother of Balon Greyjoy.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Euron is Balon's brother, which makes him the uncle of Theon and Yara Greyjoy.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Euron_Greyjoy"
+  },
+  {
+    "id": 41,
+    "claim": "Rhaegar Targaryen is Daenerys Targaryen's uncle.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Rhaegar is Daenerys's older brother. Both are children of Aerys II.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Rhaegar_Targaryen"
+  },
+  {
+    "id": 42,
+    "claim": "Jon Arryn was Hand of the King to Robert Baratheon before Ned Stark.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Jon Arryn served as Robert's Hand until his death. Ned Stark was then offered the position.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jon_Arryn"
+  },
+  {
+    "id": 43,
+    "claim": "Robin Arryn is the son of Jon Arryn and Lysa Arryn.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Robin is the only child of Jon and Lysa Arryn and the heir to House Arryn and the Eyrie.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Robin_Arryn"
+  },
+  {
+    "id": 44,
+    "claim": "Bran Stark's direwolf is named Shaggydog.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Bran's direwolf is Summer. Shaggydog is the direwolf of his younger brother Rickon.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Bran_Stark"
+  },
+  {
+    "id": 45,
+    "claim": "Jon Snow gave Arya Stark her sword Needle before leaving Winterfell.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Jon had Needle made for Arya and gave it to her before he left for the Wall.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Needle"
+  },
+  {
+    "id": 46,
+    "claim": "Olenna Tyrell is Margaery Tyrell's mother.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Olenna is Margaery's grandmother. Margaery's father is Mace Tyrell.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Olenna_Tyrell"
+  },
+  {
+    "id": 47,
+    "claim": "Olenna Tyrell is nicknamed the Queen of Thorns.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Olenna, matriarch of House Tyrell, is known as the Queen of Thorns for her sharp tongue and political cunning.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Olenna_Tyrell"
+  },
+  {
+    "id": 48,
+    "claim": "Tommen Baratheon is older than his brother Joffrey Baratheon.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Joffrey is the eldest of Cersei's three children. Tommen is the youngest.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Tommen_Baratheon"
+  },
+  {
+    "id": 49,
+    "claim": "Catelyn Stark was born into House Arryn.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Catelyn was born a Tully, the daughter of Hoster Tully of Riverrun. Her sister Lysa married into House Arryn.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Catelyn_Stark"
+  },
+  {
+    "id": 50,
+    "claim": "Lancel Lannister is a son of Tywin Lannister.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Lancel is the son of Kevan Lannister, Tywin's brother, which makes him Tywin's nephew.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Lancel_Lannister"
+  },
+  {
+    "id": 51,
+    "claim": "King Joffrey Baratheon orders the execution of Ned Stark.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "After Ned is arrested for treason, Joffrey has him beheaded outside the Great Sept of Baelor, despite Cersei's earlier plan to send Ned to the Wall.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Joffrey_Baratheon"
+  },
+  {
+    "id": 52,
+    "claim": "Ramsay Bolton is first introduced under the name Ramsay Snow.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Ramsay is born a bastard of Roose Bolton and carries the bastard surname Snow, which is the name used for him when he first appears.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Ramsay_Bolton"
+  },
+  {
+    "id": 53,
+    "claim": "The Red Wedding takes place at Winterfell.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "The Red Wedding takes place at the Twins, the seat of House Frey, during the wedding feast of Edmure Tully and Roslin Frey.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Red_Wedding"
+  },
+  {
+    "id": 54,
+    "claim": "Cersei Lannister destroys the Great Sept of Baelor with wildfire.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Cersei detonates wildfire stored beneath the Great Sept while her enemies, including the High Sparrow and Margaery Tyrell, are inside.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Great_Sept_of_Baelor"
+  },
+  {
+    "id": 55,
+    "claim": "Melisandre is a priestess of the Lord of Light, R'hllor.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Melisandre is a Red Priestess who follows R'hllor and serves Stannis Baratheon.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Melisandre"
+  },
+  {
+    "id": 56,
+    "claim": "Theon Greyjoy is held captive and tortured by House Frey.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Theon is held captive and tortured by Ramsay Bolton of House Bolton at the Dreadfort, not by House Frey.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Theon_Greyjoy"
+  },
+  {
+    "id": 57,
+    "claim": "Joffrey Baratheon dies at his wedding feast to Margaery Tyrell.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Joffrey is poisoned and chokes to death during the feast that follows his wedding to Margaery.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Joffrey_Baratheon"
+  },
+  {
+    "id": 58,
+    "claim": "Tyrion Lannister is put on trial for the murder of King Robert Baratheon.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Tyrion is tried for the murder of King Joffrey, not King Robert, who dies from a boar wound.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Tyrion_Lannister"
+  },
+  {
+    "id": 59,
+    "claim": "Jaime Lannister earns the nickname Kingslayer by killing Rhaegar Targaryen.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Jaime is called the Kingslayer for killing King Aerys II Targaryen, the Mad King. Rhaegar was killed by Robert Baratheon at the Trident.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jaime_Lannister"
+  },
+  {
+    "id": 60,
+    "claim": "Cersei Lannister crowns herself Queen of the Seven Kingdoms after the death of her son Tommen.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "After the destruction of the Great Sept and Tommen's death, Cersei takes the Iron Throne and is crowned queen.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Cersei_Lannister"
+  },
+  {
+    "id": 61,
+    "claim": "Roose Bolton personally stabs Robb Stark during the Red Wedding.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Roose betrays Robb by stabbing him through the heart, having secretly allied with Tywin Lannister and Walder Frey.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Roose_Bolton"
+  },
+  {
+    "id": 62,
+    "claim": "In the HBO series, Robb Stark marries Jeyne Westerling.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "In the HBO series, Robb marries Talisa Maegyr, a healer from Volantis. Jeyne Westerling is the book version of the character. The marriage breaks Robb's pledge to marry a Frey daughter.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Talisa_Stark"
+  },
+  {
+    "id": 63,
+    "claim": "Renly Baratheon is killed by a shadow assassin created by Melisandre.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Melisandre gives birth to a shadow that kills Renly in his tent, removing a rival claimant to the Iron Throne.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Renly_Baratheon"
+  },
+  {
+    "id": 64,
+    "claim": "Stannis Baratheon's attack on King's Landing is defeated by Robb Stark's army at the Battle of the Blackwater.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Stannis is defeated by the defenders of King's Landing, helped by wildfire and the arrival of Tywin Lannister and the Tyrell army. Robb Stark's army is not involved.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Battle_of_the_Blackwater"
+  },
+  {
+    "id": 65,
+    "claim": "Tyrion Lannister uses wildfire to destroy much of Stannis Baratheon's fleet at the Battle of the Blackwater.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Tyrion has a wildfire-laden ship ignited in Blackwater Bay, which sets much of Stannis's fleet ablaze.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Battle_of_the_Blackwater"
+  },
+  {
+    "id": 66,
+    "claim": "Varys arranges the marriage of Sansa Stark to Ramsay Bolton.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Petyr Baelish, also called Littlefinger, arranges the marriage of Sansa and Ramsay, not Varys.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Petyr_Baelish"
+  },
+  {
+    "id": 67,
+    "claim": "Joffrey Baratheon is the biological son of King Robert Baratheon.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Joffrey is the son of Cersei and her twin brother Jaime Lannister. This is the secret Jon Arryn discovered and the basis of Stannis's claim.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Joffrey_Baratheon"
+  },
+  {
+    "id": 68,
+    "claim": "Tywin Lannister forces Tyrion to marry Sansa Stark.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Tywin arranges the marriage to help secure a Lannister claim on the North through Sansa.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Tywin_Lannister"
+  },
+  {
+    "id": 69,
+    "claim": "Roose Bolton is made Warden of the North after betraying Robb Stark.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "As a reward for his role in the Red Wedding, Roose is named Warden of the North by the Crown.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Roose_Bolton"
+  },
+  {
+    "id": 70,
+    "claim": "Ramsay Bolton kills his father Roose Bolton by poisoning him.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Ramsay stabs Roose in the heart with a knife, shortly after Roose's wife Walda gives birth to a son.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Roose_Bolton"
+  },
+  {
+    "id": 71,
+    "claim": "Ramsay Bolton is defeated at the Battle of the Bastards by Jon Snow's army and the Knights of the Vale.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "The Knights of the Vale, brought by Petyr Baelish and Sansa Stark, break Ramsay's forces and let Jon retake Winterfell.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Battle_of_the_Bastards"
+  },
+  {
+    "id": 72,
+    "claim": "The Battle of the Bastards is fought outside Castle Black.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "The Battle of the Bastards is fought outside Winterfell, where Jon Snow's army faces the Boltons.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Battle_of_the_Bastards"
+  },
+  {
+    "id": 73,
+    "claim": "Gregor Clegane kills Oberyn Martell in a trial by combat.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Oberyn fights as Tyrion's champion and nearly wins, but Gregor crushes his skull.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Oberyn_Martell"
+  },
+  {
+    "id": 74,
+    "claim": "Sandor Clegane fights as Tyrion Lannister's champion in his trial by combat.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Tyrion's champion is Oberyn Martell, who volunteers to fight Gregor Clegane. Sandor is not Tyrion's champion.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Oberyn_Martell"
+  },
+  {
+    "id": 75,
+    "claim": "Sandor Clegane abandons King's Landing's defense during the Battle of the Blackwater.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Overcome by fear of fire from the wildfire, Sandor deserts his post and leaves the city.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Sandor_Clegane"
+  },
+  {
+    "id": 76,
+    "claim": "Balon Greyjoy is killed by his daughter Yara.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Balon is killed by his brother Euron Greyjoy, who throws him from a bridge at Pyke.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Balon_Greyjoy"
+  },
+  {
+    "id": 77,
+    "claim": "Petyr Baelish kills Lysa Arryn by pushing her through the Moon Door.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "After Lysa threatens Sansa at the Eyrie, Littlefinger pushes her through the Moon Door to her death.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Lysa_Arryn"
+  },
+  {
+    "id": 78,
+    "claim": "Tywin Lannister poisoned Jon Arryn.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Lysa Arryn poisoned her husband Jon Arryn at Petyr Baelish's urging. The Lannisters were falsely blamed.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jon_Arryn"
+  },
+  {
+    "id": 79,
+    "claim": "Stannis Baratheon burns his daughter Shireen at Dragonstone.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Stannis has Shireen burned at his army's camp near Winterfell, not at Dragonstone, as a sacrifice urged by Melisandre.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Shireen_Baratheon"
+  },
+  {
+    "id": 80,
+    "claim": "Olenna Tyrell, with Petyr Baelish's help, arranges the poisoning of Joffrey Baratheon.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Olenna later admits to Margaery that she poisoned Joffrey. Littlefinger helped carry out the plot.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Olenna_Tyrell"
+  },
+  {
+    "id": 81,
+    "claim": "Shae testifies in Tyrion Lannister's defense at his trial.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Shae testifies against Tyrion, making damaging claims about him at his trial for Joffrey's murder.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Shae"
+  },
+  {
+    "id": 82,
+    "claim": "Tyrion Lannister kills his father Tywin Lannister with a crossbow.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "After escaping with Jaime's help, Tyrion confronts Tywin in the Red Keep and shoots him with a crossbow.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Tywin_Lannister"
+  },
+  {
+    "id": 83,
+    "claim": "Theon Greyjoy captures Winterfell with the help of the Boltons.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Theon takes Winterfell with ironborn forces on his father Balon's orders. The Boltons only seize it afterward.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Theon_Greyjoy"
+  },
+  {
+    "id": 84,
+    "claim": "Jaime Lannister is captured by Stannis Baratheon's forces.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Jaime is captured by Robb Stark's forces at the Battle of the Whispering Wood.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jaime_Lannister"
+  },
+  {
+    "id": 85,
+    "claim": "Stannis Baratheon claims the Iron Throne because Joffrey is not Robert's true son.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Stannis declares Joffrey, Myrcella and Tommen illegitimate, the product of incest between Cersei and Jaime, and names himself Robert's rightful heir.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Stannis_Baratheon"
+  },
+  {
+    "id": 86,
+    "claim": "Euron Greyjoy is chosen as King of the Iron Islands at a Kingsmoot.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "After Balon's death, a Kingsmoot is held on the Iron Islands and Euron wins the crown over Yara Greyjoy.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Euron_Greyjoy"
+  },
+  {
+    "id": 87,
+    "claim": "Davos Seaworth is executed by Stannis Baratheon.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Davos is imprisoned by Stannis but is freed and continues to advise him. He is not executed.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Davos_Seaworth"
+  },
+  {
+    "id": 88,
+    "claim": "House Frey is sworn to House Tully.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "House Frey holds the Twins as bannermen of House Tully, which is why their betrayal of Robb and Edmure Tully is considered oathbreaking.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/House_Frey"
+  },
+  {
+    "id": 89,
+    "claim": "Stannis Baratheon is killed by Jon Snow.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Stannis is executed by Brienne of Tarth after his army is defeated by the Boltons.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Stannis_Baratheon"
+  },
+  {
+    "id": 90,
+    "claim": "The sigil of House Bolton is a flayed man.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "The Boltons' sigil is a flayed man, reflecting the family's history of flaying their enemies.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/House_Bolton"
+  },
+  {
+    "id": 91,
+    "claim": "House Bolton is seated at the Twins.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "The Boltons' seat is the Dreadfort. The Twins is the seat of House Frey.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/House_Bolton"
+  },
+  {
+    "id": 92,
+    "claim": "Qyburn restores Gregor Clegane, who then serves Cersei Lannister as Ser Robert Strong.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "After Gregor's death from Oberyn's poisoned spear, Qyburn revives him and he becomes Cersei's silent Kingsguard knight.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Qyburn"
+  },
+  {
+    "id": 93,
+    "claim": "Sandor Clegane is killed fighting the Night King.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Sandor dies in King's Landing after fighting his brother Gregor, and both fall from the Red Keep.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Sandor_Clegane"
+  },
+  {
+    "id": 94,
+    "claim": "Petyr Baelish is executed at Winterfell after Sansa Stark accuses him of crimes.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Sansa denounces Littlefinger before the household at Winterfell, and Arya executes him with his own Valyrian steel dagger.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Petyr_Baelish"
+  },
+  {
+    "id": 95,
+    "claim": "Walder Frey is killed by Jon Snow.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Arya Stark kills Walder Frey, disguised as one of his kin, in revenge for the Red Wedding.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Walder_Frey"
+  },
+  {
+    "id": 96,
+    "claim": "Ramsay Bolton is killed by his own hounds.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "After his defeat, Ramsay is thrown to his starved dogs by Sansa Stark, who has been his captive.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Ramsay_Bolton"
+  },
+  {
+    "id": 97,
+    "claim": "Tommen Baratheon dies in the destruction of the Great Sept.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Tommen is not at the Great Sept. After learning of its destruction and his wife's death, he kills himself by jumping from a window of the Red Keep.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Tommen_Baratheon"
+  },
+  {
+    "id": 98,
+    "claim": "Euron Greyjoy captures Yara Greyjoy at sea after attacking her fleet.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Euron ambushes the fleet carrying Yara and Ellaria Sand to Dorne and takes Yara and Ellaria prisoner.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Yara_Greyjoy"
+  },
+  {
+    "id": 99,
+    "claim": "Jaime Lannister kills Olenna Tyrell with a dagger.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Jaime offers Olenna a painless poison and she drinks it, after confessing to Joffrey's murder.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Olenna_Tyrell"
+  },
+  {
+    "id": 100,
+    "claim": "Rickon Stark is rescued by Jon Snow before the Battle of the Bastards.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Rickon is handed over to Ramsay by Smalljon Umber and is killed by Ramsay's arrow during the battle.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Rickon_Stark"
+  },
+  {
+    "id": 101,
+    "claim": "Daenerys Targaryen's three dragons are named Drogon, Rhaegal and Viserion.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Daenerys names her dragons Drogon, Rhaegal and Viserion after Khal Drogo and her brothers Rhaegar and Viserys.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Drogon"
+  },
+  {
+    "id": 102,
+    "claim": "Daenerys Targaryen's dragon eggs were a wedding gift from her brother Viserys.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "The petrified dragon eggs were given to Daenerys by Illyrio Mopatis as a wedding gift. Viserys did not give them to her.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Daenerys_Targaryen"
+  },
+  {
+    "id": 103,
+    "claim": "Dragonglass can be used as a weapon against White Walkers.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Dragonglass, also called obsidian, is shown to kill White Walkers, as when Samwell Tarly destroys one with a dragonglass dagger.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Dragonglass"
+  },
+  {
+    "id": 104,
+    "claim": "The Wall is made entirely of stone.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "The Wall is an enormous barrier of ice, which is why it is called a wall of ice and stands as the northern border of Westeros.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/The_Wall"
+  },
+  {
+    "id": 105,
+    "claim": "The Night King is the leader of the White Walkers.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "The Night King commands the White Walkers and their army of wights beyond the Wall.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Night_King"
+  },
+  {
+    "id": 106,
+    "claim": "Wights are the commanders of the White Walkers.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "The relationship runs the other way. Wights are reanimated corpses controlled by the White Walkers and the Night King.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Wight"
+  },
+  {
+    "id": 107,
+    "claim": "Valyrian steel can kill a White Walker.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Valyrian steel can destroy a White Walker, as Jon Snow shows with Longclaw at Hardhome.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Valyrian_steel"
+  },
+  {
+    "id": 108,
+    "claim": "Rhaegal is named after Khal Drogo.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Drogon is named after Khal Drogo. Rhaegal is named after Daenerys's brother Rhaegar, and Viserion after her brother Viserys.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Rhaegal"
+  },
+  {
+    "id": 109,
+    "claim": "The Faceless Men serve the Many-Faced God.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "The Faceless Men are an order of assassins who serve the Many-Faced God, the god of death, from the House of Black and White in Braavos.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Faceless_Men"
+  },
+  {
+    "id": 110,
+    "claim": "Melisandre serves the Many-Faced God.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Melisandre is a priestess of R'hllor, the Lord of Light. The Many-Faced God is served by the Faceless Men.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Melisandre"
+  },
+  {
+    "id": 111,
+    "claim": "Daenerys Targaryen emerges unharmed from Khal Drogo's funeral pyre with three newly hatched dragons.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Daenerys walks into the pyre holding the petrified eggs and is unburnt when the flames die down, with three baby dragons.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Daenerys_Targaryen"
+  },
+  {
+    "id": 112,
+    "claim": "Drogon is killed during the Battle Beyond the Wall.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Viserion is the dragon killed at the Battle Beyond the Wall, by the Night King's ice spear. Drogon survives and lives on.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Viserion"
+  },
+  {
+    "id": 113,
+    "claim": "The Night King reanimates Viserion and uses him to bring down part of the Wall.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "After killing Viserion, the Night King raises him as a wight dragon, who then destroys a section of the Wall with blue fire.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Viserion"
+  },
+  {
+    "id": 114,
+    "claim": "Bran Stark is trained by the Three-Eyed Raven in a cave beyond the Wall.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Bran travels beyond the Wall with Meera and Jojen Reed and Hodor, where the Three-Eyed Raven teaches him to use his greensight.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Three-Eyed_Raven"
+  },
+  {
+    "id": 115,
+    "claim": "The Three-Eyed Raven is a servant of the Lord of Light.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "The Three-Eyed Raven is a greenseer connected to the weirwood trees and the old gods, not a follower of R'hllor.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Three-Eyed_Raven"
+  },
+  {
+    "id": 116,
+    "claim": "Melisandre resurrects Jon Snow after he is murdered at Castle Black.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Melisandre performs a ritual on Jon's body at Castle Black and he is brought back to life.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jon_Snow"
+  },
+  {
+    "id": 117,
+    "claim": "Thoros of Myr brings Jon Snow back from the dead.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Melisandre resurrects Jon. Thoros of Myr is the priest who repeatedly revives Beric Dondarrion.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Thoros_of_Myr"
+  },
+  {
+    "id": 118,
+    "claim": "Thoros of Myr brings Beric Dondarrion back to life several times.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "As a priest of the Lord of Light, Thoros resurrects Beric Dondarrion each time he is killed.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Beric_Dondarrion"
+  },
+  {
+    "id": 119,
+    "claim": "The Faceless Men are headquartered in the city of Qarth.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "The Faceless Men are based at the House of Black and White in Braavos, where Arya Stark goes to train.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/House_of_Black_and_White"
+  },
+  {
+    "id": 120,
+    "claim": "A Faceless Man can wear the face of someone who has died.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "The Faceless Men can take the face from a corpse and wear it to take on another person's identity.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Faceless_Men"
+  },
+  {
+    "id": 121,
+    "claim": "Arya Stark completes her training and becomes a full Faceless Man.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Arya refuses to give up her identity and leaves the House of Black and White. She declares that she is Arya Stark of Winterfell.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Arya_Stark"
+  },
+  {
+    "id": 122,
+    "claim": "In the HBO series, the Children of the Forest create the first White Walker.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "A vision shown to Bran reveals that the Children of the Forest plunged dragonglass into a bound man, creating the Night King.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Night_King"
+  },
+  {
+    "id": 123,
+    "claim": "The Children of the Forest created the White Walkers to fight the Andals.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "In the TV series, the Children created the first White Walker as a weapon against the First Men, who were killing them and cutting down their weirwoods.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Children_of_the_Forest"
+  },
+  {
+    "id": 124,
+    "claim": "Hodor is killed by the Night King in the cave of the Three-Eyed Raven.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Hodor is killed by wights as he holds the door shut so Bran and Meera can escape. The Night King does not kill him himself.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Hodor"
+  },
+  {
+    "id": 125,
+    "claim": "Warging is the ability to see the past through weirwood trees.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Seeing the past through weirwoods is greensight. Warging is the ability to enter and control the mind of an animal or a person.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Warg"
+  },
+  {
+    "id": 126,
+    "claim": "Bran Stark can warg into ravens.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Bran, a warg and greenseer, is shown seeing through the eyes of ravens to scout the Night King's army.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Bran_Stark"
+  },
+  {
+    "id": 127,
+    "claim": "Dragonglass is another name for Valyrian steel.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Dragonglass is obsidian, a natural volcanic glass. Valyrian steel is a metal forged by the Valyrians.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Dragonglass"
+  },
+  {
+    "id": 128,
+    "claim": "Ice, the greatsword of House Stark, is made of Valyrian steel.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Ice is a Valyrian steel greatsword that Ned Stark uses to execute deserters. Tywin Lannister later melts it down.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Ice"
+  },
+  {
+    "id": 129,
+    "claim": "The Wall stands about 300 feet tall.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "The Wall is described as roughly 700 feet tall, towering over Castle Black.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/The_Wall"
+  },
+  {
+    "id": 130,
+    "claim": "The Wall was built to protect the realms of men from the threat beyond it.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "The Wall was built thousands of years ago to keep out the White Walkers and other threats from the far north.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/The_Wall"
+  },
+  {
+    "id": 131,
+    "claim": "Wights are reliably destroyed by being stabbed through the heart.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Wights are already dead and keep fighting until destroyed by fire or dismembered. A wound to the heart does not stop them.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Wight"
+  },
+  {
+    "id": 132,
+    "claim": "When the Night King is killed, his White Walkers and wights also die.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "When the Night King is destroyed at Winterfell, all the White Walkers and wights connected to him collapse and die.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Night_King"
+  },
+  {
+    "id": 133,
+    "claim": "The Night King is killed by Jon Snow.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Arya Stark kills the Night King at Winterfell with a Valyrian steel dagger. Jon Snow was fighting the undead dragon at the time.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Night_King"
+  },
+  {
+    "id": 134,
+    "claim": "Melisandre burns leeches that contain the blood of Robb Stark, Balon Greyjoy and Joffrey Baratheon.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Melisandre has Gendry's blood put on leeches and burns them while naming Robb, Balon and Joffrey as the usurpers.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Melisandre"
+  },
+  {
+    "id": 135,
+    "claim": "Viserys Targaryen is immune to fire.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Viserys is killed by Khal Drogo with molten gold poured over his head. Daenerys's resistance to fire is not shared by her brother.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Viserys_Targaryen"
+  },
+  {
+    "id": 136,
+    "claim": "Hodor's real name is revealed in the TV series to be Wylis.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "In a vision of his childhood, Hodor is shown as a boy named Wylis, who is damaged when Bran warges into him.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Hodor"
+  },
+  {
+    "id": 137,
+    "claim": "Longclaw was originally forged for House Stark.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Longclaw is the ancestral Valyrian steel sword of House Mormont. Jeor Mormont gives it to Jon Snow.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Longclaw"
+  },
+  {
+    "id": 138,
+    "claim": "Rhaegal is killed by Euron Greyjoy's fleet using scorpion bolts.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Euron's ships ambush Daenerys's fleet near Dragonstone and Rhaegal is shot down by scorpion bolts.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Rhaegal"
+  },
+  {
+    "id": 139,
+    "claim": "After Tywin Lannister melts down Ice, Joffrey Baratheon receives Oathkeeper.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Tywin has Ice reforged into two swords. Joffrey receives Widow's Wail, and Jaime Lannister receives Oathkeeper, which he later gives to Brienne of Tarth.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Oathkeeper"
+  },
+  {
+    "id": 140,
+    "claim": "Tywin Lannister has Ice melted down and reforged into two Valyrian steel swords.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "The two swords are Oathkeeper and Widow's Wail, given to Jaime and Joffrey.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Ice"
+  },
+  {
+    "id": 141,
+    "claim": "Drogon is the dragon chained in the catacombs beneath the Great Pyramid of Meereen.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Rhaegal and Viserion are chained in the catacombs after Drogon kills a child. Drogon flies free and lives away from Meereen.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Drogon"
+  },
+  {
+    "id": 142,
+    "claim": "Viserion breathes blue fire after being reanimated by the Night King.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "As a wight dragon, Viserion breathes blue fire, which can melt the ice of the Wall.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Viserion"
+  },
+  {
+    "id": 143,
+    "claim": "Jon Snow finds a large cache of dragonglass beneath Winterfell.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Jon finds the dragonglass cache beneath Dragonstone, the island castle that was Stannis's seat and is now Daenerys's base.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Dragonglass"
+  },
+  {
+    "id": 144,
+    "claim": "Jon Snow kills a White Walker with Longclaw at Hardhome.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "At Hardhome, Jon's Valyrian steel sword Longclaw destroys a White Walker, showing that Valyrian steel can kill them.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jon_Snow"
+  },
+  {
+    "id": 145,
+    "claim": "Drogon kills Daenerys Targaryen.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Jon Snow kills Daenerys in the throne room. Drogon melts the Iron Throne and carries her body away.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Drogon"
+  },
+  {
+    "id": 146,
+    "claim": "Drogon melts the Iron Throne after Daenerys Targaryen's death.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Drogon burns the Iron Throne in the throne room, then carries Daenerys's body away.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Iron_Throne"
+  },
+  {
+    "id": 147,
+    "claim": "Melisandre dies during the Battle of Winterfell.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Melisandre lights the Dothraki swords and then leaves Winterfell. She dies only afterward, when she removes her necklace.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Melisandre"
+  },
+  {
+    "id": 148,
+    "claim": "Bran Stark is chosen as King of the Andals and the First Men.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "At the Great Council in the Dragonpit, the lords choose Bran as king of the realm.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Bran_Stark"
+  },
+  {
+    "id": 149,
+    "claim": "Jon Snow rides Viserion before the dragon is killed by the Night King.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Jon rides Rhaegal, not Viserion. Viserion is never ridden by Jon before the Night King kills him with an ice spear.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Rhaegal"
+  },
+  {
+    "id": 150,
+    "claim": "Samwell Tarly kills a White Walker with a dragonglass dagger.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Sam stabs a White Walker with a dragonglass dagger and it shatters, an early confirmation that dragonglass works against them.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Samwell_Tarly"
+  },
+  {
+    "id": 151,
+    "claim": "Jon Snow's true name is Aegon Targaryen.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Jon is revealed to be the son of Rhaegar Targaryen and Lyanna Stark, and his birth name is Aegon Targaryen.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jon_Snow"
+  },
+  {
+    "id": 152,
+    "claim": "Ned Stark is Jon Snow's biological father.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Jon's biological father is Rhaegar Targaryen and his mother is Lyanna Stark, Ned's sister. Ned raised Jon and claimed him as his own bastard son.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jon_Snow"
+  },
+  {
+    "id": 153,
+    "claim": "Cersei Lannister's three children with Jaime Lannister are Joffrey, Myrcella and Tommen.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Cersei's three children are the product of her relationship with her twin brother Jaime, though they are publicly believed to be Robert Baratheon's.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Cersei_Lannister"
+  },
+  {
+    "id": 154,
+    "claim": "Arya Stark kills the Night King in the crypts of Winterfell.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Arya kills the Night King in the godswood of Winterfell, where he goes to attack Bran, using a Valyrian steel dagger.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Night_King"
+  },
+  {
+    "id": 155,
+    "claim": "Tyrion Lannister serves as Hand of the Queen to Daenerys Targaryen.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Daenerys appoints Tyrion as her Hand of the Queen after he joins her in Meereen.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Tyrion_Lannister"
+  },
+  {
+    "id": 156,
+    "claim": "Sansa Stark becomes Queen of the Seven Kingdoms.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Sansa is crowned Queen in the North, ruling an independent North. Bran Stark is the one chosen to rule the remaining kingdoms.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Sansa_Stark"
+  },
+  {
+    "id": 157,
+    "claim": "Daenerys Targaryen burns much of King's Landing with Drogon.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "After the city's surrender bells ring, Daenerys attacks King's Landing with Drogon and burns large parts of the city and its people.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Daenerys_Targaryen"
+  },
+  {
+    "id": 158,
+    "claim": "Cersei Lannister is executed on Daenerys Targaryen's orders.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Cersei dies when the Red Keep collapses on her and Jaime during Daenerys's attack. She is not executed.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Cersei_Lannister"
+  },
+  {
+    "id": 159,
+    "claim": "Brienne of Tarth is knighted at Winterfell.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "On the eve of the Battle of Winterfell, Jaime Lannister knights Brienne of Tarth with Tormund and Podrick present.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Brienne_of_Tarth"
+  },
+  {
+    "id": 160,
+    "claim": "Daenerys Targaryen is crowned Queen on the Iron Throne.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Easy",
+    "explanation": "Daenerys never sits on the Iron Throne as a crowned queen. She is killed in the throne room before any coronation.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Iron_Throne"
+  },
+  {
+    "id": 161,
+    "claim": "Jon Snow is sentenced to return to the Night's Watch after Daenerys Targaryen's death.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "At the council of lords, Jon is spared execution but sent to the Night's Watch as his punishment.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jon_Snow"
+  },
+  {
+    "id": 162,
+    "claim": "Tyrion Lannister is executed for treason after Daenerys Targaryen's death.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Tyrion is arrested but not executed. He is later named Hand of the King by Bran Stark.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Tyrion_Lannister"
+  },
+  {
+    "id": 163,
+    "claim": "Arya Stark sails west of Westeros at the end of the series.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Arya leaves Westeros aboard a ship to explore lands west of the known world.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Arya_Stark"
+  },
+  {
+    "id": 164,
+    "claim": "Brienne of Tarth is named Hand of the King by Bran Stark.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Bran names Tyrion Lannister his Hand. Brienne is made Lord Commander of the Kingsguard.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Brienne_of_Tarth"
+  },
+  {
+    "id": 165,
+    "claim": "At the end of the series, the North is recognized as an independent kingdom under Sansa Stark.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Sansa insists on the North's independence, and the lords agree. She is crowned Queen in the North.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Sansa_Stark"
+  },
+  {
+    "id": 166,
+    "claim": "Samwell Tarly becomes Master of Whisperers on Bran Stark's council.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Samwell Tarly becomes Grand Maester on Bran's council.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Samwell_Tarly"
+  },
+  {
+    "id": 167,
+    "claim": "Samwell Tarly is named Grand Maester under King Bran.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Sam is seen on Bran's small council as Grand Maester at the end of the series.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Samwell_Tarly"
+  },
+  {
+    "id": 168,
+    "claim": "Bronn is named Lord of Casterly Rock under King Bran.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Bronn becomes Lord of Highgarden and Lord Paramount of the Reach, and also serves as Master of Coin.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Bronn"
+  },
+  {
+    "id": 169,
+    "claim": "Bronn is Master of Coin on King Bran's council.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Bronn serves as Master of Coin and is also lord of Highgarden.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Bronn"
+  },
+  {
+    "id": 170,
+    "claim": "Gendry is named Lord of Highgarden.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Gendry is named Lord of Storm's End and Lord Paramount of the Stormlands. Bronn is the one given Highgarden.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Gendry"
+  },
+  {
+    "id": 171,
+    "claim": "Brienne of Tarth becomes Lord Commander of the Kingsguard under King Bran.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Brienne is shown leading the Kingsguard and writing Jaime's entry in the White Book.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Brienne_of_Tarth"
+  },
+  {
+    "id": 172,
+    "claim": "Jon Snow resumes his post as Lord Commander of the Night's Watch.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Jon is sent to the Night's Watch but leaves the Wall and rides north beyond it with the Free Folk and Tormund.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jon_Snow"
+  },
+  {
+    "id": 173,
+    "claim": "Grey Worm leads the Unsullied to Naath after Daenerys's death.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Grey Worm sails with the Unsullied to Naath, Missandei's homeland.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Grey_Worm"
+  },
+  {
+    "id": 174,
+    "claim": "Theon Greyjoy dies defending Sansa Stark at the Battle of Winterfell.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Theon dies defending Bran Stark in the godswood, not Sansa. Bran thanks him before he dies.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Theon_Greyjoy"
+  },
+  {
+    "id": 175,
+    "claim": "Davos Seaworth becomes Master of Ships on King Bran's council.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Davos is seen as Master of Ships at the final council meeting.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Davos_Seaworth"
+  },
+  {
+    "id": 176,
+    "claim": "Tormund Giantsbane dies in the Battle of Winterfell.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Tormund survives the Battle of Winterfell and later rides north with Jon Snow.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Tormund_Giantsbane"
+  },
+  {
+    "id": 177,
+    "claim": "Tyrion Lannister is appointed Hand of the King by Bran Stark.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "After proposing Bran as king, Tyrion is named his Hand.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Tyrion_Lannister"
+  },
+  {
+    "id": 178,
+    "claim": "Jorah Mormont dies at the Battle of King's Landing.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Jorah dies at Winterfell, protecting Daenerys from wights during the Long Night.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jorah_Mormont"
+  },
+  {
+    "id": 179,
+    "claim": "Jaime Lannister leaves Brienne of Tarth to return to Cersei in King's Landing.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "After the Long Night, Jaime leaves Winterfell and Brienne to return to Cersei.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jaime_Lannister"
+  },
+  {
+    "id": 180,
+    "claim": "Missandei is executed in Meereen.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Medium",
+    "explanation": "Missandei is executed in King's Landing, beheaded by Gregor Clegane on Cersei's order in front of Daenerys's fleet.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Missandei"
+  },
+  {
+    "id": 181,
+    "claim": "Daenerys Targaryen has Varys executed by dragonfire.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "After Varys plots against her and tries to place Jon Snow on the throne, Daenerys has Drogon burn him alive.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Varys"
+  },
+  {
+    "id": 182,
+    "claim": "Jon Snow learns of his true parentage before the Battle of the Bastards.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Jon learns the truth later, after Bran and Samwell Tarly discover it, just before the Battle of Winterfell against the dead.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jon_Snow"
+  },
+  {
+    "id": 183,
+    "claim": "In a vision, Bran Stark sees Lyanna Stark die after giving birth at the Tower of Joy.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Bran's vision shows Ned Stark arriving as Lyanna dies, leaving her baby in his care.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Lyanna_Stark"
+  },
+  {
+    "id": 184,
+    "claim": "Daenerys Targaryen first learns of Jon Snow's parentage from Bran Stark.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Jon tells Daenerys himself, after learning it from Samwell Tarly. Bran is not the source.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Daenerys_Targaryen"
+  },
+  {
+    "id": 185,
+    "claim": "Jaime Lannister kills Euron Greyjoy during the attack on King's Landing.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Jaime and Euron fight on the beach below the Red Keep. Euron stabs Jaime, but Jaime kills him.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Euron_Greyjoy"
+  },
+  {
+    "id": 186,
+    "claim": "Euron Greyjoy kills Yara Greyjoy.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Euron captures Yara but does not kill her. Theon and his ironborn rescue her.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Yara_Greyjoy"
+  },
+  {
+    "id": 187,
+    "claim": "Melisandre first believes Stannis Baratheon is Azor Ahai reborn.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Melisandre initially identifies Stannis as the reincarnated hero of her prophecy. Her interpretation changes later.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Melisandre"
+  },
+  {
+    "id": 188,
+    "claim": "Tywin Lannister is present at the Red Wedding.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Tywin is at King's Landing. The Red Wedding is carried out by Walder Frey and Roose Bolton.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Red_Wedding"
+  },
+  {
+    "id": 189,
+    "claim": "The Night King raises the dead from the crypts of Winterfell during the Long Night.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "The Night King raises his arms and the dead in the crypts rise as wights, attacking those sheltered there.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Battle_of_Winterfell"
+  },
+  {
+    "id": 190,
+    "claim": "Selyse Baratheon hangs herself at Dragonstone.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Selyse hangs herself at Stannis's camp near Winterfell, after Shireen's sacrifice.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Selyse_Baratheon"
+  },
+  {
+    "id": 191,
+    "claim": "Jon Snow leads a mission beyond the Wall to capture a wight to convince Cersei Lannister of the threat.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Jon's group captures a wight at the Battle Beyond the Wall to show Cersei the dead are real.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jon_Snow"
+  },
+  {
+    "id": 192,
+    "claim": "Daenerys Targaryen kills Khal Drogo with a dagger.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Daenerys smothers Drogo with a pillow after Mirri Maz Duur's ritual leaves him in a vegetative state.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Khal_Drogo"
+  },
+  {
+    "id": 193,
+    "claim": "Cersei Lannister hires the Golden Company to fight for her.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Euron Greyjoy brings the Golden Company, funded by the Iron Bank, to fight for Cersei.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Golden_Company"
+  },
+  {
+    "id": 194,
+    "claim": "The Golden Company fights for Daenerys Targaryen.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "The Golden Company fights for Cersei Lannister at King's Landing.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Golden_Company"
+  },
+  {
+    "id": 195,
+    "claim": "Jon Snow is proclaimed King in the North after the Battle of the Bastards.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "After retaking Winterfell, the northern lords proclaim Jon as King in the North.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jon_Snow"
+  },
+  {
+    "id": 196,
+    "claim": "Jon Snow kills Jeor Mormont at Craster's Keep.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Jeor Mormont is killed by mutineers of the Night's Watch at Craster's Keep. Jon is not among them.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Jeor_Mormont"
+  },
+  {
+    "id": 197,
+    "claim": "Tyrion Lannister frees Rhaegal and Viserion from the catacombs beneath Meereen.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Tyrion unchains the two dragons so they can fly again, which helps rebuild Daenerys's trust in him.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Tyrion_Lannister"
+  },
+  {
+    "id": 198,
+    "claim": "Sansa Stark and Tyrion Lannister marry at Winterfell.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Sansa and Tyrion marry in King's Landing, at the Great Sept of Baelor.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Sansa_Stark"
+  },
+  {
+    "id": 199,
+    "claim": "Cersei Lannister lies to Jaime about sending her armies north to fight the dead.",
+    "answer": "FACT",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Cersei agrees to help but plans to let the living and the dead destroy each other, then reveal her betrayal to Jaime.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Cersei_Lannister"
+  },
+  {
+    "id": 200,
+    "claim": "Beric Dondarrion dies at Winterfell protecting Sansa Stark.",
+    "answer": "TRAP",
+    "category": "Game of Thrones",
+    "difficulty": "Hard",
+    "explanation": "Beric dies at Winterfell protecting Arya Stark from the dead, not Sansa.",
+    "source_name": "Game of Thrones Wiki (Fandom)",
+    "source_url": "https://gameofthrones.fandom.com/wiki/Beric_Dondarrion"
+  }
+]

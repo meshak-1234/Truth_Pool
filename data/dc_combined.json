@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "claim": "In DC Comics, Superman's Kryptonian birth name is Kal-El.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Superman is born Kal-El on Krypton and raised on Earth as Clark Kent.",
+    "source_name": "Wikipedia: Superman",
+    "source_url": "https://en.wikipedia.org/wiki/Superman"
+  },
+  {
+    "id": 2,
+    "claim": "In mainstream DC Comics, Alfred Pennyworth is Bruce Wayne's biological uncle.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Alfred is the Wayne family butler and Bruce's surrogate father figure, not a blood relative.",
+    "source_name": "Wikipedia: Alfred Pennyworth",
+    "source_url": "https://en.wikipedia.org/wiki/Alfred_Pennyworth"
+  },
+  {
+    "id": 3,
+    "claim": "In DC Comics, Wonder Woman's Lasso of Truth compels anyone bound by it to tell the truth.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "The Lasso of Truth (Lasso of Hestia) forces those it binds to speak honestly.",
+    "source_name": "Wikipedia: Wonder Woman",
+    "source_url": "https://en.wikipedia.org/wiki/Wonder_Woman"
+  },
+  {
+    "id": 4,
+    "claim": "In DC Comics, Barry Allen's civilian job is as a photographer for the Daily Planet.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Barry Allen is a forensic scientist with the Central City Police Department. Photography at the Daily Planet is Jimmy Olsen's job.",
+    "source_name": "Wikipedia: Barry Allen",
+    "source_url": "https://en.wikipedia.org/wiki/Barry_Allen"
+  },
+  {
+    "id": 5,
+    "claim": "In modern DC Comics, Aquaman's parents are lighthouse keeper Tom Curry and Atlantean queen Atlanna.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Arthur Curry is the son of human lighthouse keeper Tom Curry and the Atlantean queen Atlanna.",
+    "source_name": "Wikipedia: Aquaman",
+    "source_url": "https://en.wikipedia.org/wiki/Aquaman"
+  },
+  {
+    "id": 6,
+    "claim": "In DC Comics, Hal Jordan worked as a firefighter before becoming a Green Lantern.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Hal Jordan was a test pilot for Ferris Aircraft before receiving his power ring.",
+    "source_name": "Wikipedia: Hal Jordan",
+    "source_url": "https://en.wikipedia.org/wiki/Hal_Jordan"
+  },
+  {
+    "id": 7,
+    "claim": "In DC Comics, Cyborg's father, Silas Stone, is a scientist at S.T.A.R. Labs.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Silas Stone is a S.T.A.R. Labs scientist who saved his son Victor's life with cybernetic technology.",
+    "source_name": "Wikipedia: Cyborg (DC Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)"
+  },
+  {
+    "id": 8,
+    "claim": "In DC Comics, Martian Manhunter's primary weakness is kryptonite.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "J'onn J'onzz's well-known weakness is fire. Kryptonite is associated with Kryptonians.",
+    "source_name": "Wikipedia: Martian Manhunter",
+    "source_url": "https://en.wikipedia.org/wiki/Martian_Manhunter"
+  },
+  {
+    "id": 9,
+    "claim": "In DC Comics, Green Arrow is the secret identity of billionaire Oliver Queen.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Oliver Queen is a wealthy industrialist who becomes the archer vigilante Green Arrow.",
+    "source_name": "Wikipedia: Green Arrow",
+    "source_url": "https://en.wikipedia.org/wiki/Green_Arrow"
+  },
+  {
+    "id": 10,
+    "claim": "In the 2019 film Shazam!, Zachary Levi plays the teenage Billy Batson.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Asher Angel plays teenage Billy Batson. Zachary Levi plays his adult superhero form, Shazam.",
+    "source_name": "Wikipedia: Shazam! (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Shazam!_(film)"
+  },
+  {
+    "id": 11,
+    "claim": "In DC Comics, Supergirl (Kara Zor-El) is Superman's cousin.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Kara Zor-El is the daughter of Zor-El, brother of Superman's father Jor-El, making her Kal-El's cousin.",
+    "source_name": "Wikipedia: Supergirl",
+    "source_url": "https://en.wikipedia.org/wiki/Supergirl"
+  },
+  {
+    "id": 12,
+    "claim": "In DC Comics, Supergirl (Kara Zor-El) was born on Earth.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Kara Zor-El was born on Krypton and sent to Earth as a teenager.",
+    "source_name": "Wikipedia: Supergirl",
+    "source_url": "https://en.wikipedia.org/wiki/Supergirl"
+  },
+  {
+    "id": 13,
+    "claim": "In DC Comics, Dick Grayson was the first Robin, debuting in Detective Comics #38 (1940).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Dick Grayson debuted as Robin in Detective Comics #38 in April 1940.",
+    "source_name": "Wikipedia: Dick Grayson",
+    "source_url": "https://en.wikipedia.org/wiki/Dick_Grayson"
+  },
+  {
+    "id": 14,
+    "claim": "In DC Comics, Jason Todd was the first person to be Batman's sidekick Robin.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Dick Grayson was the first Robin. Jason Todd was the second.",
+    "source_name": "Wikipedia: Robin (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Robin_(character)"
+  },
+  {
+    "id": 15,
+    "claim": "In DC Comics, Jaime Reyes, the third Blue Beetle, is from El Paso, Texas.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Jaime Reyes is a teenager from El Paso, Texas, who bonds with the Scarab.",
+    "source_name": "Wikipedia: Blue Beetle (Jaime Reyes)",
+    "source_url": "https://en.wikipedia.org/wiki/Blue_Beetle_(Jaime_Reyes)"
+  },
+  {
+    "id": 16,
+    "claim": "In DC Comics, the Scarab bonded to Jaime Reyes is a piece of ancient Atlantean technology.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The Scarab is alien technology created by the Reach, not Atlantean in origin.",
+    "source_name": "Wikipedia: Blue Beetle (Jaime Reyes)",
+    "source_url": "https://en.wikipedia.org/wiki/Blue_Beetle_(Jaime_Reyes)"
+  },
+  {
+    "id": 17,
+    "claim": "In DC Comics, Dick Grayson's Nightwing name was inspired by a Kryptonian vigilante in Superman stories.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Dick took the name from the legend of Nightwing, a Kryptonian hero that Superman told him about.",
+    "source_name": "Wikipedia: Nightwing",
+    "source_url": "https://en.wikipedia.org/wiki/Nightwing"
+  },
+  {
+    "id": 18,
+    "claim": "In DC Comics, Nightwing's longtime base of operations is the city of Metropolis.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Nightwing is most closely associated with Blüdhaven and Gotham City, not Metropolis.",
+    "source_name": "Wikipedia: Nightwing",
+    "source_url": "https://en.wikipedia.org/wiki/Nightwing"
+  },
+  {
+    "id": 19,
+    "claim": "In DC Comics, Hippolyta is the queen of the Amazons and Wonder Woman's mother.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Hippolyta rules the Amazons of Themyscira and is Diana's mother in the Wonder Woman mythos.",
+    "source_name": "Wikipedia: Hippolyta",
+    "source_url": "https://en.wikipedia.org/wiki/Hippolyta"
+  },
+  {
+    "id": 20,
+    "claim": "In DC Comics, Superman's Fortress of Solitude is located in the Sahara Desert.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "The Fortress of Solitude is traditionally located in the Arctic.",
+    "source_name": "Wikipedia: Fortress of Solitude",
+    "source_url": "https://en.wikipedia.org/wiki/Fortress_of_Solitude"
+  },
+  {
+    "id": 21,
+    "claim": "In DC Comics, Clark Kent grew up in Smallville, Kansas, raised by Jonathan and Martha Kent.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Jonathan and Martha Kent raised Kal-El as Clark on their farm near Smallville, Kansas.",
+    "source_name": "Wikipedia: Superman",
+    "source_url": "https://en.wikipedia.org/wiki/Superman"
+  },
+  {
+    "id": 22,
+    "claim": "In DC Comics, Lois Lane is a reporter for the Gotham Gazette.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Lois Lane works for the Daily Planet in Metropolis.",
+    "source_name": "Wikipedia: Lois Lane",
+    "source_url": "https://en.wikipedia.org/wiki/Lois_Lane"
+  },
+  {
+    "id": 23,
+    "claim": "In DC Comics, Batman first appeared in Detective Comics #27 in 1939.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Batman debuted in Detective Comics #27, cover-dated May 1939.",
+    "source_name": "Wikipedia: Batman",
+    "source_url": "https://en.wikipedia.org/wiki/Batman"
+  },
+  {
+    "id": 24,
+    "claim": "In DC Comics, Superman first appeared in Action Comics #1 in 1945.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Superman debuted in Action Comics #1, cover-dated June 1938.",
+    "source_name": "Wikipedia: Superman",
+    "source_url": "https://en.wikipedia.org/wiki/Superman"
+  },
+  {
+    "id": 25,
+    "claim": "In DC Comics, Barry Allen gained his speed powers when lightning struck chemicals in his lab.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "A lightning bolt shattered a cabinet of chemicals that drenched Barry, granting him super-speed.",
+    "source_name": "Wikipedia: Barry Allen",
+    "source_url": "https://en.wikipedia.org/wiki/Barry_Allen"
+  },
+  {
+    "id": 26,
+    "claim": "In DC Comics, Wally West is the biological son of Barry Allen.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Wally West is Iris West Allen's nephew and Barry's protégé, not his son.",
+    "source_name": "Wikipedia: Wally West",
+    "source_url": "https://en.wikipedia.org/wiki/Wally_West"
+  },
+  {
+    "id": 27,
+    "claim": "In DC Comics, Green Lantern power rings are fueled by the emotional spectrum color of love.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Green Lantern rings are powered by willpower. Love belongs to the violet Star Sapphires.",
+    "source_name": "Wikipedia: Green Lantern Corps",
+    "source_url": "https://en.wikipedia.org/wiki/Green_Lantern_Corps"
+  },
+  {
+    "id": 28,
+    "claim": "In DC Comics, the Green Lantern Corps was founded by the Guardians of the Universe and is headquartered on Oa.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The Guardians created the Corps, whose headquarters is the planet Oa.",
+    "source_name": "Wikipedia: Green Lantern Corps",
+    "source_url": "https://en.wikipedia.org/wiki/Green_Lantern_Corps"
+  },
+  {
+    "id": 29,
+    "claim": "In DC Comics, Sinestro is from the planet Thanagar.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Sinestro is from the planet Korugar. Thanagar is Hawkman's homeworld.",
+    "source_name": "Wikipedia: Sinestro",
+    "source_url": "https://en.wikipedia.org/wiki/Sinestro"
+  },
+  {
+    "id": 30,
+    "claim": "In DC Comics, Barry Allen died during Crisis on Infinite Earths (1985-86).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Barry Allen sacrificed himself in Crisis on Infinite Earths #8 to stop the Anti-Monitor's antimatter cannon.",
+    "source_name": "Wikipedia: Crisis on Infinite Earths",
+    "source_url": "https://en.wikipedia.org/wiki/Crisis_on_Infinite_Earths"
+  },
+  {
+    "id": 31,
+    "claim": "In DC Comics, Green Lantern John Stewart is an architect and former U.S. Marine.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "John Stewart is portrayed as an architect who served in the U.S. Marine Corps.",
+    "source_name": "Wikipedia: John Stewart (character)",
+    "source_url": "https://en.wikipedia.org/wiki/John_Stewart_(character)"
+  },
+  {
+    "id": 32,
+    "claim": "In DC Comics, Black Canary's signature power is the Canary Cry, a powerful sonic scream.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Dinah Lance's Canary Cry is her best-known metahuman ability.",
+    "source_name": "Wikipedia: Black Canary",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Canary"
+  },
+  {
+    "id": 33,
+    "claim": "In DC Comics, Green Arrow's original sidekick Speedy is Wally West.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Speedy is Roy Harper. Wally West is Kid Flash, the Flash's sidekick.",
+    "source_name": "Wikipedia: Green Arrow",
+    "source_url": "https://en.wikipedia.org/wiki/Green_Arrow"
+  },
+  {
+    "id": 34,
+    "claim": "In DC Comics, Aquaman can communicate telepathically with marine life.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Telepathic communication with sea creatures is one of Aquaman's core abilities.",
+    "source_name": "Wikipedia: Aquaman",
+    "source_url": "https://en.wikipedia.org/wiki/Aquaman"
+  },
+  {
+    "id": 35,
+    "claim": "In DC Comics, Aquaman's wife Mera was born in the kingdom of Atlantis.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Mera is from the dimension of Xebel, not Atlantis.",
+    "source_name": "Wikipedia: Mera (DC Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Mera_(DC_Comics)"
+  },
+  {
+    "id": 36,
+    "claim": "In the DC Extended Universe, Henry Cavill plays Superman in Man of Steel (2013).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Henry Cavill starred as Clark Kent/Superman in Man of Steel.",
+    "source_name": "Wikipedia: Man of Steel (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Man_of_Steel_(film)"
+  },
+  {
+    "id": 37,
+    "claim": "In the DC Extended Universe, Gal Gadot plays Wonder Woman in the 2017 film Wonder Woman.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Gal Gadot starred as Diana Prince/Wonder Woman in the 2017 film.",
+    "source_name": "Wikipedia: Wonder Woman (2017 film)",
+    "source_url": "https://en.wikipedia.org/wiki/Wonder_Woman_(2017_film)"
+  },
+  {
+    "id": 38,
+    "claim": "In the CW's The Flash TV series, Grant Gustin plays Wally West.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Grant Gustin plays Barry Allen. Keiynan Lonsdale plays Wally West.",
+    "source_name": "Wikipedia: The Flash (2014 TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Flash_(2014_TV_series)"
+  },
+  {
+    "id": 39,
+    "claim": "In the 2023 film Blue Beetle, Xolo Maridueña plays Jaime Reyes.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Xolo Maridueña stars as Jaime Reyes in Blue Beetle.",
+    "source_name": "Wikipedia: Blue Beetle (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Blue_Beetle_(film)"
+  },
+  {
+    "id": 40,
+    "claim": "In the DC Extended Universe's Justice League (2017), Ezra Miller plays Cyborg.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Ray Fisher plays Cyborg. Ezra Miller plays Barry Allen/The Flash.",
+    "source_name": "Wikipedia: Justice League (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Justice_League_(film)"
+  },
+  {
+    "id": 41,
+    "claim": "In the TV series Supergirl, Melissa Benoist plays Kara Danvers.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Melissa Benoist stars as Kara Danvers/Supergirl in the series.",
+    "source_name": "Wikipedia: Supergirl (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/Supergirl_(TV_series)"
+  },
+  {
+    "id": 42,
+    "claim": "In the TV series Supergirl, Kara Danvers works as a reporter at the Daily Planet.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "In the series, Kara works at CatCo Worldwide Media in National City.",
+    "source_name": "Wikipedia: Supergirl (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/Supergirl_(TV_series)"
+  },
+  {
+    "id": 43,
+    "claim": "In DC Comics, Ray Palmer, the Silver Age Atom, can shrink to subatomic size.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Ray Palmer uses white dwarf star matter to shrink himself, even to microscopic scales.",
+    "source_name": "Wikipedia: Atom (Ray Palmer)",
+    "source_url": "https://en.wikipedia.org/wiki/Atom_(Ray_Palmer)"
+  },
+  {
+    "id": 44,
+    "claim": "In DC Comics, Zatanna casts her spells by speaking words backward.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Zatanna's magic is activated by reversed speech.",
+    "source_name": "Wikipedia: Zatanna",
+    "source_url": "https://en.wikipedia.org/wiki/Zatanna"
+  },
+  {
+    "id": 45,
+    "claim": "In DC Comics, Hawkman's flight is enabled by a harness made of Nth metal.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Nth metal is an anti-gravity metal used in Hawkman's wings and harness.",
+    "source_name": "Wikipedia: Hawkman",
+    "source_url": "https://en.wikipedia.org/wiki/Hawkman"
+  },
+  {
+    "id": 46,
+    "claim": "In DC Comics, Cyborg's father, Silas Stone, is an executive at LexCorp.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Silas Stone is a scientist at S.T.A.R. Labs, not a LexCorp executive.",
+    "source_name": "Wikipedia: Cyborg (DC Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)"
+  },
+  {
+    "id": 47,
+    "claim": "In DC Comics, the Green Lantern Corps is headquartered on the planet Daxam.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The Corps is headquartered on Oa. Daxam is a separate planet.",
+    "source_name": "Wikipedia: Green Lantern Corps",
+    "source_url": "https://en.wikipedia.org/wiki/Green_Lantern_Corps"
+  },
+  {
+    "id": 48,
+    "claim": "In DC Comics, Wonder Woman's homeland, Themyscira, is hidden in the Himalayas.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Themyscira is an island hidden from the outside world, not a mountain realm.",
+    "source_name": "Wikipedia: Themyscira",
+    "source_url": "https://en.wikipedia.org/wiki/Themyscira"
+  },
+  {
+    "id": 49,
+    "claim": "In DC Comics, Dick Grayson's parents were killed by Joe Chill.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Tony Zucco was responsible for the Graysons' deaths. Joe Chill murdered Bruce Wayne's parents.",
+    "source_name": "Wikipedia: Dick Grayson",
+    "source_url": "https://en.wikipedia.org/wiki/Dick_Grayson"
+  },
+  {
+    "id": 50,
+    "claim": "In DC Comics, Superman's biological father is named Zor-El.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Superman's father is Jor-El. Zor-El is Supergirl's father.",
+    "source_name": "Wikipedia: Superman",
+    "source_url": "https://en.wikipedia.org/wiki/Superman"
+  },
+  {
+    "id": 51,
+    "claim": "In DC Comics, the Joker first appeared in Batman #1 (1940).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The Joker debuted in Batman #1, cover-dated Spring 1940.",
+    "source_name": "Wikipedia: Joker (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Joker_(character)"
+  },
+  {
+    "id": 52,
+    "claim": "In Batman: The Killing Joke, the Joker shoots Commissioner Gordon, leaving him paralyzed.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The Joker shoots Barbara Gordon (Batgirl), paralyzing her, and then tortures Commissioner Gordon.",
+    "source_name": "Wikipedia: Batman: The Killing Joke",
+    "source_url": "https://en.wikipedia.org/wiki/Batman:_The_Killing_Joke"
+  },
+  {
+    "id": 53,
+    "claim": "In Batman: The Killing Joke, the Joker's suggested backstory is that of a failed comedian who wore a Red Hood.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The story presents an unreliable origin in which a struggling comedian takes part in a criminal heist as the Red Hood.",
+    "source_name": "Wikipedia: Batman: The Killing Joke",
+    "source_url": "https://en.wikipedia.org/wiki/Batman:_The_Killing_Joke"
+  },
+  {
+    "id": 54,
+    "claim": "In Superman comics, Lex Luthor is the billionaire head of LexCorp.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "In the post-Crisis Superman comics, Lex Luthor is a wealthy industrialist who runs LexCorp.",
+    "source_name": "Wikipedia: Lex Luthor",
+    "source_url": "https://en.wikipedia.org/wiki/Lex_Luthor"
+  },
+  {
+    "id": 55,
+    "claim": "In Superman comics, LexCorp is headquartered in Gotham City.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "LexCorp is based in Metropolis, Superman's home city.",
+    "source_name": "Wikipedia: Lex Luthor",
+    "source_url": "https://en.wikipedia.org/wiki/Lex_Luthor"
+  },
+  {
+    "id": 56,
+    "claim": "In the post-Crisis DC Universe, Lex Luthor was elected President of the United States.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Lex Luthor won the presidency in the post-Crisis DC Universe, a storyline that played out in the Superman and Batman titles.",
+    "source_name": "Wikipedia: Lex Luthor",
+    "source_url": "https://en.wikipedia.org/wiki/Lex_Luthor"
+  },
+  {
+    "id": 57,
+    "claim": "In DC Comics, Darkseid, ruler of Apokolips, relentlessly seeks the Anti-Life Equation.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The Anti-Life Equation, a formula for control over free will, is Darkseid's central goal.",
+    "source_name": "Wikipedia: Darkseid",
+    "source_url": "https://en.wikipedia.org/wiki/Darkseid"
+  },
+  {
+    "id": 58,
+    "claim": "In DC Comics, Darkseid's son Orion was raised on Apokolips by Darkseid himself.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Orion was exchanged in a peace pact and raised on New Genesis by Highfather.",
+    "source_name": "Wikipedia: Orion (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Orion_(comics)"
+  },
+  {
+    "id": 59,
+    "claim": "In DC Comics, Reverse-Flash Eobard Thawne is a native of the 31st century.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Eobard Thawne comes from the 25th century.",
+    "source_name": "Wikipedia: Reverse-Flash",
+    "source_url": "https://en.wikipedia.org/wiki/Reverse-Flash"
+  },
+  {
+    "id": 60,
+    "claim": "In the first season of the CW's The Flash, Eobard Thawne is revealed to have killed Barry Allen's mother, Nora.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The series establishes Thawne as the killer of Nora Allen.",
+    "source_name": "Wikipedia: The Flash (2014 TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Flash_(2014_TV_series)"
+  },
+  {
+    "id": 61,
+    "claim": "In DC Comics, General Zod first appeared in Adventure Comics #283 (1961).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Zod debuted in Adventure Comics #283 as a Kryptonian military officer.",
+    "source_name": "Wikipedia: General Zod",
+    "source_url": "https://en.wikipedia.org/wiki/General_Zod"
+  },
+  {
+    "id": 62,
+    "claim": "In Man of Steel (2013), General Zod is played by Terence Stamp.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Michael Shannon plays Zod in Man of Steel. Terence Stamp played him in Superman II (1980).",
+    "source_name": "Wikipedia: Man of Steel (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Man_of_Steel_(film)"
+  },
+  {
+    "id": 63,
+    "claim": "In DC Comics, Brainiac shrank and bottled the Kryptonian city of Kandor.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Brainiac captured Kandor and kept it in a bottle, a long-standing part of Superman lore.",
+    "source_name": "Wikipedia: Brainiac (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Brainiac_(character)"
+  },
+  {
+    "id": 64,
+    "claim": "In Silver Age DC Comics, Brainiac originates from the planet Daxam.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The Silver Age Brainiac, Vril Dox, is from the planet Colu. Daxam is a different planet.",
+    "source_name": "Wikipedia: Brainiac (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Brainiac_(character)"
+  },
+  {
+    "id": 65,
+    "claim": "In DC Comics, Harley Quinn's real name is Harleen Quinzel, a former psychiatrist at Arkham Asylum.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Harleen Quinzel was Joker's psychiatrist at Arkham before becoming Harley Quinn.",
+    "source_name": "Wikipedia: Harley Quinn",
+    "source_url": "https://en.wikipedia.org/wiki/Harley_Quinn"
+  },
+  {
+    "id": 66,
+    "claim": "Harley Quinn first appeared in a DC comic book before debuting in animation.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Harley Quinn debuted in Batman: The Animated Series in 1992 and joined the comics afterward.",
+    "source_name": "Wikipedia: Harley Quinn",
+    "source_url": "https://en.wikipedia.org/wiki/Harley_Quinn"
+  },
+  {
+    "id": 67,
+    "claim": "In DC Comics, the first Cheetah was Priscilla Rich, who debuted in Wonder Woman #6 (1943).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Priscilla Rich was the original Cheetah, predating Barbara Minerva.",
+    "source_name": "Wikipedia: Cheetah (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Cheetah_(comics)"
+  },
+  {
+    "id": 68,
+    "claim": "In post-Crisis DC Comics, Barbara Minerva, the Cheetah, is a marine biologist.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Barbara Minerva is an archaeologist.",
+    "source_name": "Wikipedia: Cheetah (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Cheetah_(comics)"
+  },
+  {
+    "id": 69,
+    "claim": "In DC Comics, Deathstroke first appeared in The New Teen Titans #2 (1980).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Deathstroke was created by Marv Wolfman and George Perez and debuted in The New Teen Titans #2.",
+    "source_name": "Wikipedia: Deathstroke",
+    "source_url": "https://en.wikipedia.org/wiki/Deathstroke"
+  },
+  {
+    "id": 70,
+    "claim": "In DC Comics, Slade Wilson served in the U.S. Navy before becoming Deathstroke.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Slade Wilson was a career U.S. Army soldier before his transformation.",
+    "source_name": "Wikipedia: Deathstroke",
+    "source_url": "https://en.wikipedia.org/wiki/Deathstroke"
+  },
+  {
+    "id": 71,
+    "claim": "In the Knightfall storyline, Bane breaks Batman's back.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "In Batman #497, Bane breaks Batman's back, putting Bruce Wayne out of action.",
+    "source_name": "Wikipedia: Bane (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Bane_(character)"
+  },
+  {
+    "id": 72,
+    "claim": "In DC Comics, Bane was born in Gotham City's Blackgate Penitentiary.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Bane was born and raised in the Pena Duro prison on the island of Santa Prisca.",
+    "source_name": "Wikipedia: Bane (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Bane_(character)"
+  },
+  {
+    "id": 73,
+    "claim": "In DC Comics, the Riddler first appeared in Detective Comics #140 (1948).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Edward Nygma debuted in Detective Comics #140.",
+    "source_name": "Wikipedia: Riddler",
+    "source_url": "https://en.wikipedia.org/wiki/Riddler"
+  },
+  {
+    "id": 74,
+    "claim": "In Batman Forever (1995), Tommy Lee Jones plays the Riddler.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Jim Carrey plays the Riddler. Tommy Lee Jones plays Two-Face.",
+    "source_name": "Wikipedia: Batman Forever",
+    "source_url": "https://en.wikipedia.org/wiki/Batman_Forever"
+  },
+  {
+    "id": 75,
+    "claim": "In DC Comics, Scarecrow first appeared in World's Finest Comics #3 (1941).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Jonathan Crane debuted in World's Finest Comics #3.",
+    "source_name": "Wikipedia: Scarecrow (DC Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Scarecrow_(DC_Comics)"
+  },
+  {
+    "id": 76,
+    "claim": "In DC Comics, Jonathan Crane, the Scarecrow, was a professor of chemistry.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Jonathan Crane was a psychology professor who specialized in fear.",
+    "source_name": "Wikipedia: Scarecrow (DC Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Scarecrow_(DC_Comics)"
+  },
+  {
+    "id": 77,
+    "claim": "In Batman comics, Harvey Dent becomes Two-Face after mobster Sal Maroni throws acid on his face.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Maroni scars Dent's face with acid during a trial, splitting him into Two-Face.",
+    "source_name": "Wikipedia: Two-Face",
+    "source_url": "https://en.wikipedia.org/wiki/Two-Face"
+  },
+  {
+    "id": 78,
+    "claim": "In Batman comics, Two-Face's coin is a standard coin with heads on one side and tails on the other.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The coin is double-headed, and one side is scarred.",
+    "source_name": "Wikipedia: Two-Face",
+    "source_url": "https://en.wikipedia.org/wiki/Two-Face"
+  },
+  {
+    "id": 79,
+    "claim": "In DC Comics, Sinestro was once the mentor of Hal Jordan in the Green Lantern Corps.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Sinestro trained Hal Jordan before turning against the Guardians.",
+    "source_name": "Wikipedia: Sinestro",
+    "source_url": "https://en.wikipedia.org/wiki/Sinestro"
+  },
+  {
+    "id": 80,
+    "claim": "In DC Comics, Black Adam draws his powers from the Greek gods.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Black Adam's powers come from Egyptian gods: Shu, Heru, Amon, Zehuti, Aton, and Mehen.",
+    "source_name": "Wikipedia: Black Adam",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Adam"
+  },
+  {
+    "id": 81,
+    "claim": "In the film Black Adam (2022), Dwayne Johnson plays the title character.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Dwayne Johnson stars as Black Adam in the 2022 film.",
+    "source_name": "Wikipedia: Black Adam (film)",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Adam_(film)"
+  },
+  {
+    "id": 82,
+    "claim": "In DC Comics, Doomsday killed Superman in Superman #75 (1993).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The Death of Superman storyline concluded in Superman #75.",
+    "source_name": "Wikipedia: Doomsday (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Doomsday_(comics)"
+  },
+  {
+    "id": 83,
+    "claim": "In DC Comics, Doomsday was originally created on Apokolips.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Doomsday was created through genetic experiments on prehistoric Krypton.",
+    "source_name": "Wikipedia: Doomsday (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Doomsday_(comics)"
+  },
+  {
+    "id": 84,
+    "claim": "In DC Comics, Ra's al Ghul's daughter is Talia al Ghul.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Talia al Ghul is Ra's al Ghul's daughter and the mother of Damian Wayne.",
+    "source_name": "Wikipedia: Ra's al Ghul",
+    "source_url": "https://en.wikipedia.org/wiki/Ra%27s_al_Ghul"
+  },
+  {
+    "id": 85,
+    "claim": "In DC Comics, Ra's al Ghul leads the Court of Owls.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Ra's al Ghul leads the League of Assassins. The Court of Owls is a separate secret society in Gotham.",
+    "source_name": "Wikipedia: Ra's al Ghul",
+    "source_url": "https://en.wikipedia.org/wiki/Ra%27s_al_Ghul"
+  },
+  {
+    "id": 86,
+    "claim": "In DC Comics, Black Manta first appeared in Aquaman #35 (1967).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Black Manta debuted in Aquaman #35.",
+    "source_name": "Wikipedia: Black Manta",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Manta"
+  },
+  {
+    "id": 87,
+    "claim": "In DC Comics, Ocean Master (Orm) is Aquaman's cousin.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Orm is Aquaman's half-brother.",
+    "source_name": "Wikipedia: Ocean Master",
+    "source_url": "https://en.wikipedia.org/wiki/Ocean_Master"
+  },
+  {
+    "id": 88,
+    "claim": "In DC Comics, the Penguin, Oswald Cobblepot, runs a Gotham club called the Iceberg Lounge.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The Iceberg Lounge is the Penguin's nightclub and criminal front.",
+    "source_name": "Wikipedia: Penguin (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Penguin_(character)"
+  },
+  {
+    "id": 89,
+    "claim": "In DC Comics, Poison Ivy, Pamela Isley, was a trained zoologist.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Pamela Isley was a botanist.",
+    "source_name": "Wikipedia: Poison Ivy (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Poison_Ivy_(character)"
+  },
+  {
+    "id": 90,
+    "claim": "In Batman: The Animated Series, Mister Freeze's tragic origin as a scientist saving his wife Nora debuts in the episode Heart of Ice.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Heart of Ice reimagined Victor Fries as a sympathetic cryogenicist trying to save Nora.",
+    "source_name": "Wikipedia: Mister Freeze",
+    "source_url": "https://en.wikipedia.org/wiki/Mister_Freeze"
+  },
+  {
+    "id": 91,
+    "claim": "In DC Comics, Captain Cold's cold gun was built by Mister Freeze.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Leonard Snart built his own cold gun.",
+    "source_name": "Wikipedia: Captain Cold",
+    "source_url": "https://en.wikipedia.org/wiki/Captain_Cold"
+  },
+  {
+    "id": 92,
+    "claim": "In DC Comics, Gorilla Grodd comes from the hidden Gorilla City in Africa.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Grodd is a super-intelligent telepathic gorilla from Gorilla City, hidden in Africa.",
+    "source_name": "Wikipedia: Gorilla Grodd",
+    "source_url": "https://en.wikipedia.org/wiki/Gorilla_Grodd"
+  },
+  {
+    "id": 93,
+    "claim": "In DC Comics, Superman villain Metallo is John Corben, whose power source is a kryptonite heart.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "John Corben is a cyborg whose kryptonite heart weakens Superman.",
+    "source_name": "Wikipedia: Metallo",
+    "source_url": "https://en.wikipedia.org/wiki/Metallo"
+  },
+  {
+    "id": 94,
+    "claim": "In DC Comics, Mister Mxyzptlk can be sent home by tricking him into saying his name backward.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Saying his name backward sends the imp back to the Fifth Dimension.",
+    "source_name": "Wikipedia: Mister Mxyzptlk",
+    "source_url": "https://en.wikipedia.org/wiki/Mister_Mxyzptlk"
+  },
+  {
+    "id": 95,
+    "claim": "Joaquin Phoenix won the Academy Award for Best Supporting Actor for Joker (2019).",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Phoenix won the Academy Award for Best Actor for Joker.",
+    "source_name": "Wikipedia: Joker (2019 film)",
+    "source_url": "https://en.wikipedia.org/wiki/Joker_(2019_film)"
+  },
+  {
+    "id": 96,
+    "claim": "In The Dark Knight Rises (2012), Anne Hathaway plays Poison Ivy.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Anne Hathaway plays Selina Kyle, who is referred to as Catwoman in the film's credits.",
+    "source_name": "Wikipedia: The Dark Knight Rises",
+    "source_url": "https://en.wikipedia.org/wiki/The_Dark_Knight_Rises"
+  },
+  {
+    "id": 97,
+    "claim": "In Man of Steel (2013), Jesse Eisenberg plays Lex Luthor.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Eisenberg first played Lex Luthor in Batman v Superman: Dawn of Justice (2016). Lex is not a character in Man of Steel.",
+    "source_name": "Wikipedia: Batman v Superman: Dawn of Justice",
+    "source_url": "https://en.wikipedia.org/wiki/Batman_v_Superman:_Dawn_of_Justice"
+  },
+  {
+    "id": 98,
+    "claim": "In Superman (1978), Lex Luthor is played by Kevin Spacey.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Gene Hackman plays Lex Luthor in Superman (1978). Kevin Spacey played him in Superman Returns (2006).",
+    "source_name": "Wikipedia: Superman (1978 film)",
+    "source_url": "https://en.wikipedia.org/wiki/Superman_(1978_film)"
+  },
+  {
+    "id": 99,
+    "claim": "In Tim Burton's Batman (1989), the Joker is played by Cesar Romero.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Jack Nicholson plays the Joker in the 1989 film. Cesar Romero played him in the 1960s TV series.",
+    "source_name": "Wikipedia: Batman (1989 film)",
+    "source_url": "https://en.wikipedia.org/wiki/Batman_(1989_film)"
+  },
+  {
+    "id": 100,
+    "claim": "In DC Comics, the first Clayface, Basil Karlo, was a chemist before his transformation.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Basil Karlo was a horror-film actor who took on the Clayface identity.",
+    "source_name": "Wikipedia: Clayface",
+    "source_url": "https://en.wikipedia.org/wiki/Clayface"
+  },
+  {
+    "id": 101,
+    "claim": "In DC Comics, the Green Lantern Corps is headquartered on the planet Oa, home of the Guardians of the Universe.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Oa, at the center of the universe, houses the Central Power Battery and the Guardians, who founded the Corps.",
+    "source_name": "Wikipedia: Green Lantern Corps",
+    "source_url": "https://en.wikipedia.org/wiki/Green_Lantern_Corps"
+  },
+  {
+    "id": 102,
+    "claim": "In DC Comics, the Guardians of the Universe are based on the sentient planet Mogo.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "The Guardians are based on Oa. Mogo is a separate sentient planet that serves as a Green Lantern.",
+    "source_name": "Wikipedia: Green Lantern Corps",
+    "source_url": "https://en.wikipedia.org/wiki/Green_Lantern_Corps"
+  },
+  {
+    "id": 103,
+    "claim": "In DC Comics, Kyle Rayner received his Green Lantern ring from Ganthet, the last surviving Guardian after Hal Jordan's fall.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "After Hal Jordan destroyed the Central Power Battery and most Guardians were lost, Ganthet gave Kyle the last power ring.",
+    "source_name": "Wikipedia: Kyle Rayner",
+    "source_url": "https://en.wikipedia.org/wiki/Kyle_Rayner"
+  },
+  {
+    "id": 104,
+    "claim": "In DC Comics, standard Green Lantern rings are powered by the emotion of fear.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Green Lantern rings are powered by willpower (green). Fear is the yellow light, used by Sinestro Corps rings.",
+    "source_name": "Wikipedia: Green Lantern Corps",
+    "source_url": "https://en.wikipedia.org/wiki/Green_Lantern_Corps"
+  },
+  {
+    "id": 105,
+    "claim": "In classic Green Lantern comics, a power ring was famously ineffective against anything yellow.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "The 'yellow impurity' was the ring's classic weakness in Silver Age comics, and later continuity tied it to the yellow light of fear.",
+    "source_name": "Wikipedia: Hal Jordan",
+    "source_url": "https://en.wikipedia.org/wiki/Hal_Jordan"
+  },
+  {
+    "id": 106,
+    "claim": "In DC Comics, Alan Scott received his Green Lantern ring from the dying alien Abin Sur.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Abin Sur passed his ring to Hal Jordan. Alan Scott's power came from a magical green lantern and the Starheart/Green Flame.",
+    "source_name": "Wikipedia: Alan Scott",
+    "source_url": "https://en.wikipedia.org/wiki/Alan_Scott"
+  },
+  {
+    "id": 107,
+    "claim": "In DC Comics, Mogo is a sentient planet that serves as a member of the Green Lantern Corps.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Mogo, 'the Planet That Walks Like a Man', is a living world and a Green Lantern.",
+    "source_name": "Wikipedia: Green Lantern Corps",
+    "source_url": "https://en.wikipedia.org/wiki/Green_Lantern_Corps"
+  },
+  {
+    "id": 108,
+    "claim": "In DC Comics, the Sinestro Corps was first formed during the Blackest Night storyline (2009).",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The Sinestro Corps debuted in the 2007 Sinestro Corps War storyline. Blackest Night (2009-2010) introduced the Black Lanterns and a full emotional spectrum of Corps.",
+    "source_name": "Wikipedia: Blackest Night",
+    "source_url": "https://en.wikipedia.org/wiki/Blackest_Night"
+  },
+  {
+    "id": 109,
+    "claim": "In the DC Comics event Blackest Night, the Black Lantern rings are powered by death.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The Black Lantern Corps, led by Nekron, uses the black light of death to reanimate the dead.",
+    "source_name": "Wikipedia: Blackest Night",
+    "source_url": "https://en.wikipedia.org/wiki/Blackest_Night"
+  },
+  {
+    "id": 110,
+    "claim": "In DC Comics, Raven of the Teen Titans is the daughter of the demon lord Trigon.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Raven's mother Arella was bound to Trigon, making Raven his half-human, half-demon daughter.",
+    "source_name": "Wikipedia: Raven (DC Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Raven_(DC_Comics)"
+  },
+  {
+    "id": 111,
+    "claim": "In DC Comics, Starfire (Koriand'r) comes from the planet Thanagar.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Starfire is from the planet Tamaran. Thanagar is the home of Hawkman and Hawkgirl.",
+    "source_name": "Wikipedia: Starfire (DC Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Starfire_(DC_Comics)"
+  },
+  {
+    "id": 112,
+    "claim": "In DC Comics, the original Teen Titans debuted in The Brave and the Bold #54 (1964) with Robin, Kid Flash, and Aqualad.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The Brave and the Bold #54 featured the three sidekicks teaming up, and the group was later named the Teen Titans.",
+    "source_name": "Wikipedia: Teen Titans",
+    "source_url": "https://en.wikipedia.org/wiki/Teen_Titans"
+  },
+  {
+    "id": 113,
+    "claim": "In DC Comics, Cyborg (Victor Stone) was a founding member of the original 1960s Teen Titans.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Cyborg was created in 1980 for The New Teen Titans by Marv Wolfman and George Perez, not the 1960s team.",
+    "source_name": "Wikipedia: Cyborg (DC Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)"
+  },
+  {
+    "id": 114,
+    "claim": "In DC Comics, Amanda Waller leads the government black-ops program Task Force X, also known as the Suicide Squad.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Since John Ostrander's 1987 series, Waller has been the Squad's director, using imprisoned villains for covert missions.",
+    "source_name": "Wikipedia: Amanda Waller",
+    "source_url": "https://en.wikipedia.org/wiki/Amanda_Waller"
+  },
+  {
+    "id": 115,
+    "claim": "In DC Comics, Suicide Squad member Captain Boomerang (George 'Digger' Harkness) is from New Zealand.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Digger Harkness is Australian, and he is a longtime enemy of the Flash.",
+    "source_name": "Wikipedia: Captain Boomerang",
+    "source_url": "https://en.wikipedia.org/wiki/Captain_Boomerang"
+  },
+  {
+    "id": 116,
+    "claim": "Harley Quinn first appeared in Batman: The Animated Series (1992) before being added to DC's comic book continuity.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Harley debuted in the 1992 episode 'Joker's Favor' and joined the comics later.",
+    "source_name": "Wikipedia: Harley Quinn",
+    "source_url": "https://en.wikipedia.org/wiki/Harley_Quinn"
+  },
+  {
+    "id": 117,
+    "claim": "In DC Comics, the Legion of Super-Heroes first appeared in Adventure Comics #247 (1958).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The team debuted in a Superboy story, set in the future, in Adventure Comics #247.",
+    "source_name": "Wikipedia: Legion of Super-Heroes",
+    "source_url": "https://en.wikipedia.org/wiki/Legion_of_Super-Heroes_(DC_Comics)"
+  },
+  {
+    "id": 118,
+    "claim": "In classic Legion of Super-Heroes comics, Brainiac 5 was one of the three founding members.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "The founders were Cosmic Boy, Saturn Girl, and Lightning Lad. Brainiac 5 joined later.",
+    "source_name": "Wikipedia: Brainiac 5",
+    "source_url": "https://en.wikipedia.org/wiki/Brainiac_5"
+  },
+  {
+    "id": 119,
+    "claim": "In post-Crisis DC Comics, Barbara Gordon became the information broker Oracle after being shot and paralyzed by the Joker in The Killing Joke.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "After her injury in Batman: The Killing Joke (1988), Barbara reinvented herself as Oracle and later co-led the Birds of Prey.",
+    "source_name": "Wikipedia: Barbara Gordon",
+    "source_url": "https://en.wikipedia.org/wiki/Barbara_Gordon"
+  },
+  {
+    "id": 120,
+    "claim": "In DC Comics, Helena Bertinelli, the Huntress of the Birds of Prey, is the biological daughter of Bruce Wayne.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Helena Bertinelli is the daughter of Mafia boss Franco Bertinelli. The Earth-2 Huntress, Helena Wayne, is Bruce Wayne's daughter.",
+    "source_name": "Wikipedia: Huntress (Helena Bertinelli)",
+    "source_url": "https://en.wikipedia.org/wiki/Huntress_(Helena_Bertinelli)"
+  },
+  {
+    "id": 121,
+    "claim": "In mainstream DC Comics, Tim Drake was the second person to be Robin.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Dick Grayson was the first Robin, Jason Todd was the second, and Tim Drake was the third.",
+    "source_name": "Wikipedia: Robin (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Robin_(character)"
+  },
+  {
+    "id": 122,
+    "claim": "In mainstream DC Comics, Damian Wayne is the biological son of Bruce Wayne and Talia al Ghul.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Damian was raised by the League of Assassins before joining his father as Robin.",
+    "source_name": "Wikipedia: Damian Wayne",
+    "source_url": "https://en.wikipedia.org/wiki/Damian_Wayne"
+  },
+  {
+    "id": 123,
+    "claim": "In DC Comics, Stephanie Brown, known as Spoiler, briefly served as Robin in the mid-2000s.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Stephanie took up the Robin identity for a short time around 2004, as Tim Drake stepped back from the role.",
+    "source_name": "Wikipedia: Stephanie Brown",
+    "source_url": "https://en.wikipedia.org/wiki/Stephanie_Brown"
+  },
+  {
+    "id": 124,
+    "claim": "In DC Comics, Cassandra Cain was the first character to be Batgirl, before Barbara Gordon.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Barbara Gordon debuted as Batgirl in 1967. Cassandra Cain took the name in the late 1990s.",
+    "source_name": "Wikipedia: Batgirl",
+    "source_url": "https://en.wikipedia.org/wiki/Batgirl"
+  },
+  {
+    "id": 125,
+    "claim": "In the Knightfall storyline, Dick Grayson replaced a broken Bruce Wayne as Batman.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "After Bane broke Bruce's back, Jean-Paul Valley (Azrael) became Batman. Dick Grayson took the cowl in later years.",
+    "source_name": "Wikipedia: Knightfall",
+    "source_url": "https://en.wikipedia.org/wiki/Knightfall"
+  },
+  {
+    "id": 126,
+    "claim": "In DC Comics, the Court of Owls debuted in Batman vol. 2 #1 (2011) by Scott Snyder and Greg Capullo.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The secret society, which uses assassins called Talons, was introduced in the New 52 relaunch of Batman.",
+    "source_name": "Wikipedia: Court of Owls",
+    "source_url": "https://en.wikipedia.org/wiki/Court_of_Owls"
+  },
+  {
+    "id": 127,
+    "claim": "In DC Comics, Superman's home planet Krypton orbited a yellow sun.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Krypton orbited the red sun Rao. Earth's yellow sun gives Kryptonians their powers.",
+    "source_name": "Wikipedia: Krypton (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Krypton_(comics)"
+  },
+  {
+    "id": 128,
+    "claim": "In DC Comics, Supergirl (Kara Zor-El) is Superman's younger sister.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Kara Zor-El is Superman's cousin, the daughter of Jor-El's brother Zor-El.",
+    "source_name": "Wikipedia: Supergirl",
+    "source_url": "https://en.wikipedia.org/wiki/Supergirl"
+  },
+  {
+    "id": 129,
+    "claim": "In Pre-Crisis Superman comics, Gold Kryptonite permanently removes a Kryptonian's powers.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Gold Kryptonite is one of the few varieties capable of permanently stripping Kryptonians of their powers.",
+    "source_name": "Wikipedia: Kryptonite",
+    "source_url": "https://en.wikipedia.org/wiki/Kryptonite"
+  },
+  {
+    "id": 130,
+    "claim": "In DC Comics, a Mother Box can open Boom Tubes, the teleportation tunnels used by the New Gods.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Mother Boxes are sentient New Gods devices created by Jack Kirby, and they can create Boom Tubes.",
+    "source_name": "Wikipedia: Mother Box",
+    "source_url": "https://en.wikipedia.org/wiki/Mother_Box"
+  },
+  {
+    "id": 131,
+    "claim": "In DC Comics, Boom Tubes are teleportation tunnels powered by the Speed Force.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Boom Tubes are New Gods technology tied to Mother Boxes, not the Speed Force.",
+    "source_name": "Wikipedia: Mother Box",
+    "source_url": "https://en.wikipedia.org/wiki/Mother_Box"
+  },
+  {
+    "id": 132,
+    "claim": "In DC Comics, the Speed Force is an extradimensional energy source that grants speedsters like the Flash their powers.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "The Speed Force is the source of speedsters' abilities, including those of Barry Allen and Wally West.",
+    "source_name": "Wikipedia: Speed Force",
+    "source_url": "https://en.wikipedia.org/wiki/Speed_Force"
+  },
+  {
+    "id": 133,
+    "claim": "In DC Comics, Barry Allen was the first character to use the name the Flash.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Jay Garrick was the first Flash, debuting in Flash Comics #1 in 1940. Barry Allen came in 1956.",
+    "source_name": "Wikipedia: Flash (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Flash_(comics)"
+  },
+  {
+    "id": 134,
+    "claim": "In Crisis on Infinite Earths #8, Barry Allen died while destroying the Anti-Monitor's antimatter cannon.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Barry's sacrifice stopped the cannon and became the Pre-Crisis Flash's defining death.",
+    "source_name": "Wikipedia: Crisis on Infinite Earths",
+    "source_url": "https://en.wikipedia.org/wiki/Crisis_on_Infinite_Earths"
+  },
+  {
+    "id": 135,
+    "claim": "In post-Crisis DC Comics, Wally West is Barry Allen's biological brother.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Wally is Iris West's nephew and became Barry's sidekick Kid Flash. He is not Barry's brother.",
+    "source_name": "Wikipedia: Wally West",
+    "source_url": "https://en.wikipedia.org/wiki/Wally_West"
+  },
+  {
+    "id": 136,
+    "claim": "In DC Comics, the Reverse-Flash Eobard Thawne is a native of the 25th century.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Thawne comes from the 25th century and became obsessed with Barry Allen after learning of his legacy.",
+    "source_name": "Wikipedia: Reverse-Flash",
+    "source_url": "https://en.wikipedia.org/wiki/Reverse-Flash"
+  },
+  {
+    "id": 137,
+    "claim": "In post-Crisis DC Comics, Wonder Woman was sculpted from clay by Hippolyta and given life by the gods.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "George Perez's 1987 relaunch made Diana a child born of clay on Themyscira, not of a human father.",
+    "source_name": "Wikipedia: Wonder Woman",
+    "source_url": "https://en.wikipedia.org/wiki/Wonder_Woman"
+  },
+  {
+    "id": 138,
+    "claim": "In post-Crisis DC Comics, Wonder Woman's Lasso of Truth was forged by the war god Ares.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "In the post-Crisis version, the lasso was forged by Hephaestus from Gaea's girdle. Ares is Diana's enemy.",
+    "source_name": "Wikipedia: Wonder Woman",
+    "source_url": "https://en.wikipedia.org/wiki/Wonder_Woman"
+  },
+  {
+    "id": 139,
+    "claim": "In modern DC Comics, Aquaman (Arthur Curry) is the son of the lighthouse keeper Tom Curry and the Atlantean queen Atlanna.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Arthur is half-human and half-Atlantean and was raised by his father before becoming king of Atlantis.",
+    "source_name": "Wikipedia: Aquaman",
+    "source_url": "https://en.wikipedia.org/wiki/Aquaman"
+  },
+  {
+    "id": 140,
+    "claim": "In DC Comics, Aquaman's wife Mera is a native of Atlantis.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Mera comes from the dimension of Xebel, not Atlantis.",
+    "source_name": "Wikipedia: Mera (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Mera_(character)"
+  },
+  {
+    "id": 141,
+    "claim": "The Justice Society of America debuted in All Star Comics #3 (1940) and is considered the first superhero team in comics.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "All Star Comics #3 brought together DC's Golden Age heroes, making the JSA the first superhero team.",
+    "source_name": "Wikipedia: Justice Society of America",
+    "source_url": "https://en.wikipedia.org/wiki/Justice_Society_of_America"
+  },
+  {
+    "id": 142,
+    "claim": "In the Silver Age Justice League of America (1960), Green Arrow was a founding member.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "The founders were Flash, Green Lantern, Aquaman, Martian Manhunter, and Wonder Woman. Green Arrow joined later.",
+    "source_name": "Wikipedia: Justice League",
+    "source_url": "https://en.wikipedia.org/wiki/Justice_League"
+  },
+  {
+    "id": 143,
+    "claim": "In DC Comics, Orion is Darkseid's son but was raised on New Genesis by Highfather.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Orion was exchanged as a child in a peace pact between Apokolips and New Genesis.",
+    "source_name": "Wikipedia: Orion (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Orion_(character)"
+  },
+  {
+    "id": 144,
+    "claim": "In DC Comics, Mister Miracle (Scott Free) is the biological son of Darkseid.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Scott Free is Highfather's son, raised on Apokolips in the exchange with Orion.",
+    "source_name": "Wikipedia: Mister Miracle",
+    "source_url": "https://en.wikipedia.org/wiki/Mister_Miracle"
+  },
+  {
+    "id": 145,
+    "claim": "In DC Comics, Darkseid of Apokolips seeks the Anti-Life Equation.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "The equation would allow Darkseid to control all sentient life.",
+    "source_name": "Wikipedia: Darkseid",
+    "source_url": "https://en.wikipedia.org/wiki/Darkseid"
+  },
+  {
+    "id": 146,
+    "claim": "In DC Comics, Darkseid is the ruler of New Genesis.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Darkseid rules Apokolips. New Genesis is led by Highfather.",
+    "source_name": "Wikipedia: Darkseid",
+    "source_url": "https://en.wikipedia.org/wiki/Darkseid"
+  },
+  {
+    "id": 147,
+    "claim": "In DC Comics, the Dark Multiverse was introduced in the 2017 Dark Nights: Metal event.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "The concept of the Dark Multiverse, a realm of nightmarish alternate realities, was introduced in the Metal event.",
+    "source_name": "Wikipedia: Dark Nights: Metal",
+    "source_url": "https://en.wikipedia.org/wiki/Dark_Nights:_Metal"
+  },
+  {
+    "id": 148,
+    "claim": "In Pre-Crisis DC Comics, the Justice League of America lived on Earth-2.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The Justice League lived on Earth-One. Earth-2 was home to the Golden Age Justice Society.",
+    "source_name": "Wikipedia: Multiverse (DC Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Multiverse_(DC_Comics)"
+  },
+  {
+    "id": 149,
+    "claim": "In DC Comics, the 1994 event Zero Hour: Crisis in Time led directly to the New 52 relaunch.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "The New 52 followed Flashpoint (2011). Zero Hour (1994) was a separate continuity-tightening event.",
+    "source_name": "Wikipedia: The New 52",
+    "source_url": "https://en.wikipedia.org/wiki/The_New_52"
+  },
+  {
+    "id": 150,
+    "claim": "In DC Comics, Owlman of the Crime Syndicate of America is the Earth-3 counterpart of Superman.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Owlman is Earth-3's Batman counterpart. Ultraman is the Superman counterpart.",
+    "source_name": "Wikipedia: Crime Syndicate of America",
+    "source_url": "https://en.wikipedia.org/wiki/Crime_Syndicate_of_America"
+  },
+  {
+    "id": 151,
+    "claim": "In DC Comics, the magic word SHAZAM stands for six figures: Solomon, Hercules, Atlas, Zeus, Achilles, and Mercury.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Each letter names a figure whose attribute (wisdom, strength, stamina, power, courage, speed) Billy Batson gains when he speaks the word.",
+    "source_name": "Wikipedia: Captain Marvel (DC Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Captain_Marvel_(DC_Comics)"
+  },
+  {
+    "id": 152,
+    "claim": "In DC Comics, Billy Batson receives his powers from a wizard named Merlin.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "The wizard who empowers Billy is named Shazam, not Merlin.",
+    "source_name": "Wikipedia: Captain Marvel (DC Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Captain_Marvel_(DC_Comics)"
+  },
+  {
+    "id": 153,
+    "claim": "Captain Marvel, now known as Shazam, first appeared in Fawcett Comics' Whiz Comics #2 (1940).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Captain Marvel debuted in Whiz Comics #2, cover-dated February 1940, from Fawcett Comics, not DC.",
+    "source_name": "Wikipedia: Captain Marvel (DC Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Captain_Marvel_(DC_Comics)"
+  },
+  {
+    "id": 154,
+    "claim": "In DC Comics, Black Adam is Billy Batson's long-lost older brother.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Black Adam is Teth-Adam, an ancient Egyptian champion who was once empowered by the wizard Shazam. He is not related to Billy.",
+    "source_name": "Wikipedia: Black Adam",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Adam"
+  },
+  {
+    "id": 155,
+    "claim": "DC's 1970s series featuring Captain Marvel was titled Shazam! because Marvel Comics held the trademark on the name Captain Marvel for comic books.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "DC licensed the Fawcett characters but couldn't use the Captain Marvel title on its cover, so the series launched in 1973 as Shazam!.",
+    "source_name": "Wikipedia: Captain Marvel (DC Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Captain_Marvel_(DC_Comics)"
+  },
+  {
+    "id": 156,
+    "claim": "In DC Comics, Dr. Thaddeus Sivana is Superman's greatest archenemy.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Dr. Sivana is the archenemy of Captain Marvel (Shazam). Superman's greatest archenemy is Lex Luthor.",
+    "source_name": "Wikipedia: Doctor Sivana",
+    "source_url": "https://en.wikipedia.org/wiki/Doctor_Sivana"
+  },
+  {
+    "id": 157,
+    "claim": "In Fawcett's original Golden Age comics, Mary Marvel is Billy Batson's twin sister, Mary Batson.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Mary Batson was introduced in 1942 as Billy's long-lost twin who gains similar powers by saying SHAZAM.",
+    "source_name": "Wikipedia: Mary Marvel",
+    "source_url": "https://en.wikipedia.org/wiki/Mary_Marvel"
+  },
+  {
+    "id": 158,
+    "claim": "In the original Fawcett Captain Marvel comics, the villain Mister Mind is a worm from the planet Mars.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "In the original comics, Mister Mind is an alien worm from Venus, not Mars.",
+    "source_name": "Wikipedia: Mister Mind",
+    "source_url": "https://en.wikipedia.org/wiki/Mister_Mind"
+  },
+  {
+    "id": 159,
+    "claim": "Black Adam first appeared in The Marvel Family #1 (1945), published by Fawcett Comics.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Black Adam debuted in The Marvel Family #1 (December 1945) as a Fawcett villain, long before DC's acquisition of the character.",
+    "source_name": "Wikipedia: Black Adam",
+    "source_url": "https://en.wikipedia.org/wiki/Black_Adam"
+  },
+  {
+    "id": 160,
+    "claim": "In DC Comics, Alfred Pennyworth debuted in Batman #16 (1943).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Alfred first appeared in Batman #16 in 1943.",
+    "source_name": "Wikipedia: Alfred Pennyworth",
+    "source_url": "https://en.wikipedia.org/wiki/Alfred_Pennyworth"
+  },
+  {
+    "id": 161,
+    "claim": "In mainstream DC Comics, the Joker is the man who murdered Thomas and Martha Wayne.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "In mainstream comics, the killer is Joe Chill. Making Jack Napier the killer is a feature of the 1989 Batman film.",
+    "source_name": "Wikipedia: Batman",
+    "source_url": "https://en.wikipedia.org/wiki/Batman"
+  },
+  {
+    "id": 162,
+    "claim": "In DC Comics, James Gordon appeared in Batman's first story, Detective Comics #27 (1939).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Gordon appeared in Detective Comics #27 as a police commissioner, in the first Batman story.",
+    "source_name": "Wikipedia: James Gordon (character)",
+    "source_url": "https://en.wikipedia.org/wiki/James_Gordon_(character)"
+  },
+  {
+    "id": 163,
+    "claim": "In DC Comics, Bane was born and raised in Gotham City.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Bane was born in a prison on the Caribbean island of Santa Prisca.",
+    "source_name": "Wikipedia: Bane (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Bane_(character)"
+  },
+  {
+    "id": 164,
+    "claim": "In DC Comics, Bat-Mite is an imp from the fifth dimension who admires Batman.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Bat-Mite, who debuted in Detective Comics #267 (1959), is a fifth-dimensional imp.",
+    "source_name": "Wikipedia: Bat-Mite",
+    "source_url": "https://en.wikipedia.org/wiki/Bat-Mite"
+  },
+  {
+    "id": 165,
+    "claim": "In DC Comics, Harvey Dent was the district attorney of Metropolis before becoming Two-Face.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Harvey Dent was Gotham City's district attorney.",
+    "source_name": "Wikipedia: Two-Face",
+    "source_url": "https://en.wikipedia.org/wiki/Two-Face"
+  },
+  {
+    "id": 166,
+    "claim": "In the classic DC Comics origin of Two-Face, the acid that scarred Harvey Dent was thrown by the mobster Sal Maroni.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "In the comics, Sal Maroni threw acid in Dent's face during a trial.",
+    "source_name": "Wikipedia: Two-Face",
+    "source_url": "https://en.wikipedia.org/wiki/Two-Face"
+  },
+  {
+    "id": 167,
+    "claim": "In DC Comics, Jonathan Crane, the Scarecrow, is a chemistry professor.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Crane is a professor of psychology who experiments with fear.",
+    "source_name": "Wikipedia: Scarecrow (DC Comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Scarecrow_(DC_Comics)"
+  },
+  {
+    "id": 168,
+    "claim": "In DC Comics, Poison Ivy's real name is Harleen Quinzel.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Poison Ivy is Pamela Isley. Harleen Quinzel is Harley Quinn.",
+    "source_name": "Wikipedia: Poison Ivy (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Poison_Ivy_(character)"
+  },
+  {
+    "id": 169,
+    "claim": "Mr. Freeze's tragic backstory about his wife Nora originated in Batman: The Animated Series (1992) and was later adopted into DC Comics.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The episode 'Heart of Ice' reimagined Mr. Freeze as a sympathetic villain, and the comics later adopted that origin.",
+    "source_name": "Wikipedia: Mister Freeze",
+    "source_url": "https://en.wikipedia.org/wiki/Mister_Freeze"
+  },
+  {
+    "id": 170,
+    "claim": "Detective Renee Montoya first appeared in Batman: The Animated Series before being added to DC Comics.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Montoya was created for the 1992 animated series and was later introduced into the comics.",
+    "source_name": "Wikipedia: Renee Montoya",
+    "source_url": "https://en.wikipedia.org/wiki/Renee_Montoya"
+  },
+  {
+    "id": 171,
+    "claim": "Jimmy Olsen first appeared in the Adventures of Superman radio show in 1940 before appearing in comics.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "The radio show introduced Jimmy Olsen in 1940, and he later appeared in the Superman comics.",
+    "source_name": "Wikipedia: Jimmy Olsen",
+    "source_url": "https://en.wikipedia.org/wiki/Jimmy_Olsen"
+  },
+  {
+    "id": 172,
+    "claim": "In his first comic appearance, Action Comics #23 (1940), Lex Luthor was bald.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Luthor was drawn with red hair in his first appearance. His signature baldness came later.",
+    "source_name": "Wikipedia: Lex Luthor",
+    "source_url": "https://en.wikipedia.org/wiki/Lex_Luthor"
+  },
+  {
+    "id": 173,
+    "claim": "In Pre-Crisis comics, Bizarro debuted in Superboy #68 (1958) as an imperfect duplicate created by a duplicating ray.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "The first Bizarro was an imperfect copy of Superboy made with a duplicator ray.",
+    "source_name": "Wikipedia: Bizarro",
+    "source_url": "https://en.wikipedia.org/wiki/Bizarro"
+  },
+  {
+    "id": 174,
+    "claim": "Lois Lane first appeared in Action Comics #20 (1939).",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Lois Lane debuted in Action Comics #1 (1938), alongside Superman.",
+    "source_name": "Wikipedia: Lois Lane",
+    "source_url": "https://en.wikipedia.org/wiki/Lois_Lane"
+  },
+  {
+    "id": 175,
+    "claim": "In his earliest 1938 comic stories, Superman could leap great distances but could not fly.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Early Superman stories showed him leaping, and flight came later.",
+    "source_name": "Wikipedia: Superman",
+    "source_url": "https://en.wikipedia.org/wiki/Superman"
+  },
+  {
+    "id": 176,
+    "claim": "In DC Comics, Jor-El, Superman's biological father, was a Kryptonian military general.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Jor-El was a Kryptonian scientist who predicted the planet's destruction. General Zod was a military leader.",
+    "source_name": "Wikipedia: Jor-El",
+    "source_url": "https://en.wikipedia.org/wiki/Jor-El"
+  },
+  {
+    "id": 177,
+    "claim": "In Pre-Crisis Superman comics, Brainiac is a native of Krypton.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Pre-Crisis, Brainiac is Vril Dox, a native of the planet Colu.",
+    "source_name": "Wikipedia: Brainiac (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Brainiac_(character)"
+  },
+  {
+    "id": 178,
+    "claim": "Wonder Woman first appeared in All Star Comics #8 (1941).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Her first appearance was in All Star Comics #8, and her own title followed.",
+    "source_name": "Wikipedia: Wonder Woman",
+    "source_url": "https://en.wikipedia.org/wiki/Wonder_Woman"
+  },
+  {
+    "id": 179,
+    "claim": "Wonder Woman was created by Batman co-creator Bob Kane.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Wonder Woman was created by psychologist William Moulton Marston, with artist H. G. Peter.",
+    "source_name": "Wikipedia: Wonder Woman",
+    "source_url": "https://en.wikipedia.org/wiki/Wonder_Woman"
+  },
+  {
+    "id": 180,
+    "claim": "In Golden Age Wonder Woman comics, Etta Candy first appeared in Sensation Comics #2 (1942).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Etta Candy, Diana's friend, debuted in Sensation Comics #2.",
+    "source_name": "Wikipedia: Etta Candy",
+    "source_url": "https://en.wikipedia.org/wiki/Etta_Candy"
+  },
+  {
+    "id": 181,
+    "claim": "In DC Comics, Wally West debuted in The Flash #110 (1959).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Wally West was introduced in The Flash #110 as Kid Flash, Barry Allen's sidekick.",
+    "source_name": "Wikipedia: Wally West",
+    "source_url": "https://en.wikipedia.org/wiki/Wally_West"
+  },
+  {
+    "id": 182,
+    "claim": "In DC Comics, the Flash villain Captain Cold uses a heat gun.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Captain Cold (Leonard Snart) uses a cold gun.",
+    "source_name": "Wikipedia: Captain Cold",
+    "source_url": "https://en.wikipedia.org/wiki/Captain_Cold"
+  },
+  {
+    "id": 183,
+    "claim": "In DC Comics, John Stewart debuted in Green Lantern #87 (1971), created by Denny O'Neil and Neal Adams.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "John Stewart debuted in Green Lantern vol. 2 #87 and was the first Black Green Lantern.",
+    "source_name": "Wikipedia: John Stewart (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/John_Stewart_(comics)"
+  },
+  {
+    "id": 184,
+    "claim": "In DC Comics, Guy Gardner is Hal Jordan's younger brother.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Guy Gardner is not related to Hal Jordan. Hal's brothers are Jack and Jim Jordan.",
+    "source_name": "Wikipedia: Guy Gardner",
+    "source_url": "https://en.wikipedia.org/wiki/Guy_Gardner"
+  },
+  {
+    "id": 185,
+    "claim": "In DC Comics, Kyle Rayner worked as a test pilot before becoming a Green Lantern.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Kyle Rayner was a struggling freelance artist. Hal Jordan was the test pilot.",
+    "source_name": "Wikipedia: Kyle Rayner",
+    "source_url": "https://en.wikipedia.org/wiki/Kyle_Rayner"
+  },
+  {
+    "id": 186,
+    "claim": "In DC Comics, Dick Grayson's Nightwing name was inspired by a Kryptonian legend that Superman related to him.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "The name Nightwing comes from a Kryptonian legend of a hero called Nightwing that Superman told Dick Grayson.",
+    "source_name": "Wikipedia: Nightwing",
+    "source_url": "https://en.wikipedia.org/wiki/Nightwing"
+  },
+  {
+    "id": 187,
+    "claim": "In DC Comics, Dick Grayson's parents were killed by the Joker.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Dick's parents, the Flying Graysons, were killed by the mobster Tony Zucco.",
+    "source_name": "Wikipedia: Nightwing",
+    "source_url": "https://en.wikipedia.org/wiki/Nightwing"
+  },
+  {
+    "id": 188,
+    "claim": "In the DC Comics storyline A Death in the Family, Jason Todd was killed by the Penguin.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "The Joker beat Jason Todd and then left him to die in an explosion.",
+    "source_name": "Wikipedia: Jason Todd",
+    "source_url": "https://en.wikipedia.org/wiki/Jason_Todd"
+  },
+  {
+    "id": 189,
+    "claim": "In DC Comics, Robin debuted in Detective Comics #27 (1939), alongside Batman's first appearance.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Robin debuted in Detective Comics #38 (1940). Batman's own debut was in Detective Comics #27.",
+    "source_name": "Wikipedia: Robin (character)",
+    "source_url": "https://en.wikipedia.org/wiki/Robin_(character)"
+  },
+  {
+    "id": 190,
+    "claim": "In DC Comics, Supergirl (Kara Zor-El) first appeared in Action Comics #252 (1959).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Kara debuted in Action Comics #252 in July 1959.",
+    "source_name": "Wikipedia: Supergirl",
+    "source_url": "https://en.wikipedia.org/wiki/Supergirl"
+  },
+  {
+    "id": 191,
+    "claim": "In Pre-Crisis DC Comics, Supergirl's pet Streaky is a Kryptonian dog.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Streaky is a cat, the Super-Cat.",
+    "source_name": "Wikipedia: Streaky the Super-Cat",
+    "source_url": "https://en.wikipedia.org/wiki/Streaky_the_Super-Cat"
+  },
+  {
+    "id": 192,
+    "claim": "In Pre-Crisis DC Comics, Krypto the Superdog first appeared in Adventure Comics #210 (1955).",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Krypto was introduced in 1955 as Superboy's dog.",
+    "source_name": "Wikipedia: Krypto",
+    "source_url": "https://en.wikipedia.org/wiki/Krypto"
+  },
+  {
+    "id": 193,
+    "claim": "The 1996 DC miniseries Kingdom Come was written by Mark Waid and painted by Alex Ross.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Mark Waid wrote Kingdom Come and Alex Ross painted it.",
+    "source_name": "Wikipedia: Kingdom Come (comics)",
+    "source_url": "https://en.wikipedia.org/wiki/Kingdom_Come_(comics)"
+  },
+  {
+    "id": 194,
+    "claim": "The Elseworlds comic Superman: Red Son was written by Grant Morrison.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Mark Millar wrote Superman: Red Son.",
+    "source_name": "Wikipedia: Superman: Red Son",
+    "source_url": "https://en.wikipedia.org/wiki/Superman:_Red_Son"
+  },
+  {
+    "id": 195,
+    "claim": "In DC Comics, Ted Kord, the second Blue Beetle, has no superpowers and relies on gadgets and intellect.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Ted Kord is a non-powered inventor and fighter.",
+    "source_name": "Wikipedia: Blue Beetle (Ted Kord)",
+    "source_url": "https://en.wikipedia.org/wiki/Blue_Beetle_(Ted_Kord)"
+  },
+  {
+    "id": 196,
+    "claim": "In DC Comics, Booster Gold is a former football player from the 25th century.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Booster Gold, who debuted in 1986, is a time traveler from the 25th century.",
+    "source_name": "Wikipedia: Booster Gold",
+    "source_url": "https://en.wikipedia.org/wiki/Booster_Gold"
+  },
+  {
+    "id": 197,
+    "claim": "In DC Comics, Plastic Man was a criminal named Eel O'Brian before gaining his powers.",
+    "answer": "FACT",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Eel O'Brian was a crook who was doused in acid and gained stretching powers.",
+    "source_name": "Wikipedia: Plastic Man",
+    "source_url": "https://en.wikipedia.org/wiki/Plastic_Man"
+  },
+  {
+    "id": 198,
+    "claim": "In DC Comics, Oliver Queen, Green Arrow, is based in Metropolis.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Medium",
+    "explanation": "Green Arrow is based in Star City (originally Seattle).",
+    "source_name": "Wikipedia: Green Arrow",
+    "source_url": "https://en.wikipedia.org/wiki/Green_Arrow"
+  },
+  {
+    "id": 199,
+    "claim": "In DC Comics, Gorilla City is hidden in South America.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Hard",
+    "explanation": "Gorilla City is hidden in Africa.",
+    "source_name": "Wikipedia: Gorilla Grodd",
+    "source_url": "https://en.wikipedia.org/wiki/Gorilla_Grodd"
+  },
+  {
+    "id": 200,
+    "claim": "In DC Comics, Martian Manhunter's primary weakness is cold.",
+    "answer": "TRAP",
+    "category": "DC Universe",
+    "difficulty": "Easy",
+    "explanation": "Martian Manhunter's primary weakness is fire.",
+    "source_name": "Wikipedia: Martian Manhunter",
+    "source_url": "https://en.wikipedia.org/wiki/Martian_Manhunter"
+  }
+]

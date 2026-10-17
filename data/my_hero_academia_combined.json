@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "claim": "Katsuki Bakugo's Quirk is Explosion.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Bakugo sweats a nitroglycerin-like substance that he can ignite to cause explosions.",
+    "source_name": "My Hero Academia Wiki - Katsuki Bakugo",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Katsuki_Bakugo"
+  },
+  {
+    "id": 2,
+    "claim": "Tsuyu Asui's hero name is Ribbit.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Tsuyu Asui's hero name is Froppy, not Ribbit.",
+    "source_name": "My Hero Academia Wiki - Tsuyu Asui",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tsuyu_Asui"
+  },
+  {
+    "id": 3,
+    "claim": "Shoto Todoroki's Quirk is Half-Cold Half-Hot.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Todoroki can produce ice from his right side and flames from his left side.",
+    "source_name": "My Hero Academia Wiki - Shoto Todoroki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki"
+  },
+  {
+    "id": 4,
+    "claim": "Shoto Todoroki inherited his ice side from his father, Endeavor.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "His ice side comes from his mother, Rei Todoroki. His fire side comes from Endeavor.",
+    "source_name": "My Hero Academia Wiki - Shoto Todoroki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki"
+  },
+  {
+    "id": 5,
+    "claim": "Tenya Iida's Quirk is Engine.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Iida's Engine Quirk gives him engines in his calves, which lets him run at high speed.",
+    "source_name": "My Hero Academia Wiki - Tenya Iida",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tenya_Iida"
+  },
+  {
+    "id": 6,
+    "claim": "Tenya Iida's Quirk is named Jet.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Iida's Quirk is named Engine, not Jet.",
+    "source_name": "My Hero Academia Wiki - Tenya Iida",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tenya_Iida"
+  },
+  {
+    "id": 7,
+    "claim": "All Might's Quirk is One For All.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "One For All is the stockpiling Quirk that All Might inherited and later passed on to Izuku Midoriya.",
+    "source_name": "My Hero Academia Wiki - All Might",
+    "source_url": "https://myheroacademia.fandom.com/wiki/All_Might"
+  },
+  {
+    "id": 8,
+    "claim": "All Might's Quirk is All For One.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "All Might's Quirk is One For All. All For One is the Quirk of his enemy, All For One.",
+    "source_name": "My Hero Academia Wiki - All Might",
+    "source_url": "https://myheroacademia.fandom.com/wiki/All_Might"
+  },
+  {
+    "id": 9,
+    "claim": "Shota Aizawa's Quirk is Erasure.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Aizawa's Erasure Quirk lets him cancel another person's Quirk while he is looking at them.",
+    "source_name": "My Hero Academia Wiki - Shota Aizawa",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Shota_Aizawa"
+  },
+  {
+    "id": 10,
+    "claim": "Shota Aizawa's hero name is Present Mic.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Aizawa's hero name is Eraser Head. Present Mic is the hero name of Hizashi Yamada.",
+    "source_name": "My Hero Academia Wiki - Shota Aizawa",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Shota_Aizawa"
+  },
+  {
+    "id": 11,
+    "claim": "Present Mic's Quirk is Voice.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Hizashi Yamada, known as Present Mic, has the Voice Quirk, which lets him produce extremely powerful sound.",
+    "source_name": "My Hero Academia Wiki - Hizashi Yamada",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Hizashi_Yamada"
+  },
+  {
+    "id": 12,
+    "claim": "Eijiro Kirishima's Quirk is Hardening.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Kirishima's Hardening Quirk lets him harden his body, which gives him strong offense and defense.",
+    "source_name": "My Hero Academia Wiki - Eijiro Kirishima",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Eijiro_Kirishima"
+  },
+  {
+    "id": 13,
+    "claim": "Minoru Mineta's Quirk is Pop Off.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Mineta's Pop Off Quirk lets him pull sticky balls from his scalp and throw them.",
+    "source_name": "My Hero Academia Wiki - Minoru Mineta",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Minoru_Mineta"
+  },
+  {
+    "id": 14,
+    "claim": "Katsuki Bakugo is the class representative of Class 1-A.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Tenya Iida is Class 1-A's class representative, with Momo Yaoyorozu as vice representative.",
+    "source_name": "My Hero Academia Wiki - Tenya Iida",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tenya_Iida"
+  },
+  {
+    "id": 15,
+    "claim": "Izuku Midoriya's hero name is Dynamight.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Dynamight is Katsuki Bakugo's hero name. Midoriya's hero name is Deku.",
+    "source_name": "My Hero Academia Wiki - Izuku Midoriya",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya"
+  },
+  {
+    "id": 16,
+    "claim": "Izuku Midoriya inherits One For All as its ninth holder.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "All Might was the eighth holder of One For All, and he passes it to Midoriya, who becomes the ninth.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 17,
+    "claim": "Izuku Midoriya inherits One For All as its seventh holder.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Midoriya is the ninth holder of One For All. All Might was the eighth.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 18,
+    "claim": "The giant robot in the U.A. entrance exam is worth zero points.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "The 0-point robot is an obstacle that awards no points, so students are meant to avoid it.",
+    "source_name": "My Hero Academia Wiki - U.A. High School",
+    "source_url": "https://myheroacademia.fandom.com/wiki/U.A._High_School"
+  },
+  {
+    "id": 19,
+    "claim": "The U.A. entrance exam includes a robot worth five points.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "The exam robots are worth one, two or three points, plus the 0-point robot. No robot is worth five points.",
+    "source_name": "My Hero Academia Wiki - U.A. High School",
+    "source_url": "https://myheroacademia.fandom.com/wiki/U.A._High_School"
+  },
+  {
+    "id": 20,
+    "claim": "Ochaco Uraraka's Quirk, Zero Gravity, makes whatever she touches weightless.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Uraraka's fingertips can make objects float, and overuse makes her nauseous.",
+    "source_name": "My Hero Academia Wiki - Ochaco Uraraka",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Ochaco_Uraraka"
+  },
+  {
+    "id": 21,
+    "claim": "Ochaco Uraraka's Quirk makes whatever she touches heavier.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Uraraka's Zero Gravity removes the weight of what she touches. It does not add weight.",
+    "source_name": "My Hero Academia Wiki - Ochaco Uraraka",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Ochaco_Uraraka"
+  },
+  {
+    "id": 22,
+    "claim": "Shota Aizawa's threat to expel the last-place student in the Quirk Apprehension Test is a ruse.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Aizawa admits afterward that the threat was a rational deception meant to draw out the students' full potential.",
+    "source_name": "My Hero Academia Wiki - Quirk Apprehension Test",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Quirk_Apprehension_Test"
+  },
+  {
+    "id": 23,
+    "claim": "Momo Yaoyorozu places first overall in the Quirk Apprehension Test.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Yaoyorozu has the highest total score in the test, ahead of Shoto Todoroki in second place.",
+    "source_name": "My Hero Academia Wiki - Quirk Apprehension Test",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Quirk_Apprehension_Test"
+  },
+  {
+    "id": 24,
+    "claim": "Katsuki Bakugo places first overall in the Quirk Apprehension Test.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Momo Yaoyorozu places first. Bakugo places third.",
+    "source_name": "My Hero Academia Wiki - Quirk Apprehension Test",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Quirk_Apprehension_Test"
+  },
+  {
+    "id": 25,
+    "claim": "Class 1-A has twenty students.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Class 1-A has twenty students at the start of the series.",
+    "source_name": "My Hero Academia Wiki - Class 1-A",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Class_1-A"
+  },
+  {
+    "id": 26,
+    "claim": "Class 1-A has twenty-two students.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Class 1-A has twenty students, not twenty-two.",
+    "source_name": "My Hero Academia Wiki - Class 1-A",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Class_1-A"
+  },
+  {
+    "id": 27,
+    "claim": "Momo Yaoyorozu is the vice class representative of Class 1-A.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Yaoyorozu becomes vice representative when Tenya Iida is chosen as class representative.",
+    "source_name": "My Hero Academia Wiki - Momo Yaoyorozu",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Momo_Yaoyorozu"
+  },
+  {
+    "id": 28,
+    "claim": "Izuku Midoriya is the vice class representative of Class 1-A.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Momo Yaoyorozu is the vice representative. Midoriya is not.",
+    "source_name": "My Hero Academia Wiki - Momo Yaoyorozu",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Momo_Yaoyorozu"
+  },
+  {
+    "id": 29,
+    "claim": "Mina Ashido's Quirk is Acid.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Ashido can secrete acid from her body, and she controls its strength.",
+    "source_name": "My Hero Academia Wiki - Mina Ashido",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Mina_Ashido"
+  },
+  {
+    "id": 30,
+    "claim": "Hanta Sero's Quirk is Acid.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Sero's Quirk is Tape. Acid is Mina Ashido's Quirk.",
+    "source_name": "My Hero Academia Wiki - Hanta Sero",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Hanta_Sero"
+  },
+  {
+    "id": 31,
+    "claim": "Hanta Sero's Quirk is Tape.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Sero can shoot tape from his elbows, which he uses for movement and for restraining others.",
+    "source_name": "My Hero Academia Wiki - Hanta Sero",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Hanta_Sero"
+  },
+  {
+    "id": 32,
+    "claim": "Mezo Shoji's hero name is Tailman.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Shoji's hero name is Tentacole. Tailman is Mashirao Ojiro's hero name.",
+    "source_name": "My Hero Academia Wiki - Mezo Shoji",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Mezo_Shoji"
+  },
+  {
+    "id": 33,
+    "claim": "Mezo Shoji's Quirk is Dupli-Arms.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Shoji's Dupli-Arms Quirk lets him grow extra limbs and organs from his tentacle-like arms.",
+    "source_name": "My Hero Academia Wiki - Mezo Shoji",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Mezo_Shoji"
+  },
+  {
+    "id": 34,
+    "claim": "Toru Hagakure's Quirk is Anivoice.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Hagakure's Quirk is Invisibility. Anivoice is Koji Koda's Quirk.",
+    "source_name": "My Hero Academia Wiki - Toru Hagakure",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Toru_Hagakure"
+  },
+  {
+    "id": 35,
+    "claim": "Koji Koda's Quirk is Sugar Rush.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Koda's Quirk is Anivoice. Sugar Rush is Rikido Sato's Quirk.",
+    "source_name": "My Hero Academia Wiki - Koji Koda",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Koji_Koda"
+  },
+  {
+    "id": 36,
+    "claim": "If Yuga Aoyama fires his Navel Laser for too long, he gets a stomachache.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Aoyama's Navel Laser puts strain on his stomach, and firing it for too long gives him a stomachache.",
+    "source_name": "My Hero Academia Wiki - Yuga Aoyama",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Yuga_Aoyama"
+  },
+  {
+    "id": 37,
+    "claim": "Yuga Aoyama can fire his Navel Laser indefinitely without side effects.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Aoyama's Navel Laser has a limit, and overuse gives him a stomachache.",
+    "source_name": "My Hero Academia Wiki - Yuga Aoyama",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Yuga_Aoyama"
+  },
+  {
+    "id": 38,
+    "claim": "Rikido Sato must eat sugar to activate his Quirk.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Sato's Sugar Rush Quirk gets its power from sugar he eats, which boosts his strength for a limited time.",
+    "source_name": "My Hero Academia Wiki - Rikido Sato",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Rikido_Sato"
+  },
+  {
+    "id": 39,
+    "claim": "Rikido Sato must eat salt to activate his Quirk.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Sato's Sugar Rush Quirk is powered by sugar, not salt.",
+    "source_name": "My Hero Academia Wiki - Rikido Sato",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Rikido_Sato"
+  },
+  {
+    "id": 40,
+    "claim": "Koji Koda's Quirk, Anivoice, lets him communicate with animals.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Anivoice lets Koda talk with animals and have them follow his commands.",
+    "source_name": "My Hero Academia Wiki - Koji Koda",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Koji_Koda"
+  },
+  {
+    "id": 41,
+    "claim": "Koji Koda's Quirk lets him control plants.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Koda's Anivoice is about communicating with animals, not controlling plants.",
+    "source_name": "My Hero Academia Wiki - Koji Koda",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Koji_Koda"
+  },
+  {
+    "id": 42,
+    "claim": "Hizashi Yamada, Present Mic, teaches English at U.A. High School.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Present Mic is the English teacher at U.A. High School.",
+    "source_name": "My Hero Academia Wiki - Hizashi Yamada",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Hizashi_Yamada"
+  },
+  {
+    "id": 43,
+    "claim": "Hizashi Yamada, Present Mic, teaches mathematics at U.A. High School.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Present Mic teaches English, not mathematics.",
+    "source_name": "My Hero Academia Wiki - Hizashi Yamada",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Hizashi_Yamada"
+  },
+  {
+    "id": 44,
+    "claim": "Aizawa's Erasure Quirk requires him to see his target.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Erasure only works while Aizawa is looking at the target, and it stops when he blinks.",
+    "source_name": "My Hero Academia Wiki - Shota Aizawa",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Shota_Aizawa"
+  },
+  {
+    "id": 45,
+    "claim": "Aizawa's Erasure Quirk works through physical touch.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Erasure works through eye contact with the target, not through touch.",
+    "source_name": "My Hero Academia Wiki - Shota Aizawa",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Shota_Aizawa"
+  },
+  {
+    "id": 46,
+    "claim": "Shoto Todoroki's scar was caused by boiling water thrown by his mother, Rei.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Rei Todoroki threw boiling water at Shoto, which left the scar around his left eye.",
+    "source_name": "My Hero Academia Wiki - Shoto Todoroki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki"
+  },
+  {
+    "id": 47,
+    "claim": "Shoto Todoroki's scar was caused by his father, Endeavor.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "The scar came from boiling water thrown by his mother, Rei, not from Endeavor.",
+    "source_name": "My Hero Academia Wiki - Shoto Todoroki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki"
+  },
+  {
+    "id": 48,
+    "claim": "Fumikage Tokoyami's Dark Shadow is stronger in darkness and weaker in light.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Dark Shadow grows stronger and more aggressive in dark places and weaker in bright light.",
+    "source_name": "My Hero Academia Wiki - Fumikage Tokoyami",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Fumikage_Tokoyami"
+  },
+  {
+    "id": 49,
+    "claim": "Fumikage Tokoyami's Dark Shadow grows stronger in bright light.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Dark Shadow is weaker in bright light and stronger in darkness.",
+    "source_name": "My Hero Academia Wiki - Fumikage Tokoyami",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Fumikage_Tokoyami"
+  },
+  {
+    "id": 50,
+    "claim": "Denki Kaminari's hero name is Pinky.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Kaminari's hero name is Chargebolt. Pinky is Mina Ashido's hero name.",
+    "source_name": "My Hero Academia Wiki - Denki Kaminari",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Denki_Kaminari"
+  },
+  {
+    "id": 51,
+    "claim": "Tomura Shigaraki leads the League of Villains.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Shigaraki is the leader of the League of Villains, the group he builds around his goals.",
+    "source_name": "My Hero Academia Wiki - Tomura Shigaraki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tomura_Shigaraki"
+  },
+  {
+    "id": 52,
+    "claim": "All For One is the Number One Hero.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "All For One is the main villain of the series and All Might's greatest enemy, not a hero.",
+    "source_name": "My Hero Academia Wiki - All For One",
+    "source_url": "https://myheroacademia.fandom.com/wiki/All_For_One"
+  },
+  {
+    "id": 53,
+    "claim": "Stain is known as the Hero Killer.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Stain is a villain nicknamed the Hero Killer because he attacks heroes he judges unworthy of the title.",
+    "source_name": "My Hero Academia Wiki - Stain",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Stain"
+  },
+  {
+    "id": 54,
+    "claim": "Dabi's Quirk is Ice.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Dabi uses blue flames, not ice, and his Quirk is Cremation.",
+    "source_name": "My Hero Academia Wiki - Dabi",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Dabi"
+  },
+  {
+    "id": 55,
+    "claim": "Himiko Toga's Quirk is Transform.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Toga's Transform Quirk lets her take on the appearance of a person after she ingests their blood.",
+    "source_name": "My Hero Academia Wiki - Himiko Toga",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Himiko_Toga"
+  },
+  {
+    "id": 56,
+    "claim": "Kurogiri's Quirk is Compress.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Kurogiri's Quirk is Warp Gate. Compress is Mr. Compress's Quirk.",
+    "source_name": "My Hero Academia Wiki - Kurogiri",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Kurogiri"
+  },
+  {
+    "id": 57,
+    "claim": "Re-Destro is the leader of the Meta Liberation Army.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Re-Destro leads the Meta Liberation Army, a group that campaigns for the freedom to use Quirks.",
+    "source_name": "My Hero Academia Wiki - Re-Destro",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Re-Destro"
+  },
+  {
+    "id": 58,
+    "claim": "Mr. Compress is a member of the Meta Liberation Army.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Mr. Compress is a member of the League of Villains, not of the Meta Liberation Army.",
+    "source_name": "My Hero Academia Wiki - Mr. Compress",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Mr._Compress"
+  },
+  {
+    "id": 59,
+    "claim": "Twice's Quirk is Double.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Twice's Double Quirk lets him create copies of himself and of other objects.",
+    "source_name": "My Hero Academia Wiki - Twice",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Twice"
+  },
+  {
+    "id": 60,
+    "claim": "Spinner's Quirk is Warp Gate.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Spinner's Quirk is Gecko. Warp Gate belongs to Kurogiri.",
+    "source_name": "My Hero Academia Wiki - Spinner",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Spinner"
+  },
+  {
+    "id": 61,
+    "claim": "Shigaraki's Quirk, Decay, disintegrates whatever he touches with all five fingers.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Decay breaks down what Shigaraki grips with all five fingers, and the effect spreads from the point of contact.",
+    "source_name": "My Hero Academia Wiki - Tomura Shigaraki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tomura_Shigaraki"
+  },
+  {
+    "id": 62,
+    "claim": "Tomura Shigaraki's Quirk is Overhaul.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Shigaraki's Quirk is Decay. Overhaul is the Quirk of Kai Chisaki.",
+    "source_name": "My Hero Academia Wiki - Tomura Shigaraki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tomura_Shigaraki"
+  },
+  {
+    "id": 63,
+    "claim": "Kurogiri is revealed to be Oboro Shirakumo, a former friend of Shota Aizawa.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Kurogiri is revealed to be Oboro Shirakumo, who was Aizawa's friend before his supposed death.",
+    "source_name": "My Hero Academia Wiki - Kurogiri",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Kurogiri"
+  },
+  {
+    "id": 64,
+    "claim": "Kurogiri is revealed to be a former classmate of Endeavor.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Kurogiri is revealed to be Oboro Shirakumo, a former friend of Shota Aizawa, not a classmate of Endeavor.",
+    "source_name": "My Hero Academia Wiki - Kurogiri",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Kurogiri"
+  },
+  {
+    "id": 65,
+    "claim": "Stain's Quirk is Bloodcurdle.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Stain's Bloodcurdle Quirk paralyzes a person after he ingests their blood.",
+    "source_name": "My Hero Academia Wiki - Stain",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Stain"
+  },
+  {
+    "id": 66,
+    "claim": "Stain's Quirk is Erasure.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Stain's Quirk is Bloodcurdle. Erasure is Shota Aizawa's Quirk.",
+    "source_name": "My Hero Academia Wiki - Stain",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Stain"
+  },
+  {
+    "id": 67,
+    "claim": "Overhaul's Quirk lets him disassemble and reassemble what he touches.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Overhaul, Kai Chisaki's Quirk, breaks matter down and puts it back together in a new form.",
+    "source_name": "My Hero Academia Wiki - Kai Chisaki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Kai_Chisaki"
+  },
+  {
+    "id": 68,
+    "claim": "Kai Chisaki's Quirk is Rewind.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Chisaki's Quirk is Overhaul. Rewind is Eri's Quirk.",
+    "source_name": "My Hero Academia Wiki - Kai Chisaki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Kai_Chisaki"
+  },
+  {
+    "id": 69,
+    "claim": "Eri's Quirk is Rewind.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Eri's Rewind Quirk lets her return a person's body to an earlier state.",
+    "source_name": "My Hero Academia Wiki - Eri",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Eri"
+  },
+  {
+    "id": 70,
+    "claim": "Eri's Quirk is Overhaul.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Eri's Quirk is Rewind. Overhaul is Kai Chisaki's Quirk.",
+    "source_name": "My Hero Academia Wiki - Eri",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Eri"
+  },
+  {
+    "id": 71,
+    "claim": "Gentle Criminal's Quirk is Elasticity.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Gentle Criminal uses Elasticity to give objects bounce and stretch.",
+    "source_name": "My Hero Academia Wiki - Gentle Criminal",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Gentle_Criminal"
+  },
+  {
+    "id": 72,
+    "claim": "Gentle Criminal's Quirk is Warp Gate.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Gentle Criminal's Quirk is Elasticity. Warp Gate belongs to Kurogiri.",
+    "source_name": "My Hero Academia Wiki - Gentle Criminal",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Gentle_Criminal"
+  },
+  {
+    "id": 73,
+    "claim": "La Brava's Quirk is Love.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "La Brava's Love Quirk strengthens the Quirk of someone she loves.",
+    "source_name": "My Hero Academia Wiki - La Brava",
+    "source_url": "https://myheroacademia.fandom.com/wiki/La_Brava"
+  },
+  {
+    "id": 74,
+    "claim": "La Brava's Quirk is Hardening.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "La Brava's Quirk is Love. Hardening is Eijiro Kirishima's Quirk.",
+    "source_name": "My Hero Academia Wiki - La Brava",
+    "source_url": "https://myheroacademia.fandom.com/wiki/La_Brava"
+  },
+  {
+    "id": 75,
+    "claim": "Re-Destro's Quirk is Stress.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Re-Destro's Stress Quirk gives him more power as his stress level rises.",
+    "source_name": "My Hero Academia Wiki - Re-Destro",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Re-Destro"
+  },
+  {
+    "id": 76,
+    "claim": "Re-Destro's Quirk is Compress.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Re-Destro's Quirk is Stress. Compress is Mr. Compress's Quirk.",
+    "source_name": "My Hero Academia Wiki - Re-Destro",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Re-Destro"
+  },
+  {
+    "id": 77,
+    "claim": "Muscular's Quirk is Muscle Augmentation.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Muscular's Muscle Augmentation Quirk lets him grow and strengthen his muscles.",
+    "source_name": "My Hero Academia Wiki - Muscular",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Muscular"
+  },
+  {
+    "id": 78,
+    "claim": "Muscular's Quirk is Hardening.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Muscular's Quirk is Muscle Augmentation. Hardening is Kirishima's Quirk.",
+    "source_name": "My Hero Academia Wiki - Muscular",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Muscular"
+  },
+  {
+    "id": 79,
+    "claim": "Lady Nagant's Quirk is Rifle.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Lady Nagant's Rifle Quirk lets her turn her arm into a firearm and fire projectiles.",
+    "source_name": "My Hero Academia Wiki - Lady Nagant",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Lady_Nagant"
+  },
+  {
+    "id": 80,
+    "claim": "Lady Nagant's Quirk is Explosion.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Lady Nagant's Quirk is Rifle. Explosion is Katsuki Bakugo's Quirk.",
+    "source_name": "My Hero Academia Wiki - Lady Nagant",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Lady_Nagant"
+  },
+  {
+    "id": 81,
+    "claim": "Kyudai Garaki is the scientist who developed the Nomu.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Kyudai Garaki, also called Doctor, is the scientist behind the Nomu program, and he works with All For One.",
+    "source_name": "My Hero Academia Wiki - Kyudai Garaki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Kyudai_Garaki"
+  },
+  {
+    "id": 82,
+    "claim": "Kyudai Garaki is a Pro Hero.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Garaki is a villain scientist allied with All For One, not a Pro Hero.",
+    "source_name": "My Hero Academia Wiki - Kyudai Garaki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Kyudai_Garaki"
+  },
+  {
+    "id": 83,
+    "claim": "The Paranormal Liberation Front was formed by the merger of the League of Villains and the Meta Liberation Army.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "The Paranormal Liberation Front comes from the League of Villains absorbing the Meta Liberation Army.",
+    "source_name": "My Hero Academia Wiki - Paranormal Liberation Front",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Paranormal_Liberation_Front"
+  },
+  {
+    "id": 84,
+    "claim": "The Paranormal Liberation Front was formed by the merger of the League of Villains and the Shie Hassaikai.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "The Paranormal Liberation Front was formed from the League of Villains and the Meta Liberation Army, not the Shie Hassaikai.",
+    "source_name": "My Hero Academia Wiki - Paranormal Liberation Front",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Paranormal_Liberation_Front"
+  },
+  {
+    "id": 85,
+    "claim": "Dabi is revealed to be Toya Todoroki, the eldest son of Endeavor.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Dabi is revealed to be Toya Todoroki, Endeavor's eldest son and Shoto's older brother.",
+    "source_name": "My Hero Academia Wiki - Dabi",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Dabi"
+  },
+  {
+    "id": 86,
+    "claim": "The first user of One For All was All For One's younger brother.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Yoichi Shigaraki, All For One's younger brother, was the first holder of One For All.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 87,
+    "claim": "All For One is the younger brother of the first user of One For All.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "The relationship is reversed: the first user of One For All was All For One's younger brother.",
+    "source_name": "My Hero Academia Wiki - All For One",
+    "source_url": "https://myheroacademia.fandom.com/wiki/All_For_One"
+  },
+  {
+    "id": 88,
+    "claim": "Hawks infiltrated the League of Villains on the orders of the Hero Public Safety Commission.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Hawks worked as an agent for the Hero Public Safety Commission and infiltrated the villains as a double agent.",
+    "source_name": "My Hero Academia Wiki - Hawks",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Hawks"
+  },
+  {
+    "id": 89,
+    "claim": "Hawks is a member of the Meta Liberation Army.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Hawks is a Pro Hero who works with the Hero Public Safety Commission, not a member of the Meta Liberation Army.",
+    "source_name": "My Hero Academia Wiki - Hawks",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Hawks"
+  },
+  {
+    "id": 90,
+    "claim": "Tomura Shigaraki's birth name is Tenko Shimura.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Shigaraki was born Tenko Shimura and is the grandson of Nana Shimura.",
+    "source_name": "My Hero Academia Wiki - Tomura Shigaraki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tomura_Shigaraki"
+  },
+  {
+    "id": 91,
+    "claim": "Tomura Shigaraki is the biological son of Nana Shimura.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Shigaraki is Nana Shimura's grandson, not her son.",
+    "source_name": "My Hero Academia Wiki - Tomura Shigaraki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tomura_Shigaraki"
+  },
+  {
+    "id": 92,
+    "claim": "Nana Shimura was a holder of One For All.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Nana Shimura was the seventh holder of One For All, before All Might.",
+    "source_name": "My Hero Academia Wiki - Nana Shimura",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Nana_Shimura"
+  },
+  {
+    "id": 93,
+    "claim": "Stain attacked the hero Ingenium, Tensei Iida, and left him paralyzed.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Stain attacked Ingenium, which left him with a spinal injury and ended his hero career.",
+    "source_name": "My Hero Academia Wiki - Stain",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Stain"
+  },
+  {
+    "id": 94,
+    "claim": "Ingenium, the hero attacked by Stain, is Tenya Iida's father.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Ingenium is Tensei Iida, Tenya's older brother, not his father.",
+    "source_name": "My Hero Academia Wiki - Tensei Iida",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tensei_Iida"
+  },
+  {
+    "id": 95,
+    "claim": "Twice's real name is Jin Bubaigawara.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Jin Bubaigawara is the real name of Twice, a member of the League of Villains.",
+    "source_name": "My Hero Academia Wiki - Twice",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Twice"
+  },
+  {
+    "id": 96,
+    "claim": "Twice's real name is Shuichi Iguchi.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Shuichi Iguchi is Spinner's real name. Twice's is Jin Bubaigawara.",
+    "source_name": "My Hero Academia Wiki - Twice",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Twice"
+  },
+  {
+    "id": 97,
+    "claim": "Spinner's real name is Shuichi Iguchi.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Shuichi Iguchi is Spinner's real name, and he is a member of the League of Villains.",
+    "source_name": "My Hero Academia Wiki - Spinner",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Spinner"
+  },
+  {
+    "id": 98,
+    "claim": "Spinner's real name is Atsuhiro Sako.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Atsuhiro Sako is Mr. Compress's real name. Spinner's is Shuichi Iguchi.",
+    "source_name": "My Hero Academia Wiki - Spinner",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Spinner"
+  },
+  {
+    "id": 99,
+    "claim": "Himiko Toga's Transform works by touching her target.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Toga's Transform requires her to ingest the target's blood, not just touch them.",
+    "source_name": "My Hero Academia Wiki - Himiko Toga",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Himiko_Toga"
+  },
+  {
+    "id": 100,
+    "claim": "Gentle Criminal and La Brava are members of the League of Villains.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Gentle Criminal and La Brava are independent villains and are not members of the League of Villains.",
+    "source_name": "My Hero Academia Wiki - Gentle Criminal",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Gentle_Criminal"
+  },
+  {
+    "id": 101,
+    "claim": "Endeavor's Quirk is Hellflame.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Endeavor's Quirk is Hellflame, which lets him generate and control intense flames.",
+    "source_name": "My Hero Academia Wiki - Endeavor",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Endeavor"
+  },
+  {
+    "id": 102,
+    "claim": "Endeavor's Quirk is Cremation.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Endeavor's Quirk is Hellflame. Cremation is Dabi's Quirk.",
+    "source_name": "My Hero Academia Wiki - Endeavor",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Endeavor"
+  },
+  {
+    "id": 103,
+    "claim": "Hawks' Quirk is Fierce Wings.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Fierce Wings gives Hawks red wings made of feathers, which he uses for flight and attacks.",
+    "source_name": "My Hero Academia Wiki - Hawks",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Hawks"
+  },
+  {
+    "id": 104,
+    "claim": "Hawks' Quirk is Dark Shadow.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Hawks' Quirk is Fierce Wings. Dark Shadow is Fumikage Tokoyami's Quirk.",
+    "source_name": "My Hero Academia Wiki - Hawks",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Hawks"
+  },
+  {
+    "id": 105,
+    "claim": "Best Jeanist's Quirk is Fiber Master.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Fiber Master lets Best Jeanist control fibers, such as those in clothing.",
+    "source_name": "My Hero Academia Wiki - Best Jeanist",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Best_Jeanist"
+  },
+  {
+    "id": 106,
+    "claim": "Best Jeanist's Quirk is Stress.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Best Jeanist's Quirk is Fiber Master. Stress is Re-Destro's Quirk.",
+    "source_name": "My Hero Academia Wiki - Best Jeanist",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Best_Jeanist"
+  },
+  {
+    "id": 107,
+    "claim": "Mirko's Quirk is Rabbit.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Mirko's Rabbit Quirk gives her rabbit-like traits, including powerful legs.",
+    "source_name": "My Hero Academia Wiki - Mirko",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Mirko"
+  },
+  {
+    "id": 108,
+    "claim": "Mirko's Quirk is Frog.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Mirko's Quirk is Rabbit. Frog is Tsuyu Asui's Quirk.",
+    "source_name": "My Hero Academia Wiki - Mirko",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Mirko"
+  },
+  {
+    "id": 109,
+    "claim": "One For All is a Quirk that can be passed from one person to another.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "One For All is a stockpiling Quirk that holders hand down to a chosen successor.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 110,
+    "claim": "One For All lets its holder steal Quirks from other people.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Stealing Quirks is the power of All For One. One For All is a stockpiling Quirk that is passed down.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 111,
+    "claim": "All For One can steal Quirks and give them to other people.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "All For One's Quirk lets him take Quirks from others and transfer them to other people.",
+    "source_name": "My Hero Academia Wiki - All For One",
+    "source_url": "https://myheroacademia.fandom.com/wiki/All_For_One"
+  },
+  {
+    "id": 112,
+    "claim": "All For One can only give Quirks to others and cannot steal them.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "All For One can both steal Quirks from others and give them out.",
+    "source_name": "My Hero Academia Wiki - All For One",
+    "source_url": "https://myheroacademia.fandom.com/wiki/All_For_One"
+  },
+  {
+    "id": 113,
+    "claim": "Full Cowl spreads One For All's power throughout Izuku Midoriya's body.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Full Cowl lets Midoriya use One For All's power across his whole body at a level he can control.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 114,
+    "claim": "Full Cowl concentrates One For All's power into a single limb.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Full Cowl distributes the power across the whole body. Concentrating it in one limb is the approach Midoriya starts with.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 115,
+    "claim": "Izuku Midoriya badly injures himself when he first uses One For All at full power.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "His body cannot yet handle the power, so his first full-power uses in the entrance exam break his limbs.",
+    "source_name": "My Hero Academia Wiki - Izuku Midoriya",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya"
+  },
+  {
+    "id": 116,
+    "claim": "Izuku Midoriya can use One For All at full power safely from the start.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Midoriya's body is not ready for it at first, and full-power use injures him until he learns to control it.",
+    "source_name": "My Hero Academia Wiki - Izuku Midoriya",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya"
+  },
+  {
+    "id": 117,
+    "claim": "One For All is transferred by the successor ingesting the holder's DNA.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Midoriya inherits One For All by eating All Might's hair, which carries his DNA.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 118,
+    "claim": "One For All is transferred by a handshake.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "The transfer works by the successor ingesting the holder's DNA, as with All Might's hair. A handshake does not transfer it.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 119,
+    "claim": "Blackwhip appears as black tendrils from Izuku Midoriya's body.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Blackwhip is one of the Quirks inside One For All, and Midoriya uses it as black tendrils that restrain and strike.",
+    "source_name": "My Hero Academia Wiki - Izuku Midoriya",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya"
+  },
+  {
+    "id": 120,
+    "claim": "Blackwhip appears as fire released from Izuku Midoriya's body.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Blackwhip appears as black tendrils, not fire.",
+    "source_name": "My Hero Academia Wiki - Izuku Midoriya",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya"
+  },
+  {
+    "id": 121,
+    "claim": "Danger Sense warns Izuku Midoriya of nearby threats.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Danger Sense is a Quirk inside One For All that alerts Midoriya to danger nearby.",
+    "source_name": "My Hero Academia Wiki - Izuku Midoriya",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya"
+  },
+  {
+    "id": 122,
+    "claim": "Danger Sense lets Izuku Midoriya turn invisible.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Danger Sense warns Midoriya of threats and does not make him invisible.",
+    "source_name": "My Hero Academia Wiki - Izuku Midoriya",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya"
+  },
+  {
+    "id": 123,
+    "claim": "Float is one of the Quirks Izuku Midoriya can use through One For All.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Float lets Midoriya levitate, and it is one of the past holders' Quirks inside One For All.",
+    "source_name": "My Hero Academia Wiki - Izuku Midoriya",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya"
+  },
+  {
+    "id": 124,
+    "claim": "Smokescreen lets Izuku Midoriya produce ice.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Smokescreen produces smoke. It does not produce ice.",
+    "source_name": "My Hero Academia Wiki - Izuku Midoriya",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya"
+  },
+  {
+    "id": 125,
+    "claim": "Momo Yaoyorozu's Creation produces objects from lipids in her own body.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Creation turns the fat in Yaoyorozu's body into objects, so she has to eat to keep using it.",
+    "source_name": "My Hero Academia Wiki - Momo Yaoyorozu",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Momo_Yaoyorozu"
+  },
+  {
+    "id": 126,
+    "claim": "Momo Yaoyorozu's Creation makes objects from materials taken from her surroundings.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Creation draws on lipids in Yaoyorozu's own body, not on her surroundings.",
+    "source_name": "My Hero Academia Wiki - Momo Yaoyorozu",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Momo_Yaoyorozu"
+  },
+  {
+    "id": 127,
+    "claim": "Katsuki Bakugo's explosions grow stronger the more he sweats.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Bakugo's explosions come from his sweat, so more sweat produces stronger blasts.",
+    "source_name": "My Hero Academia Wiki - Katsuki Bakugo",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Katsuki_Bakugo"
+  },
+  {
+    "id": 128,
+    "claim": "Katsuki Bakugo's explosions grow stronger when he is completely dry.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Bakugo's explosions are fueled by his sweat, so they are stronger when he sweats more, not when he is dry.",
+    "source_name": "My Hero Academia Wiki - Katsuki Bakugo",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Katsuki_Bakugo"
+  },
+  {
+    "id": 129,
+    "claim": "Tenya Iida's Recipro Burst gives him a temporary speed boost.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Recipro Burst gives Iida a short burst of speed and leaves his engines stalled afterward.",
+    "source_name": "My Hero Academia Wiki - Tenya Iida",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tenya_Iida"
+  },
+  {
+    "id": 130,
+    "claim": "Tenya Iida's Recipro Burst gives him a permanent speed boost.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Recipro Burst is a temporary boost, and his engines stall once it ends.",
+    "source_name": "My Hero Academia Wiki - Tenya Iida",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tenya_Iida"
+  },
+  {
+    "id": 131,
+    "claim": "Ochaco Uraraka's Zero Gravity can make her nauseous if she exceeds her weight limit.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "If Uraraka floats more weight than she can handle, she suffers nausea.",
+    "source_name": "My Hero Academia Wiki - Ochaco Uraraka",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Ochaco_Uraraka"
+  },
+  {
+    "id": 132,
+    "claim": "Ochaco Uraraka's Zero Gravity affects any object regardless of weight with no side effects.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Zero Gravity has a weight limit, and going over it makes Uraraka nauseous.",
+    "source_name": "My Hero Academia Wiki - Ochaco Uraraka",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Ochaco_Uraraka"
+  },
+  {
+    "id": 133,
+    "claim": "Overusing his ice side lowers Shoto Todoroki's body temperature.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Heavy use of his ice side chills Todoroki's body, and he warms up with his fire side.",
+    "source_name": "My Hero Academia Wiki - Shoto Todoroki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki"
+  },
+  {
+    "id": 134,
+    "claim": "Overusing his ice side overheats Shoto Todoroki.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Overusing his ice side lowers Todoroki's body temperature. Overheating is the risk of his fire side.",
+    "source_name": "My Hero Academia Wiki - Shoto Todoroki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki"
+  },
+  {
+    "id": 135,
+    "claim": "Tomura Shigaraki's Decay awakened when his family died.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Shigaraki's Quirk awakened in childhood, and his family was killed by Decay.",
+    "source_name": "My Hero Academia Wiki - Tomura Shigaraki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tomura_Shigaraki"
+  },
+  {
+    "id": 136,
+    "claim": "Izuku Midoriya can use the Quirks of previous One For All holders.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Past holders' Quirks are inside One For All, and Midoriya awakens them over the course of the story.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 137,
+    "claim": "The Quirks of previous One For All holders vanish when One For All is passed on.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "The past holders' Quirks remain inside One For All and become available to later holders.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 138,
+    "claim": "Fa Jin stores kinetic energy that can be released in a powerful strike.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Fa Jin, one of the Quirks inside One For All, builds up kinetic energy and releases it in an attack.",
+    "source_name": "My Hero Academia Wiki - Izuku Midoriya",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya"
+  },
+  {
+    "id": 139,
+    "claim": "Fa Jin lets Izuku Midoriya change his body shape.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Fa Jin stores and releases kinetic energy. It does not change his body shape.",
+    "source_name": "My Hero Academia Wiki - Izuku Midoriya",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya"
+  },
+  {
+    "id": 140,
+    "claim": "Endeavor's Hellflame burns hotter as his body temperature rises.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Hellflame's heat increases with Endeavor's body temperature, and that limits how long he can fight.",
+    "source_name": "My Hero Academia Wiki - Endeavor",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Endeavor"
+  },
+  {
+    "id": 141,
+    "claim": "Endeavor's Hellflame burns hottest when his body is cold.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Hellflame gets hotter as Endeavor's body temperature rises, not when he is cold.",
+    "source_name": "My Hero Academia Wiki - Endeavor",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Endeavor"
+  },
+  {
+    "id": 142,
+    "claim": "Hawks can control his feathers after they detach from his wings.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Fierce Wings lets Hawks command detached feathers, which he uses to attack and for other purposes.",
+    "source_name": "My Hero Academia Wiki - Hawks",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Hawks"
+  },
+  {
+    "id": 143,
+    "claim": "Hawks can only use his feathers while they are attached to his wings.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Hawks can control his feathers after they detach.",
+    "source_name": "My Hero Academia Wiki - Hawks",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Hawks"
+  },
+  {
+    "id": 144,
+    "claim": "A child's Quirk is usually inherited from one or both parents.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "In the series, Quirks are typically passed down from parents, and a child's Quirk may combine parental traits.",
+    "source_name": "My Hero Academia Wiki - Quirk",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Quirk"
+  },
+  {
+    "id": 145,
+    "claim": "A Quirk's strength can never be improved through training.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Many characters strengthen their Quirks through training, as Class 1-A does at U.A.",
+    "source_name": "My Hero Academia Wiki - Quirk",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Quirk"
+  },
+  {
+    "id": 146,
+    "claim": "Izuku Midoriya can use Full Cowl at different percentage levels of One For All's power.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Midoriya raises the percentage of One For All he can use in Full Cowl as he trains.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 147,
+    "claim": "One For All is a stockpiling Quirk whose power grows as it is passed down.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Each holder adds to the power stockpiled in One For All before passing it on.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 148,
+    "claim": "Tomura Shigaraki's Decay works only on living organisms.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Decay breaks down inanimate matter such as buildings as well as living beings.",
+    "source_name": "My Hero Academia Wiki - Tomura Shigaraki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tomura_Shigaraki"
+  },
+  {
+    "id": 149,
+    "claim": "One For All was created by the Hero Public Safety Commission.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "One For All originated with Yoichi Shigaraki, the younger brother of All For One, not the Commission.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 150,
+    "claim": "Mirko's Rabbit Quirk allows her to fly.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Mirko's Rabbit Quirk gives her powerful legs for jumping and kicking, but it does not give her flight.",
+    "source_name": "My Hero Academia Wiki - Mirko",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Mirko"
+  },
+  {
+    "id": 151,
+    "claim": "Izuku Midoriya was born Quirkless before he inherited One For All from All Might.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Izuku begins the story without a Quirk and receives One For All from All Might.",
+    "source_name": "My Hero Academia Wiki - Izuku Midoriya",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya"
+  },
+  {
+    "id": 152,
+    "claim": "All Might is the ninth holder of One For All.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "All Might is the eighth holder of One For All. Izuku Midoriya is the ninth.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 153,
+    "claim": "Nana Shimura, the seventh holder of One For All, is Tomura Shigaraki's grandmother.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Nana Shimura passed One For All to All Might. She is the grandmother of Tenko Shimura, who becomes Tomura Shigaraki.",
+    "source_name": "My Hero Academia Wiki - Nana Shimura",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Nana_Shimura"
+  },
+  {
+    "id": 154,
+    "claim": "Nana Shimura is Tomura Shigaraki's maternal grandmother.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Nana is his paternal grandmother. She is the mother of his father, Kotaro Shimura.",
+    "source_name": "My Hero Academia Wiki - Tomura Shigaraki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tomura_Shigaraki"
+  },
+  {
+    "id": 155,
+    "claim": "Tomura Shigaraki's birth name is Tenko Shimura.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Shigaraki was born Tenko Shimura, and his Decay Quirk awakened in childhood.",
+    "source_name": "My Hero Academia Wiki - Tomura Shigaraki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tomura_Shigaraki"
+  },
+  {
+    "id": 156,
+    "claim": "Dabi is revealed to be Shoto Todoroki's younger brother.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Dabi is Toya Todoroki, Endeavor's eldest son, which makes him Shoto's older brother.",
+    "source_name": "My Hero Academia Wiki - Dabi",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Dabi"
+  },
+  {
+    "id": 157,
+    "claim": "Dabi's body cannot withstand the heat of his own Blueflame, which is why he is covered in burn scars.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Toya inherited powerful fire but his body could not endure its heat, so his own flames burn him.",
+    "source_name": "My Hero Academia Wiki - Dabi",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Dabi"
+  },
+  {
+    "id": 158,
+    "claim": "Shoto Todoroki inherits his ice from Endeavor and his fire from his mother, Rei.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "It is the reverse. Shoto's fire comes from Endeavor's Hellflame and his ice comes from Rei.",
+    "source_name": "My Hero Academia Wiki - Shoto Todoroki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki"
+  },
+  {
+    "id": 159,
+    "claim": "Shoto Todoroki uses ice on his right side and fire on his left side.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "His Half-Cold Half-Hot Quirk produces ice from the right half of his body and flames from the left.",
+    "source_name": "My Hero Academia Wiki - Shoto Todoroki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki"
+  },
+  {
+    "id": 160,
+    "claim": "Shoto Todoroki's scar around his left eye was inflicted by Endeavor.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "The scar was caused by his mother, Rei, who burned him with boiling water in a breakdown triggered by Endeavor's abuse.",
+    "source_name": "My Hero Academia Wiki - Shoto Todoroki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki"
+  },
+  {
+    "id": 161,
+    "claim": "Hawks's Quirk, Fierce Wings, lets him control his feathers individually.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Hawks's red wings are made of feathers he can detach and steer independently in flight and combat.",
+    "source_name": "My Hero Academia Wiki - Hawks",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Hawks"
+  },
+  {
+    "id": 162,
+    "claim": "Hawks is the Number One hero when the Paranormal Liberation War begins.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Endeavor became the Number One hero after All Might's retirement, and Hawks ranks below him.",
+    "source_name": "My Hero Academia Wiki - Hawks",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Hawks"
+  },
+  {
+    "id": 163,
+    "claim": "Kai Chisaki, known as Overhaul, can disassemble and reassemble matter with his Quirk.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Overhaul's Quirk lets him break objects and people apart and rebuild them in a different form.",
+    "source_name": "My Hero Academia Wiki - Kai Chisaki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Kai_Chisaki"
+  },
+  {
+    "id": 164,
+    "claim": "The Quirk-destroying bullets developed by Shie Hassaikai were made from Overhaul's own blood.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "They were made from the blood of Eri, whose Rewind Quirk was used to produce the Quirk-destroying drug.",
+    "source_name": "My Hero Academia Wiki - Eri",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Eri"
+  },
+  {
+    "id": 165,
+    "claim": "Eri's Quirk, Rewind, can return a person's body to an earlier state.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Rewind reverts a person to a prior condition, which is why Overhaul exploited her.",
+    "source_name": "My Hero Academia Wiki - Eri",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Eri"
+  },
+  {
+    "id": 166,
+    "claim": "Eri's Quirk is Healing rather than Rewind.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Eri's Quirk is Rewind, which reverts a body to an earlier state. It is not a healing Quirk.",
+    "source_name": "My Hero Academia Wiki - Eri",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Eri"
+  },
+  {
+    "id": 167,
+    "claim": "Kurogiri was originally a person named Oboro Shirakumo.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Kurogiri is revealed to be Oboro Shirakumo, a former U.A. student and friend of Shota Aizawa.",
+    "source_name": "My Hero Academia Wiki - Kurogiri",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Kurogiri"
+  },
+  {
+    "id": 168,
+    "claim": "Kurogiri was originally Shota Aizawa's brother.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Kurogiri was Oboro Shirakumo, a friend and classmate of Aizawa, not his brother.",
+    "source_name": "My Hero Academia Wiki - Kurogiri",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Kurogiri"
+  },
+  {
+    "id": 169,
+    "claim": "Himiko Toga's Quirk, Transform, requires her to ingest a person's blood.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Toga drinks blood to change into the person she took it from.",
+    "source_name": "My Hero Academia Wiki - Himiko Toga",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Himiko_Toga"
+  },
+  {
+    "id": 170,
+    "claim": "Twice's Quirk is called Replicate.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Twice's Quirk is called Double, and it lets him create copies of people and objects.",
+    "source_name": "My Hero Academia Wiki - Twice",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Twice"
+  },
+  {
+    "id": 171,
+    "claim": "Mr. Compress's Quirk stores objects inside glass cubes.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Mr. Compress compresses objects and people into small glass marbles, not cubes.",
+    "source_name": "My Hero Academia Wiki - Mr. Compress",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Mr._Compress"
+  },
+  {
+    "id": 172,
+    "claim": "Spinner's Quirk is Lizard.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Spinner's Quirk is Gecko, which gives him adhesion and mutant gecko-like traits.",
+    "source_name": "My Hero Academia Wiki - Spinner",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Spinner"
+  },
+  {
+    "id": 173,
+    "claim": "Star and Stripe is Cathleen Bate, the Number One hero of the United States.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Cathleen Bate is the American Number One hero who fights alongside the Japanese heroes against All For One.",
+    "source_name": "My Hero Academia Wiki - Star and Stripe",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Star_and_Stripe"
+  },
+  {
+    "id": 174,
+    "claim": "Star and Stripe is Japan's Number One hero.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Star and Stripe is the Number One hero of the United States, not Japan.",
+    "source_name": "My Hero Academia Wiki - Star and Stripe",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Star_and_Stripe"
+  },
+  {
+    "id": 175,
+    "claim": "Star and Stripe's Quirk is named New Order.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Cathleen Bate's Quirk is called New Order.",
+    "source_name": "My Hero Academia Wiki - Star and Stripe",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Star_and_Stripe"
+  },
+  {
+    "id": 176,
+    "claim": "Gran Torino's Quirk is Jet.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Sorahiko Torino uses a Jet Quirk to propel himself with high-speed bursts from his legs.",
+    "source_name": "My Hero Academia Wiki - Gran Torino",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Gran_Torino"
+  },
+  {
+    "id": 177,
+    "claim": "Gran Torino's Quirk is Warp.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Gran Torino's Quirk is Jet. Warp Gate is Kurogiri's Quirk.",
+    "source_name": "My Hero Academia Wiki - Gran Torino",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Gran_Torino"
+  },
+  {
+    "id": 178,
+    "claim": "Sir Nighteye's Quirk is Foresight.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Nighteye can see a glimpse of a person's future by making contact with them.",
+    "source_name": "My Hero Academia Wiki - Sir Nighteye",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Sir_Nighteye"
+  },
+  {
+    "id": 179,
+    "claim": "Sir Nighteye survives the fight against Overhaul and later retires.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Nighteye was fatally wounded in the fight against Overhaul and died from his injuries.",
+    "source_name": "My Hero Academia Wiki - Sir Nighteye",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Sir_Nighteye"
+  },
+  {
+    "id": 180,
+    "claim": "Stain's Quirk is Bloodcurdle.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Stain can paralyze a person after tasting their blood.",
+    "source_name": "My Hero Academia Wiki - Stain",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Stain"
+  },
+  {
+    "id": 181,
+    "claim": "Stain is never captured after the Hosu incident.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Stain was arrested by the heroes after the Hosu incident.",
+    "source_name": "My Hero Academia Wiki - Stain",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Stain"
+  },
+  {
+    "id": 182,
+    "claim": "Tensei Iida, Ingenium, is left unable to continue hero work after being injured by Stain.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Stain's attack left Ingenium with a serious spinal injury that forced him to stop active hero work.",
+    "source_name": "My Hero Academia Wiki - Tensei Iida",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Tensei_Iida"
+  },
+  {
+    "id": 183,
+    "claim": "All For One and Yoichi Shigaraki are brothers.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "All For One and Yoichi are brothers, and Yoichi is the first holder of One For All.",
+    "source_name": "My Hero Academia Wiki - All For One",
+    "source_url": "https://myheroacademia.fandom.com/wiki/All_For_One"
+  },
+  {
+    "id": 184,
+    "claim": "Yoichi Shigaraki is All For One's son.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Yoichi is All For One's brother, not his son.",
+    "source_name": "My Hero Academia Wiki - All For One",
+    "source_url": "https://myheroacademia.fandom.com/wiki/All_For_One"
+  },
+  {
+    "id": 185,
+    "claim": "Yoichi Shigaraki was the first holder of One For All.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "One For All originates with Yoichi Shigaraki and is passed down through his successors.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 186,
+    "claim": "All Might was the first holder of One For All.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "All Might is the eighth holder. The first holder was Yoichi Shigaraki.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 187,
+    "claim": "Endeavor and Rei's marriage was a Quirk marriage arranged to create a child with both fire and ice.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Endeavor married Rei specifically to produce a child inheriting both fire and ice, which led to Shoto.",
+    "source_name": "My Hero Academia Wiki - Enji Todoroki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Enji_Todoroki"
+  },
+  {
+    "id": 188,
+    "claim": "Endeavor and Rei had a marriage based on love.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Their marriage was a Quirk marriage arranged for Endeavor's goal of surpassing All Might.",
+    "source_name": "My Hero Academia Wiki - Enji Todoroki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Enji_Todoroki"
+  },
+  {
+    "id": 189,
+    "claim": "Fuyumi Todoroki is Shoto Todoroki's older sister.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "Fuyumi is one of Shoto's older siblings, along with Natsuo and Toya.",
+    "source_name": "My Hero Academia Wiki - Fuyumi Todoroki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Fuyumi_Todoroki"
+  },
+  {
+    "id": 190,
+    "claim": "Natsuo Todoroki is Shoto Todoroki's younger brother.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Natsuo is Shoto's older brother. Shoto is the youngest of the Todoroki siblings.",
+    "source_name": "My Hero Academia Wiki - Natsuo Todoroki",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Natsuo_Todoroki"
+  },
+  {
+    "id": 191,
+    "claim": "Dabi publicly reveals his identity as Toya Todoroki and exposes Endeavor's past during the Paranormal Liberation War.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Dabi announces his identity as Endeavor's son and exposes Endeavor's abusive past to the public.",
+    "source_name": "My Hero Academia Wiki - Dabi",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Dabi"
+  },
+  {
+    "id": 192,
+    "claim": "Izuku Midoriya dies during the final battle against Tomura Shigaraki.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Izuku survives the final battle and the story continues into the epilogue.",
+    "source_name": "VIZ Media - My Hero Academia",
+    "source_url": "https://www.viz.com/my-hero-academia"
+  },
+  {
+    "id": 193,
+    "claim": "At the end of the manga, Izuku Midoriya no longer possesses One For All.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "After the final conflict, One For All is gone and Izuku is Quirkless again, though he remains a hero.",
+    "source_name": "VIZ Media - My Hero Academia",
+    "source_url": "https://www.viz.com/my-hero-academia"
+  },
+  {
+    "id": 194,
+    "claim": "All Might regains One For All after the final battle.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "One For All is not restored to All Might. By the ending, the power is gone entirely.",
+    "source_name": "VIZ Media - My Hero Academia",
+    "source_url": "https://www.viz.com/my-hero-academia"
+  },
+  {
+    "id": 195,
+    "claim": "Izuku's first use of Full Cowl is at 5 percent of One For All's power.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "When Izuku first masters Full Cowl, he can sustain it at only 5 percent and increases the output with training.",
+    "source_name": "My Hero Academia Wiki - Izuku Midoriya",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya"
+  },
+  {
+    "id": 196,
+    "claim": "Izuku first masters Full Cowl at 45 percent power.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Medium",
+    "explanation": "He first masters Full Cowl at 5 percent. Higher percentages come later through training.",
+    "source_name": "My Hero Academia Wiki - Izuku Midoriya",
+    "source_url": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya"
+  },
+  {
+    "id": 197,
+    "claim": "Izuku can use Float, a Quirk that belonged to a previous holder of One For All.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Izuku gains access to the Float Quirk of a previous One For All holder after the vestiges awaken.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 198,
+    "claim": "Izuku's Blackwhip Quirk was obtained from All For One.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Hard",
+    "explanation": "Blackwhip comes from a previous holder of One For All, not All For One.",
+    "source_name": "My Hero Academia Wiki - One For All",
+    "source_url": "https://myheroacademia.fandom.com/wiki/One_For_All"
+  },
+  {
+    "id": 199,
+    "claim": "Mei Hatsume is a student in U.A.'s Support Course.",
+    "answer": "FACT",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Mei Hatsume studies in the Support Course and builds the equipment she calls her babies.",
+    "source_name": "VIZ Media - My Hero Academia",
+    "source_url": "https://www.viz.com/my-hero-academia"
+  },
+  {
+    "id": 200,
+    "claim": "Mei Hatsume is in U.A.'s Hero Course.",
+    "answer": "TRAP",
+    "category": "My Hero Academia",
+    "difficulty": "Easy",
+    "explanation": "Mei is in the Support Course, not the Hero Course.",
+    "source_name": "VIZ Media - My Hero Academia",
+    "source_url": "https://www.viz.com/my-hero-academia"
+  }
+]

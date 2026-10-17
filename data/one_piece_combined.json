@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "claim": "Monkey D. Luffy gained his rubber body by eating a Devil Fruit as a child.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Luffy accidentally ate the Gomu Gomu no Mi when he was young, which turned his body into rubber and cost him the ability to swim.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy"
+  },
+  {
+    "id": 2,
+    "claim": "Sanji was the first member to join Luffy's crew.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Roronoa Zoro was the first crewmate to join Luffy. Sanji joined later, after the Baratie events.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Straw_Hat_Pirates"
+  },
+  {
+    "id": 3,
+    "claim": "Roronoa Zoro's ambition is to become the world's greatest swordsman.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Zoro's lifelong dream is to surpass every other swordsman, a goal tied to a promise he made as a child.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Roronoa_Zoro"
+  },
+  {
+    "id": 4,
+    "claim": "Nami's dream is to find the legendary sea called the All Blue.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Finding the All Blue is Sanji's dream. Nami's dream is to draw a complete map of the world.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Nami"
+  },
+  {
+    "id": 5,
+    "claim": "Nami's dream is to draw a complete map of the entire world.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Nami serves as the Straw Hats' navigator and cartographer, and her stated ambition is to chart the whole world.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Nami"
+  },
+  {
+    "id": 6,
+    "claim": "Usopp's dream is to become a great doctor.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Usopp's dream is to become a brave warrior of the sea. Becoming a doctor is Chopper's dream.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Usopp"
+  },
+  {
+    "id": 7,
+    "claim": "Usopp's father is Yasopp, a member of the Red-Haired Pirates.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Yasopp is the sniper of Shanks' crew and is Usopp's father.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Yasopp"
+  },
+  {
+    "id": 8,
+    "claim": "Sanji's dream is to find the All Blue, a sea where fish from all four seas gather.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Sanji, the Straw Hats' cook, wants to find the All Blue, a legendary sea said to hold fish from every ocean.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Sanji"
+  },
+  {
+    "id": 9,
+    "claim": "Tony Tony Chopper was born a human and later became a reindeer after eating a Devil Fruit.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Chopper was born a reindeer. Eating the Hito Hito no Mi gave him human intelligence and the ability to take human-like forms.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Tony_Tony_Chopper"
+  },
+  {
+    "id": 10,
+    "claim": "Franky is the shipwright who built the Thousand Sunny.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Franky joined as the Straw Hats' shipwright and built the Thousand Sunny using Adam Wood.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Thousand_Sunny"
+  },
+  {
+    "id": 11,
+    "claim": "Brook is a skeleton who returned to life after eating the Yomi Yomi no Mi.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "The Yomi Yomi no Mi let Brook's soul return to his body after he died, and he was found as a living skeleton.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Brook"
+  },
+  {
+    "id": 12,
+    "claim": "Jinbe was the ninth member to join the Straw Hat Pirates.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Brook was the ninth member. Jinbe was the tenth. (Spoiler: Wano-era crew status.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Straw_Hat_Pirates"
+  },
+  {
+    "id": 13,
+    "claim": "Jinbe is a whale shark fish-man and a master of Fish-Man Karate.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Jinbe is a whale shark fish-man and Fish-Man Karate master who later became the Straw Hats' helmsman. (Spoiler: joins the crew.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Jinbe"
+  },
+  {
+    "id": 14,
+    "claim": "Luffy's grandfather, Monkey D. Garp, is a notorious pirate.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Garp is a famous Marine Vice Admiral, known as the Hero of the Marines.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Monkey_D._Garp"
+  },
+  {
+    "id": 15,
+    "claim": "Luffy's sworn brother Portgas D. Ace joined the Marines.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Ace became a pirate. He founded the Spade Pirates and later served as a division commander under Whitebeard.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Portgas_D._Ace"
+  },
+  {
+    "id": 16,
+    "claim": "Nico Robin comes from Ohara, an island of scholars that the World Government destroyed.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Robin is a survivor of Ohara, whose archaeologists were targeted for researching the forbidden Void Century.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Ohara"
+  },
+  {
+    "id": 17,
+    "claim": "Shanks gave the Gomu Gomu no Mi to Luffy as a gift.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Luffy ate the fruit without permission. It belonged to Shanks' crew, who had acquired it, and Shanks did not give it to him.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy"
+  },
+  {
+    "id": 18,
+    "claim": "Zoro made his promise to become the world's greatest swordsman with Kuina, a girl from his childhood dojo.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Zoro and Kuina were rivals who trained together at their dojo, and after Kuina's death Zoro carried their promise forward.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Kuina"
+  },
+  {
+    "id": 19,
+    "claim": "Nami was forced to work as a cartographer for the Arlong Pirates.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Nami drew maps for Arlong's crew to try to buy back her home village.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Nami"
+  },
+  {
+    "id": 20,
+    "claim": "Kaya, whom the Straw Hats met in Syrup Village, gave them the Thousand Sunny.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Kaya gave them the Going Merry. The Thousand Sunny was built later by Franky.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Kaya"
+  },
+  {
+    "id": 21,
+    "claim": "Nami's adoptive mother, Bellemere, was killed by Arlong.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Bellemere, a former Marine who raised Nami and Nojiko, was killed by Arlong, which shaped Nami's later life.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Bellemere"
+  },
+  {
+    "id": 22,
+    "claim": "Sanji's father, Vinsmoke Judge, is a Marine Admiral.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Judge is the head of the Vinsmoke family and leads the Germa Kingdom and Germa 66, not the Marines. (Spoiler: Whole Cake Island arc.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Vinsmoke_Judge"
+  },
+  {
+    "id": 23,
+    "claim": "Sanji is the third son of Vinsmoke Judge and was born into the Germa Kingdom.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Sanji is Judge's third son, with Ichiji and Niji before him. (Spoiler: Whole Cake Island arc.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Sanji"
+  },
+  {
+    "id": 24,
+    "claim": "Usopp's mother, Banchina, died of an illness when he was a child.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Banchina died of illness while Usopp was still a young child, and the loss shaped his childhood.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Banchina"
+  },
+  {
+    "id": 25,
+    "claim": "Chopper joined the Straw Hat Pirates during the Alabasta arc.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Chopper joined at the end of the Drum Island arc, before the Straw Hats reached Alabasta.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Tony_Tony_Chopper"
+  },
+  {
+    "id": 26,
+    "claim": "Chopper was taken in by Dr. Hiluluk after being driven away by his herd.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Hiluluk took in Chopper and taught him medicine. Dr. Kureha trained him after Hiluluk died.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Tony_Tony_Chopper"
+  },
+  {
+    "id": 27,
+    "claim": "Franky learned shipbuilding as a student of Tom, the master shipwright of Water 7.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Tom was a master shipwright, and Franky was one of his apprentices in Water 7.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Tom"
+  },
+  {
+    "id": 28,
+    "claim": "Franky was trained as a shipwright primarily by Iceburg.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Franky's mentor was Tom. Iceburg was a fellow apprentice of Tom's.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Franky"
+  },
+  {
+    "id": 29,
+    "claim": "Brook's former crew left the whale Laboon at Reverse Mountain, and Brook promised to return to him.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "The Rumbar Pirates left Laboon at the Twin Cape and promised to come back. Brook is the last survivor of that crew.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Laboon"
+  },
+  {
+    "id": 30,
+    "claim": "Jinbe officially became a Straw Hat before the two-year timeskip.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Jinbe is a late addition who joined well after the timeskip. (Spoiler: Wano-era events.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Jinbe"
+  },
+  {
+    "id": 31,
+    "claim": "Luffy's father is the former Pirate King, Gol D. Roger.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Luffy's father is Monkey D. Dragon, the leader of the Revolutionary Army.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Monkey_D._Dragon"
+  },
+  {
+    "id": 32,
+    "claim": "Princess Vivi of Alabasta infiltrated Baroque Works under the alias Miss Wednesday.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Vivi infiltrated Baroque Works to learn its plans and protect her kingdom, using the alias Miss Wednesday.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Nefertari_Vivi"
+  },
+  {
+    "id": 33,
+    "claim": "Red-Leg Zeff lost his leg in a duel with Dracule Mihawk.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Zeff lost his leg after he and the young Sanji were stranded on a rock, and he ate his own leg to survive while giving Sanji the remaining food.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Zeff"
+  },
+  {
+    "id": 34,
+    "claim": "Before founding the Baratie, Zeff was a Marine known as Red-Leg.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Zeff was a pirate, not a Marine, before he became a restaurant owner.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Zeff"
+  },
+  {
+    "id": 35,
+    "claim": "Nico Robin's mother, Olvia, was a Marine officer.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Olvia was an archaeologist from Ohara, not a Marine.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Nico_Olvia"
+  },
+  {
+    "id": 36,
+    "claim": "Zoro's sword Wado Ichimonji was a gift from Dracule Mihawk.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Wado Ichimonji originally belonged to Kuina, Zoro's childhood rival, and Zoro came to use it as his own.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Wado_Ichimonji"
+  },
+  {
+    "id": 37,
+    "claim": "In Baroque Works, Nico Robin used the alias Miss All Sunday.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Robin was the partner of Mr. 0 (Crocodile) in Baroque Works and went by Miss All Sunday.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Nico_Robin"
+  },
+  {
+    "id": 38,
+    "claim": "Zoro grew up in a dojo in Shimotsuki Village, located in the South Blue.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Zoro grew up in Shimotsuki Village, which is in the East Blue, not the South Blue.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Roronoa_Zoro"
+  },
+  {
+    "id": 39,
+    "claim": "Franky's real name is Cutty Flam.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Cutty Flam is Franky's birth name. He later adopted the name Franky.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Franky"
+  },
+  {
+    "id": 40,
+    "claim": "Nico Robin received her first bounty when she was twenty years old.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Robin received her first bounty at the age of eight, which was 79,000,000 berries.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Nico_Robin"
+  },
+  {
+    "id": 41,
+    "claim": "Brook spent roughly fifty years drifting in the fog of the Florian Triangle before meeting the Straw Hats.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "After his death, Brook's ship drifted for about fifty years in the fog before he met the Straw Hats at Thriller Bark.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Brook"
+  },
+  {
+    "id": 42,
+    "claim": "Sanji was born in the East Blue.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Sanji was born in the North Blue, where the Germa Kingdom is located. He later lived in the East Blue. (Spoiler: Whole Cake Island arc.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Sanji"
+  },
+  {
+    "id": 43,
+    "claim": "Jinbe was a member of the Sun Pirates, founded by the former slave Fisher Tiger.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Fisher Tiger was a former slave who freed other slaves and founded the Sun Pirates, which Jinbe joined. (Spoiler: Fish-Man Island arc.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Fisher_Tiger"
+  },
+  {
+    "id": 44,
+    "claim": "Wapol, the former king of Drum Kingdom, was a Warlord of the Sea.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Wapol was only the king of Drum Kingdom and never held the Warlord title.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Wapol"
+  },
+  {
+    "id": 45,
+    "claim": "Usopp's habit of telling lies began as a way to cheer up his sick mother.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "As a child, Usopp made up tall tales to lift his ill mother's spirits, and the habit stuck.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Usopp"
+  },
+  {
+    "id": 46,
+    "claim": "Monkey D. Garp turned down promotion to Admiral multiple times.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Garp refused promotion to Admiral and stayed at the rank of Vice Admiral.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Monkey_D._Garp"
+  },
+  {
+    "id": 47,
+    "claim": "Yasopp is the first mate of the Red-Haired Pirates.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Benn Beckman is the first mate of the Red-Haired Pirates. Yasopp is the sniper.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Yasopp"
+  },
+  {
+    "id": 48,
+    "claim": "After the Enies Lobby arc, Luffy's bounty was raised to 500,000,000 berries.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "After Enies Lobby, Luffy's bounty rose to 300,000,000 berries.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy"
+  },
+  {
+    "id": 49,
+    "claim": "Roronoa Zoro's bounty after the Wano Country arc is 1,111,000,000 berries.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Zoro's bounty rose to 1,111,000,000 berries after Wano. (Spoiler: Wano Country arc.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Roronoa_Zoro"
+  },
+  {
+    "id": 50,
+    "claim": "After the Wano Country arc, Sanji's bounty is higher than Zoro's.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Sanji's post-Wano bounty is 1,032,000,000 berries, which is lower than Zoro's 1,111,000,000. (Spoiler: Wano Country arc.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Sanji"
+  },
+  {
+    "id": 51,
+    "claim": "Sir Crocodile, a former Warlord of the Sea, ate the Suna Suna no Mi, which lets him turn into sand.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Crocodile's Suna Suna no Mi is a Logia-type Devil Fruit that gives him control over sand and the ability to dry things out.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Crocodile"
+  },
+  {
+    "id": 52,
+    "claim": "Marshall D. Teach, known as Blackbeard, has eaten two different Devil Fruits.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Teach ate the Yami Yami no Mi and later took the Gura Gura no Mi, an unprecedented feat. (Spoiler: Marineford arc.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Marshall_D._Teach"
+  },
+  {
+    "id": 53,
+    "claim": "Donquixote Doflamingo's Devil Fruit is the Mero Mero no Mi.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Doflamingo ate the Ito Ito no Mi, which lets him create and control strings. The Mero Mero no Mi belongs to Boa Hancock.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Donquixote_Doflamingo"
+  },
+  {
+    "id": 54,
+    "claim": "Marine officer Smoker ate the Mera Mera no Mi.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Smoker ate the Moku Moku no Mi, which lets him turn into smoke. The Mera Mera no Mi is a fire-based fruit associated with Ace and later Sabo.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Smoker"
+  },
+  {
+    "id": 55,
+    "claim": "Rob Lucci, a CP9 agent, has the Neko Neko no Mi, Model: Leopard.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Lucci's fruit is a Zoan-type Devil Fruit that lets him transform into a leopard and a hybrid form.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Rob_Lucci"
+  },
+  {
+    "id": 56,
+    "claim": "Dracule Mihawk is a Marine Admiral.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Mihawk was a Warlord of the Sea, which was a position associated with the World Government but not a Marine rank. He is not an Admiral.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Dracule_Mihawk"
+  },
+  {
+    "id": 57,
+    "claim": "Whitebeard's real name is Edward Newgate.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Edward Newgate, known as Whitebeard, led the Whitebeard Pirates and was once called the strongest man in the world.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Edward_Newgate"
+  },
+  {
+    "id": 58,
+    "claim": "Buggy the Clown's Devil Fruit makes his body as hard as steel.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Buggy ate the Bara Bara no Mi, which lets him split his body into pieces and makes him immune to cutting attacks.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Buggy"
+  },
+  {
+    "id": 59,
+    "claim": "Former Marine Admiral Aokiji (Kuzan) ate the Magu Magu no Mi.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Aokiji ate the Hie Hie no Mi, an ice-based Logia fruit. The Magu Magu no Mi belongs to Sakazuki (Akainu).",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Kuzan"
+  },
+  {
+    "id": 60,
+    "claim": "Shanks, the leader of the Red-Haired Pirates, is one of the Four Emperors.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Shanks holds the title of Yonko, one of the most powerful pirates of the New World.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Shanks"
+  },
+  {
+    "id": 61,
+    "claim": "The Cross Guild was founded by Crocodile, Dracule Mihawk and Donquixote Doflamingo.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "The Cross Guild's key figures are Crocodile, Mihawk and Buggy, not Doflamingo. Doflamingo was imprisoned in Impel Down after Dressrosa. (Spoiler: post-Wano events.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Cross_Guild"
+  },
+  {
+    "id": 62,
+    "claim": "Baroque Works agent Mr. 3, Galdino, has a Devil Fruit of the Logia type called the Doru Doru no Mi.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "The Doru Doru no Mi is a Paramecia-type Devil Fruit that lets Galdino create and shape wax. It is not a Logia.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Galdino"
+  },
+  {
+    "id": 63,
+    "claim": "Donquixote Doflamingo was born into the Celestial Dragons.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Doflamingo's family were Celestial Dragons living at Mary Geoise before his father renounced that status. (Spoiler: Dressrosa arc.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Donquixote_Doflamingo"
+  },
+  {
+    "id": 64,
+    "claim": "Donquixote Rosinante, also known as Corazon, was Doflamingo's older brother.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Rosinante was Doflamingo's younger brother. He later joined the Marines and infiltrated Doflamingo's crew. (Spoiler: Dressrosa arc.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Donquixote_Rosinante"
+  },
+  {
+    "id": 65,
+    "claim": "While undercover in Water 7, CP9 agent Kalifa worked as a bartender.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Kalifa posed as the secretary of Iceburg, the mayor of Water 7 and head of Galley-La Company. Blueno was the agent who posed as a bartender.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Kalifa"
+  },
+  {
+    "id": 66,
+    "claim": "CP0 answers to the Marine Fleet Admiral.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "CP0 is an intelligence agency under the World Government and serves the Five Elders directly. It is not part of the Marines' chain of command.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Cipher_Pol_Aigis_Zero"
+  },
+  {
+    "id": 67,
+    "claim": "Marshall D. Teach was a member of the Whitebeard Pirates before he betrayed the crew.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Teach served under Whitebeard for years before killing Thatch and leaving the crew. (Spoiler: Marineford backstory.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Marshall_D._Teach"
+  },
+  {
+    "id": 68,
+    "claim": "Blackbeard killed Thatch in order to steal the Gura Gura no Mi.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Teach killed Thatch to take the Yami Yami no Mi. He acquired the Gura Gura no Mi later, from Whitebeard's body. (Spoiler: Marineford arc.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Thatch"
+  },
+  {
+    "id": 69,
+    "claim": "Moby Dick is the name of Big Mom's flagship.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Moby Dick was the flagship of the Whitebeard Pirates, not Big Mom's ship.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Moby_Dick"
+  },
+  {
+    "id": 70,
+    "claim": "Shanks lost his right arm while saving Luffy from a Sea King.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Shanks lost his left arm saving young Luffy from a Sea King.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Shanks"
+  },
+  {
+    "id": 71,
+    "claim": "In the Marine rank structure, Rear Admiral ranks above Vice Admiral.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Vice Admiral ranks above Rear Admiral. The ladder runs from Fleet Admiral and Admiral down through Vice Admiral and Rear Admiral.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Marines"
+  },
+  {
+    "id": 72,
+    "claim": "Sengoku held the position of Fleet Admiral before Sakazuki (Akainu).",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Sengoku was Fleet Admiral during the Marineford war, and Sakazuki took the position afterward. (Spoiler: post-Marineford events.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Sengoku"
+  },
+  {
+    "id": 73,
+    "claim": "Aokiji (Kuzan) became Fleet Admiral after the Marineford war.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Sakazuki (Akainu) became Fleet Admiral. Kuzan left the Marines after losing the position to him. (Spoiler: post-Marineford events.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Kuzan"
+  },
+  {
+    "id": 74,
+    "claim": "The Seven Warlords of the Sea system was abolished after the Dressrosa arc.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "The World Government abolished the Warlord system in the aftermath of the Dressrosa events. (Spoiler: Dressrosa and Reverie aftermath.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Seven_Warlords_of_the_Sea"
+  },
+  {
+    "id": 75,
+    "claim": "Bartholomew Kuma, a former Warlord, was once a member of the Revolutionary Army.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Kuma had served in the Revolutionary Army before becoming a Warlord. (Spoiler: later Sabaody and Egghead-era lore.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Bartholomew_Kuma"
+  },
+  {
+    "id": 76,
+    "claim": "Gecko Moria's Kage Kage no Mi allows him to steal souls.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "The Kage Kage no Mi lets Moria steal people's shadows, not souls. Stolen shadows are placed into corpses to create zombies.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Gecko_Moria"
+  },
+  {
+    "id": 77,
+    "claim": "Sabo serves as the Revolutionary Army's Chief of Staff.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Sabo holds the position of Chief of Staff in the Revolutionary Army under Monkey D. Dragon. (Spoiler: Dressrosa arc and later.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Sabo"
+  },
+  {
+    "id": 78,
+    "claim": "Eustass Kid's Devil Fruit is the Jiki Jiki no Mi, which gives him magnetic powers.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Kid ate the Jiki Jiki no Mi, a Paramecia-type fruit that lets him control magnetism.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Eustass_Kid"
+  },
+  {
+    "id": 79,
+    "claim": "Trafalgar Law's Devil Fruit is the Ope Ope no Mi.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Law ate the Ope Ope no Mi, which lets him create a spherical Room and manipulate everything within it.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Trafalgar_D._Water_Law"
+  },
+  {
+    "id": 80,
+    "claim": "Scratchmen Apoo is the captain of the Hawk Pirates.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Apoo is the captain of the On Air Pirates, one of the Worst Generation crews.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Scratchmen_Apoo"
+  },
+  {
+    "id": 81,
+    "claim": "Charlotte Katakuri ate the Mochi Mochi no Mi.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Katakuri's Mochi Mochi no Mi is a special Paramecia fruit that lets him create and control mochi. (Spoiler: Whole Cake Island arc.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Charlotte_Katakuri"
+  },
+  {
+    "id": 82,
+    "claim": "Big Mom's Devil Fruit is the Gura Gura no Mi.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Charlotte Linlin ate the Soru Soru no Mi, which lets her manipulate souls. The Gura Gura no Mi was Whitebeard's.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Charlotte_Linlin"
+  },
+  {
+    "id": 83,
+    "claim": "Kaido ate the Uo Uo no Mi, Model: Seiryu.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Kaido's fruit is a mythical Zoan that lets him transform into an Azure Dragon. (Spoiler: Wano Country arc.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Kaido"
+  },
+  {
+    "id": 84,
+    "claim": "Blackbeard was already a Yonko at the time of the Marineford war.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Teach rose to the rank of Yonko after Marineford, once he had taken the Gura Gura no Mi and built his crew's power. (Spoiler: post-Marineford events.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Marshall_D._Teach"
+  },
+  {
+    "id": 85,
+    "claim": "Mary Geoise, home of the Celestial Dragons, sits on top of the Red Line.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Mary Geoise is the capital of the World Government and stands on the Red Line, the continent that encircles the world.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Mary_Geoise"
+  },
+  {
+    "id": 86,
+    "claim": "During the Impel Down arc, the Chief Warden of Impel Down was Magellan.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Magellan served as Impel Down's warden, with Hannyabal as his deputy, during the Impel Down events. (Spoiler: Impel Down arc.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Magellan"
+  },
+  {
+    "id": 87,
+    "claim": "Doflamingo's father, Donquixote Homing, gave up his status as a Celestial Dragon.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Homing renounced his status and took his family to live among commoners, which led to years of hardship for them. (Spoiler: Dressrosa arc.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Donquixote_Homing"
+  },
+  {
+    "id": 88,
+    "claim": "CP9 agent Kaku has the Ushi Ushi no Mi, Model: Giraffe.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Kaku's Zoan fruit lets him turn into a giraffe, and he used it alongside his Rokushiki techniques.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Kaku"
+  },
+  {
+    "id": 89,
+    "claim": "Spandam was the director of CP0 during the Enies Lobby arc.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Spandam was the chief of CP9 during the Enies Lobby arc, not of CP0.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Spandam"
+  },
+  {
+    "id": 90,
+    "claim": "Vergo, an officer in Doflamingo's organization, was secretly a Marine.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Vergo was a Marine Vice Admiral working undercover in Doflamingo's group. (Spoiler: Punk Hazard and Dressrosa arcs.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Vergo"
+  },
+  {
+    "id": 91,
+    "claim": "Enel's Devil Fruit is the Goro Goro no Mi, a Logia fruit that gives him lightning powers.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Enel, the self-proclaimed god of Skypiea, ate the Goro Goro no Mi and can turn into and control lightning.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Enel"
+  },
+  {
+    "id": 92,
+    "claim": "Crocodile's Baroque Works plan was aimed at acquiring the ancient weapon Poseidon.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Crocodile sought the ancient weapon Pluton, which he believed was hidden in Alabasta. Poseidon is a different ancient weapon.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Pluton"
+  },
+  {
+    "id": 93,
+    "claim": "Baroque Works' Mr. 1, Daz Bones, ate the Supa Supa no Mi, which makes his body into blades.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Daz Bones' Supa Supa no Mi is a Paramecia fruit that lets him turn any part of his body into steel blades.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Daz_Bones"
+  },
+  {
+    "id": 94,
+    "claim": "Admiral Fujitora is the Fleet Admiral of the Marines.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Fujitora (Issho) holds the rank of Admiral, one of the Marines' top three field commanders. The Fleet Admiral is Sakazuki (Akainu). (Spoiler: Dressrosa-era and later.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Issho"
+  },
+  {
+    "id": 95,
+    "claim": "Donquixote Rosinante ate the Nagi Nagi no Mi, which let him create a field of silence.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Rosinante's Nagi Nagi no Mi allowed him to make a soundproof area around himself. (Spoiler: Dressrosa arc backstory.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Donquixote_Rosinante"
+  },
+  {
+    "id": 96,
+    "claim": "Shanks was once a member of the Rocks Pirates.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Shanks served as a boy on the Roger Pirates, not the Rocks Pirates.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Shanks"
+  },
+  {
+    "id": 97,
+    "claim": "Admiral Ryokugyu (Aramaki) has the Mori Mori no Mi, a Logia fruit tied to plants and forests.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Ryokugyu's Mori Mori no Mi lets him create and control plants and forests. (Spoiler: post-timeskip Marines.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Aramaki"
+  },
+  {
+    "id": 98,
+    "claim": "Dracule Mihawk served as a Marine before becoming a Warlord.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Mihawk was not a Marine. He was a lone swordsman who was named a Warlord.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Dracule_Mihawk"
+  },
+  {
+    "id": 99,
+    "claim": "Charlotte Linlin and Kaido were both members of the Rocks Pirates in their youth.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "The Rocks Pirates, led by Rocks D. Xebec, included young Linlin and Kaido, along with Edward Newgate. (Spoiler: Rocks Pirates backstory.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Rocks_Pirates"
+  },
+  {
+    "id": 100,
+    "claim": "Boa Hancock became a Warlord of the Sea only after the Marineford war.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Hancock was already a Warlord when Luffy reached Amazon Lily, before Marineford. (Spoiler: Amazon Lily and Marineford arcs.)",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Boa_Hancock"
+  },
+  {
+    "id": 101,
+    "claim": "Luffy's Gomu Gomu no Mi turns his body into rubber, which makes him resistant to electricity.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "The Gomu Gomu no Mi is a Paramecia fruit. Rubber insulates against electrical attacks, though it does not protect him from everything.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi"
+  },
+  {
+    "id": 102,
+    "claim": "A Devil Fruit user can swim normally as long as they stay in shallow water.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Devil Fruit users lose the ability to swim in any sea water, and the depth does not matter. Fresh-water baths and shallow puddles are also dangerous in some cases.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Devil_Fruit"
+  },
+  {
+    "id": 103,
+    "claim": "The sword Wado Ichimonji originally belonged to Kuina, Zoro's childhood rival, before he carried it.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "After Kuina's death, her sword passed to Zoro, who promised to become the world's greatest swordsman. Wado Ichimonji is one of his three swords.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Wado_Ichimonji"
+  },
+  {
+    "id": 104,
+    "claim": "The Thousand Sunny was the Straw Hat Pirates' first ship.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "The Going Merry was their first ship, given by Kaya. The Thousand Sunny was built later by Franky after the Water 7 and Enies Lobby events.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Going_Merry"
+  },
+  {
+    "id": 105,
+    "claim": "The Going Merry was a gift to the Straw Hats from Kaya, a wealthy girl from Syrup Village.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Kaya gave the caravel to Luffy and his crew after the Black Cat Pirates incident. Usopp then joined as a crew member.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Going_Merry"
+  },
+  {
+    "id": 106,
+    "claim": "Seastone neutralizes the powers of a Devil Fruit user who touches it.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Seastone (Kairoseki) emits the same energy as the sea, so contact removes a Devil Fruit user's abilities and strength while touching it.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Seastone"
+  },
+  {
+    "id": 107,
+    "claim": "Tony Tony Chopper's Hito Hito no Mi is a Logia-type Devil Fruit.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "It is a Zoan fruit that gives Chopper human traits and forms. Logia fruits instead let the user turn into a natural element.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi"
+  },
+  {
+    "id": 108,
+    "claim": "Portgas D. Ace's Mera Mera no Mi is a Logia-type Devil Fruit that creates and becomes fire.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "The Mera Mera no Mi lets its user turn into and control fire. It is a Logia fruit.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi"
+  },
+  {
+    "id": 109,
+    "claim": "Only Devil Fruit users are able to learn Haki.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Haki is an ability that anyone can develop, including people with no Devil Fruit. Characters such as Zoro and Sanji use Haki without eating a Devil Fruit.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Haki"
+  },
+  {
+    "id": 110,
+    "claim": "Franky built the Thousand Sunny using wood from Adam Wood, the Treasure Tree Adam.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Adam Wood is from the Treasure Tree Adam, a legendary tree known for its durability. Franky used it to build the Straw Hats' second ship.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Thousand_Sunny"
+  },
+  {
+    "id": 111,
+    "claim": "Observation Haki allows a user to sense the presence and emotions of others, and can even help anticipate attacks.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Observation Haki (Kenbunshoku) lets the user sense presences and feelings, even without seeing them. Advanced users can glimpse a short moment ahead.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Observation_Haki"
+  },
+  {
+    "id": 112,
+    "claim": "Armament Haki can only be used for attacking and cannot be used for defense.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Armament Haki (Busoshoku) creates an invisible armor that is used for both offense and defense. It can also strengthen weapons.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Armament_Haki"
+  },
+  {
+    "id": 113,
+    "claim": "Conqueror's Haki is a rare ability that only a small number of people possess.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Only one in many millions is said to be born with it. It can knock out opponents with weaker wills.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Conqueror%27s_Haki"
+  },
+  {
+    "id": 114,
+    "claim": "Zoan Devil Fruits only allow users to turn into mammals.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Zoan fruits include animal forms beyond mammals, as well as mythical creatures. Birds such as Marco's phoenix are shown in canon.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Zoan"
+  },
+  {
+    "id": 115,
+    "claim": "Logia users can usually turn their bodies intangible, but attacks infused with Armament Haki can still hit them.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Logia users pass most normal attacks through their elemental bodies. Haki attacks and Seastone are established ways to bypass this.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Logia"
+  },
+  {
+    "id": 116,
+    "claim": "Crocodile's Suna Suna no Mi is a Zoan-type Devil Fruit.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "The Suna Suna no Mi is a Logia fruit that turns the user into sand and lets him control it.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Suna_Suna_no_Mi"
+  },
+  {
+    "id": 117,
+    "claim": "Trafalgar Law's Ope Ope no Mi is a Paramecia fruit that lets him create a spherical area called a Room.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Inside the Room, Law can manipulate objects and people. The size of the Room is limited by his stamina.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Ope_Ope_no_Mi"
+  },
+  {
+    "id": 118,
+    "claim": "The Yomi Yomi no Mi allows Brook to come back to life an unlimited number of times.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "The fruit gave Brook a single resurrection after death. It does not make him able to revive repeatedly.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Yomi_Yomi_no_Mi"
+  },
+  {
+    "id": 119,
+    "claim": "Blackbeard's Yami Yami no Mi can nullify the powers of other Devil Fruit users on contact.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "The Yami Yami no Mi is a Logia that cancels Devil Fruit abilities it touches. The user also takes damage that Logia users normally avoid, since he cannot avoid hits.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Yami_Yami_no_Mi"
+  },
+  {
+    "id": 120,
+    "claim": "Whitebeard's Gura Gura no Mi is a Logia-type Devil Fruit.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "It is a Paramecia fruit that gives the user the power to create earthquakes. It does not turn the body into an element.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Gura_Gura_no_Mi"
+  },
+  {
+    "id": 121,
+    "claim": "The Thousand Sunny's Coup de Burst launches the ship by releasing compressed air.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Franky's Coup de Burst expels a blast of compressed air to send the ship flying. It was built into the Sunny and is not a Devil Fruit power.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Coup_de_Burst"
+  },
+  {
+    "id": 122,
+    "claim": "Franky's use of cola as fuel is a Devil Fruit ability.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Franky is a cyborg who built his own body. He is not a Devil Fruit user, and cola is the energy source for his technology.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Franky"
+  },
+  {
+    "id": 123,
+    "claim": "Poneglyphs are extremely durable stones written in an ancient script that Nico Robin can read.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "They record hidden history and are almost impossible to destroy. Robin learned to read the script in Ohara.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Poneglyph"
+  },
+  {
+    "id": 124,
+    "claim": "Poneglyphs are written in the common script of the world and can be read by any literate person.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Poneglyphs use an ancient script that very few people can read. The World Government banned research into them.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Poneglyph"
+  },
+  {
+    "id": 125,
+    "claim": "A Vivre Card is made from a piece of its owner and moves toward that person.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Vivre Cards are made from a clipping of the owner's nail. They shift toward the owner and shrink or burn as the owner's life dwindles.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Vivre_Card"
+  },
+  {
+    "id": 126,
+    "claim": "A standard Log Pose points directly to Laugh Tale from the start of the Grand Line.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "A Log Pose locks onto the next island's magnetic field in the chain. Reaching Laugh Tale requires more than a Log Pose.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Log_Pose"
+  },
+  {
+    "id": 127,
+    "claim": "Dials are shells from Skypiea that can store and release energy such as wind or impact.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Dials absorb and store different forms of energy. Franky and others have built tools using them.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Dial"
+  },
+  {
+    "id": 128,
+    "claim": "Seastone only affects Logia users and has no effect on Paramecia or Zoan users.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Seastone affects every Devil Fruit user, regardless of fruit type. Contact removes powers and weakens the body.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Seastone"
+  },
+  {
+    "id": 129,
+    "claim": "The Pacifista are cyborgs modeled after Bartholomew Kuma.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "The World Government's Pacifista were built using Kuma's design. They are not Devil Fruit users, although some can fire laser beams.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Pacifista"
+  },
+  {
+    "id": 130,
+    "claim": "Sabo ate Ace's Mera Mera no Mi after Ace's death.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (Dressrosa): after a Devil Fruit user dies, the fruit reappears elsewhere. Sabo won the Mera Mera no Mi in the Corrida Colosseum tournament.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi"
+  },
+  {
+    "id": 131,
+    "claim": "Bartholomew Kuma's Nikyu Nikyu no Mi is a Zoan-type Devil Fruit.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "The Nikyu Nikyu no Mi is a Paramecia fruit. It lets the user repel nearly anything they touch.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Nikyu_Nikyu_no_Mi"
+  },
+  {
+    "id": 132,
+    "claim": "Kizaru's Pika Pika no Mi is a Logia that turns his body into light.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "The Pika Pika no Mi lets the user create, control, and become light. It is categorized as a Logia fruit.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Pika_Pika_no_Mi"
+  },
+  {
+    "id": 133,
+    "claim": "Zoro's sword Shusui originally belonged to Kozuki Oden.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Shusui was originally the sword of the samurai Ryuma. Zoro obtained it later.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Shusui"
+  },
+  {
+    "id": 134,
+    "claim": "Sandai Kitetsu is said to be a cursed sword.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Legend holds that it brings misfortune to its owner. Zoro carries it among his swords.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Sandai_Kitetsu"
+  },
+  {
+    "id": 135,
+    "claim": "The Going Merry was sunk by the Marines during the war at Marineford.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "The Going Merry was retired and given a farewell after the Straw Hats' Water 7 events. It was not present at Marineford.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Going_Merry"
+  },
+  {
+    "id": 136,
+    "claim": "Ryuo is an advanced application of Armament Haki.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (Wano): Ryuo is a refined technique built on Armament Haki. It is not the same as Conqueror's Haki.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Ryuo"
+  },
+  {
+    "id": 137,
+    "claim": "Seeing a moment of the future with Observation Haki is only possible for Devil Fruit users.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Advanced Observation Haki is a trained ability and does not depend on a Devil Fruit. Users such as Katakuri show it without any fruit tied to the power.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Observation_Haki"
+  },
+  {
+    "id": 138,
+    "claim": "Doflamingo's awakened Ito Ito no Mi allowed him to turn parts of his surroundings into strings.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (Dressrosa): awakening lets a user affect the environment, not just their own body. The Ito Ito no Mi is a Paramecia fruit.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Ito_Ito_no_Mi"
+  },
+  {
+    "id": 139,
+    "claim": "Katakuri's Mochi Mochi no Mi is classified as a Logia fruit.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "The Mochi Mochi no Mi is a special Paramecia fruit. Katakuri can create and control mochi, but it is not a Logia.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi"
+  },
+  {
+    "id": 140,
+    "claim": "Luffy's true Devil Fruit is the Hito Hito no Mi, Model: Nika, a Mythical Zoan.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (Wano): the World Government hid the fruit's true identity. It is not a Paramecia, despite its appearance as a rubber fruit.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi,_Model:_Nika"
+  },
+  {
+    "id": 141,
+    "claim": "Marco's Tori Tori no Mi, Model: Phoenix is an Ancient Zoan.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "It is a Mythical Zoan fruit, not an Ancient Zoan. It gives Marco phoenix forms and regenerative flames.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Phoenix"
+  },
+  {
+    "id": 142,
+    "claim": "Kaido's Uo Uo no Mi, Model: Seiryu is a Mythical Zoan that turns him into an azure dragon.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (Wano): Kaido's fruit gave him a dragon form. It is a Mythical Zoan, not a regular fish-based fruit.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Uo_Uo_no_Mi,_Model:_Seiryu"
+  },
+  {
+    "id": 143,
+    "claim": "When a Devil Fruit user dies, the fruit reappears as a new fruit somewhere in the world.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "This is an established rule of Devil Fruits. The new fruit can be found and eaten by someone else.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Devil_Fruit"
+  },
+  {
+    "id": 144,
+    "claim": "Mihawk's black blade Yoru is classified as a Great Grade sword.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Yoru is one of the twelve Supreme Grade swords. Supreme Grade is the highest tier of the Meito ranking.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Yoru"
+  },
+  {
+    "id": 145,
+    "claim": "Devil Fruit awakening is exclusive to Logia-type fruits.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Awakenings have been shown for Paramecia and Zoan users as well. Doflamingo's Ito Ito no Mi is a Paramecia example.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Devil_Fruit"
+  },
+  {
+    "id": 146,
+    "claim": "Wado Ichimonji is classified as a Supreme Grade sword in the Meito ranking.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (Wano): Wado Ichimonji is a Great Grade sword, the second-highest tier. The Supreme Grade is the top tier and has only twelve swords.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Meito"
+  },
+  {
+    "id": 147,
+    "claim": "Conqueror's Haki can never be combined with Armament Haki in the same attack.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (Wano): Luffy and Kaido showed attacks that combine the two. This is an advanced application of Armament Haki infused with Conqueror's Haki.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Conqueror%27s_Haki"
+  },
+  {
+    "id": 148,
+    "claim": "SMILE fruits were created by Vegapunk.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "SMILE fruits were created by Caesar Clown, not by Vegapunk. They give Zoan-like powers but produce a laughing side effect.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/SMILE"
+  },
+  {
+    "id": 149,
+    "claim": "Chopper's Rumble Ball has a permanent effect once eaten.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "The Rumble Ball only lasts for a limited time, after which Chopper reverts to normal. It lets him access extra forms in that time.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Rumble_Ball"
+  },
+  {
+    "id": 150,
+    "claim": "Enma drains Armament Haki from its wielder when used.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (Wano): Enma draws on Armament Haki, and Zoro nearly exhausts his Haki using it. It originally belonged to Kozuki Oden.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Enma"
+  },
+  {
+    "id": 151,
+    "claim": "Shanks gave Monkey D. Luffy his straw hat before leaving East Blue.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Shanks entrusted the hat to young Luffy and told him to return it once he became a great pirate. It became Luffy's signature item.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy"
+  },
+  {
+    "id": 152,
+    "claim": "Nami grew up in Syrup Village.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Nami grew up in Cocoyasi Village on the Conomi Islands. Syrup Village is where Usopp and Kaya lived.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Nami"
+  },
+  {
+    "id": 153,
+    "claim": "Crocodile, a Warlord of the Sea, secretly led Baroque Works and plotted to take over Alabasta.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Crocodile planned to seize the kingdom for its hidden Ancient Weapon. The Straw Hats stopped his coup.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Crocodile"
+  },
+  {
+    "id": 154,
+    "claim": "Skypiea is a sky island located in the East Blue.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Skypiea is in the sky above the Grand Line, reached by the Knock Up Stream near Jaya. It is not in East Blue.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Skypiea"
+  },
+  {
+    "id": 155,
+    "claim": "CP9 took Nico Robin to Enies Lobby, and the Straw Hats followed to rescue her.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "SPOILER (Water 7/Enies Lobby): the crew attacked the World Government's judicial island to save Robin from CP9.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Enies_Lobby_Arc"
+  },
+  {
+    "id": 156,
+    "claim": "Gecko Moria, the master of Thriller Bark, was one of the Four Emperors.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Moria was a Warlord of the Sea, not one of the Four Emperors.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Gecko_Moria"
+  },
+  {
+    "id": 157,
+    "claim": "Fish-Man Island is located about 10,000 meters below sea level, near the Red Line.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Ships need coating and a special route to reach it. It lies at the bottom of the Grand Line's sea, under the Red Line.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Fish-Man_Island"
+  },
+  {
+    "id": 158,
+    "claim": "The Sabaody Archipelago is located in the New World.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Sabaody is in the first half of the Grand Line, at the foot of the Red Line. The New World lies beyond Fish-Man Island.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Sabaody_Archipelago"
+  },
+  {
+    "id": 159,
+    "claim": "Edward Newgate, known as Whitebeard, died during the Battle of Marineford.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "SPOILER (Marineford): Whitebeard died standing in the battle after protecting his crew. His death changed the balance of power in the New World.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Edward_Newgate"
+  },
+  {
+    "id": 160,
+    "claim": "Monkey D. Dragon, the Revolutionary Army leader, is Luffy's uncle.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Easy",
+    "explanation": "Dragon is Luffy's father. Garp is Luffy's grandfather.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Monkey_D._Dragon"
+  },
+  {
+    "id": 161,
+    "claim": "The island of Ohara was destroyed by a Buster Call because its scholars researched the Void Century.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "The World Government ordered the Buster Call after discovering Ohara's research into the forbidden history.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Ohara"
+  },
+  {
+    "id": 162,
+    "claim": "Nico Robin was already an adult when Ohara was destroyed.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Robin was a child of about eight years old at the time. She was the only scholar to escape the Buster Call.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Nico_Robin"
+  },
+  {
+    "id": 163,
+    "claim": "Level 6 of Impel Down is called Eternal Hell.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Level 6 holds the most dangerous prisoners and is the lowest standard floor of the prison.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Impel_Down"
+  },
+  {
+    "id": 164,
+    "claim": "Whitebeard went to war with the Marines at Marineford to rescue Luffy.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (Marineford): Whitebeard went to rescue Portgas D. Ace, who was to be executed. Luffy joined separately to save his brother.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Marineford_Arc"
+  },
+  {
+    "id": 165,
+    "claim": "After the Straw Hats were scattered at Sabaody, they reunited two years later at the same archipelago.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Kuma sent each crew member to different locations, and they trained during the time skip. They returned to Sabaody before heading to Fish-Man Island.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Sabaody_Archipelago_Arc"
+  },
+  {
+    "id": 166,
+    "claim": "Kuma sent Zoro to Amazon Lily after the Sabaody scattering.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Luffy was sent to Amazon Lily. Zoro landed on Kuraigana Island, where Mihawk lived.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Bartholomew_Kuma"
+  },
+  {
+    "id": 167,
+    "claim": "Hody Jones led the New Fish-Man Pirates against Fish-Man Island.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (Fish-Man Island): Hody sought revenge against humans and attempted a coup.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Hody_Jones"
+  },
+  {
+    "id": 168,
+    "claim": "Fujitora served as the Fleet Admiral during the Dressrosa arc.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Fujitora (Issho) was an Admiral. Sakazuki (Akainu) was the Fleet Admiral.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Fujitora"
+  },
+  {
+    "id": 169,
+    "claim": "Sanji's arranged engagement to Charlotte Pudding was meant to seal an alliance between Big Mom and the Vinsmoke family.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (Whole Cake Island): the marriage was political, and the Straw Hats rescued Sanji from it.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Whole_Cake_Island_Arc"
+  },
+  {
+    "id": 170,
+    "claim": "Sanji is the son of Big Mom.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (Whole Cake Island): Sanji is the son of Vinsmoke Judge of the Germa Kingdom.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Sanji"
+  },
+  {
+    "id": 171,
+    "claim": "Donquixote Doflamingo ruled Dressrosa as king while also being a Warlord of the Sea.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (Dressrosa): Doflamingo secretly controlled the kingdom and hid his control behind a false history.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Donquixote_Doflamingo"
+  },
+  {
+    "id": 172,
+    "claim": "The Beasts Pirates are the crew of Charlotte Linlin, known as Big Mom.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Big Mom leads the Big Mom Pirates. The Beasts Pirates are led by Kaido.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Big_Mom_Pirates"
+  },
+  {
+    "id": 173,
+    "claim": "The island of Zou is located on the back of a giant elephant named Zunesha.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Zunesha walks the sea and carries the Mink Tribe's home on its back.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Zou"
+  },
+  {
+    "id": 174,
+    "claim": "Kozuki Oden was the shogun of Wano Country.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (Wano): Oden was the daimyo of Kuri. Kurozumi Orochi held the shogun position.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Kozuki_Oden"
+  },
+  {
+    "id": 175,
+    "claim": "Spandam gave the order for the Buster Call on Enies Lobby.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (Enies Lobby): the CP9 leader ordered it after the Straw Hats attacked. The Marines' ships then fired on the island.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Spandam"
+  },
+  {
+    "id": 176,
+    "claim": "Nico Robin joined the Straw Hats during the Enies Lobby arc.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Robin joined the crew after Alabasta. Enies Lobby was the arc where she was taken from them and rescued.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Nico_Robin"
+  },
+  {
+    "id": 177,
+    "claim": "Iceburg was mayor of Water 7 and president of the Galley-La Company.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "He was also the apprentice of Tom, the shipwright who built Gold Roger's ship.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Iceburg"
+  },
+  {
+    "id": 178,
+    "claim": "Eneru, the self-proclaimed god of Skypiea, was defeated by Zoro.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Luffy defeated Eneru. His rubber body let him fight a lightning user.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Eneru"
+  },
+  {
+    "id": 179,
+    "claim": "Wano Country had been isolated from the outside world for centuries.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Wano is closed off by its location and its laws. It was opened up after the events of the Wano arc.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Wano_Country"
+  },
+  {
+    "id": 180,
+    "claim": "Brook joined the Straw Hats before the Enies Lobby arc.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Medium",
+    "explanation": "Brook joined at Thriller Bark, which comes after Enies Lobby in the story.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Brook"
+  },
+  {
+    "id": 181,
+    "claim": "The Void Century is a 100-year gap in recorded history, and the World Government forbids researching it.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "What happened during it is only partly revealed. The ban on research was the reason for the Ohara incident.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Void_Century"
+  },
+  {
+    "id": 182,
+    "claim": "The three Ancient Weapons are Pluton, Poseidon, and Mars.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "The third weapon is Uranus, not Mars. Pluton is a warship, and Poseidon is linked to a mermaid princess.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Ancient_Weapons"
+  },
+  {
+    "id": 183,
+    "claim": "The Road Poneglyphs, when combined, reveal the location of Laugh Tale.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "There are four Road Poneglyphs. Collecting them leads to the final island, Laugh Tale.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Road_Poneglyph"
+  },
+  {
+    "id": 184,
+    "claim": "The meaning of the D. in the Will of D. has been fully explained in the manga.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "The full meaning is still unresolved. Canon has only hinted at its importance, so any complete explanation is theory.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Will_of_D."
+  },
+  {
+    "id": 185,
+    "claim": "The Ancient Weapon Poseidon is connected to Princess Shirahoshi.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (Fish-Man Island): Poseidon is tied to the mermaid princess, who is able to command Sea Kings.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Shirahoshi"
+  },
+  {
+    "id": 186,
+    "claim": "Mary Geoise is located at the bottom of the sea, near Fish-Man Island.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Mary Geoise sits atop the Red Line, at the top of the world. It is home to the World Government's Celestial Dragons.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Mary_Geoise"
+  },
+  {
+    "id": 187,
+    "claim": "Sabo is the Chief of Staff of the Revolutionary Army.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (Dressrosa and later): Sabo is Dragon's second-in-command in the organization.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Sabo"
+  },
+  {
+    "id": 188,
+    "claim": "The Reverie at Mary Geoise is held every year.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "It is held once every four years. Leaders of the world's member kingdoms gather for it.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Reverie"
+  },
+  {
+    "id": 189,
+    "claim": "Gol D. Roger was executed in Loguetown.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "His execution began the Great Pirate Era. Loguetown is known as the town of beginning and end.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Gol_D._Roger"
+  },
+  {
+    "id": 190,
+    "claim": "Gol D. Roger was captured by the Marines at Marineford before his execution.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Roger turned himself in to the Marines. His execution was held in Loguetown, not at Marineford.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Gol_D._Roger"
+  },
+  {
+    "id": 191,
+    "claim": "Marshall D. Teach killed Thatch and took the Yami Yami no Mi.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (Marineford): Teach was a Whitebeard Pirate who betrayed the crew to take the fruit. This led to Ace chasing him.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Marshall_D._Teach"
+  },
+  {
+    "id": 192,
+    "claim": "Impel Down is located directly beneath Marineford.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Impel Down is a prison in the Calm Belt, separate from Marineford. Prisoners are sent there by Marine ships.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Impel_Down"
+  },
+  {
+    "id": 193,
+    "claim": "The World Government has recognized Buggy as one of the Four Emperors.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (post-Wano): Buggy was named a Yonko after the Wano events. Many fans see this as an unusual outcome.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Buggy"
+  },
+  {
+    "id": 194,
+    "claim": "Silvers Rayleigh is a member of the Revolutionary Army.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Rayleigh was Roger's first mate and later lived in Sabaody. He trained Luffy but did not join the Revolutionary Army.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Silvers_Rayleigh"
+  },
+  {
+    "id": 195,
+    "claim": "Fisher Tiger freed slaves from Mary Geoise before founding the Sun Pirates.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (Fish-Man Island): he was a former slave who freed others and later led the Sun Pirates.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Fisher_Tiger"
+  },
+  {
+    "id": 196,
+    "claim": "Monkey D. Luffy is confirmed to be a descendant of Gol D. Roger.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Canon identifies Luffy's father as Dragon and does not confirm a descent from Roger. Ace is Roger's son.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy"
+  },
+  {
+    "id": 197,
+    "claim": "Nico Olvia, an Ohara scholar, was Nico Robin's mother.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (Ohara): Olvia was a scholar who stayed behind to protect the knowledge of the island and helped Robin escape.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Nico_Olvia"
+  },
+  {
+    "id": 198,
+    "claim": "Princess Shirahoshi of Fish-Man Island is a human.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "Shirahoshi is a mermaid. She is the daughter of King Neptune and Queen Otohime.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Shirahoshi"
+  },
+  {
+    "id": 199,
+    "claim": "Silvers Rayleigh served as the first mate of the Roger Pirates.",
+    "answer": "FACT",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "He was nicknamed the Dark King and was Roger's closest right-hand man.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Silvers_Rayleigh"
+  },
+  {
+    "id": 200,
+    "claim": "The Red Line is located in the Calm Belt.",
+    "answer": "TRAP",
+    "category": "One Piece",
+    "difficulty": "Hard",
+    "explanation": "The Red Line is a continent that runs around the world. The Calm Belts are separate sea regions on either side of the Grand Line.",
+    "source_name": "One Piece Wiki (Fandom)",
+    "source_url": "https://onepiece.fandom.com/wiki/Red_Line"
+  }
+]

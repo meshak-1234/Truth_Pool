@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "claim": "Goku was born with the Saiyan name Kakarot.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Goku's birth name is Kakarot, revealed in Dragon Ball Z when Raditz arrives on Earth. (Spoiler: early Dragon Ball Z.)",
+    "source_name": "Dragon Ball Wiki - Goku",
+    "source_url": "https://dragonball.fandom.com/wiki/Goku"
+  },
+  {
+    "id": 2,
+    "claim": "Goku was born on Earth.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Goku was born on Planet Vegeta and sent to Earth as a baby. (Spoiler: early Dragon Ball Z.)",
+    "source_name": "Dragon Ball Wiki - Goku",
+    "source_url": "https://dragonball.fandom.com/wiki/Goku"
+  },
+  {
+    "id": 3,
+    "claim": "Vegeta is the prince of the Saiyan race.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Vegeta is the Prince of all Saiyans, son of King Vegeta.",
+    "source_name": "Dragon Ball Wiki - Vegeta",
+    "source_url": "https://dragonball.fandom.com/wiki/Vegeta"
+  },
+  {
+    "id": 4,
+    "claim": "Piccolo is a Saiyan.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Piccolo is a Namekian, a member of the green-skinned race from the planet Namek.",
+    "source_name": "Dragon Ball Wiki - Piccolo",
+    "source_url": "https://dragonball.fandom.com/wiki/Piccolo"
+  },
+  {
+    "id": 5,
+    "claim": "Gohan is Goku's first son.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Gohan is the elder son of Goku and Chi-Chi; Goten is the younger.",
+    "source_name": "Dragon Ball Wiki - Gohan",
+    "source_url": "https://dragonball.fandom.com/wiki/Gohan"
+  },
+  {
+    "id": 6,
+    "claim": "Krillin is married to Bulma.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Krillin is married to Android 18. Bulma is married to Vegeta.",
+    "source_name": "Dragon Ball Wiki - Krillin",
+    "source_url": "https://dragonball.fandom.com/wiki/Krillin"
+  },
+  {
+    "id": 7,
+    "claim": "Bulma is the daughter of Dr. Brief, the founder of Capsule Corporation.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Bulma is the daughter of Dr. Brief and heir to Capsule Corporation.",
+    "source_name": "Dragon Ball Wiki - Bulma",
+    "source_url": "https://dragonball.fandom.com/wiki/Bulma"
+  },
+  {
+    "id": 8,
+    "claim": "Master Roshi's Kame House stands on top of a mountain.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Kame House is a small house on a tiny island in the sea.",
+    "source_name": "Dragon Ball Wiki - Kame House",
+    "source_url": "https://dragonball.fandom.com/wiki/Kame_House"
+  },
+  {
+    "id": 9,
+    "claim": "Trunks is the son of Vegeta and Bulma.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Trunks is the son of Vegeta and Bulma.",
+    "source_name": "Dragon Ball Wiki - Trunks",
+    "source_url": "https://dragonball.fandom.com/wiki/Trunks"
+  },
+  {
+    "id": 10,
+    "claim": "Goten is the son of Vegeta.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Goten is the younger son of Goku and Chi-Chi.",
+    "source_name": "Dragon Ball Wiki - Goten",
+    "source_url": "https://dragonball.fandom.com/wiki/Goten"
+  },
+  {
+    "id": 11,
+    "claim": "Android 18 has a twin brother who is Android 17.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Androids 17 and 18 are siblings created by Dr. Gero. (Spoiler: Dragon Ball Z.)",
+    "source_name": "Dragon Ball Wiki - Android 18",
+    "source_url": "https://dragonball.fandom.com/wiki/Android_18"
+  },
+  {
+    "id": 12,
+    "claim": "Tien Shinhan is known for having a third eye on his forehead.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Tien is a triclops with a third eye.",
+    "source_name": "Dragon Ball Wiki - Tien Shinhan",
+    "source_url": "https://dragonball.fandom.com/wiki/Tien_Shinhan"
+  },
+  {
+    "id": 13,
+    "claim": "The Kamehameha is Goku's signature energy attack.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. The Kamehameha is the technique most associated with Goku.",
+    "source_name": "Dragon Ball Wiki - Kamehameha",
+    "source_url": "https://dragonball.fandom.com/wiki/Kamehameha"
+  },
+  {
+    "id": 14,
+    "claim": "Goku first becomes a Super Saiyan while fighting Cell.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Goku first becomes a Super Saiyan while fighting Frieza on Namek. (Spoiler: Dragon Ball Z, Frieza Saga.)",
+    "source_name": "Dragon Ball Wiki - Super Saiyan",
+    "source_url": "https://dragonball.fandom.com/wiki/Super_Saiyan"
+  },
+  {
+    "id": 15,
+    "claim": "Master Roshi is known as the Dragon Hermit.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Master Roshi is known as the Turtle Hermit.",
+    "source_name": "Dragon Ball Wiki - Master Roshi",
+    "source_url": "https://dragonball.fandom.com/wiki/Master_Roshi"
+  },
+  {
+    "id": 16,
+    "claim": "Bardock is Goku's father.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Bardock is the father of Goku and Raditz. (Spoiler: Dragon Ball Z.)",
+    "source_name": "Dragon Ball Wiki - Bardock",
+    "source_url": "https://dragonball.fandom.com/wiki/Bardock"
+  },
+  {
+    "id": 17,
+    "claim": "Raditz is Goku's cousin.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Raditz is Goku's older brother. (Spoiler: Dragon Ball Z.)",
+    "source_name": "Dragon Ball Wiki - Raditz",
+    "source_url": "https://dragonball.fandom.com/wiki/Raditz"
+  },
+  {
+    "id": 18,
+    "claim": "Vegeta first arrives on Earth with Nappa during the Saiyan Saga of Dragon Ball Z.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Vegeta and Nappa arrive to search for the Dragon Balls. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Vegeta",
+    "source_url": "https://dragonball.fandom.com/wiki/Vegeta"
+  },
+  {
+    "id": 19,
+    "claim": "Frieza destroyed Planet Vegeta.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Frieza destroyed the Saiyan home planet. (Spoiler: Dragon Ball Z backstory.)",
+    "source_name": "Dragon Ball Wiki - Planet Vegeta",
+    "source_url": "https://dragonball.fandom.com/wiki/Planet_Vegeta"
+  },
+  {
+    "id": 20,
+    "claim": "Gohan first becomes a Super Saiyan while fighting Frieza.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Gohan first becomes a Super Saiyan in the Cell Games arc. (Spoiler: Dragon Ball Z.)",
+    "source_name": "Dragon Ball Wiki - Gohan",
+    "source_url": "https://dragonball.fandom.com/wiki/Gohan"
+  },
+  {
+    "id": 21,
+    "claim": "Piccolo is the reincarnation of King Piccolo.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Piccolo was born just before King Piccolo's death and carries his legacy. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Piccolo",
+    "source_url": "https://dragonball.fandom.com/wiki/Piccolo"
+  },
+  {
+    "id": 22,
+    "claim": "Piccolo was born on the planet Namek.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Piccolo was born on Earth, though he is a Namekian by race.",
+    "source_name": "Dragon Ball Wiki - Piccolo",
+    "source_url": "https://dragonball.fandom.com/wiki/Piccolo"
+  },
+  {
+    "id": 23,
+    "claim": "Piccolo trains the young Gohan before the arrival of the Saiyans.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Piccolo trains Gohan for a year in the wilderness. (Spoiler: Dragon Ball Z.)",
+    "source_name": "Dragon Ball Wiki - Piccolo",
+    "source_url": "https://dragonball.fandom.com/wiki/Piccolo"
+  },
+  {
+    "id": 24,
+    "claim": "Vegeta is Gohan's first fighting instructor.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Piccolo trains Gohan first. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Gohan",
+    "source_url": "https://dragonball.fandom.com/wiki/Gohan"
+  },
+  {
+    "id": 25,
+    "claim": "Future Trunks travels back in time to warn the Z Fighters about the Androids.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Future Trunks arrives from a dark future to warn them about the Androids. (Spoiler: Dragon Ball Z.)",
+    "source_name": "Dragon Ball Wiki - Future Trunks",
+    "source_url": "https://dragonball.fandom.com/wiki/Future_Trunks"
+  },
+  {
+    "id": 26,
+    "claim": "Goten is older than Trunks.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Trunks is slightly older than Goten.",
+    "source_name": "Dragon Ball Wiki - Goten",
+    "source_url": "https://dragonball.fandom.com/wiki/Goten"
+  },
+  {
+    "id": 27,
+    "claim": "Goten and Trunks combine through the Fusion Dance to form Gotenks.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Their fusion is called Gotenks. (Spoiler: Majin Buu Saga.)",
+    "source_name": "Dragon Ball Wiki - Gotenks",
+    "source_url": "https://dragonball.fandom.com/wiki/Gotenks"
+  },
+  {
+    "id": 28,
+    "claim": "In Dragon Ball Z, Androids 17 and 18 were originally human beings.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Dr. Gero transformed them into cyborgs. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Android 17",
+    "source_url": "https://dragonball.fandom.com/wiki/Android_17"
+  },
+  {
+    "id": 29,
+    "claim": "Krillin and Android 18 have a daughter named Pan.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Their daughter is Marron. Pan is Gohan and Videl's daughter.",
+    "source_name": "Dragon Ball Wiki - Marron",
+    "source_url": "https://dragonball.fandom.com/wiki/Marron"
+  },
+  {
+    "id": 30,
+    "claim": "Gohan's wife is Videl, the daughter of Mr. Satan (Hercule).",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Videl is the daughter of Hercule and marries Gohan.",
+    "source_name": "Dragon Ball Wiki - Videl",
+    "source_url": "https://dragonball.fandom.com/wiki/Videl"
+  },
+  {
+    "id": 31,
+    "claim": "Bulma's father is Dr. Gero.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Bulma's father is Dr. Brief. Dr. Gero is the creator of the Androids.",
+    "source_name": "Dragon Ball Wiki - Bulma",
+    "source_url": "https://dragonball.fandom.com/wiki/Bulma"
+  },
+  {
+    "id": 32,
+    "claim": "Yamcha's signature technique is the Wolf Fang Fist.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. The Wolf Fang Fist is Yamcha's trademark attack.",
+    "source_name": "Dragon Ball Wiki - Wolf Fang Fist",
+    "source_url": "https://dragonball.fandom.com/wiki/Wolf_Fang_Fist"
+  },
+  {
+    "id": 33,
+    "claim": "Tien Shinhan's signature technique is the Kamehameha.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Tien is known for the Tri-Beam and the Solar Flare. The Kamehameha belongs to Roshi and Goku.",
+    "source_name": "Dragon Ball Wiki - Tien Shinhan",
+    "source_url": "https://dragonball.fandom.com/wiki/Tien_Shinhan"
+  },
+  {
+    "id": 34,
+    "claim": "The Super Saiyan Blue transformation first appears in Dragon Ball Z.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Super Saiyan Blue debuts in Dragon Ball Super (the Resurrection 'F' era onward).",
+    "source_name": "Wikipedia - Dragon Ball Super",
+    "source_url": "https://en.wikipedia.org/wiki/Dragon_Ball_Super"
+  },
+  {
+    "id": 35,
+    "claim": "Dragon Ball GT is part of the Dragon Ball Super storyline.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. GT is a separate anime series that is not part of the Dragon Ball Super story.",
+    "source_name": "Wikipedia - Dragon Ball GT",
+    "source_url": "https://en.wikipedia.org/wiki/Dragon_Ball_GT"
+  },
+  {
+    "id": 36,
+    "claim": "Goku was sent to Earth as a baby with the mission of conquering it.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Baby Kakarot was sent to Earth to conquer it, though his head injury changed his nature. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Goku",
+    "source_url": "https://dragonball.fandom.com/wiki/Goku"
+  },
+  {
+    "id": 37,
+    "claim": "King Vegeta was killed by Goku.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. King Vegeta was killed by Frieza. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - King Vegeta",
+    "source_url": "https://dragonball.fandom.com/wiki/King_Vegeta"
+  },
+  {
+    "id": 38,
+    "claim": "The Final Flash is one of Vegeta's signature techniques.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Vegeta uses Final Flash as a signature energy wave.",
+    "source_name": "Dragon Ball Wiki - Final Flash",
+    "source_url": "https://dragonball.fandom.com/wiki/Final_Flash"
+  },
+  {
+    "id": 39,
+    "claim": "Piccolo fuses with the Namekian Nail on the planet Namek.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Piccolo fuses with Nail to gain power against Frieza. (Spoiler: Frieza Saga.)",
+    "source_name": "Dragon Ball Wiki - Nail",
+    "source_url": "https://dragonball.fandom.com/wiki/Nail"
+  },
+  {
+    "id": 40,
+    "claim": "Piccolo fuses with Kami, the former Guardian of Earth.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Piccolo and Kami merge into one being. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Kami",
+    "source_url": "https://dragonball.fandom.com/wiki/Kami"
+  },
+  {
+    "id": 41,
+    "claim": "Goten first becomes a Super Saiyan as an adult.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Goten becomes a Super Saiyan as a young child in the Majin Buu Saga. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Goten",
+    "source_url": "https://dragonball.fandom.com/wiki/Goten"
+  },
+  {
+    "id": 42,
+    "claim": "Vegeta and Bulma have a daughter named Bulla.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Bulla is the younger child of Vegeta and Bulma. (Spoiler: late Dragon Ball Z.)",
+    "source_name": "Dragon Ball Wiki - Bulla",
+    "source_url": "https://dragonball.fandom.com/wiki/Bulla"
+  },
+  {
+    "id": 43,
+    "claim": "The Kamehameha was invented by Goku.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Master Roshi invented the Kamehameha, and Goku learned it from watching him.",
+    "source_name": "Dragon Ball Wiki - Kamehameha",
+    "source_url": "https://dragonball.fandom.com/wiki/Kamehameha"
+  },
+  {
+    "id": 44,
+    "claim": "Tien Shinhan originally trained under Master Shen of the Crane School.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Tien and Chiaotzu were students of Master Shen before they changed sides.",
+    "source_name": "Dragon Ball Wiki - Tien Shinhan",
+    "source_url": "https://dragonball.fandom.com/wiki/Tien_Shinhan"
+  },
+  {
+    "id": 45,
+    "claim": "Yamcha is killed by a self-destructing Saibaman during the Saiyan Saga.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. A Saibaman's self-destruct kills Yamcha; he is later revived with the Dragon Balls. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Yamcha",
+    "source_url": "https://dragonball.fandom.com/wiki/Yamcha"
+  },
+  {
+    "id": 46,
+    "claim": "Master Roshi's pet turtle is named Oolong.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Oolong is a shape-shifting pig. Roshi's sea turtle companion is simply called Turtle.",
+    "source_name": "Dragon Ball Wiki - Oolong",
+    "source_url": "https://dragonball.fandom.com/wiki/Oolong"
+  },
+  {
+    "id": 47,
+    "claim": "The Destructo Disc was invented by Yamcha.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. The Destructo Disc is Krillin's signature technique.",
+    "source_name": "Dragon Ball Wiki - Destructo Disc",
+    "source_url": "https://dragonball.fandom.com/wiki/Destructo_Disc"
+  },
+  {
+    "id": 48,
+    "claim": "Vegeta first becomes a Super Saiyan during the Frieza Saga on Namek.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Vegeta does not achieve Super Saiyan on Namek; he achieves it in the later Androids storyline. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Vegeta",
+    "source_url": "https://dragonball.fandom.com/wiki/Vegeta"
+  },
+  {
+    "id": 49,
+    "claim": "Goku defeats Frieza on Namek using Super Saiyan 3.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Goku fights Frieza as a regular Super Saiyan. Super Saiyan 3 appears in the Majin Buu Saga. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Super Saiyan",
+    "source_url": "https://dragonball.fandom.com/wiki/Super_Saiyan"
+  },
+  {
+    "id": 50,
+    "claim": "Gohan defeats Cell by using Super Saiyan 3.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Gohan defeats Cell as a Super Saiyan 2 with a father-son Kamehameha. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Gohan",
+    "source_url": "https://dragonball.fandom.com/wiki/Gohan"
+  },
+  {
+    "id": 51,
+    "claim": "Frieza is the ruler of an intergalactic empire that conquers planets and sells them.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Frieza leads the Frieza Force, which seizes planets and sells them.",
+    "source_name": "Dragon Ball Wiki - Frieza",
+    "source_url": "https://dragonball.fandom.com/wiki/Frieza"
+  },
+  {
+    "id": 52,
+    "claim": "Frieza is a Saiyan.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Frieza belongs to a separate species, not the Saiyans. He is the tyrant who dominated the Saiyans.",
+    "source_name": "Dragon Ball Wiki - Frieza",
+    "source_url": "https://dragonball.fandom.com/wiki/Frieza"
+  },
+  {
+    "id": 53,
+    "claim": "Cell absorbs Androids 17 and 18 to reach his Perfect Form.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Cell absorbs 17 and then 18 to reach his Perfect Form. (Spoiler: Cell Saga.)",
+    "source_name": "Dragon Ball Wiki - Cell",
+    "source_url": "https://dragonball.fandom.com/wiki/Cell"
+  },
+  {
+    "id": 54,
+    "claim": "Cell was created using only Goku's cells.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Cell was created from cells of several fighters, including Goku, Vegeta, Piccolo, Frieza and King Cold. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Cell",
+    "source_url": "https://dragonball.fandom.com/wiki/Cell"
+  },
+  {
+    "id": 55,
+    "claim": "Majin Buu was created by the wizard Bibidi.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Bibidi created Majin Buu long before the Majin Buu Saga. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Majin Buu",
+    "source_url": "https://dragonball.fandom.com/wiki/Majin_Buu"
+  },
+  {
+    "id": 56,
+    "claim": "Beerus is a Supreme Kai.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Beerus is the God of Destruction of Universe 7.",
+    "source_name": "Dragon Ball Wiki - Beerus",
+    "source_url": "https://dragonball.fandom.com/wiki/Beerus"
+  },
+  {
+    "id": 57,
+    "claim": "Beerus is the God of Destruction of Universe 7.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Beerus holds this role, and Whis is his attendant.",
+    "source_name": "Dragon Ball Wiki - Beerus",
+    "source_url": "https://dragonball.fandom.com/wiki/Beerus"
+  },
+  {
+    "id": 58,
+    "claim": "Champa is Beerus's father.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Champa is Beerus's twin brother and the God of Destruction of Universe 6.",
+    "source_name": "Dragon Ball Wiki - Champa",
+    "source_url": "https://dragonball.fandom.com/wiki/Champa"
+  },
+  {
+    "id": 59,
+    "claim": "Jiren is a member of the Pride Troopers of Universe 11.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Jiren is a Pride Trooper and a top fighter of Universe 11 in Dragon Ball Super.",
+    "source_name": "Dragon Ball Wiki - Jiren",
+    "source_url": "https://dragonball.fandom.com/wiki/Jiren"
+  },
+  {
+    "id": 60,
+    "claim": "Zamasu is a Saiyan.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Zamasu is a Supreme Kai in training from Universe 10. (Spoiler: Dragon Ball Super.)",
+    "source_name": "Dragon Ball Wiki - Zamasu",
+    "source_url": "https://dragonball.fandom.com/wiki/Zamasu"
+  },
+  {
+    "id": 61,
+    "claim": "The Ginyu Force is an elite squad serving Frieza and led by Captain Ginyu.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Captain Ginyu leads Frieza's elite fighting squad. (Spoiler: Frieza Saga.)",
+    "source_name": "Dragon Ball Wiki - Ginyu Force",
+    "source_url": "https://dragonball.fandom.com/wiki/Ginyu_Force"
+  },
+  {
+    "id": 62,
+    "claim": "Captain Ginyu swaps bodies with Vegeta.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Captain Ginyu swaps bodies with Goku using the Body Change technique. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Captain Ginyu",
+    "source_url": "https://dragonball.fandom.com/wiki/Captain_Ginyu"
+  },
+  {
+    "id": 63,
+    "claim": "Guldo of the Ginyu Force can stop time for a short period.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Guldo's Time Freeze lets him halt time while he holds his breath. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Guldo",
+    "source_url": "https://dragonball.fandom.com/wiki/Guldo"
+  },
+  {
+    "id": 64,
+    "claim": "Recoome is the leader of the Ginyu Force.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Captain Ginyu is the leader of the Ginyu Force. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Recoome",
+    "source_url": "https://dragonball.fandom.com/wiki/Recoome"
+  },
+  {
+    "id": 65,
+    "claim": "Cell's first form is known as Imperfect Cell.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Cell begins as Imperfect Cell, then becomes Semi-Perfect, then Perfect. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Cell",
+    "source_url": "https://dragonball.fandom.com/wiki/Cell"
+  },
+  {
+    "id": 66,
+    "claim": "Cell reaches his Perfect Form after absorbing only Android 17.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Absorbing 17 makes Cell Semi-Perfect; he becomes Perfect only after absorbing 18 as well. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Cell",
+    "source_url": "https://dragonball.fandom.com/wiki/Cell"
+  },
+  {
+    "id": 67,
+    "claim": "Cell announces that the Cell Games will begin ten days after his announcement.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Cell announces the tournament and gives the world time to prepare. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Cell Games",
+    "source_url": "https://dragonball.fandom.com/wiki/Cell_Games"
+  },
+  {
+    "id": 68,
+    "claim": "Cell creates Cell Juniors during the Cell Games.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Cell Juniors are miniature versions of Cell that fight the Z Fighters. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Cell Juniors",
+    "source_url": "https://dragonball.fandom.com/wiki/Cell_Juniors"
+  },
+  {
+    "id": 69,
+    "claim": "Kid Buu is the original, purest form of Majin Buu.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Kid Buu is the original, purely evil form. (Spoiler: Majin Buu Saga.)",
+    "source_name": "Dragon Ball Wiki - Kid Buu",
+    "source_url": "https://dragonball.fandom.com/wiki/Kid_Buu"
+  },
+  {
+    "id": 70,
+    "claim": "Fat Buu is Majin Buu's original, purest form.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Fat Buu is a gentler form; the original form is Kid Buu. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Majin Buu",
+    "source_url": "https://dragonball.fandom.com/wiki/Majin_Buu"
+  },
+  {
+    "id": 71,
+    "claim": "Beerus makes his first appearance in the film Dragon Ball Z: Battle of Gods.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Beerus debuts in the film Battle of Gods, which leads into Dragon Ball Super. (Movie.)",
+    "source_name": "Dragon Ball Wiki - Beerus",
+    "source_url": "https://dragonball.fandom.com/wiki/Beerus"
+  },
+  {
+    "id": 72,
+    "claim": "Champa is the God of Destruction of Universe 7.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Champa is the God of Destruction of Universe 6. Beerus oversees Universe 7.",
+    "source_name": "Dragon Ball Wiki - Champa",
+    "source_url": "https://dragonball.fandom.com/wiki/Champa"
+  },
+  {
+    "id": 73,
+    "claim": "Golden Frieza debuts in the film Dragon Ball Z: Resurrection 'F'.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Frieza's golden form debuts in that film. (Movie.)",
+    "source_name": "Dragon Ball Wiki - Golden Frieza",
+    "source_url": "https://dragonball.fandom.com/wiki/Golden_Frieza"
+  },
+  {
+    "id": 74,
+    "claim": "Golden Frieza first appears in the Frieza Saga of the original Dragon Ball Z series.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Golden Frieza appears much later, in the film Resurrection 'F'. (Movie.)",
+    "source_name": "Dragon Ball Wiki - Golden Frieza",
+    "source_url": "https://dragonball.fandom.com/wiki/Golden_Frieza"
+  },
+  {
+    "id": 75,
+    "claim": "In Resurrection 'F', Frieza is revived by his soldiers Sorbet and Tagoma.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. They use the Dragon Balls to bring Frieza back. (Movie spoiler.)",
+    "source_name": "Dragon Ball Wiki - Frieza",
+    "source_url": "https://dragonball.fandom.com/wiki/Frieza"
+  },
+  {
+    "id": 76,
+    "claim": "Fused Zamasu is formed through the Fusion Dance.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Fused Zamasu is formed with the Potara earrings. (Spoiler: Dragon Ball Super.)",
+    "source_name": "Dragon Ball Wiki - Fused Zamasu",
+    "source_url": "https://dragonball.fandom.com/wiki/Fused_Zamasu"
+  },
+  {
+    "id": 77,
+    "claim": "In Dragon Ball Super, Goku Black is Zamasu using Goku's body.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Zamasu swaps bodies with Goku to become Goku Black. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Goku Black",
+    "source_url": "https://dragonball.fandom.com/wiki/Goku_Black"
+  },
+  {
+    "id": 78,
+    "claim": "In Dragon Ball Super, Zamasu's plan is to destroy only the Saiyans.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. His 'Zero Mortals' plan aims to wipe out all mortals. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Zamasu",
+    "source_url": "https://dragonball.fandom.com/wiki/Zamasu"
+  },
+  {
+    "id": 79,
+    "claim": "In Dragon Ball Super, the Tournament of Power takes place in the World of Void.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. The tournament is held on a special arena in the World of Void. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Tournament of Power",
+    "source_url": "https://dragonball.fandom.com/wiki/Tournament_of_Power"
+  },
+  {
+    "id": 80,
+    "claim": "In Dragon Ball Super, Universe 6 wins the Tournament of Power.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Universe 7 wins the tournament. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Tournament of Power",
+    "source_url": "https://dragonball.fandom.com/wiki/Tournament_of_Power"
+  },
+  {
+    "id": 81,
+    "claim": "Android 17 is the last Universe 7 fighter standing at the end of the Tournament of Power.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Android 17 is the last Universe 7 fighter standing. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Android 17",
+    "source_url": "https://dragonball.fandom.com/wiki/Android_17"
+  },
+  {
+    "id": 82,
+    "claim": "Hit is a fighter from Universe 7.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Hit is an assassin from Universe 6.",
+    "source_name": "Dragon Ball Wiki - Hit",
+    "source_url": "https://dragonball.fandom.com/wiki/Hit"
+  },
+  {
+    "id": 83,
+    "claim": "In the film Dragon Ball Super: Broly, Paragus is Broly's father.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. In Dragon Ball Super: Broly, Paragus is Broly's father. (Movie.)",
+    "source_name": "Dragon Ball Wiki - Paragus",
+    "source_url": "https://dragonball.fandom.com/wiki/Paragus"
+  },
+  {
+    "id": 84,
+    "claim": "Broly appears in the original Dragon Ball manga.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Broly originated in the Dragon Ball Z films, not the original manga. (Movie.)",
+    "source_name": "Dragon Ball Wiki - Broly",
+    "source_url": "https://dragonball.fandom.com/wiki/Broly"
+  },
+  {
+    "id": 85,
+    "claim": "The Broly of the Dragon Ball Z films is the same continuity as the Broly of the film Dragon Ball Super: Broly.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. The 2018 film reintroduces Broly in the Dragon Ball Super continuity and replaces the Z film version. (Movie.)",
+    "source_name": "Wikipedia - Dragon Ball Super: Broly",
+    "source_url": "https://en.wikipedia.org/wiki/Dragon_Ball_Super:_Broly"
+  },
+  {
+    "id": 86,
+    "claim": "Cell's body was built using cells from Goku, Vegeta, Piccolo, Frieza and King Cold.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Dr. Gero's creation incorporates cells from these fighters. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Cell",
+    "source_url": "https://dragonball.fandom.com/wiki/Cell"
+  },
+  {
+    "id": 87,
+    "claim": "Cell's body includes cells from Krillin.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Krillin's cells are not part of Cell's makeup. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Cell",
+    "source_url": "https://dragonball.fandom.com/wiki/Cell"
+  },
+  {
+    "id": 88,
+    "claim": "Frieza explains that his lower forms exist to limit his power.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Frieza says his earlier forms hold back his power. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Frieza",
+    "source_url": "https://dragonball.fandom.com/wiki/Frieza"
+  },
+  {
+    "id": 89,
+    "claim": "Kid Buu is defeated by Gohan.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Kid Buu is defeated by Goku's Spirit Bomb. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Kid Buu",
+    "source_url": "https://dragonball.fandom.com/wiki/Kid_Buu"
+  },
+  {
+    "id": 90,
+    "claim": "Kid Buu is defeated by Goku's Spirit Bomb, powered with energy from people on Earth.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Energy lent by the people of Earth powers the Spirit Bomb. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Kid Buu",
+    "source_url": "https://dragonball.fandom.com/wiki/Kid_Buu"
+  },
+  {
+    "id": 91,
+    "claim": "Beerus is awakened from his slumber because of Vegeta's fight with Cell.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Beerus awakens because of a prophecy about the Super Saiyan God. (Movie.)",
+    "source_name": "Dragon Ball Wiki - Beerus",
+    "source_url": "https://dragonball.fandom.com/wiki/Beerus"
+  },
+  {
+    "id": 92,
+    "claim": "The Super Saiyan God ritual in Battle of Gods requires only three Saiyans.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. The ritual requires six righteous Saiyans. (Movie.)",
+    "source_name": "Dragon Ball Wiki - Super Saiyan God",
+    "source_url": "https://dragonball.fandom.com/wiki/Super_Saiyan_God"
+  },
+  {
+    "id": 93,
+    "claim": "In Dragon Ball Super, Android 17's original human name is Lapis.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Dragon Ball Super reveals the names Lapis (17) and Lazuli (18).",
+    "source_name": "Dragon Ball Wiki - Android 17",
+    "source_url": "https://dragonball.fandom.com/wiki/Android_17"
+  },
+  {
+    "id": 94,
+    "claim": "Dr. Gero was a scientist working for the Red Ribbon Army.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Dr. Gero worked for the Red Ribbon Army before creating the Androids.",
+    "source_name": "Dragon Ball Wiki - Dr. Gero",
+    "source_url": "https://dragonball.fandom.com/wiki/Dr._Gero"
+  },
+  {
+    "id": 95,
+    "claim": "Commander Red leads the Red Ribbon Army.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Commander Red is the head of the Red Ribbon Army.",
+    "source_name": "Dragon Ball Wiki - Commander Red",
+    "source_url": "https://dragonball.fandom.com/wiki/Commander_Red"
+  },
+  {
+    "id": 96,
+    "claim": "The Red Ribbon Army is defeated by Piccolo.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. In the original Dragon Ball, Goku takes down the Red Ribbon Army.",
+    "source_name": "Dragon Ball Wiki - Red Ribbon Army",
+    "source_url": "https://dragonball.fandom.com/wiki/Red_Ribbon_Army"
+  },
+  {
+    "id": 97,
+    "claim": "King Piccolo was sealed using the Evil Containment Wave.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Master Mutaito sealed King Piccolo with the Evil Containment Wave. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Evil Containment Wave",
+    "source_url": "https://dragonball.fandom.com/wiki/Evil_Containment_Wave"
+  },
+  {
+    "id": 98,
+    "claim": "Goku Black first appears in Dragon Ball GT.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Goku Black is a Dragon Ball Super character; GT is a separate continuity.",
+    "source_name": "Dragon Ball Wiki - Goku Black",
+    "source_url": "https://dragonball.fandom.com/wiki/Goku_Black"
+  },
+  {
+    "id": 99,
+    "claim": "In Dragon Ball Super: Super Hero, Gamma 1 is a Saiyan.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Gamma 1 is an android created by Dr. Hedo. (Movie.)",
+    "source_name": "Dragon Ball Wiki - Gamma 1",
+    "source_url": "https://dragonball.fandom.com/wiki/Gamma_1"
+  },
+  {
+    "id": 100,
+    "claim": "In Dragon Ball Super: Super Hero, Magenta is Dr. Gero's brother.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Magenta is the son of Commander Red. (Movie.)",
+    "source_name": "Dragon Ball Wiki - Magenta",
+    "source_url": "https://dragonball.fandom.com/wiki/Magenta"
+  },
+  {
+    "id": 101,
+    "claim": "A Saiyan with a tail transforms into a Great Ape when exposed to a full moon.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Saiyans with tails turn into Great Apes when they look at a full moon (Blutz waves), as established in the original Dragon Ball and Dragon Ball Z.",
+    "source_name": "Dragon Ball Wiki - Great Ape",
+    "source_url": "https://dragonball.fandom.com/wiki/Great_Ape"
+  },
+  {
+    "id": 102,
+    "claim": "In Dragon Ball Z, a Super Saiyan has golden hair and a golden aura.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. The Super Saiyan transformation is known for spiky golden hair and a golden aura.",
+    "source_name": "Dragon Ball Wiki - Super Saiyan",
+    "source_url": "https://dragonball.fandom.com/wiki/Super_Saiyan"
+  },
+  {
+    "id": 103,
+    "claim": "Goku learns Instant Transmission on the planet Yardrat.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Goku picks up the technique from the Yardrats after the Frieza Saga. (Spoiler: Dragon Ball Z.)",
+    "source_name": "Dragon Ball Wiki - Instant Transmission",
+    "source_url": "https://dragonball.fandom.com/wiki/Instant_Transmission"
+  },
+  {
+    "id": 104,
+    "claim": "Goku learns Instant Transmission from King Kai.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Goku learns Instant Transmission from the Yardrats. King Kai teaches him the Kaioken and the Spirit Bomb.",
+    "source_name": "Dragon Ball Wiki - Instant Transmission",
+    "source_url": "https://dragonball.fandom.com/wiki/Instant_Transmission"
+  },
+  {
+    "id": 105,
+    "claim": "Goku learns the Kaioken technique from King Kai.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. King Kai teaches Goku the Kaioken during his training in the afterlife. (Spoiler: Dragon Ball Z.)",
+    "source_name": "Dragon Ball Wiki - Kaioken",
+    "source_url": "https://dragonball.fandom.com/wiki/Kaioken"
+  },
+  {
+    "id": 106,
+    "claim": "The Spirit Bomb draws its energy solely from the body of the person who throws it.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. The Spirit Bomb gathers energy from living things around the user, which is its defining feature.",
+    "source_name": "Dragon Ball Wiki - Spirit Bomb",
+    "source_url": "https://dragonball.fandom.com/wiki/Spirit_Bomb"
+  },
+  {
+    "id": 107,
+    "claim": "In Dragon Ball Z, a fusion created with the Fusion Dance lasts for 30 minutes.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Fusion Dance fusions last thirty minutes before the fused warriors separate again.",
+    "source_name": "Dragon Ball Wiki - Fusion Dance",
+    "source_url": "https://dragonball.fandom.com/wiki/Fusion_Dance"
+  },
+  {
+    "id": 108,
+    "claim": "The Fusion Dance works between any two fighters regardless of their size or power difference.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. The Fusion Dance requires two fighters of similar height and power levels, and the movements must be performed in sync.",
+    "source_name": "Dragon Ball Wiki - Fusion Dance",
+    "source_url": "https://dragonball.fandom.com/wiki/Fusion_Dance"
+  },
+  {
+    "id": 109,
+    "claim": "In Dragon Ball Super, Ultra Instinct is a state in which the body moves and reacts on its own, without conscious thought.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Ultra Instinct lets the user's body react to attacks automatically. (Spoiler: Dragon Ball Super, Tournament of Power.)",
+    "source_name": "Dragon Ball Wiki - Ultra Instinct",
+    "source_url": "https://dragonball.fandom.com/wiki/Ultra_Instinct"
+  },
+  {
+    "id": 110,
+    "claim": "Ultra Instinct first appears in the original Dragon Ball Z series.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Ultra Instinct debuts in Dragon Ball Super, not in Dragon Ball Z.",
+    "source_name": "Dragon Ball Wiki - Ultra Instinct",
+    "source_url": "https://dragonball.fandom.com/wiki/Ultra_Instinct"
+  },
+  {
+    "id": 111,
+    "claim": "The Kaioken multiplies the user's power, but it strains the user's body.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Higher Kaioken multipliers put greater strain on the user's body.",
+    "source_name": "Dragon Ball Wiki - Kaioken",
+    "source_url": "https://dragonball.fandom.com/wiki/Kaioken"
+  },
+  {
+    "id": 112,
+    "claim": "Super Saiyan God and Super Saiyan Blue are the same transformation.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Super Saiyan God is a distinct transformation using god ki. Super Saiyan Blue is a Super Saiyan form powered by god ki. (Spoiler: Dragon Ball Super.)",
+    "source_name": "Dragon Ball Wiki - Super Saiyan Blue",
+    "source_url": "https://dragonball.fandom.com/wiki/Super_Saiyan_Blue"
+  },
+  {
+    "id": 113,
+    "claim": "The Super Saiyan God transformation debuts in the film Dragon Ball Z: Battle of Gods.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Goku first becomes Super Saiyan God in Battle of Gods. (Movie spoiler.)",
+    "source_name": "Dragon Ball Wiki - Super Saiyan God",
+    "source_url": "https://dragonball.fandom.com/wiki/Super_Saiyan_God"
+  },
+  {
+    "id": 114,
+    "claim": "Gohan unlocks his latent potential through a ritual performed by the Elder Kai.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. The Elder Kai's ritual unlocks Gohan's hidden power, giving rise to the form often called Ultimate (Mystic) Gohan. (Spoiler: Majin Buu Saga.)",
+    "source_name": "Dragon Ball Wiki - Gohan",
+    "source_url": "https://dragonball.fandom.com/wiki/Gohan"
+  },
+  {
+    "id": 115,
+    "claim": "Gotenks is formed using Potara earrings.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Gotenks is created by Goten and Trunks performing the Fusion Dance. (Spoiler: Majin Buu Saga.)",
+    "source_name": "Dragon Ball Wiki - Gotenks",
+    "source_url": "https://dragonball.fandom.com/wiki/Gotenks"
+  },
+  {
+    "id": 116,
+    "claim": "Vegito is formed using Potara earrings, while Gogeta is formed using the Fusion Dance.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. In Dragon Ball Z, Goku and Vegeta form Vegito with the Potara and Gogeta (in the film Fusion Reborn) with the Fusion Dance. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Gogeta",
+    "source_url": "https://dragonball.fandom.com/wiki/Gogeta"
+  },
+  {
+    "id": 117,
+    "claim": "Super Saiyan 4 appears in Dragon Ball Super.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Super Saiyan 4 belongs to Dragon Ball GT, which is a separate continuity from Dragon Ball Super.",
+    "source_name": "Dragon Ball Wiki - Super Saiyan 4",
+    "source_url": "https://dragonball.fandom.com/wiki/Super_Saiyan_4"
+  },
+  {
+    "id": 118,
+    "claim": "The Special Beam Cannon is Piccolo's signature technique.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Piccolo invented and uses the Special Beam Cannon (Makankosappo), a drilling beam attack.",
+    "source_name": "Dragon Ball Wiki - Special Beam Cannon",
+    "source_url": "https://dragonball.fandom.com/wiki/Special_Beam_Cannon"
+  },
+  {
+    "id": 119,
+    "claim": "The Special Beam Cannon is a technique invented by a Saiyan.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. The Special Beam Cannon is Piccolo's Namekian technique.",
+    "source_name": "Dragon Ball Wiki - Special Beam Cannon",
+    "source_url": "https://dragonball.fandom.com/wiki/Special_Beam_Cannon"
+  },
+  {
+    "id": 120,
+    "claim": "A Saiyan who recovers from a near-death injury becomes stronger through the Zenkai boost.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. The Zenkai boost is a Saiyan trait that increases power after recovering from serious injury.",
+    "source_name": "Dragon Ball Wiki - Zenkai",
+    "source_url": "https://dragonball.fandom.com/wiki/Zenkai"
+  },
+  {
+    "id": 121,
+    "claim": "Instant Transmission lets the user teleport anywhere without needing to sense a ki signature.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. The user must lock onto a ki signature to teleport to that location.",
+    "source_name": "Dragon Ball Wiki - Instant Transmission",
+    "source_url": "https://dragonball.fandom.com/wiki/Instant_Transmission"
+  },
+  {
+    "id": 122,
+    "claim": "Namekians can regenerate lost limbs.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Namekians are known for regenerating lost body parts.",
+    "source_name": "Dragon Ball Wiki - Namekian",
+    "source_url": "https://dragonball.fandom.com/wiki/Namekian"
+  },
+  {
+    "id": 123,
+    "claim": "A Saiyan's tail has no weakness, and grabbing it has no effect.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. A Saiyan's tail is a notable weakness; grabbing it can weaken the Saiyan unless the weakness has been trained away.",
+    "source_name": "Dragon Ball Wiki - Saiyan",
+    "source_url": "https://dragonball.fandom.com/wiki/Saiyan"
+  },
+  {
+    "id": 124,
+    "claim": "In Dragon Ball Z, Dr. Gero's Androids 17 and 18 have no ki that can be sensed.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Their energy cannot be sensed like a normal fighter's. (Spoiler: Android Saga.)",
+    "source_name": "Dragon Ball Wiki - Android 17",
+    "source_url": "https://dragonball.fandom.com/wiki/Android_17"
+  },
+  {
+    "id": 125,
+    "claim": "A Saiyan can only become a Super Saiyan while looking at a full moon.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. The Great Ape form is triggered by the full moon. The Super Saiyan transformation is triggered by emotion and power.",
+    "source_name": "Dragon Ball Wiki - Super Saiyan",
+    "source_url": "https://dragonball.fandom.com/wiki/Super_Saiyan"
+  },
+  {
+    "id": 126,
+    "claim": "Vegeta's Ultra Ego form appears in Dragon Ball Super.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Ultra Ego is Vegeta's god-of-destruction-style power in Dragon Ball Super, which grows stronger as he takes damage. (Spoiler: Granolah arc, manga.)",
+    "source_name": "Dragon Ball Wiki - Ultra Ego",
+    "source_url": "https://dragonball.fandom.com/wiki/Ultra_Ego"
+  },
+  {
+    "id": 127,
+    "claim": "Ascended Super Saiyan is another name for Super Saiyan 2.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Ascended Super Saiyan is a separate, bulkier Super Saiyan variant. Super Saiyan 2 is its own transformation.",
+    "source_name": "Dragon Ball Wiki - Ascended Super Saiyan",
+    "source_url": "https://dragonball.fandom.com/wiki/Ascended_Super_Saiyan"
+  },
+  {
+    "id": 128,
+    "claim": "The Golden Great Ape appears in Dragon Ball GT.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Golden Great Apes appear in Dragon Ball GT as a step toward Super Saiyan 4. (GT continuity.)",
+    "source_name": "Dragon Ball Wiki - Golden Great Ape",
+    "source_url": "https://dragonball.fandom.com/wiki/Golden_Great_Ape"
+  },
+  {
+    "id": 129,
+    "claim": "Ultra Instinct Sign and Mastered Ultra Instinct are the same form.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Ultra Instinct Sign is an incomplete, unstable state. Mastered Ultra Instinct is the complete form with silver hair. (Spoiler: Dragon Ball Super.)",
+    "source_name": "Dragon Ball Wiki - Ultra Instinct",
+    "source_url": "https://dragonball.fandom.com/wiki/Ultra_Instinct"
+  },
+  {
+    "id": 130,
+    "claim": "Super Saiyan Rosé is a transformation associated with Goku Black.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Goku Black uses Super Saiyan Rosé in Dragon Ball Super. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Super Saiyan Rosé",
+    "source_url": "https://dragonball.fandom.com/wiki/Super_Saiyan_Ros%C3%A9"
+  },
+  {
+    "id": 131,
+    "claim": "Goku first uses the Spirit Bomb against Cell.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Goku's first Spirit Bomb in Dragon Ball Z is used against Vegeta. (Spoiler: Saiyan Saga.)",
+    "source_name": "Dragon Ball Wiki - Spirit Bomb",
+    "source_url": "https://dragonball.fandom.com/wiki/Spirit_Bomb"
+  },
+  {
+    "id": 132,
+    "claim": "Goku uses the Kaioken against Vegeta during the Saiyan Saga.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Goku uses the Kaioken, at increasing multipliers, in his battle with Vegeta. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Kaioken",
+    "source_url": "https://dragonball.fandom.com/wiki/Kaioken"
+  },
+  {
+    "id": 133,
+    "claim": "Jiren uses Ultra Instinct during the Tournament of Power.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Goku is the fighter who uses Ultra Instinct against Jiren. (Spoiler: Dragon Ball Super.)",
+    "source_name": "Dragon Ball Wiki - Jiren",
+    "source_url": "https://dragonball.fandom.com/wiki/Jiren"
+  },
+  {
+    "id": 134,
+    "claim": "Goku first uses Ultra Instinct (Sign) in his fight against Jiren during the Tournament of Power.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Goku first displays the Ultra Instinct state against Jiren. (Spoiler: Dragon Ball Super.)",
+    "source_name": "Dragon Ball Wiki - Ultra Instinct",
+    "source_url": "https://dragonball.fandom.com/wiki/Ultra_Instinct"
+  },
+  {
+    "id": 135,
+    "claim": "A user of Instant Transmission can take other people along by having them touch the user.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Goku can carry others with him when they make contact.",
+    "source_name": "Dragon Ball Wiki - Instant Transmission",
+    "source_url": "https://dragonball.fandom.com/wiki/Instant_Transmission"
+  },
+  {
+    "id": 136,
+    "claim": "Hakai is a destruction technique associated with the Gods of Destruction.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Hakai is the signature destruction power of the Gods of Destruction, such as Beerus. (Dragon Ball Super.)",
+    "source_name": "Dragon Ball Wiki - Hakai",
+    "source_url": "https://dragonball.fandom.com/wiki/Hakai"
+  },
+  {
+    "id": 137,
+    "claim": "A Namekian can reproduce by spitting out an egg.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Namekians reproduce asexually by laying an egg, as shown with King Piccolo and Piccolo.",
+    "source_name": "Dragon Ball Wiki - Namekian",
+    "source_url": "https://dragonball.fandom.com/wiki/Namekian"
+  },
+  {
+    "id": 138,
+    "claim": "Gotenks can reach the Super Saiyan 3 form.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Gotenks reaches Super Saiyan 3 during the Majin Buu Saga. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Gotenks",
+    "source_url": "https://dragonball.fandom.com/wiki/Gotenks"
+  },
+  {
+    "id": 139,
+    "claim": "The Galick Gun is one of Vegeta's signature energy attacks.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Vegeta uses the Galick Gun from the Saiyan Saga onward.",
+    "source_name": "Dragon Ball Wiki - Galick Gun",
+    "source_url": "https://dragonball.fandom.com/wiki/Galick_Gun"
+  },
+  {
+    "id": 140,
+    "claim": "The power-up Gohan receives from the Elder Kai is often called Mystic Gohan.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. The form is known as Ultimate Gohan and also as Mystic Gohan. (Spoiler: Majin Buu Saga.)",
+    "source_name": "Dragon Ball Wiki - Gohan",
+    "source_url": "https://dragonball.fandom.com/wiki/Gohan"
+  },
+  {
+    "id": 141,
+    "claim": "Instant Transmission can only be used while the user is in a Super Saiyan form.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Instant Transmission is not tied to any transformation.",
+    "source_name": "Dragon Ball Wiki - Instant Transmission",
+    "source_url": "https://dragonball.fandom.com/wiki/Instant_Transmission"
+  },
+  {
+    "id": 142,
+    "claim": "Super Saiyan 2 first appears during the Frieza Saga.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Super Saiyan 2 first appears later, during the Cell Saga. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Super Saiyan 2",
+    "source_url": "https://dragonball.fandom.com/wiki/Super_Saiyan_2"
+  },
+  {
+    "id": 143,
+    "claim": "In Dragon Ball Super, Vegito Blue is formed through the Fusion Dance.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Vegito is formed with Potara earrings. The Fusion Dance creates Gogeta. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Vegito",
+    "source_url": "https://dragonball.fandom.com/wiki/Vegito"
+  },
+  {
+    "id": 144,
+    "claim": "Vegeta learned the Final Flash from Piccolo.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Final Flash is Vegeta's own technique, not one taught by Piccolo.",
+    "source_name": "Dragon Ball Wiki - Final Flash",
+    "source_url": "https://dragonball.fandom.com/wiki/Final_Flash"
+  },
+  {
+    "id": 145,
+    "claim": "Saiyans in Great Ape form always retain full control of their mind.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Great Apes typically lose rational control unless they have trained to control the form.",
+    "source_name": "Dragon Ball Wiki - Great Ape",
+    "source_url": "https://dragonball.fandom.com/wiki/Great_Ape"
+  },
+  {
+    "id": 146,
+    "claim": "Super Saiyan Rosé is a transformation achieved by Vegeta.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Super Saiyan Rosé is the form of Goku Black, not Vegeta. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Super Saiyan Rosé",
+    "source_url": "https://dragonball.fandom.com/wiki/Super_Saiyan_Ros%C3%A9"
+  },
+  {
+    "id": 147,
+    "claim": "Vegeta is trained in Ultra Ego by Whis.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. In the Dragon Ball Super manga, Beerus trains Vegeta in Ultra Ego. (Spoiler: Granolah arc.)",
+    "source_name": "Dragon Ball Wiki - Ultra Ego",
+    "source_url": "https://dragonball.fandom.com/wiki/Ultra_Ego"
+  },
+  {
+    "id": 148,
+    "claim": "Namekians are unable to sense ki.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Namekians such as Piccolo can sense ki.",
+    "source_name": "Dragon Ball Wiki - Namekian",
+    "source_url": "https://dragonball.fandom.com/wiki/Namekian"
+  },
+  {
+    "id": 149,
+    "claim": "A Saiyan's tail can never regrow once it has been cut off.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Saiyan tails can regrow after being cut, unless the Saiyan permanently removes them.",
+    "source_name": "Dragon Ball Wiki - Saiyan",
+    "source_url": "https://dragonball.fandom.com/wiki/Saiyan"
+  },
+  {
+    "id": 150,
+    "claim": "Instant Transmission can be used to travel through time.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Instant Transmission is a teleportation technique and does not allow time travel.",
+    "source_name": "Dragon Ball Wiki - Instant Transmission",
+    "source_url": "https://dragonball.fandom.com/wiki/Instant_Transmission"
+  },
+  {
+    "id": 151,
+    "claim": "Earth's seven Dragon Balls must be gathered to summon the dragon Shenron.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Gathering all seven of Earth's Dragon Balls summons Shenron, who grants a wish.",
+    "source_name": "Dragon Ball Wiki - Dragon Balls",
+    "source_url": "https://dragonball.fandom.com/wiki/Dragon_Balls"
+  },
+  {
+    "id": 152,
+    "claim": "Shenron is the dragon summoned by the Dragon Balls of Namek.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Namek's Dragon Balls summon Porunga. Shenron is the dragon of Earth's Dragon Balls.",
+    "source_name": "Dragon Ball Wiki - Porunga",
+    "source_url": "https://dragonball.fandom.com/wiki/Porunga"
+  },
+  {
+    "id": 153,
+    "claim": "In the original Dragon Ball, Goku's keepsake from his grandfather Gohan is the four-star Dragon Ball.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Goku's four-star ball is the keepsake from his grandfather and is what draws Bulma to him at the start of the story.",
+    "source_name": "Dragon Ball Wiki - Dragon Balls",
+    "source_url": "https://dragonball.fandom.com/wiki/Dragon_Balls"
+  },
+  {
+    "id": 154,
+    "claim": "Kami grows the Senzu Beans that heal fighters in Dragon Ball.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Korin, the cat sage of Korin Tower, grows the Senzu Beans.",
+    "source_name": "Dragon Ball Wiki - Senzu Bean",
+    "source_url": "https://dragonball.fandom.com/wiki/Senzu_Bean"
+  },
+  {
+    "id": 155,
+    "claim": "Bulma invents the Dragon Radar, which locates Dragon Balls.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Bulma builds the Dragon Radar to track down the Dragon Balls.",
+    "source_name": "Dragon Ball Wiki - Dragon Radar",
+    "source_url": "https://dragonball.fandom.com/wiki/Dragon_Radar"
+  },
+  {
+    "id": 156,
+    "claim": "Kami created Earth's Dragon Balls.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Kami, the Guardian of Earth, created them. (Spoiler: later Dragon Ball Z lore.)",
+    "source_name": "Dragon Ball Wiki - Kami",
+    "source_url": "https://dragonball.fandom.com/wiki/Kami"
+  },
+  {
+    "id": 157,
+    "claim": "Dende, who later becomes the Guardian of Earth, is a Saiyan.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Dende is a Namekian from the planet Namek. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Dende",
+    "source_url": "https://dragonball.fandom.com/wiki/Dende"
+  },
+  {
+    "id": 158,
+    "claim": "In the original Dragon Ball, Emperor Pilaf seeks the Dragon Balls in order to rule the world.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Pilaf's goal is to collect the Dragon Balls and use the wish to rule the world.",
+    "source_name": "Dragon Ball Wiki - Emperor Pilaf",
+    "source_url": "https://dragonball.fandom.com/wiki/Emperor_Pilaf"
+  },
+  {
+    "id": 159,
+    "claim": "In the original Dragon Ball, Emperor Pilaf successfully makes his wish for world domination with Shenron.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "False. Pilaf is interrupted when Oolong makes a wish first. Shenron grants only one wish. (Spoiler: early original Dragon Ball.)",
+    "source_name": "Dragon Ball Wiki - Emperor Pilaf",
+    "source_url": "https://dragonball.fandom.com/wiki/Emperor_Pilaf"
+  },
+  {
+    "id": 160,
+    "claim": "Master Roshi trains both Goku and Krillin in the original Dragon Ball.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Easy",
+    "explanation": "True. Roshi takes Goku and Krillin on as students.",
+    "source_name": "Dragon Ball Wiki - Master Roshi",
+    "source_url": "https://dragonball.fandom.com/wiki/Master_Roshi"
+  },
+  {
+    "id": 161,
+    "claim": "Porunga, the dragon of Namek's Dragon Balls, can grant three wishes.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Porunga grants up to three wishes. (Spoiler: Frieza Saga.)",
+    "source_name": "Dragon Ball Wiki - Porunga",
+    "source_url": "https://dragonball.fandom.com/wiki/Porunga"
+  },
+  {
+    "id": 162,
+    "claim": "After a wish is granted, Earth's original Dragon Balls scatter and turn to stone for a time.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. The Dragon Balls scatter and become inactive for about a year before they can be used again.",
+    "source_name": "Dragon Ball Wiki - Dragon Balls",
+    "source_url": "https://dragonball.fandom.com/wiki/Dragon_Balls"
+  },
+  {
+    "id": 163,
+    "claim": "In Dragon Ball Super, the Super Dragon Balls belong to Universe 7.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. The Super Dragon Balls belong to Universe 6.",
+    "source_name": "Dragon Ball Wiki - Super Dragon Balls",
+    "source_url": "https://dragonball.fandom.com/wiki/Super_Dragon_Balls"
+  },
+  {
+    "id": 164,
+    "claim": "In the Hyperbolic Time Chamber, one day outside equals one year inside.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. A day outside corresponds to a year inside the chamber.",
+    "source_name": "Dragon Ball Wiki - Hyperbolic Time Chamber",
+    "source_url": "https://dragonball.fandom.com/wiki/Hyperbolic_Time_Chamber"
+  },
+  {
+    "id": 165,
+    "claim": "The Hyperbolic Time Chamber is located on King Kai's planet.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. It is a room at Kami's Lookout above the Earth.",
+    "source_name": "Dragon Ball Wiki - Hyperbolic Time Chamber",
+    "source_url": "https://dragonball.fandom.com/wiki/Hyperbolic_Time_Chamber"
+  },
+  {
+    "id": 166,
+    "claim": "Kami is the good half of a Namekian who separated from his evil half, King Piccolo.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Kami and King Piccolo are the two halves of one Namekian. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Kami",
+    "source_url": "https://dragonball.fandom.com/wiki/Kami"
+  },
+  {
+    "id": 167,
+    "claim": "Dende is a Namekian with the power to heal others.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Dende's healing ability is first seen on Namek. (Spoiler: Frieza Saga.)",
+    "source_name": "Dragon Ball Wiki - Dende",
+    "source_url": "https://dragonball.fandom.com/wiki/Dende"
+  },
+  {
+    "id": 168,
+    "claim": "In Dragon Ball Super, the Supreme Kai Shin is Beerus's attendant.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Beerus's attendant is the Angel Whis. Shin is a Supreme Kai.",
+    "source_name": "Dragon Ball Wiki - Shin",
+    "source_url": "https://dragonball.fandom.com/wiki/Shin"
+  },
+  {
+    "id": 169,
+    "claim": "In Dragon Ball Super, Whis is the son of the Grand Priest.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. The Grand Priest is Whis's father. (Spoiler: Dragon Ball Super.)",
+    "source_name": "Dragon Ball Wiki - Whis",
+    "source_url": "https://dragonball.fandom.com/wiki/Whis"
+  },
+  {
+    "id": 170,
+    "claim": "In Dragon Ball Super, the Grand Priest is the ruler of all universes.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. The ruler of all universes is the Omni-King, Zeno. The Grand Priest serves Zeno.",
+    "source_name": "Dragon Ball Wiki - Grand Priest",
+    "source_url": "https://dragonball.fandom.com/wiki/Grand_Priest"
+  },
+  {
+    "id": 171,
+    "claim": "In Dragon Ball Super, Omni-King Zeno can erase entire universes.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Zeno can erase universes, as established in the Future Trunks and Tournament of Power arcs. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Zeno",
+    "source_url": "https://dragonball.fandom.com/wiki/Zeno"
+  },
+  {
+    "id": 172,
+    "claim": "All twelve universes take part in the Tournament of Power.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Eight universes take part in the Tournament of Power. (Spoiler: Dragon Ball Super.)",
+    "source_name": "Dragon Ball Wiki - Tournament of Power",
+    "source_url": "https://dragonball.fandom.com/wiki/Tournament_of_Power"
+  },
+  {
+    "id": 173,
+    "claim": "The Tournament of Power lasts 48 minutes.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. The tournament has a 48-minute time limit. (Spoiler: Dragon Ball Super.)",
+    "source_name": "Dragon Ball Wiki - Tournament of Power",
+    "source_url": "https://dragonball.fandom.com/wiki/Tournament_of_Power"
+  },
+  {
+    "id": 174,
+    "claim": "In Dragon Ball Super, Frieza fights on Universe 7's team in the Tournament of Power.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Frieza joins Universe 7's team. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Frieza",
+    "source_url": "https://dragonball.fandom.com/wiki/Frieza"
+  },
+  {
+    "id": 175,
+    "claim": "In Future Trunks's timeline, the time machine was built by Dr. Brief.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Future Bulma built the time machine. (Spoiler: Dragon Ball Z.)",
+    "source_name": "Dragon Ball Wiki - Future Trunks",
+    "source_url": "https://dragonball.fandom.com/wiki/Future_Trunks"
+  },
+  {
+    "id": 176,
+    "claim": "In Future Trunks's timeline, Goku died of a heart virus.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. In that timeline Goku died of the heart virus before the Androids' rampage. (Spoiler: Dragon Ball Z.)",
+    "source_name": "Dragon Ball Wiki - Future Trunks",
+    "source_url": "https://dragonball.fandom.com/wiki/Future_Trunks"
+  },
+  {
+    "id": 177,
+    "claim": "Goku sacrifices himself by teleporting Cell to King Kai's planet.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. Goku teleports Cell there to stop his self-destruction. (Spoiler: Cell Saga.)",
+    "source_name": "Dragon Ball Wiki - Cell",
+    "source_url": "https://dragonball.fandom.com/wiki/Cell"
+  },
+  {
+    "id": 178,
+    "claim": "Hercule (Mr. Satan) truly defeats Cell in the Cell Games.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. The world believes Hercule did it, but Gohan defeats Cell. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Hercule",
+    "source_url": "https://dragonball.fandom.com/wiki/Hercule"
+  },
+  {
+    "id": 179,
+    "claim": "In the film Dragon Ball Super: Broly, Planet Vegeta was originally called Planet Sadala.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "True. The film explains that the Saiyans' homeworld was originally named Planet Sadala. (Movie.)",
+    "source_name": "Dragon Ball Wiki - Planet Vegeta",
+    "source_url": "https://dragonball.fandom.com/wiki/Planet_Vegeta"
+  },
+  {
+    "id": 180,
+    "claim": "Namek's Dragon Balls were created by Kami.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Medium",
+    "explanation": "False. Namek's Dragon Balls were created by Grand Elder Guru. Kami created Earth's. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Guru",
+    "source_url": "https://dragonball.fandom.com/wiki/Guru"
+  },
+  {
+    "id": 181,
+    "claim": "Goku defeats Piccolo Jr. in the 23rd World Martial Arts Tournament.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Goku defeats Piccolo Jr. in the 23rd tournament. (Spoiler: original Dragon Ball.)",
+    "source_name": "Dragon Ball Wiki - World Martial Arts Tournament",
+    "source_url": "https://dragonball.fandom.com/wiki/World_Martial_Arts_Tournament"
+  },
+  {
+    "id": 182,
+    "claim": "Goku wins the 21st World Martial Arts Tournament.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Goku loses the 21st tournament to Jackie Chun (Master Roshi in disguise). He wins the 23rd. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - World Martial Arts Tournament",
+    "source_url": "https://dragonball.fandom.com/wiki/World_Martial_Arts_Tournament"
+  },
+  {
+    "id": 183,
+    "claim": "In Dragon Ball GT, Goku is turned into a child by a wish made by Emperor Pilaf with the Black Star Dragon Balls.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True in GT continuity. Pilaf's wish turns Goku back into a child. (GT only.)",
+    "source_name": "Dragon Ball Wiki - Black Star Dragon Balls",
+    "source_url": "https://dragonball.fandom.com/wiki/Black_Star_Dragon_Balls"
+  },
+  {
+    "id": 184,
+    "claim": "In Dragon Ball GT, Goku is turned into a child by a wish made by Garlic Jr.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. In GT, Emperor Pilaf makes the wish. (GT only.)",
+    "source_name": "Dragon Ball Wiki - Black Star Dragon Balls",
+    "source_url": "https://dragonball.fandom.com/wiki/Black_Star_Dragon_Balls"
+  },
+  {
+    "id": 185,
+    "claim": "In Dragon Ball GT, the Black Star Dragon Balls scatter across space, and Earth will explode if they are not gathered within a year.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True in GT continuity. The Black Star Dragon Balls scatter across the galaxy after the wish. (GT only.)",
+    "source_name": "Dragon Ball Wiki - Black Star Dragon Balls",
+    "source_url": "https://dragonball.fandom.com/wiki/Black_Star_Dragon_Balls"
+  },
+  {
+    "id": 186,
+    "claim": "The Black Star Dragon Balls first appear in Dragon Ball Super.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. The Black Star Dragon Balls belong to Dragon Ball GT, a separate continuity from Super.",
+    "source_name": "Dragon Ball Wiki - Black Star Dragon Balls",
+    "source_url": "https://dragonball.fandom.com/wiki/Black_Star_Dragon_Balls"
+  },
+  {
+    "id": 187,
+    "claim": "In Dragon Ball GT, overuse of the Dragon Balls gives rise to the Shadow Dragons.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True in GT. Negative energy built up through repeated wishes leads to the Shadow Dragons. (GT only.)",
+    "source_name": "Dragon Ball Wiki - Shadow Dragons",
+    "source_url": "https://dragonball.fandom.com/wiki/Shadow_Dragons"
+  },
+  {
+    "id": 188,
+    "claim": "In Dragon Ball GT, the villain Baby is a Saiyan.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Baby is a Tuffle parasite who takes over hosts, such as Vegeta. (GT only.)",
+    "source_name": "Dragon Ball Wiki - Baby",
+    "source_url": "https://dragonball.fandom.com/wiki/Baby"
+  },
+  {
+    "id": 189,
+    "claim": "Dragon Ball DAIMA takes place mainly in the Demon Realm.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. DAIMA (2024) is set largely in the Demon Realm.",
+    "source_name": "Dragon Ball Wiki - Dragon Ball DAIMA",
+    "source_url": "https://dragonball.fandom.com/wiki/Dragon_Ball_Daima"
+  },
+  {
+    "id": 190,
+    "claim": "In Dragon Ball DAIMA, Goku and his friends are turned into children.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. The cast is turned into children at the start of DAIMA. (DAIMA only.)",
+    "source_name": "Dragon Ball Wiki - Dragon Ball DAIMA",
+    "source_url": "https://dragonball.fandom.com/wiki/Dragon_Ball_Daima"
+  },
+  {
+    "id": 191,
+    "claim": "Dragon Ball DAIMA is a sequel to Dragon Ball GT.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. DAIMA is not a continuation of GT; it belongs to the main Dragon Ball continuity, between the Majin Buu saga and Super.",
+    "source_name": "Dragon Ball Wiki - Dragon Ball DAIMA",
+    "source_url": "https://dragonball.fandom.com/wiki/Dragon_Ball_Daima"
+  },
+  {
+    "id": 192,
+    "claim": "In Dragon Ball Super, Whis is a God of Destruction.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Whis is an Angel, the attendant of Beerus, not a God of Destruction.",
+    "source_name": "Dragon Ball Wiki - Whis",
+    "source_url": "https://dragonball.fandom.com/wiki/Whis"
+  },
+  {
+    "id": 193,
+    "claim": "Dragon Ball Super establishes that there are twelve universes.",
+    "answer": "FACT",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "True. Dragon Ball Super establishes twelve universes, each with a God of Destruction.",
+    "source_name": "Dragon Ball Wiki - Universe",
+    "source_url": "https://dragonball.fandom.com/wiki/Universe"
+  },
+  {
+    "id": 194,
+    "claim": "Goku's first World Martial Arts Tournament is the 22nd.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Goku first enters the 21st tournament. (Spoiler: original Dragon Ball.)",
+    "source_name": "Dragon Ball Wiki - World Martial Arts Tournament",
+    "source_url": "https://dragonball.fandom.com/wiki/World_Martial_Arts_Tournament"
+  },
+  {
+    "id": 195,
+    "claim": "Shenron revives Goku after his sacrifice in the Cell Saga.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Goku stays dead after the Cell Games and is not revived until later. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Goku",
+    "source_url": "https://dragonball.fandom.com/wiki/Goku"
+  },
+  {
+    "id": 196,
+    "claim": "Beerus is awakened in Dragon Ball GT.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Beerus awakens in Battle of Gods and Dragon Ball Super. GT is a separate continuity.",
+    "source_name": "Dragon Ball Wiki - Beerus",
+    "source_url": "https://dragonball.fandom.com/wiki/Beerus"
+  },
+  {
+    "id": 197,
+    "claim": "Piccolo is Kami's son.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Piccolo is not Kami's son; he is the reincarnation of King Piccolo, Kami's evil half. (Spoiler.)",
+    "source_name": "Dragon Ball Wiki - Piccolo",
+    "source_url": "https://dragonball.fandom.com/wiki/Piccolo"
+  },
+  {
+    "id": 198,
+    "claim": "Future Zeno is Zeno's twin brother.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. Future Zeno is the future version of Zeno from another time. (Spoiler: Dragon Ball Super.)",
+    "source_name": "Dragon Ball Wiki - Zeno",
+    "source_url": "https://dragonball.fandom.com/wiki/Zeno"
+  },
+  {
+    "id": 199,
+    "claim": "In Dragon Ball DAIMA, Majin Buu is the main antagonist.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. DAIMA's main antagonist is Gomah, not Majin Buu.",
+    "source_name": "Dragon Ball Wiki - Dragon Ball DAIMA",
+    "source_url": "https://dragonball.fandom.com/wiki/Dragon_Ball_Daima"
+  },
+  {
+    "id": 200,
+    "claim": "Dragon Ball DAIMA is set in Universe 6.",
+    "answer": "TRAP",
+    "category": "Dragon Ball",
+    "difficulty": "Hard",
+    "explanation": "False. DAIMA takes place in Goku's own universe, Universe 7, in the Demon Realm.",
+    "source_name": "Dragon Ball Wiki - Dragon Ball DAIMA",
+    "source_url": "https://dragonball.fandom.com/wiki/Dragon_Ball_Daima"
+  }
+]

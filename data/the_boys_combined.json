@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "claim": "In the TV series, Homelander is the leader of the Seven.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "True. Homelander is Vought's top Supe and the leader of the Seven, the company's flagship superhero team.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 2,
+    "claim": "In the TV series, Starlight is the leader of the Seven.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "False. Homelander leads the Seven. Starlight (Annie January) joins as its newest member in Season 1.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 3,
+    "claim": "Billy Butcher is the leader of the Boys in the TV series.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "True. Butcher leads the group of vigilantes that tries to expose and stop dangerous Supes.",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 4,
+    "claim": "Hughie Campbell is a member of the Seven.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "False. Hughie joins the Boys, who oppose the Seven. He is not a Supe.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 5,
+    "claim": "Annie January is the Supe known as Starlight.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "True. Annie January is Starlight, a Supe with light-based powers who joins the Seven.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 6,
+    "claim": "Mother's Milk is a member of the Seven.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "False. Mother's Milk is a member of the Boys, not the Seven.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 7,
+    "claim": "In the TV series, Compound V is the substance that gives Supes their powers.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "True. Vought's Compound V is the substance that gives people superpowers.",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 8,
+    "claim": "A-Train's signature power is flight.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "False. A-Train is the Seven's speedster; his signature power is super speed.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 9,
+    "claim": "The Deep is the Seven member who can communicate with sea creatures.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "True. The Deep's powers are aquatic, including communicating with sea life.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 10,
+    "claim": "Starlight's real name is Maggie Shaw.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "False. Starlight's name is Annie January. Maggie Shaw is Queen Maeve.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 11,
+    "claim": "Becca is Billy Butcher's wife.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "True. Becca Butcher is Billy's wife, and his motivation for going after Homelander. (Spoiler: Season 1.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 12,
+    "claim": "Billy Butcher's dog is named Rex.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "False. Butcher's dog is named Terror.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 13,
+    "claim": "Homelander can fire heat vision from his eyes.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "True. Homelander has heat vision, flight, super strength and invulnerability.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 14,
+    "claim": "In the TV series, Vought International is a government agency.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "False. Vought International is a private corporation that manages and markets Supes.",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 15,
+    "claim": "Hughie Campbell joins forces with Billy Butcher after his girlfriend Robin dies in Season 1.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "True. After Robin's death, Hughie is recruited by Butcher. (Spoiler: Season 1, episode 1.)",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 16,
+    "claim": "In the TV series, Ryan is Homelander's son.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Ryan is the son of Homelander and Becca Butcher. (Spoiler: Season 2.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 17,
+    "claim": "Ryan is Billy Butcher's biological son.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. Ryan is Homelander's biological son, though Butcher forms a bond with him. (Spoiler: Season 2.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 18,
+    "claim": "Becca Butcher is Ryan's mother.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Becca is Ryan's mother. (Spoiler: Season 2.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 19,
+    "claim": "Becca Butcher dies in Season 1 and never appears again in the TV series.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. Butcher learns Becca is alive, and she appears in later seasons. (Spoiler: Season 2 onward.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 20,
+    "claim": "Mother's Milk is a former US Marine.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Mother's Milk served in the US Marines before joining the Boys.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 21,
+    "claim": "Mother's Milk is a former police officer.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. Mother's Milk's military background is as a Marine, not a police officer.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 22,
+    "claim": "Mother's Milk's real name is Marvin T. Milk.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Marvin T. Milk is Mother's Milk's full name.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 23,
+    "claim": "A-Train's real name is Reggie Franklin.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Reggie Franklin is the man behind A-Train.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 24,
+    "claim": "The Deep's real name is Kevin Moskowitz.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Kevin Moskowitz is The Deep's real name.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 25,
+    "claim": "Queen Maeve's powers include super speed.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. Queen Maeve's powers are super strength and durability. Super speed belongs to A-Train.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 26,
+    "claim": "Queen Maeve's real name is Maggie Shaw.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Maggie Shaw is Queen Maeve's real name.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 27,
+    "claim": "In the Season 1 premiere, Hughie's girlfriend Robin is killed by A-Train.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. A-Train's collision with Robin kills her, which launches Hughie's story. (Spoiler: Season 1, episode 1.)",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 28,
+    "claim": "Starlight's powers include telekinesis.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. Starlight's powers are based on light and energy, not telekinesis.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 29,
+    "claim": "Starlight's mother is named Donna January.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Donna January is Annie's mother.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 30,
+    "claim": "Frenchie is a member of the Seven.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. Frenchie is one of the Boys, not a member of the Seven.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 31,
+    "claim": "Frenchie's real name is Serge.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Frenchie's given name is Serge.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 32,
+    "claim": "Kimiko's powers include flight.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. Kimiko's powers are super strength and rapid healing, not flight.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 33,
+    "claim": "In Season 1, Kimiko does not speak.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. In Season 1 Kimiko communicates without speaking, including through sign language.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 34,
+    "claim": "In Season 1, The Deep is reassigned to Sandusky, Ohio.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. After a scandal, Vought sends The Deep to Sandusky, Ohio. (Spoiler: Season 1.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 35,
+    "claim": "In Season 1, The Deep is removed from the Seven after Black Noir exposes him.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. Black Noir does not expose The Deep; Vought removes The Deep from the Seven after a scandal. (Spoiler: Season 1.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 36,
+    "claim": "In Season 3, it is revealed that Soldier Boy is Homelander's biological father.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "True. Season 3 reveals Soldier Boy as Homelander's biological father. (Spoiler: Season 3.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 37,
+    "claim": "In the Season 1 finale, Homelander kills Madelyn Stillwell.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "True. Homelander kills Stillwell, Vought's VP of Hero Management. (Spoiler: Season 1 finale.)",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 38,
+    "claim": "Homelander was raised in a Vought laboratory.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "True. Vought created and raised Homelander in a lab setting. (Spoiler: later seasons.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 39,
+    "claim": "Billy Butcher blames Homelander for what happened to his wife Becca.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "True. Butcher's hatred of Homelander stems from what he believes Homelander did to Becca. (Spoiler: Season 1.)",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 40,
+    "claim": "In Season 2, Stormfront's real name is Klara Risinger.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "True. Klara Risinger is Stormfront's real name. (Spoiler: Season 2.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 41,
+    "claim": "Soldier Boy is Billy Butcher's father.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. Soldier Boy is Homelander's biological father, not Butcher's. (Spoiler: Season 3.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 42,
+    "claim": "Becca Butcher is a Supe.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. Becca is not a Supe.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 43,
+    "claim": "Black Noir is the leader of the Seven.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. Homelander leads the Seven. Black Noir is a silent member of the team.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 44,
+    "claim": "Starlight is a founding member of the Seven.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. Starlight joins the Seven as a newcomer in Season 1.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 45,
+    "claim": "Homelander has the ability to control the weather.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. Homelander's powers are flight, super strength, invulnerability, heat vision and enhanced senses, not weather control.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 46,
+    "claim": "Mother's Milk first joins the Boys in Season 3.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. Mother's Milk is part of the Boys from Season 1.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 47,
+    "claim": "Hughie Campbell is a former Marine.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. Hughie is an ordinary man with no military background. It is Mother's Milk who served in the Marines.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 48,
+    "claim": "Frenchie is a Supe.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. Frenchie has no superpowers. He is a regular human member of the Boys.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 49,
+    "claim": "Kimiko is Frenchie's sister.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. Kimiko and Frenchie are close friends, not siblings.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 50,
+    "claim": "Stormfront, the Season 2 villain, is a male Supe.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. In the TV series Stormfront is a woman, Klara Risinger. (Spoiler: Season 2.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 51,
+    "claim": "In the TV series, Vought International manages the Seven.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "True. Vought markets Supes as heroes, and the Seven is its premier team.",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 52,
+    "claim": "Translucent's superpower is flight.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "False. Translucent's skin bends light, which makes him invisible and gives him durability.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 53,
+    "claim": "Stormfront joins the Seven in Season 2.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "True. Stormfront arrives in Season 2 as a social-media-savvy Supe and threatens Homelander's position. (Spoiler: Season 2.)",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 54,
+    "claim": "Stormfront first appears in Season 1.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "False. Stormfront is a Season 2 character.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 55,
+    "claim": "Soldier Boy is introduced in Season 3.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "True. Soldier Boy is introduced in Season 3 as a legendary hero. (Spoiler: Season 3.)",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 56,
+    "claim": "Soldier Boy is introduced in Season 2.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "False. Soldier Boy debuts in Season 3, not Season 2.",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 57,
+    "claim": "Stan Edgar is the CEO of Vought International.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "True. Stan Edgar is Vought's CEO, though he leaves the role at one point. (Spoiler: Season 3.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 58,
+    "claim": "Madelyn Stillwell is the CEO of Vought International in Season 1.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "False. Stan Edgar is the CEO. Madelyn Stillwell holds a senior executive role overseeing the Seven. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 59,
+    "claim": "In Season 1, A-Train is addicted to Compound V.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "True. A-Train's Compound V addiction is part of his Season 1 storyline.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 60,
+    "claim": "Black Noir dies in Season 1.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "False. Black Noir is a Seven member in Seasons 1 to 3 and dies in the Season 3 finale. (Spoiler.)",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 61,
+    "claim": "Translucent is killed by Hughie in Season 1.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Translucent dies at Hughie's hands in Season 1. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 62,
+    "claim": "Translucent is killed by Homelander in Season 1.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. Hughie kills Translucent. (Spoiler: Season 1.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 63,
+    "claim": "Lamplighter is a pyrokinetic who needs a source of fire to use his power.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Lamplighter appears in Season 2 as a pyrokinetic Supe who needs a fire source.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 64,
+    "claim": "Lamplighter dies in Season 3.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. Lamplighter dies in Season 2 through self-immolation. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 65,
+    "claim": "Lamplighter is a former member of the Seven.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Lamplighter had retired from the Seven by Season 2, when he is at Sage Grove. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 66,
+    "claim": "Lamplighter is an active, public member of the Seven throughout Season 2.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. In Season 2 Lamplighter has already retired from the Seven. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 67,
+    "claim": "In Season 1, A-Train receives a new heart after suffering heart failure.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. A-Train's heart failure leads to a new heart being given to him, from Blue Hawk. (Spoiler: Season 1.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 68,
+    "claim": "A-Train's new heart in Season 1 comes from Black Noir.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. A-Train's new heart comes from Blue Hawk. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 69,
+    "claim": "In Season 2, Ashley Barrett is hired to replace Madelyn Stillwell as Homelander's figurehead.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Ashley takes over Stillwell's role of managing Homelander. (Spoiler: Season 2.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 70,
+    "claim": "Ashley Barrett is the CEO of Vought in Season 1.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. In Season 1 Ashley is a publicist. She becomes CEO in Season 3. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 71,
+    "claim": "Ashley Barrett becomes Vought's CEO in Season 3 when Stan Edgar takes a leave of absence.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Ashley takes over as CEO when Edgar goes on leave. (Spoiler: Season 3.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 72,
+    "claim": "Stan Edgar leaves Vought permanently at the end of Season 1.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. Edgar remains at Vought, and his leave of absence comes in Season 3. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 73,
+    "claim": "Sister Sage joins the Seven in Season 4.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Sister Sage joins in Season 4 as Homelander consolidates power. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 74,
+    "claim": "In Season 4, Ashley Barrett is promoted to President of Vought.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. In Season 4 Ashley is demoted to Vought's mascot after Sister Sage becomes CEO. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 75,
+    "claim": "Soldier Boy's real name is Ben.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Ben is Soldier Boy's real name. (Spoiler: Season 3.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 76,
+    "claim": "Soldier Boy's real name is Jack.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. Soldier Boy's real name is Ben. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 77,
+    "claim": "Black Noir is a member of the Seven in Seasons 1 to 3.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Black Noir is a Seven member across Seasons 1 to 3. (Spoiler.)",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 78,
+    "claim": "Black Noir is a member of the Seven only in Season 1.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. Black Noir remains in the Seven through Season 3. (Spoiler.)",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 79,
+    "claim": "In Season 4, Black Noir II (Justin) takes over the Black Noir role.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. After the original Black Noir's death, Justin becomes Black Noir II. (Spoiler: Season 4.)",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 80,
+    "claim": "Black Noir II is introduced in Season 2.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. Black Noir II appears in Season 4, after the original dies in Season 3. (Spoiler.)",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 81,
+    "claim": "Firecracker joins the Seven in Season 4.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. Firecracker is a new Supe who joins in Season 4. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 82,
+    "claim": "Firecracker joins the Seven in Season 2.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. Firecracker joins in Season 4. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 83,
+    "claim": "The Deep recruits A-Train into the Church of the Collective.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "True. The Deep brings A-Train into the Church of the Collective. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 84,
+    "claim": "Sister Sage is introduced in Season 3.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. Sister Sage appears in Season 4. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 85,
+    "claim": "A-Train is killed by Homelander in Season 4.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "False. A-Train has a redemption arc in Season 4 and is killed by Homelander in Season 5. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 86,
+    "claim": "In Season 2, Black Noir and Homelander capture Queen Maeve.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "True. Homelander and Black Noir capture Maeve in Season 2. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 87,
+    "claim": "Seven on 7 is a web series released in July 2021 that is tied to the show.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "True. Seven on 7 is a web series released in July 2021 alongside the main show.",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 88,
+    "claim": "Diabolical is an adult animated anthology set in the world of The Boys.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "True. Diabolical is an animated anthology released in March 2022.",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 89,
+    "claim": "Gen V is a live-action spin-off that bridges Seasons 3 and 4 of The Boys.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "True. Gen V premiered in September 2023, between Seasons 3 and 4.",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 90,
+    "claim": "Vought on Ice is a fictional Vought show that features in Season 4.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "True. Vought on Ice is a fictional figure-skating show featured in a musical number in Season 4.",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 91,
+    "claim": "Black Noir dies in the Season 3 finale.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "True. The original Black Noir dies in the Season 3 finale. (Spoiler.)",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 92,
+    "claim": "Showrunner Eric Kripke describes Soldier Boy as the 'Homelander before Homelander.'",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "True. Kripke uses that description for Soldier Boy. (Spoiler: Season 3.)",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 93,
+    "claim": "Vought Rising is a sequel set after Season 5 of The Boys.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. Vought Rising is a prequel series.",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 94,
+    "claim": "Gen V is a prequel set before Season 1 of The Boys.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. Gen V bridges Seasons 3 and 4 and is not a prequel.",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 95,
+    "claim": "Diabolical is a live-action series.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. Diabolical is an animated anthology.",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 96,
+    "claim": "Supersonic first appears in Season 1.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. Supersonic (Alex) is a recurring character in Season 3.",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 97,
+    "claim": "Stan Edgar remains Vought's CEO throughout every season of the series.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. Edgar takes a leave of absence in Season 3, and Sister Sage later becomes CEO. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 98,
+    "claim": "Firecracker is killed by A-Train.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. Homelander kills Firecracker in Season 5. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 99,
+    "claim": "Translucent is a living member of the Seven in Season 2.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "False. Translucent dies in Season 1. (Spoiler.)",
+    "source_name": "Wikipedia - List of The Boys characters",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters"
+  },
+  {
+    "id": 100,
+    "claim": "Queen Maeve is a member of the Seven in Seasons 1 to 3.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "True. Maeve is listed as a Seven member in Seasons 1 to 3. (Spoiler.)",
+    "source_name": "Wikipedia - The Boys (TV series)",
+    "source_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  {
+    "id": 101,
+    "claim": "In the TV series, Compound V is a Vought-developed substance that gives people superpowers.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "Compound V is the chemical agent that creates Supes in the series, and Vought keeps its use secret.",
+    "source_name": "The Boys Wiki - Compound V",
+    "source_url": "https://the-boys.fandom.com/wiki/Compound_V"
+  },
+  {
+    "id": 102,
+    "claim": "In the TV series, Homelander is the only person who has ever received Compound V.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "Many characters, including Starlight, A-Train, The Deep and Queen Maeve, are Compound V Supes.",
+    "source_name": "The Boys Wiki - Compound V",
+    "source_url": "https://the-boys.fandom.com/wiki/Compound_V"
+  },
+  {
+    "id": 103,
+    "claim": "Homelander can fly.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "Flight is one of Homelander's core abilities, along with super-strength and heat vision.",
+    "source_name": "The Boys Wiki - Homelander",
+    "source_url": "https://the-boys.fandom.com/wiki/Homelander"
+  },
+  {
+    "id": 104,
+    "claim": "Starlight's main abilities include powered flight.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "Starlight projects light and energy and has enhanced strength and durability, but she does not fly.",
+    "source_name": "The Boys Wiki - Starlight",
+    "source_url": "https://the-boys.fandom.com/wiki/Starlight"
+  },
+  {
+    "id": 105,
+    "claim": "A-Train's signature ability is super-speed.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "A-Train is billed as the fastest man alive and is a member of The Seven.",
+    "source_name": "The Boys Wiki - A-Train",
+    "source_url": "https://the-boys.fandom.com/wiki/A-Train"
+  },
+  {
+    "id": 106,
+    "claim": "The Deep can breathe underwater and communicate with marine animals.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "The Deep's aquatic powers include underwater breathing and communicating with sea life.",
+    "source_name": "The Boys Wiki - The Deep",
+    "source_url": "https://the-boys.fandom.com/wiki/The_Deep"
+  },
+  {
+    "id": 107,
+    "claim": "Queen Maeve's powers include heat vision.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "Maeve is known for super-strength and durability, not heat vision, which is Homelander's ability.",
+    "source_name": "The Boys Wiki - Queen Maeve",
+    "source_url": "https://the-boys.fandom.com/wiki/Queen_Maeve"
+  },
+  {
+    "id": 108,
+    "claim": "Kimiko has superhuman strength and rapid healing.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "Kimiko's rapid regeneration and strength are central to how she fights.",
+    "source_name": "The Boys Wiki - Kimiko Miyashiro",
+    "source_url": "https://the-boys.fandom.com/wiki/Kimiko_Miyashiro"
+  },
+  {
+    "id": 109,
+    "claim": "In Season 1, Kimiko speaks fluent English.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "In Season 1 Kimiko does not speak, and she communicates by other means such as sign language.",
+    "source_name": "The Boys Wiki - Kimiko Miyashiro",
+    "source_url": "https://the-boys.fandom.com/wiki/Kimiko_Miyashiro"
+  },
+  {
+    "id": 110,
+    "claim": "Billy Butcher was born with superpowers.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "Butcher is human. SPOILER (S3): he only gains powers temporarily through Temp V.",
+    "source_name": "The Boys Wiki - Billy Butcher",
+    "source_url": "https://the-boys.fandom.com/wiki/Billy_Butcher"
+  },
+  {
+    "id": 111,
+    "claim": "Temp V gives the user powers only for a limited period, about 24 hours.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S3): Temp V is a temporary version of Compound V whose effects wear off after about a day.",
+    "source_name": "The Boys Wiki - Temp V",
+    "source_url": "https://the-boys.fandom.com/wiki/Temp_V"
+  },
+  {
+    "id": 112,
+    "claim": "Temp V gives the user permanent superpowers after a single dose.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S3): Temp V is temporary by design, and its effects fade rather than becoming permanent.",
+    "source_name": "The Boys Wiki - Temp V",
+    "source_url": "https://the-boys.fandom.com/wiki/Temp_V"
+  },
+  {
+    "id": 113,
+    "claim": "Homelander was raised by Vought in a controlled environment rather than by a normal family.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S1): Homelander's upbringing was controlled by Vought, which shaped his personality and isolation.",
+    "source_name": "The Boys Wiki - Homelander",
+    "source_url": "https://the-boys.fandom.com/wiki/Homelander"
+  },
+  {
+    "id": 114,
+    "claim": "Starlight gains her powers in Season 1 by taking Temp V.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Starlight is a Compound V Supe. Temp V does not appear until Season 3 and is not the source of her abilities.",
+    "source_name": "The Boys Wiki - Starlight",
+    "source_url": "https://the-boys.fandom.com/wiki/Starlight"
+  },
+  {
+    "id": 115,
+    "claim": "Stormfront's powers include electrokinesis.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S2): Stormfront can generate and control electricity, among other abilities.",
+    "source_name": "The Boys Wiki - Stormfront",
+    "source_url": "https://the-boys.fandom.com/wiki/Stormfront"
+  },
+  {
+    "id": 116,
+    "claim": "Soldier Boy is a hero created by Compound V in the 2020s.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S3): Soldier Boy is a much older Supe from decades earlier, not a recent creation.",
+    "source_name": "The Boys Wiki - Soldier Boy",
+    "source_url": "https://the-boys.fandom.com/wiki/Soldier_Boy"
+  },
+  {
+    "id": 117,
+    "claim": "Ryan is Homelander's biological son.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S2): Ryan is Homelander's son and is raised in the shadow of both Homelander and Butcher.",
+    "source_name": "The Boys Wiki - Ryan",
+    "source_url": "https://the-boys.fandom.com/wiki/Ryan"
+  },
+  {
+    "id": 118,
+    "claim": "Becca Butcher is Homelander's wife.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Becca was Billy Butcher's wife. Her connection to Homelander is through Ryan, not marriage.",
+    "source_name": "The Boys Wiki - Becca Butcher",
+    "source_url": "https://the-boys.fandom.com/wiki/Becca_Butcher"
+  },
+  {
+    "id": 119,
+    "claim": "Soldier Boy was held captive for decades before returning in Season 3.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S3): Soldier Boy had been absent for a long time before the Boys encountered him.",
+    "source_name": "The Boys Wiki - Soldier Boy",
+    "source_url": "https://the-boys.fandom.com/wiki/Soldier_Boy"
+  },
+  {
+    "id": 120,
+    "claim": "A-Train's powers include flight.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "A-Train's ability is super-speed, not flight.",
+    "source_name": "The Boys Wiki - A-Train",
+    "source_url": "https://the-boys.fandom.com/wiki/A-Train"
+  },
+  {
+    "id": 121,
+    "claim": "Black Noir is a member of The Seven who rarely speaks.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Black Noir is a silent, masked member of The Seven known for his combat skills.",
+    "source_name": "The Boys Wiki - Black Noir",
+    "source_url": "https://the-boys.fandom.com/wiki/Black_Noir"
+  },
+  {
+    "id": 122,
+    "claim": "Black Noir is the leader of The Seven.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Homelander is the leader of The Seven, not Black Noir.",
+    "source_name": "The Boys Wiki - The Seven",
+    "source_url": "https://the-boys.fandom.com/wiki/The_Seven"
+  },
+  {
+    "id": 123,
+    "claim": "Starlight joins The Seven in Season 1.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Annie January becomes Starlight and joins The Seven at the start of the series.",
+    "source_name": "The Boys Wiki - Starlight",
+    "source_url": "https://the-boys.fandom.com/wiki/Starlight"
+  },
+  {
+    "id": 124,
+    "claim": "Kimiko's abilities come from Compound V experimentation.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Kimiko was subjected to experimentation involving Compound V, which gave her her powers.",
+    "source_name": "The Boys Wiki - Kimiko Miyashiro",
+    "source_url": "https://the-boys.fandom.com/wiki/Kimiko_Miyashiro"
+  },
+  {
+    "id": 125,
+    "claim": "The Deep is the leader of The Seven.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "The Deep is a member of The Seven. Homelander is its leader.",
+    "source_name": "The Boys Wiki - The Deep",
+    "source_url": "https://the-boys.fandom.com/wiki/The_Deep"
+  },
+  {
+    "id": 126,
+    "claim": "Soldier Boy led Payback in the 1980s.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S3): Payback is the 1980s team associated with Soldier Boy.",
+    "source_name": "The Boys Wiki - Soldier Boy",
+    "source_url": "https://the-boys.fandom.com/wiki/Soldier_Boy"
+  },
+  {
+    "id": 127,
+    "claim": "Mother's Milk has superpowers from Compound V.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Mother's Milk is a human member of the Boys with no Compound V powers.",
+    "source_name": "The Boys Wiki - Mother's Milk",
+    "source_url": "https://the-boys.fandom.com/wiki/Mother%27s_Milk"
+  },
+  {
+    "id": 128,
+    "claim": "Hughie Campbell has no superpowers.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Hughie is a normal human who joins Butcher's team.",
+    "source_name": "The Boys Wiki - Hughie Campbell",
+    "source_url": "https://the-boys.fandom.com/wiki/Hughie_Campbell"
+  },
+  {
+    "id": 129,
+    "claim": "Frenchie can shoot lasers from his eyes.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Frenchie is a human member of the Boys and has no powers.",
+    "source_name": "The Boys Wiki - Frenchie",
+    "source_url": "https://the-boys.fandom.com/wiki/Frenchie"
+  },
+  {
+    "id": 130,
+    "claim": "Annie January is Starlight's civilian name.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Annie January is the person behind the Starlight persona.",
+    "source_name": "The Boys Wiki - Starlight",
+    "source_url": "https://the-boys.fandom.com/wiki/Starlight"
+  },
+  {
+    "id": 131,
+    "claim": "Queen Maeve can turn invisible.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Maeve's powers are strength and durability. Invisibility belongs to Translucent.",
+    "source_name": "The Boys Wiki - Queen Maeve",
+    "source_url": "https://the-boys.fandom.com/wiki/Queen_Maeve"
+  },
+  {
+    "id": 132,
+    "claim": "Butcher uses Temp V in Season 3 to gain temporary powers.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S3): Butcher takes Temp V to gain temporary powers while pursuing Soldier Boy.",
+    "source_name": "The Boys Wiki - Temp V",
+    "source_url": "https://the-boys.fandom.com/wiki/Temp_V"
+  },
+  {
+    "id": 133,
+    "claim": "A-Train is the founder of The Seven.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "A-Train is a member of The Seven, not its founder.",
+    "source_name": "The Boys Wiki - A-Train",
+    "source_url": "https://the-boys.fandom.com/wiki/A-Train"
+  },
+  {
+    "id": 134,
+    "claim": "Stormfront first appears in Season 1.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Stormfront is introduced in Season 2.",
+    "source_name": "The Boys Wiki - Stormfront",
+    "source_url": "https://the-boys.fandom.com/wiki/Stormfront"
+  },
+  {
+    "id": 135,
+    "claim": "Homelander is invulnerable to conventional bullets.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Ordinary firearms do not harm Homelander, which is part of his durability.",
+    "source_name": "The Boys Wiki - Homelander",
+    "source_url": "https://the-boys.fandom.com/wiki/Homelander"
+  },
+  {
+    "id": 136,
+    "claim": "Homelander has super-hearing.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "Super-hearing is among the senses Homelander's powers enhance.",
+    "source_name": "The Boys Wiki - Homelander",
+    "source_url": "https://the-boys.fandom.com/wiki/Homelander"
+  },
+  {
+    "id": 137,
+    "claim": "Soldier Boy can produce an energy blast powerful enough to hurt Homelander.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S3): Soldier Boy's energy blast can injure even Homelander.",
+    "source_name": "The Boys Wiki - Soldier Boy",
+    "source_url": "https://the-boys.fandom.com/wiki/Soldier_Boy"
+  },
+  {
+    "id": 138,
+    "claim": "Stormfront's backstory reaches back to the World War II era.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S2): The series reveals Stormfront is much older than she appears.",
+    "source_name": "The Boys Wiki - Stormfront",
+    "source_url": "https://the-boys.fandom.com/wiki/Stormfront"
+  },
+  {
+    "id": 139,
+    "claim": "Starlight's powers do not include flight.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "Her abilities center on light and energy projection plus durability, not flight.",
+    "source_name": "The Boys Wiki - Starlight",
+    "source_url": "https://the-boys.fandom.com/wiki/Starlight"
+  },
+  {
+    "id": 140,
+    "claim": "The Deep's gills are removed in the series, affecting his aquatic abilities.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S2): The Deep loses his gills, which changes his underwater abilities.",
+    "source_name": "The Boys Wiki - The Deep",
+    "source_url": "https://the-boys.fandom.com/wiki/The_Deep"
+  },
+  {
+    "id": 141,
+    "claim": "Ryan's powers emerge while he is a child.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S2-S3): Ryan's abilities appear and develop during his childhood.",
+    "source_name": "The Boys Wiki - Ryan",
+    "source_url": "https://the-boys.fandom.com/wiki/Ryan"
+  },
+  {
+    "id": 142,
+    "claim": "Kimiko communicates through sign language in early seasons.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "Kimiko does not speak in early seasons and relies on sign language and gestures.",
+    "source_name": "The Boys Wiki - Kimiko Miyashiro",
+    "source_url": "https://the-boys.fandom.com/wiki/Kimiko_Miyashiro"
+  },
+  {
+    "id": 143,
+    "claim": "Soldier Boy was killed in 1984 and stayed dead until Season 3.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S3): Soldier Boy was not dead. He was held captive and later returns.",
+    "source_name": "The Boys Wiki - Soldier Boy",
+    "source_url": "https://the-boys.fandom.com/wiki/Soldier_Boy"
+  },
+  {
+    "id": 144,
+    "claim": "Madelyn Stillwell invented Compound V.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "Stillwell was a Vought executive. The series does not credit her as Compound V's inventor.",
+    "source_name": "The Boys Wiki - Madelyn Stillwell",
+    "source_url": "https://the-boys.fandom.com/wiki/Madelyn_Stillwell"
+  },
+  {
+    "id": 145,
+    "claim": "Queen Maeve cannot be harmed by any attack.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "Maeve is durable but not invulnerable, and the series shows her being hurt.",
+    "source_name": "The Boys Wiki - Queen Maeve",
+    "source_url": "https://the-boys.fandom.com/wiki/Queen_Maeve"
+  },
+  {
+    "id": 146,
+    "claim": "Homelander cannot be injured by anything, including other Supes.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S3): Homelander is hurt by Soldier Boy's powerful energy blast, so his durability has limits.",
+    "source_name": "The Boys Wiki - Homelander",
+    "source_url": "https://the-boys.fandom.com/wiki/Homelander"
+  },
+  {
+    "id": 147,
+    "claim": "Stormfront's powers are identical to Homelander's.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S2): Stormfront is notable for electrokinesis, while Homelander's heat vision is distinct.",
+    "source_name": "The Boys Wiki - Stormfront",
+    "source_url": "https://the-boys.fandom.com/wiki/Stormfront"
+  },
+  {
+    "id": 148,
+    "claim": "Black Noir has heat vision.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "Heat vision is Homelander's ability. Black Noir is known for combat skill, not heat vision.",
+    "source_name": "The Boys Wiki - Black Noir",
+    "source_url": "https://the-boys.fandom.com/wiki/Black_Noir"
+  },
+  {
+    "id": 149,
+    "claim": "Taking Temp V twice makes its effects permanent.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S3): Temp V is designed to be temporary and does not become permanent through repeated doses.",
+    "source_name": "The Boys Wiki - Temp V",
+    "source_url": "https://the-boys.fandom.com/wiki/Temp_V"
+  },
+  {
+    "id": 150,
+    "claim": "The Deep is not a member of The Seven.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "The Deep is a member of The Seven, though his standing within it changes across the series.",
+    "source_name": "The Boys Wiki - The Deep",
+    "source_url": "https://the-boys.fandom.com/wiki/The_Deep"
+  },
+  {
+    "id": 151,
+    "claim": "In Season 1, Hughie's girlfriend Robin is killed when A-Train accidentally runs through her.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "SPOILER (S1): Robin's death in the opening episode is what pushes Hughie toward Butcher and the Boys.",
+    "source_name": "The Boys Wiki - Hughie Campbell",
+    "source_url": "https://the-boys.fandom.com/wiki/Hughie_Campbell"
+  },
+  {
+    "id": 152,
+    "claim": "In Season 1, Hughie's girlfriend Robin is killed by Homelander.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "SPOILER (S1): Robin is killed by A-Train, not Homelander. Homelander is Butcher's main target for other reasons.",
+    "source_name": "The Boys Wiki - Hughie Campbell",
+    "source_url": "https://the-boys.fandom.com/wiki/Hughie_Campbell"
+  },
+  {
+    "id": 153,
+    "claim": "Billy Butcher is the leader of the vigilante group known as the Boys.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "Butcher recruits and leads the team that investigates and opposes Vought and its Supes.",
+    "source_name": "The Boys Wiki - Billy Butcher",
+    "source_url": "https://the-boys.fandom.com/wiki/Billy_Butcher"
+  },
+  {
+    "id": 154,
+    "claim": "Starlight is a founding member of the Boys.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "Starlight begins as a member of The Seven. She works with the Boys later but is not a founder of the group.",
+    "source_name": "The Boys Wiki - Starlight",
+    "source_url": "https://the-boys.fandom.com/wiki/Starlight"
+  },
+  {
+    "id": 155,
+    "claim": "Vought International is the corporation that manages and markets The Seven.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "Vought runs the superhero business, handling the branding, media and merchandise of its Supes.",
+    "source_name": "The Boys Wiki - Vought International",
+    "source_url": "https://the-boys.fandom.com/wiki/Vought_International"
+  },
+  {
+    "id": 156,
+    "claim": "Mother's Milk is a member of The Seven.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "Mother's Milk is a human member of the Boys, not part of Vought's superhero team.",
+    "source_name": "The Boys Wiki - Mother's Milk",
+    "source_url": "https://the-boys.fandom.com/wiki/Mother%27s_Milk"
+  },
+  {
+    "id": 157,
+    "claim": "Madelyn Stillwell is killed by Homelander in Season 1.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "SPOILER (S1): Homelander kills Stillwell, his Vought handler, using his heat vision.",
+    "source_name": "The Boys Wiki - Madelyn Stillwell",
+    "source_url": "https://the-boys.fandom.com/wiki/Madelyn_Stillwell"
+  },
+  {
+    "id": 158,
+    "claim": "Madelyn Stillwell is killed by Billy Butcher in Season 1.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "SPOILER (S1): Homelander kills Stillwell, not Butcher.",
+    "source_name": "The Boys Wiki - Madelyn Stillwell",
+    "source_url": "https://the-boys.fandom.com/wiki/Madelyn_Stillwell"
+  },
+  {
+    "id": 159,
+    "claim": "Kimiko joins the Boys during Season 1.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "The Boys free Kimiko from captivity and she becomes part of the team in the first season.",
+    "source_name": "The Boys Wiki - Kimiko Miyashiro",
+    "source_url": "https://the-boys.fandom.com/wiki/Kimiko_Miyashiro"
+  },
+  {
+    "id": 160,
+    "claim": "Victoria Neuman is introduced in Season 1 as a Vought executive.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Easy",
+    "explanation": "Neuman is introduced as a U.S. Congresswoman investigating Vought, not as a Vought executive.",
+    "source_name": "The Boys Wiki - Victoria Neuman",
+    "source_url": "https://the-boys.fandom.com/wiki/Victoria_Neuman"
+  },
+  {
+    "id": 161,
+    "claim": "In Season 1, the Boys learn that Vought secretly supplied Compound V to terrorists.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S1): Vought's secret distribution of Compound V helped create the supervillain threats that justified demand for its heroes.",
+    "source_name": "The Boys Wiki - Compound V",
+    "source_url": "https://the-boys.fandom.com/wiki/Compound_V"
+  },
+  {
+    "id": 162,
+    "claim": "In the series, Compound V is a legal supplement sold openly to the public.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Compound V is a secret substance controlled by Vought, and its use and supply are concealed from the public.",
+    "source_name": "The Boys Wiki - Compound V",
+    "source_url": "https://the-boys.fandom.com/wiki/Compound_V"
+  },
+  {
+    "id": 163,
+    "claim": "Stormfront joins The Seven in Season 2.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S2): Stormfront is introduced as a new member of The Seven in the second season.",
+    "source_name": "The Boys Wiki - Stormfront",
+    "source_url": "https://the-boys.fandom.com/wiki/Stormfront"
+  },
+  {
+    "id": 164,
+    "claim": "Stormfront first appears as a member of The Seven in Season 1.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Stormfront's introduction as a Seven member comes in Season 2, not Season 1.",
+    "source_name": "The Boys Wiki - Stormfront",
+    "source_url": "https://the-boys.fandom.com/wiki/Stormfront"
+  },
+  {
+    "id": 165,
+    "claim": "Becca Butcher is revealed to still be alive in Season 2.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S2): Butcher had believed Becca was dead, but the second season reveals she is alive.",
+    "source_name": "The Boys Wiki - Becca Butcher",
+    "source_url": "https://the-boys.fandom.com/wiki/Becca_Butcher"
+  },
+  {
+    "id": 166,
+    "claim": "Becca Butcher's survival is revealed in Season 1.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S2): Becca's survival is not revealed until Season 2. In Season 1 Butcher believes she is dead.",
+    "source_name": "The Boys Wiki - Becca Butcher",
+    "source_url": "https://the-boys.fandom.com/wiki/Becca_Butcher"
+  },
+  {
+    "id": 167,
+    "claim": "Translucent is killed in Season 1 by an explosive device planted by Hughie.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S1): Hughie's attempt to take down Translucent ends in the Supe's death.",
+    "source_name": "The Boys Wiki - Translucent",
+    "source_url": "https://the-boys.fandom.com/wiki/Translucent"
+  },
+  {
+    "id": 168,
+    "claim": "Translucent is killed by Homelander in Season 1.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S1): Translucent dies because of Hughie's actions, not Homelander's.",
+    "source_name": "The Boys Wiki - Translucent",
+    "source_url": "https://the-boys.fandom.com/wiki/Translucent"
+  },
+  {
+    "id": 169,
+    "claim": "Victoria Neuman is revealed in Season 2 to be a Supe.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S2): The series reveals that Neuman is a Supe with a deadly ability, in contrast to her public image as a politician.",
+    "source_name": "The Boys Wiki - Victoria Neuman",
+    "source_url": "https://the-boys.fandom.com/wiki/Victoria_Neuman"
+  },
+  {
+    "id": 170,
+    "claim": "Victoria Neuman is a normal human with no powers.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S2): Neuman is revealed to be a Supe.",
+    "source_name": "The Boys Wiki - Victoria Neuman",
+    "source_url": "https://the-boys.fandom.com/wiki/Victoria_Neuman"
+  },
+  {
+    "id": 171,
+    "claim": "Soldier Boy first appears in the series in Season 3.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S3): Soldier Boy is introduced in Season 3 after the Boys track him down.",
+    "source_name": "The Boys Wiki - Soldier Boy",
+    "source_url": "https://the-boys.fandom.com/wiki/Soldier_Boy"
+  },
+  {
+    "id": 172,
+    "claim": "Soldier Boy is introduced as an antagonist in Season 1.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Soldier Boy does not appear until Season 3.",
+    "source_name": "The Boys Wiki - Soldier Boy",
+    "source_url": "https://the-boys.fandom.com/wiki/Soldier_Boy"
+  },
+  {
+    "id": 173,
+    "claim": "In Season 4, Butcher learns that he is seriously ill because of his Temp V use.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S4): Butcher's use of Temp V comes with lasting health consequences, which shapes his choices in the fourth season.",
+    "source_name": "The Boys Wiki - Billy Butcher",
+    "source_url": "https://the-boys.fandom.com/wiki/Billy_Butcher"
+  },
+  {
+    "id": 174,
+    "claim": "By Season 4, Butcher has suffered no lasting effects from using Temp V.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S4): Butcher's Temp V use has serious long-term consequences for him.",
+    "source_name": "The Boys Wiki - Billy Butcher",
+    "source_url": "https://the-boys.fandom.com/wiki/Billy_Butcher"
+  },
+  {
+    "id": 175,
+    "claim": "Homelander learns that he has a son during Season 2.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S2): Homelander discovers Ryan's existence in the second season.",
+    "source_name": "The Boys Wiki - Ryan",
+    "source_url": "https://the-boys.fandom.com/wiki/Ryan"
+  },
+  {
+    "id": 176,
+    "claim": "Homelander raises Ryan from birth.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S2): Becca raised Ryan, and Homelander only becomes involved in his life after learning he exists.",
+    "source_name": "The Boys Wiki - Ryan",
+    "source_url": "https://the-boys.fandom.com/wiki/Ryan"
+  },
+  {
+    "id": 177,
+    "claim": "In Season 3, Butcher temporarily works alongside Soldier Boy.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S3): Butcher allies with Soldier Boy because Soldier Boy might be able to stop Homelander, though the alliance is tense.",
+    "source_name": "The Boys Wiki - Soldier Boy",
+    "source_url": "https://the-boys.fandom.com/wiki/Soldier_Boy"
+  },
+  {
+    "id": 178,
+    "claim": "Starlight kills Homelander at the end of Season 3.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S3): Homelander survives Season 3 and remains a central threat in later seasons.",
+    "source_name": "The Boys Wiki - Homelander",
+    "source_url": "https://the-boys.fandom.com/wiki/Homelander"
+  },
+  {
+    "id": 179,
+    "claim": "The Deep becomes involved with the Church of the Collective in Season 2.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "SPOILER (S2): After his fall from grace, The Deep turns to the Church of the Collective, a group that promotes him.",
+    "source_name": "The Boys Wiki - The Deep",
+    "source_url": "https://the-boys.fandom.com/wiki/The_Deep"
+  },
+  {
+    "id": 180,
+    "claim": "Kimiko works for Vought as a public hero in Season 1.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Medium",
+    "explanation": "Kimiko is a victim of Compound V experimentation who is rescued by the Boys, not a Vought-sponsored hero.",
+    "source_name": "The Boys Wiki - Kimiko Miyashiro",
+    "source_url": "https://the-boys.fandom.com/wiki/Kimiko_Miyashiro"
+  },
+  {
+    "id": 181,
+    "claim": "Soldier Boy is revealed in Season 3 to be Homelander's biological father.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S3): The Boys learn Soldier Boy's connection to Homelander, which changes how the two Supes treat each other.",
+    "source_name": "The Boys Wiki - Soldier Boy",
+    "source_url": "https://the-boys.fandom.com/wiki/Soldier_Boy"
+  },
+  {
+    "id": 182,
+    "claim": "Black Noir is killed by Soldier Boy in Season 3.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S3): Black Noir dies during the Season 3 conflict involving Soldier Boy and Homelander.",
+    "source_name": "The Boys Wiki - Black Noir",
+    "source_url": "https://the-boys.fandom.com/wiki/Black_Noir"
+  },
+  {
+    "id": 183,
+    "claim": "Stormfront's real identity is revealed to be Clara Vought.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S2): The series reveals that Stormfront is tied to the Vought family and to Nazi Germany.",
+    "source_name": "The Boys Wiki - Stormfront",
+    "source_url": "https://the-boys.fandom.com/wiki/Stormfront"
+  },
+  {
+    "id": 184,
+    "claim": "Madelyn Stillwell serves as Vought's Vice President of Hero Management.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "Stillwell oversees The Seven and acts as Homelander's handler in Season 1.",
+    "source_name": "The Boys Wiki - Madelyn Stillwell",
+    "source_url": "https://the-boys.fandom.com/wiki/Madelyn_Stillwell"
+  },
+  {
+    "id": 185,
+    "claim": "Hughie works in Victoria Neuman's office in Season 2.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S2): Hughie takes a job with Neuman, which puts him close to a figure who is secretly a Supe.",
+    "source_name": "The Boys Wiki - Hughie Campbell",
+    "source_url": "https://the-boys.fandom.com/wiki/Hughie_Campbell"
+  },
+  {
+    "id": 186,
+    "claim": "The series ties Vought's founder, Frederick Vought, to Nazi connections.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S2): The Stormfront storyline reveals the Nazi roots of Vought's origins.",
+    "source_name": "The Boys Wiki - Vought International",
+    "source_url": "https://the-boys.fandom.com/wiki/Vought_International"
+  },
+  {
+    "id": 187,
+    "claim": "Sister Sage appears as a Vought-affiliated Supe in Season 4.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S4): Sister Sage is introduced in Season 4 and is portrayed as exceptionally intelligent.",
+    "source_name": "The Boys Wiki - Sister Sage",
+    "source_url": "https://the-boys.fandom.com/wiki/Sister_Sage"
+  },
+  {
+    "id": 188,
+    "claim": "Ryan first appears as a child in Season 2.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S2): Ryan is introduced in the second season as Becca's son.",
+    "source_name": "The Boys Wiki - Ryan",
+    "source_url": "https://the-boys.fandom.com/wiki/Ryan"
+  },
+  {
+    "id": 189,
+    "claim": "Grace Mallory is a former CIA operative who helps the Boys.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "Mallory is an ex-CIA figure with a history with Butcher and Vought, and she assists the Boys.",
+    "source_name": "The Boys Wiki - Grace Mallory",
+    "source_url": "https://the-boys.fandom.com/wiki/Grace_Mallory"
+  },
+  {
+    "id": 190,
+    "claim": "Hughie's father, Hugh Campbell Sr., appears in Season 1.",
+    "answer": "FACT",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "Hughie's father is a recurring family figure who appears in the first season.",
+    "source_name": "The Boys Wiki - Hughie Campbell",
+    "source_url": "https://the-boys.fandom.com/wiki/Hughie_Campbell"
+  },
+  {
+    "id": 191,
+    "claim": "Black Noir is the primary villain of Season 3.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S3): Season 3's central conflict centers on Soldier Boy and Homelander, not Black Noir.",
+    "source_name": "The Boys Wiki - Black Noir",
+    "source_url": "https://the-boys.fandom.com/wiki/Black_Noir"
+  },
+  {
+    "id": 192,
+    "claim": "Stormfront is Homelander's wife.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S2): Stormfront and Homelander have a romantic relationship, but the series does not present them as married.",
+    "source_name": "The Boys Wiki - Stormfront",
+    "source_url": "https://the-boys.fandom.com/wiki/Stormfront"
+  },
+  {
+    "id": 193,
+    "claim": "Homelander and Stormfront have a child together in Season 2.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S2): Homelander's child is Ryan, whose mother is Becca, not Stormfront.",
+    "source_name": "The Boys Wiki - Ryan",
+    "source_url": "https://the-boys.fandom.com/wiki/Ryan"
+  },
+  {
+    "id": 194,
+    "claim": "Hughie becomes a permanent Supe in Season 3.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S3): Hughie uses Temp V, which grants only temporary powers. He does not become a permanent Supe.",
+    "source_name": "The Boys Wiki - Temp V",
+    "source_url": "https://the-boys.fandom.com/wiki/Temp_V"
+  },
+  {
+    "id": 195,
+    "claim": "Queen Maeve kills Homelander in Season 3.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S3): Homelander survives Season 3. Maeve confronts him but does not kill him.",
+    "source_name": "The Boys Wiki - Queen Maeve",
+    "source_url": "https://the-boys.fandom.com/wiki/Queen_Maeve"
+  },
+  {
+    "id": 196,
+    "claim": "Starlight is revealed to be related to Homelander.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "The series never establishes a family relationship between Starlight and Homelander.",
+    "source_name": "The Boys Wiki - Starlight",
+    "source_url": "https://the-boys.fandom.com/wiki/Starlight"
+  },
+  {
+    "id": 197,
+    "claim": "Victoria Neuman is Homelander's ally against the Boys from the start of Season 1.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "In Season 1 Neuman is introduced as a Congresswoman investigating Vought. Her hidden nature as a Supe is revealed later.",
+    "source_name": "The Boys Wiki - Victoria Neuman",
+    "source_url": "https://the-boys.fandom.com/wiki/Victoria_Neuman"
+  },
+  {
+    "id": 198,
+    "claim": "The Deep becomes the leader of the Boys in Season 4.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "The Deep is a Supe tied to Vought and The Seven, while Butcher leads the Boys.",
+    "source_name": "The Boys Wiki - The Deep",
+    "source_url": "https://the-boys.fandom.com/wiki/The_Deep"
+  },
+  {
+    "id": 199,
+    "claim": "Stormfront is revealed to be Homelander's mother.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S2): Stormfront is Homelander's romantic partner, not his mother, and the series does not present her as his parent.",
+    "source_name": "The Boys Wiki - Stormfront",
+    "source_url": "https://the-boys.fandom.com/wiki/Stormfront"
+  },
+  {
+    "id": 200,
+    "claim": "Soldier Boy is revealed in Season 3 to be Billy Butcher's father.",
+    "answer": "TRAP",
+    "category": "The Boys",
+    "difficulty": "Hard",
+    "explanation": "SPOILER (S3): Soldier Boy's family connection is to Homelander, not Butcher.",
+    "source_name": "The Boys Wiki - Soldier Boy",
+    "source_url": "https://the-boys.fandom.com/wiki/Soldier_Boy"
+  }
+]

@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "claim": "Rukia Kuchiki gives Ichigo Kurosaki Soul Reaper powers.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Rukia transfers most of her Soul Reaper power to Ichigo when they face a Hollow attacking his family.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Ichigo_Kurosaki"
+  },
+  {
+    "id": 2,
+    "claim": "Ichigo Kurosaki's zanpakuto is named Zabimaru.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Zabimaru is Renji Abarai's zanpakuto. Ichigo's zanpakuto is Zangetsu.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Zabimaru"
+  },
+  {
+    "id": 3,
+    "claim": "Orihime Inoue is a classmate of Ichigo Kurosaki.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Orihime attends the same class as Ichigo at Karakura High School.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Orihime_Inoue"
+  },
+  {
+    "id": 4,
+    "claim": "Uryu Ishida is a Soul Reaper.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Uryu is a Quincy, a human who fights Hollows with spirit-particle weapons. He is not a Soul Reaper.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Ury%C5%AB_Ishida"
+  },
+  {
+    "id": 5,
+    "claim": "Yasutora Sado is nicknamed Chad.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Yasutora Sado is known to his friends by the nickname Chad.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Yasutora_Sado"
+  },
+  {
+    "id": 6,
+    "claim": "Kisuke Urahara runs a flower shop in Karakura Town.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Urahara runs the Urahara Shop, which sells sweets and everyday goods and also supplies Soul Reaper equipment.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Kisuke_Urahara"
+  },
+  {
+    "id": 7,
+    "claim": "Yoruichi Shihoin can transform into a black cat.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Yoruichi often takes the form of a black cat while she lives in the human world.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Yoruichi_Shih%C5%8Din"
+  },
+  {
+    "id": 8,
+    "claim": "Byakuya Kuchiki is Rukia Kuchiki's biological brother.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Byakuya is Rukia's adoptive brother. He adopted her after marrying her older sister Hisana.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Byakuya_Kuchiki"
+  },
+  {
+    "id": 9,
+    "claim": "Byakuya Kuchiki is the captain of the Sixth Division.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Byakuya serves as captain of the Sixth Division of the Gotei 13 when Ichigo first meets him.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Byakuya_Kuchiki"
+  },
+  {
+    "id": 10,
+    "claim": "Toshiro Hitsugaya is the captain of the Eleventh Division.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Toshiro Hitsugaya is captain of the Tenth Division. The Eleventh Division is led by Kenpachi Zaraki.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/T%C5%8Dshir%C5%8D_Hitsugaya"
+  },
+  {
+    "id": 11,
+    "claim": "Rangiku Matsumoto is the lieutenant of the Tenth Division.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Rangiku serves as vice-captain under Captain Toshiro Hitsugaya.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Rangiku_Matsumoto"
+  },
+  {
+    "id": 12,
+    "claim": "Kenpachi Zaraki is the captain of the Eleventh Division.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Kenpachi leads the Eleventh Division, the Gotei 13's most battle-focused squad.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Kenpachi_Zaraki"
+  },
+  {
+    "id": 13,
+    "claim": "Genryusai Yamamoto is the captain of the Second Division.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Yamamoto is the captain of the First Division and the Captain-Commander of the Gotei 13.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Genry%C5%ABsai_Shigekuni_Yamamoto"
+  },
+  {
+    "id": 14,
+    "claim": "Sosuke Aizen is introduced as the captain of the Fifth Division.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Aizen is the Fifth Division captain, and his lieutenant is Momo Hinamori.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/S%C5%8Dsuke_Aizen"
+  },
+  {
+    "id": 15,
+    "claim": "Soul Society is the realm where living humans reside.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Soul Society is the afterlife realm where souls go after death. Living humans live in the human world.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Soul_Society"
+  },
+  {
+    "id": 16,
+    "claim": "Ichigo Kurosaki's mother, Masaki, was killed by the Hollow Grand Fisher.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Masaki died protecting Ichigo from Grand Fisher when he was a child.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Masaki_Kurosaki"
+  },
+  {
+    "id": 17,
+    "claim": "Isshin Kurosaki is an ordinary human with no spiritual power.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Isshin is a former captain of the Tenth Division who lives in the human world, so he is very spiritually powerful.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Isshin_Kurosaki"
+  },
+  {
+    "id": 18,
+    "claim": "Isshin Kurosaki was formerly the captain of the Tenth Division.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Isshin gave up his position as captain of the Tenth Division and lived as a human after he married Masaki.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Isshin_Kurosaki"
+  },
+  {
+    "id": 19,
+    "claim": "Rukia Kuchiki holds the position of third seat in the Thirteenth Division.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Rukia is a third seat officer in the Thirteenth Division, serving under Captain Jushiro Ukitake. She is not a lieutenant.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Rukia_Kuchiki"
+  },
+  {
+    "id": 20,
+    "claim": "Rukia Kuchiki is sentenced to execution for passing her Soul Reaper powers to a human.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Giving Soul Reaper powers to a human is a major crime in Soul Society, so Rukia is arrested and sentenced.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Rukia_Kuchiki"
+  },
+  {
+    "id": 21,
+    "claim": "Aizen's zanpakuto, Kyoka Suigetsu, controls the perception of those who see its shikai release.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Kyoka Suigetsu causes complete hypnosis on anyone who has seen its release, controlling all five senses.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Ky%C5%8Dka_Suigetsu"
+  },
+  {
+    "id": 22,
+    "claim": "Gin Ichimaru is the captain of the Third Division.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Gin Ichimaru is introduced as captain of the Third Division of the Gotei 13.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Gin_Ichimaru"
+  },
+  {
+    "id": 23,
+    "claim": "Kaname Tosen is the captain of the Ninth Division.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Tosen leads the Ninth Division. He is a blind captain who follows a code of justice.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Kaname_T%C5%8Dsen"
+  },
+  {
+    "id": 24,
+    "claim": "Jushiro Ukitake is the captain of the Thirteenth Division.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Ukitake is the captain of the Thirteenth Division and Rukia's direct superior. He suffers from a chronic illness.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/J%C5%ABshir%C5%8D_Ukitake"
+  },
+  {
+    "id": 25,
+    "claim": "Kenpachi Zaraki wears an eyepatch that suppresses his spiritual pressure.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Kenpachi's eyepatch is used to restrict his enormous reiatsu, which otherwise drains his own strength and that of those around him.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Kenpachi_Zaraki"
+  },
+  {
+    "id": 26,
+    "claim": "Hollows are souls that have been corrupted and have a hole in their chest.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "A Hollow is a soul that lost its heart, which is represented by a hole in its chest. Many wear a white mask.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Hollow"
+  },
+  {
+    "id": 27,
+    "claim": "Toshiro Hitsugaya's zanpakuto, Hyorinmaru, is a fire-type zanpakuto.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Hyorinmaru is the strongest ice-type zanpakuto. Fire-type is Yamamoto's Ryujin Jakka.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Hy%C5%8Drinmaru"
+  },
+  {
+    "id": 28,
+    "claim": "Renji Abarai's zanpakuto is Senbonzakura.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Senbonzakura is Byakuya Kuchiki's zanpakuto. Renji's zanpakuto is Zabimaru.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Senbonzakura"
+  },
+  {
+    "id": 29,
+    "claim": "The Gotei 13 is led by the Captain-Commander Retsu Unohana.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "The Captain-Commander is Genryusai Yamamoto. Retsu Unohana is the captain of the Fourth Division.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Gotei_13"
+  },
+  {
+    "id": 30,
+    "claim": "Orihime Inoue lives with her older brother Sora at the start of the series.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Orihime lives alone because her brother Sora died years earlier in a car accident.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Sora_Inoue"
+  },
+  {
+    "id": 31,
+    "claim": "Uryu Ishida's grandfather Soken Ishida was a Soul Reaper.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Soken Ishida was a Quincy who trained Uryu in Quincy techniques.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/S%C5%8Dken_Ishida"
+  },
+  {
+    "id": 32,
+    "claim": "Rangiku Matsumoto is the lieutenant of Sosuke Aizen.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Rangiku is Toshiro Hitsugaya's lieutenant. Aizen's lieutenant is Momo Hinamori.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Momo_Hinamori"
+  },
+  {
+    "id": 33,
+    "claim": "Kenpachi Zaraki is a master of kido.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Kenpachi has almost no skill with kido and relies on his raw strength and swordsmanship.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Kenpachi_Zaraki"
+  },
+  {
+    "id": 34,
+    "claim": "Genryusai Yamamoto's zanpakuto, Ryujin Jakka, is a water-type zanpakuto.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Ryujin Jakka is the strongest fire-type zanpakuto.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Ry%C5%ABjin_Jakka"
+  },
+  {
+    "id": 35,
+    "claim": "Ichigo Kurosaki's mother, Masaki, was a Soul Reaper.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Masaki was a Quincy. Ichigo's Soul Reaper side comes from his father Isshin.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Masaki_Kurosaki"
+  },
+  {
+    "id": 36,
+    "claim": "Rukia Kuchiki killed her lieutenant Kaien Shiba after he was possessed by a Hollow.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Kaien Shiba, the Thirteenth Division lieutenant, was controlled by the Hollow Metastacia and Rukia killed him.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Kaien_Shiba"
+  },
+  {
+    "id": 37,
+    "claim": "Rukia Kuchiki's zanpakuto, Sode no Shirayuki, is a fire-type zanpakuto.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Sode no Shirayuki is an ice-type zanpakuto, described as the most beautiful ice-type zanpakuto.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Sode_no_Shirayuki"
+  },
+  {
+    "id": 38,
+    "claim": "Kenpachi Zaraki's zanpakuto is named Nozarashi.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Nozarashi is the name of Kenpachi's zanpakuto, which he only learns of later.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Nozarashi"
+  },
+  {
+    "id": 39,
+    "claim": "Kenpachi Zaraki's lieutenant is Ikkaku Madarame.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Kenpachi's lieutenant is Yachiru Kusajishi. Ikkaku Madarame is the Eleventh Division's third seat.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Yachiru_Kusajishi"
+  },
+  {
+    "id": 40,
+    "claim": "Yoruichi Shihoin is known by the title Flash Goddess.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Yoruichi earned the title Flash Goddess for her unmatched mastery of shunpo.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Yoruichi_Shih%C5%8Din"
+  },
+  {
+    "id": 41,
+    "claim": "Toshiro Hitsugaya's childhood friend is Rangiku Matsumoto.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Toshiro's childhood friend is Momo Hinamori. Rangiku met him later and became his lieutenant.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Momo_Hinamori"
+  },
+  {
+    "id": 42,
+    "claim": "Kisuke Urahara was exiled from Soul Society after Hollowfication experiments were carried out on Soul Reapers.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Urahara was blamed for the incident and exiled to the human world, where he opened his shop.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Kisuke_Urahara"
+  },
+  {
+    "id": 43,
+    "claim": "Renji Abarai grew up in the first district of the Rukongai.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Renji and Rukia grew up in the 78th district of the Rukongai, called Inuzuri.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Renji_Abarai"
+  },
+  {
+    "id": 44,
+    "claim": "Genryusai Yamamoto founded the Shin'o Academy.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Yamamoto established the Shin'o Academy, the school that trains Soul Reapers.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Shin%27%C5%8D_Academy"
+  },
+  {
+    "id": 45,
+    "claim": "The Hogyoku was created by Sosuke Aizen.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Kisuke Urahara created the Hogyoku. Aizen later steals it for his own plans.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/H%C5%8Dgyoku"
+  },
+  {
+    "id": 46,
+    "claim": "Yasutora Sado is of Mexican and Japanese descent.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Chad's grandfather was Mexican, and his appearance and nickname reflect his mixed heritage.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Yasutora_Sado"
+  },
+  {
+    "id": 47,
+    "claim": "Rukia Kuchiki was adopted by the Kuchiki clan because she is Byakuya's cousin.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Rukia was adopted because she is the younger sister of Hisana, Byakuya's deceased wife.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Rukia_Kuchiki"
+  },
+  {
+    "id": 48,
+    "claim": "Orihime Inoue's Shun Shun Rikka consists of six fairies.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "The Shun Shun Rikka are six fairy spirits that work in pairs and use her abilities of rejection and healing.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Shun_Shun_Rikka"
+  },
+  {
+    "id": 49,
+    "claim": "Kaname Tosen's zanpakuto is Haineko.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Haineko belongs to Rangiku Matsumoto. Tosen's zanpakuto is Suzumushi.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Haineko"
+  },
+  {
+    "id": 50,
+    "claim": "Uryu Ishida's Quincy powers come from absorbing Hollow reiatsu.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Quincy gather spirit particles from their surroundings to form their weapons. They do not draw power from Hollows.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Quincy"
+  },
+  {
+    "id": 51,
+    "claim": "Grimmjow Jaegerjaquez is one of the Arrancar known as the Espada.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Grimmjow is the Sexta Espada, one of the ten strongest Arrancar serving Aizen.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Grimmjow_Jaegerjaquez"
+  },
+  {
+    "id": 52,
+    "claim": "Ulquiorra Cifer is a captain of the Gotei 13.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Ulquiorra is an Arrancar and the Cuatro Espada under Aizen. He is not a Soul Reaper captain.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Ulquiorra_Cifer"
+  },
+  {
+    "id": 53,
+    "claim": "Hueco Mundo is the realm where Hollows live.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Hueco Mundo is the desert world that is home to Hollows, Menos and Arrancar.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Hueco_Mundo"
+  },
+  {
+    "id": 54,
+    "claim": "Las Noches is the capital city of Soul Society.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Las Noches is Aizen's fortress in Hueco Mundo, not a city of Soul Society.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Las_Noches"
+  },
+  {
+    "id": 55,
+    "claim": "Sosuke Aizen betrays Soul Society.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Aizen fakes his death, defects and leads the Arrancar against Soul Society, with Gin Ichimaru and Kaname Tosen.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/S%C5%8Dsuke_Aizen"
+  },
+  {
+    "id": 56,
+    "claim": "Aizen is killed by Ichigo Kurosaki in the final battle of the Arrancar storyline.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Ichigo defeats Aizen but does not kill him. Aizen is afterward sealed and imprisoned by Soul Society.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/S%C5%8Dsuke_Aizen"
+  },
+  {
+    "id": 57,
+    "claim": "Coyote Starrk is the Primera Espada.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Starrk is the Primera Espada, the Arrancar ranked number one among the Espada.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Coyote_Starrk"
+  },
+  {
+    "id": 58,
+    "claim": "Tier Harribel is the Sexta Espada.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Harribel is the Tercera Espada, ranked third. Grimmjow is the Sexta Espada.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Tier_Harribel"
+  },
+  {
+    "id": 59,
+    "claim": "The Espada are ranked from number one to number ten.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "The Espada hold ranks from Primera (one) to Diez (ten), and each has a number tied to their power.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Espada"
+  },
+  {
+    "id": 60,
+    "claim": "The Espada are Soul Reapers who serve Genryusai Yamamoto.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "The Espada are Arrancar who serve Sosuke Aizen. They are enemies of Yamamoto and the Gotei 13.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Espada"
+  },
+  {
+    "id": 61,
+    "claim": "Ulquiorra Cifer is the Cuatro Espada.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Ulquiorra is the fourth-ranked Espada, known for his cool, emotionless manner.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Ulquiorra_Cifer"
+  },
+  {
+    "id": 62,
+    "claim": "Nnoitra Gilga is the Octava Espada.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Nnoitra is the Quinta Espada, ranked fifth. Szayelaporro Granz is the Octava Espada.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Nnoitra_Gilga"
+  },
+  {
+    "id": 63,
+    "claim": "Szayelaporro Granz is killed by Mayuri Kurotsuchi.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Mayuri Kurotsuchi, captain of the Twelfth Division, kills Szayelaporro after a battle of two scientists.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Szayelaporro_Granz"
+  },
+  {
+    "id": 64,
+    "claim": "Coyote Starrk's partner Lilynette Gingerbuck is a part of his own soul.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Starrk's soul was split in two, and Lilynette is the half of his soul that became a separate being.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Lilynette_Gingerbuck"
+  },
+  {
+    "id": 65,
+    "claim": "Grimmjow Jaegerjaquez's resurreccion is named Santa Teresa.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Santa Teresa is Nnoitra Gilga's resurreccion. Grimmjow's resurreccion is Pantera.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Grimmjow_Jaegerjaquez"
+  },
+  {
+    "id": 66,
+    "claim": "Ulquiorra Cifer's resurreccion is named Murcielago.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Murcielago is Ulquiorra's resurreccion. It turns him into a winged, bat-like form.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Ulquiorra_Cifer"
+  },
+  {
+    "id": 67,
+    "claim": "Grimmjow Jaegerjaquez is killed in his first fight against Ichigo Kurosaki.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Grimmjow is defeated but survives and continues to fight. His first fight with Ichigo is not his last.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Grimmjow_Jaegerjaquez"
+  },
+  {
+    "id": 68,
+    "claim": "Nelliel Tu Odelschwanck was formerly the Tercera Espada.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Nelliel was the third-ranked Espada before she lost her position and her memory, which left her in a child form as Nel.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Nelliel_Tu_Odelschwanck"
+  },
+  {
+    "id": 69,
+    "claim": "Baraggan Louisenbairn is the Quinta Espada.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Baraggan is the Segunda Espada, ranked second. Nnoitra holds the Quinta rank.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Baraggan_Louisenbairn"
+  },
+  {
+    "id": 70,
+    "claim": "Shinji Hirako is a former captain of the Fifth Division.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Shinji led the Fifth Division before he was exiled, and Aizen served as his lieutenant.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Shinji_Hirako"
+  },
+  {
+    "id": 71,
+    "claim": "The Visored are Soul Reapers who gained Hollow powers through Aizen's experiments.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "The Visored were Soul Reapers whose bodies were Hollowfied by Aizen, and they then learned to use Hollow powers.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Visored"
+  },
+  {
+    "id": 72,
+    "claim": "The Visored are Arrancar who serve Aizen.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "The Visored are former Soul Reapers who oppose Aizen. They are not Arrancar and they do not serve him.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Visored"
+  },
+  {
+    "id": 73,
+    "claim": "Aizen plans to use the souls of Karakura Town to create the Ouken.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Aizen needs the souls of Karakura Town's residents to create the Ouken, a key that gives him access to the Soul King's realm.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/S%C5%8Dsuke_Aizen"
+  },
+  {
+    "id": 74,
+    "claim": "Aizen plans to use Karakura Town's souls to create a second Hogyoku.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Aizen's plan is to create the Ouken, a key that leads to the Soul King. He is not trying to create another Hogyoku.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/S%C5%8Dsuke_Aizen"
+  },
+  {
+    "id": 75,
+    "claim": "Ichigo Kurosaki defeats Ulquiorra Cifer in Las Noches.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Ichigo defeats Ulquiorra, who dies afterward, when Ichigo rescues Orihime in Las Noches.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Ulquiorra_Cifer"
+  },
+  {
+    "id": 76,
+    "claim": "Ulquiorra Cifer is killed by Uryu Ishida.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Ulquiorra dies after his battle with Ichigo. Uryu Ishida does not kill him.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Ulquiorra_Cifer"
+  },
+  {
+    "id": 77,
+    "claim": "Ulquiorra Cifer takes Orihime Inoue to Hueco Mundo.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Ulquiorra, on Aizen's orders, brings Orihime to Las Noches, which prompts Ichigo's rescue mission.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Orihime_Inoue"
+  },
+  {
+    "id": 78,
+    "claim": "Grimmjow Jaegerjaquez takes Orihime Inoue to Hueco Mundo.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Ulquiorra takes Orihime to Hueco Mundo, with Yammy. Grimmjow is not the one who takes her.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Orihime_Inoue"
+  },
+  {
+    "id": 79,
+    "claim": "Gin Ichimaru's zanpakuto is named Suzumushi.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Gin's zanpakuto is Shinso. Suzumushi is the name of Kaname Tosen's zanpakuto.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Gin_Ichimaru"
+  },
+  {
+    "id": 80,
+    "claim": "Gin Ichimaru is Rangiku Matsumoto's father.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Gin and Rangiku are childhood friends who grew up together in Rukongai.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Gin_Ichimaru"
+  },
+  {
+    "id": 81,
+    "claim": "Kaname Tosen is defeated by Sajin Komamura and Shuhei Hisagi.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Komamura, Tosen's former friend, and Hisagi, his former lieutenant, defeat him during the battle in Karakura Town.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Kaname_T%C5%8Dsen"
+  },
+  {
+    "id": 82,
+    "claim": "Kaname Tosen is defeated by Kenpachi Zaraki.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Tosen is defeated by Sajin Komamura and Shuhei Hisagi. Kenpachi's opponent was Nnoitra.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Kaname_T%C5%8Dsen"
+  },
+  {
+    "id": 83,
+    "claim": "Aaroniero Arruruerie is the Noveno Espada.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Aaroniero is the ninth-ranked Espada, an Arrancar who absorbs other Hollows.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Aaroniero_Arruruerie"
+  },
+  {
+    "id": 84,
+    "claim": "Zommari Rureaux is the Sexta Espada.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Zommari is the Septima Espada, ranked seventh. Grimmjow is the Sexta Espada.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Zommari_Rureaux"
+  },
+  {
+    "id": 85,
+    "claim": "Zommari Rureaux's resurreccion is named Pantera.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Zommari's resurreccion is Brujeria. Pantera is Grimmjow's resurreccion.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Zommari_Rureaux"
+  },
+  {
+    "id": 86,
+    "claim": "Ulquiorra Cifer has a second stage of his resurreccion called Segunda Etapa.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "In his Segunda Etapa form, Ulquiorra becomes even more powerful and shows a different appearance.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Ulquiorra_Cifer"
+  },
+  {
+    "id": 87,
+    "claim": "Grimmjow Jaegerjaquez's resurreccion is named Pantera.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Pantera gives Grimmjow a feline-like form and is the resurreccion of the Sexta Espada.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Grimmjow_Jaegerjaquez"
+  },
+  {
+    "id": 88,
+    "claim": "Baraggan Louisenbairn's resurreccion is named Arrogante.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Baraggan's resurreccion is Arrogante, which gives him the power to age things with his Respira.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Baraggan_Louisenbairn"
+  },
+  {
+    "id": 89,
+    "claim": "Coyote Starrk's resurreccion is named Los Lobos.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Starrk releases as Los Lobos, which gives him a pair of pistols and wolf-like traits.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Coyote_Starrk"
+  },
+  {
+    "id": 90,
+    "claim": "Szayelaporro Granz's resurreccion is named Fornicaras.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Fornicaras is the resurreccion of Szayelaporro Granz, the scientist Octava Espada.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Szayelaporro_Granz"
+  },
+  {
+    "id": 91,
+    "claim": "Tier Harribel's resurreccion is named Tiburon.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Tiburon gives Harribel a shark-like form and water-based abilities.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Tier_Harribel"
+  },
+  {
+    "id": 92,
+    "claim": "Nnoitra Gilga is killed by Kenpachi Zaraki.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Kenpachi defeats Nnoitra in a long fight in Las Noches.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Nnoitra_Gilga"
+  },
+  {
+    "id": 93,
+    "claim": "The three classes of Menos are Gillian, Adjuchas and Vasto Lorde.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "These are the three classes of Menos Grande, from the weakest to the strongest, and most Arrancar come from them.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Menos"
+  },
+  {
+    "id": 94,
+    "claim": "Aizen is sentenced to be executed after his defeat.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Aizen is sentenced to 20,000 years of imprisonment in the Muken, not execution.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/S%C5%8Dsuke_Aizen"
+  },
+  {
+    "id": 95,
+    "claim": "Coyote Starrk is killed by Kenpachi Zaraki.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Starrk is killed by Shunsui Kyoraku, who fights alongside Jushiro Ukitake. Kenpachi's opponent was Nnoitra.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Coyote_Starrk"
+  },
+  {
+    "id": 96,
+    "claim": "Baraggan Louisenbairn's Respira ability makes time rewind.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Baraggan's Respira causes rapid aging and decay. It does not rewind time.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Baraggan_Louisenbairn"
+  },
+  {
+    "id": 97,
+    "claim": "Tier Harribel is killed by Toshiro Hitsugaya.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Harribel is defeated by Hitsugaya, but she survives and later aids the Soul Reapers.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Tier_Harribel"
+  },
+  {
+    "id": 98,
+    "claim": "Nelliel Tu Odelschwanck was killed by Nnoitra Gilga.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Nnoitra ambushed Nelliel and broke her mask, but she survived. She lost her memories and was left in a child form.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Nelliel_Tu_Odelschwanck"
+  },
+  {
+    "id": 99,
+    "claim": "Wonderweiss Margela is a Visored.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Wonderweiss is an Arrancar created by Aizen. The Visored are former Soul Reapers.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Wonderweiss_Margela"
+  },
+  {
+    "id": 100,
+    "claim": "Ulquiorra Cifer was a Gillian-class Menos before becoming an Arrancar.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Ulquiorra was a Vasto Lorde, the highest class of Menos, before he became an Arrancar.",
+    "source_name": "Bleach Wiki (Fandom)",
+    "source_url": "https://bleach.fandom.com/wiki/Ulquiorra_Cifer"
+  },
+  {
+    "id": 101,
+    "claim": "Getsuga Tensho is a crescent-shaped wave of spiritual energy fired from Ichigo Kurosaki's Zangetsu.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Getsuga Tensho is Ichigo's signature technique, in which he releases his spiritual energy through Zangetsu as a crescent-shaped slash.",
+    "source_name": "Bleach Wiki - Getsuga Tenshō",
+    "source_url": "https://bleach.fandom.com/wiki/Getsuga_Tensh%C5%8D"
+  },
+  {
+    "id": 102,
+    "claim": "Byakuya Kuchiki releases Senbonzakura with the command \"Roar\".",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Byakuya's Shikai command for Senbonzakura is \"Scatter\" (Chire). The command \"Howl\" belongs to Renji's Zabimaru.",
+    "source_name": "Bleach Wiki - Senbonzakura",
+    "source_url": "https://bleach.fandom.com/wiki/Senbonzakura"
+  },
+  {
+    "id": 103,
+    "claim": "Toshiro Hitsugaya's Hyorinmaru is an ice-type Zanpakuto whose spirit takes the form of a dragon.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Hyorinmaru is the strongest ice-type Zanpakuto in the Soul Society, and its spirit is an ice dragon.",
+    "source_name": "Bleach Wiki - Hyōrinmaru",
+    "source_url": "https://bleach.fandom.com/wiki/Hy%C5%8Drinmaru"
+  },
+  {
+    "id": 104,
+    "claim": "Rukia Kuchiki's Sode no Shirayuki is a fire-type Zanpakuto.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Sode no Shirayuki is an ice-type Zanpakuto, not a fire-type one. Fire is the element of Yamamoto's Ryujin Jakka.",
+    "source_name": "Bleach Wiki - Sode no Shirayuki",
+    "source_url": "https://bleach.fandom.com/wiki/Sode_no_Shirayuki"
+  },
+  {
+    "id": 105,
+    "claim": "Genryusai Yamamoto's Ryujin Jakka is a fire-type Zanpakuto.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Ryujin Jakka is the strongest fire-type Zanpakuto in the Soul Society, and its Shikai wreathes the blade in flame.",
+    "source_name": "Bleach Wiki - Ryūjin Jakka",
+    "source_url": "https://bleach.fandom.com/wiki/Ry%C5%ABjin_Jakka"
+  },
+  {
+    "id": 106,
+    "claim": "Aizen's Kyoka Suigetsu works by controlling gravity around the target.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Kyoka Suigetsu is a hypnosis-type Zanpakuto that causes illusions. It has no gravity-control ability.",
+    "source_name": "Bleach Wiki - Kyōka Suigetsu",
+    "source_url": "https://bleach.fandom.com/wiki/Ky%C5%8Dka_Suigetsu"
+  },
+  {
+    "id": 107,
+    "claim": "Arrancar release their Zanpakuto through a process called Resurreccion.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Resurreccion is the Arrancar release of a sealed Zanpakuto, distinct from the Shikai and Bankai of Soul Reapers.",
+    "source_name": "Bleach Wiki - Resurrección",
+    "source_url": "https://bleach.fandom.com/wiki/Resurrecci%C3%B3n"
+  },
+  {
+    "id": 108,
+    "claim": "Quincy abilities rely on gathering and manipulating spirit particles known as reishi.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Quincy collect reishi from their surroundings and shape it into weapons such as spirit bows and arrows.",
+    "source_name": "Bleach Wiki - Quincy",
+    "source_url": "https://bleach.fandom.com/wiki/Quincy"
+  },
+  {
+    "id": 109,
+    "claim": "Soul Reapers use a high-speed movement technique called Sonido.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Soul Reapers use Shunpo (Flash Step). Sonido is the equivalent movement technique of Arrancar and Espada.",
+    "source_name": "Bleach Wiki - Sonido",
+    "source_url": "https://bleach.fandom.com/wiki/Sonido"
+  },
+  {
+    "id": 110,
+    "claim": "Hierro is the tough skin that gives Arrancar defensive power against attacks.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Hierro is the Arrancar's natural defensive skin, and its strength varies with the Arrancar's spiritual power.",
+    "source_name": "Bleach Wiki - Hierro",
+    "source_url": "https://bleach.fandom.com/wiki/Hierro"
+  },
+  {
+    "id": 111,
+    "claim": "Tensa Zangetsu is the name of Ichigo Kurosaki's Bankai.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Tensa Zangetsu is Ichigo's Bankai, a black katana-like blade that is more compact than his Shikai.",
+    "source_name": "Bleach Wiki - Zangetsu",
+    "source_url": "https://bleach.fandom.com/wiki/Zangetsu"
+  },
+  {
+    "id": 112,
+    "claim": "Byakuya Kuchiki's Bankai is named Daiguren Senbonzakura.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Byakuya's Bankai is Senbonzakura Kageyoshi. The Daiguren name belongs to Toshiro Hitsugaya's Bankai, Daiguren Hyorinmaru.",
+    "source_name": "Bleach Wiki - Senbonzakura",
+    "source_url": "https://bleach.fandom.com/wiki/Senbonzakura"
+  },
+  {
+    "id": 113,
+    "claim": "Toshiro Hitsugaya's Bankai is named Daiguren Hyorinmaru.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Daiguren Hyorinmaru is Toshiro's Bankai, in which he gains ice wings and a tail.",
+    "source_name": "Bleach Wiki - Hyōrinmaru",
+    "source_url": "https://bleach.fandom.com/wiki/Hy%C5%8Drinmaru"
+  },
+  {
+    "id": 114,
+    "claim": "Renji Abarai's Bankai is named Hihio Zabimaru.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Hihio Zabimaru is Renji's Bankai, the release of his Zanpakuto Zabimaru.",
+    "source_name": "Bleach Wiki - Zabimaru",
+    "source_url": "https://bleach.fandom.com/wiki/Zabimaru"
+  },
+  {
+    "id": 115,
+    "claim": "Kenpachi Zaraki's eyepatch increases his spiritual pressure.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "In the manga, Zaraki's eyepatch suppresses his spiritual pressure rather than increasing it.",
+    "source_name": "Bleach Wiki - Kenpachi Zaraki",
+    "source_url": "https://bleach.fandom.com/wiki/Kenpachi_Zaraki"
+  },
+  {
+    "id": 116,
+    "claim": "Genryusai Yamamoto's Bankai is named Zanka no Tachi.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Zanka no Tachi is the Bankai of Ryujin Jakka, the release of Yamamoto's fire-type Zanpakuto.",
+    "source_name": "Bleach Wiki - Ryūjin Jakka",
+    "source_url": "https://bleach.fandom.com/wiki/Ry%C5%ABjin_Jakka"
+  },
+  {
+    "id": 117,
+    "claim": "Zanka no Tachi is the Bankai of Toshiro Hitsugaya.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Zanka no Tachi is Genryusai Yamamoto's Bankai. Toshiro's Bankai is Daiguren Hyorinmaru.",
+    "source_name": "Bleach Wiki - Ryūjin Jakka",
+    "source_url": "https://bleach.fandom.com/wiki/Ry%C5%ABjin_Jakka"
+  },
+  {
+    "id": 118,
+    "claim": "Kisuke Urahara's Bankai is named Kannonbiraki Benihime Aratame.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Kannonbiraki Benihime Aratame is the Bankai of Kisuke Urahara's Zanpakuto, Benihime.",
+    "source_name": "Bleach Wiki - Benihime",
+    "source_url": "https://bleach.fandom.com/wiki/Benihime"
+  },
+  {
+    "id": 119,
+    "claim": "Benihime is the Zanpakuto of Yoruichi Shihoin.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Benihime is Kisuke Urahara's Zanpakuto. Yoruichi is known for her mastery of Hakuda and Shunpo rather than a Zanpakuto.",
+    "source_name": "Bleach Wiki - Benihime",
+    "source_url": "https://bleach.fandom.com/wiki/Benihime"
+  },
+  {
+    "id": 120,
+    "claim": "Shunko is a technique created by Yoruichi Shihoin that combines Hakuda with Kido.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Shunko is Yoruichi's hand-to-hand technique, in which she surrounds her body with Kido to make her strikes more powerful.",
+    "source_name": "Bleach Wiki - Shunkō",
+    "source_url": "https://bleach.fandom.com/wiki/Shunk%C5%8D"
+  },
+  {
+    "id": 121,
+    "claim": "Yoruichi Shihoin's Shunko is triggered by releasing the Shikai of her Zanpakuto.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Shunko is a Hakuda and Kido technique and does not involve a Zanpakuto release of any kind.",
+    "source_name": "Bleach Wiki - Yoruichi Shihōin",
+    "source_url": "https://bleach.fandom.com/wiki/Yoruichi_Shih%C5%8Din"
+  },
+  {
+    "id": 122,
+    "claim": "Kyoka Suigetsu's complete hypnosis can manipulate all five senses of those affected.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Kyoka Suigetsu's Shikai creates complete hypnosis that controls all five senses of anyone who has seen its release.",
+    "source_name": "Bleach Wiki - Kyōka Suigetsu",
+    "source_url": "https://bleach.fandom.com/wiki/Ky%C5%8Dka_Suigetsu"
+  },
+  {
+    "id": 123,
+    "claim": "Kyoka Suigetsu's hypnosis is limited to affecting only the victim's sense of sight.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Kyoka Suigetsu's hypnosis is complete and affects all five senses, not just sight.",
+    "source_name": "Bleach Wiki - Kyōka Suigetsu",
+    "source_url": "https://bleach.fandom.com/wiki/Ky%C5%8Dka_Suigetsu"
+  },
+  {
+    "id": 124,
+    "claim": "When infused with Hollow power, Ichigo's Getsuga Tensho appears black with a red outline.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "In the manga, Ichigo's Hollow-infused Getsuga Tensho is black with a red edge, unlike the pale blue wave of his standard attack.",
+    "source_name": "Bleach Wiki - Getsuga Tenshō",
+    "source_url": "https://bleach.fandom.com/wiki/Getsuga_Tensh%C5%8D"
+  },
+  {
+    "id": 125,
+    "claim": "Zangetsu's Shikai form is a thin black katana, while its Bankai form is a large cleaver.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "The forms are the other way around: the Shikai is a large cleaver-like sword and the Bankai, Tensa Zangetsu, is a thin black katana.",
+    "source_name": "Bleach Wiki - Zangetsu",
+    "source_url": "https://bleach.fandom.com/wiki/Zangetsu"
+  },
+  {
+    "id": 126,
+    "claim": "In the Quincy arts, Blut Vene is a defensive technique.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Blut Vene directs reishi through the body to strengthen it defensively, while Blut Arterie is the offensive counterpart.",
+    "source_name": "Bleach Wiki - Blut",
+    "source_url": "https://bleach.fandom.com/wiki/Blut"
+  },
+  {
+    "id": 127,
+    "claim": "Heilig Pfeil is a Hollow technique used by Vasto Lorde.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Heilig Pfeil is a basic Quincy technique that fires arrows made of reishi, not a Hollow ability.",
+    "source_name": "Bleach Wiki - Heilig Pfeil",
+    "source_url": "https://bleach.fandom.com/wiki/Heilig_Pfeil"
+  },
+  {
+    "id": 128,
+    "claim": "Hirenkyaku is the Quincy high-speed movement technique.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Hirenkyaku lets a Quincy move at high speed using reishi. Shunpo and Sonido belong to Soul Reapers and Arrancar.",
+    "source_name": "Bleach Wiki - Hirenkyaku",
+    "source_url": "https://bleach.fandom.com/wiki/Hirenkyaku"
+  },
+  {
+    "id": 129,
+    "claim": "Kido is divided into only two categories: Hado and Bakudo.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Kido has a third category, Kaido, for healing, alongside Hado (destruction) and Bakudo (binding).",
+    "source_name": "Bleach Wiki - Kidō",
+    "source_url": "https://bleach.fandom.com/wiki/Kid%C5%8D"
+  },
+  {
+    "id": 130,
+    "claim": "Hado #4, Byakurai, is a Kido spell that fires a bolt of lightning.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Byakurai is a low-level Hado that releases a lightning-like beam from the caster's finger.",
+    "source_name": "Bleach Wiki - Byakurai",
+    "source_url": "https://bleach.fandom.com/wiki/Byakurai"
+  },
+  {
+    "id": 131,
+    "claim": "Bakudo #81, Danku, is a healing Kido spell.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Danku is a defensive barrier spell. Healing belongs to the separate Kaido category.",
+    "source_name": "Bleach Wiki - Danku",
+    "source_url": "https://bleach.fandom.com/wiki/Danku"
+  },
+  {
+    "id": 132,
+    "claim": "A Kido spell cast without its incantation is weaker than one cast with the full incantation.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Skipping the incantation lets the spell be cast faster but reduces its power compared with the full chant.",
+    "source_name": "Bleach Wiki - Kidō",
+    "source_url": "https://bleach.fandom.com/wiki/Kid%C5%8D"
+  },
+  {
+    "id": 133,
+    "claim": "Ulquiorra Cifer's Resurreccion is named Murcielago.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Ulquiorra releases his Zanpakuto as Murcielago, and he has a further form called Segunda Etapa.",
+    "source_name": "Bleach Wiki - Ulquiorra Cifer",
+    "source_url": "https://bleach.fandom.com/wiki/Ulquiorra_Cifer"
+  },
+  {
+    "id": 134,
+    "claim": "Grimmjow Jaegerjaquez's Resurreccion is named Murcielago.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Grimmjow's Resurreccion is Pantera. Murcielago is Ulquiorra Cifer's.",
+    "source_name": "Bleach Wiki - Grimmjow Jaegerjaquez",
+    "source_url": "https://bleach.fandom.com/wiki/Grimmjow_Jaegerjaquez"
+  },
+  {
+    "id": 135,
+    "claim": "Fullbringers gain their abilities because their fathers were attacked by Hollows during pregnancy.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Fullbring powers come from the mother being attacked by a Hollow while pregnant with the child, not the father.",
+    "source_name": "Bleach Wiki - Fullbring",
+    "source_url": "https://bleach.fandom.com/wiki/Fullbring"
+  },
+  {
+    "id": 136,
+    "claim": "Ichigo Kurosaki lost his Soul Reaper powers as a consequence of using Mugetsu.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "In the manga, Mugetsu consumes Ichigo's Soul Reaper powers and leaves him powerless.",
+    "source_name": "Bleach Wiki - Mugetsu",
+    "source_url": "https://bleach.fandom.com/wiki/Mugetsu"
+  },
+  {
+    "id": 137,
+    "claim": "The four basic Soul Reaper combat arts are Zanjutsu, Hakuda, Hoho, and Reiatsu.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "The four are Zanjutsu, Hakuda, Hoho, and Kido. Reiatsu is spiritual pressure, not a combat art.",
+    "source_name": "Bleach Wiki - Shinigami",
+    "source_url": "https://bleach.fandom.com/wiki/Shinigami"
+  },
+  {
+    "id": 138,
+    "claim": "Ichigo Kurosaki obtained his Bankai in about three days of training under Kisuke Urahara.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "In the Soul Society arc, Ichigo gained Tensa Zangetsu in roughly three days, which was unusually fast for a Bankai.",
+    "source_name": "Bleach Wiki - Bankai",
+    "source_url": "https://bleach.fandom.com/wiki/Bankai"
+  },
+  {
+    "id": 139,
+    "claim": "A Soul Reaper can achieve Bankai without first achieving Shikai.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Shikai is the first release of a Zanpakuto and Bankai is the second, final release, so Shikai must come first.",
+    "source_name": "Bleach Wiki - Bankai",
+    "source_url": "https://bleach.fandom.com/wiki/Bankai"
+  },
+  {
+    "id": 140,
+    "claim": "Gin Ichimaru's Bankai is named Kamishini no Yari.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Kamishini no Yari is the Bankai of Gin's Zanpakuto Shinso.",
+    "source_name": "Bleach Wiki - Shinsō",
+    "source_url": "https://bleach.fandom.com/wiki/Shins%C5%8D"
+  },
+  {
+    "id": 141,
+    "claim": "Gin Ichimaru releases his Zanpakuto Shinso with the command \"Shatter\".",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Gin's release command for Shinso is \"Shoot to Kill\". \"Shatter\" is Aizen's command for Kyoka Suigetsu.",
+    "source_name": "Bleach Wiki - Shinsō",
+    "source_url": "https://bleach.fandom.com/wiki/Shins%C5%8D"
+  },
+  {
+    "id": 142,
+    "claim": "Adjuchas are the highest class of Hollow, ranking above Vasto Lorde.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Vasto Lorde is the highest Hollow class. The Menos classes rank Gillian, then Adjuchas, then Vasto Lorde.",
+    "source_name": "Bleach Wiki - Menos",
+    "source_url": "https://bleach.fandom.com/wiki/Menos"
+  },
+  {
+    "id": 143,
+    "claim": "Sogyo no Kotowari is the Shikai of Jushiro Ukitake.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Ukitake's Zanpakuto, Sogyo no Kotowari, absorbs attacks and returns them with increased power.",
+    "source_name": "Bleach Wiki - Sōgyo no Kotowari",
+    "source_url": "https://bleach.fandom.com/wiki/S%C5%8Dgyo_no_Kotowari"
+  },
+  {
+    "id": 144,
+    "claim": "Sogyo no Kotowari is the Shikai of Shunsui Kyoraku.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Sogyo no Kotowari belongs to Jushiro Ukitake. Shunsui Kyoraku's Zanpakuto is Katen Kyokotsu.",
+    "source_name": "Bleach Wiki - Sōgyo no Kotowari",
+    "source_url": "https://bleach.fandom.com/wiki/S%C5%8Dgyo_no_Kotowari"
+  },
+  {
+    "id": 145,
+    "claim": "Baraggan Louisenbairn's Resurreccion ability, Respira, causes anything it touches to age rapidly.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "In his released form, Arrogante, Baraggan uses Respira, an ability that rapidly ages and decays matter around him.",
+    "source_name": "Bleach Wiki - Baraggan Louisenbairn",
+    "source_url": "https://bleach.fandom.com/wiki/Baraggan_Louisenbairn"
+  },
+  {
+    "id": 146,
+    "claim": "Baraggan Louisenbairn's Respira ability freezes time in the area around him.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Respira causes rapid aging and decay, not time freezing.",
+    "source_name": "Bleach Wiki - Baraggan Louisenbairn",
+    "source_url": "https://bleach.fandom.com/wiki/Baraggan_Louisenbairn"
+  },
+  {
+    "id": 147,
+    "claim": "Tsukishima's Fullbring, Book of the End, lets him insert himself into a person's past.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Book of the End allows Shukuro Tsukishima to place himself into another person's past experiences.",
+    "source_name": "Bleach Wiki - Book of the End",
+    "source_url": "https://bleach.fandom.com/wiki/Book_of_the_End"
+  },
+  {
+    "id": 148,
+    "claim": "Tsukishima's Fullbring is called Cross of Scaffold.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Cross of Scaffold is Kugo Ginjo's Fullbring. Tsukishima's is Book of the End.",
+    "source_name": "Bleach Wiki - Book of the End",
+    "source_url": "https://bleach.fandom.com/wiki/Book_of_the_End"
+  },
+  {
+    "id": 149,
+    "claim": "Yasutora Sado's left arm is named Brazo Derecha de Gigante.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Brazo Derecha de Gigante is the name of Chad's right arm. His left arm is Brazo Izquierda del Diablo.",
+    "source_name": "Bleach Wiki - Yasutora Sado",
+    "source_url": "https://bleach.fandom.com/wiki/Yasutora_Sado"
+  },
+  {
+    "id": 150,
+    "claim": "Orihime Inoue's Shun Shun Rikka consists of seven spirits.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Shun Shun Rikka (Six Flowers) consists of six spirits.",
+    "source_name": "Bleach Wiki - Orihime Inoue",
+    "source_url": "https://bleach.fandom.com/wiki/Orihime_Inoue"
+  },
+  {
+    "id": 151,
+    "claim": "Yhwach leads the Wandenreich during the Thousand-Year Blood War.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Yhwach is the Quincy king and the leader of the Wandenreich, the force that wages war on Soul Society.",
+    "source_name": "Bleach Wiki - Yhwach",
+    "source_url": "https://bleach.fandom.com/wiki/Yhwach"
+  },
+  {
+    "id": 152,
+    "claim": "Uryu Ishida is a Soul Reaper who fights with a Zanpakuto.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Uryu Ishida is a Quincy who fights with a spirit bow made of reishi, not a Soul Reaper with a Zanpakuto.",
+    "source_name": "Bleach Wiki - Uryū Ishida",
+    "source_url": "https://bleach.fandom.com/wiki/Ury%C5%AB_Ishida"
+  },
+  {
+    "id": 153,
+    "claim": "The Royal Guard is also known as Squad Zero.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Squad Zero is the alternate name for the Royal Guard, the elite group that protects the Soul King.",
+    "source_name": "Bleach Wiki - Royal Guard",
+    "source_url": "https://bleach.fandom.com/wiki/Royal_Guard"
+  },
+  {
+    "id": 154,
+    "claim": "The Royal Guard exists to protect Yhwach.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "The Royal Guard protects the Soul King, not Yhwach, who is their enemy in the Thousand-Year Blood War.",
+    "source_name": "Bleach Wiki - Royal Guard",
+    "source_url": "https://bleach.fandom.com/wiki/Royal_Guard"
+  },
+  {
+    "id": 155,
+    "claim": "Jugram Haschwalth serves as Yhwach's right-hand man in the Wandenreich.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Haschwalth is Yhwach's closest subordinate and holds the title of Sternritter Grandmaster.",
+    "source_name": "Bleach Wiki - Jugram Haschwalth",
+    "source_url": "https://bleach.fandom.com/wiki/Jugram_Haschwalth"
+  },
+  {
+    "id": 156,
+    "claim": "The Sternritter are the elite soldiers of the Wandenreich.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "The Sternritter are Yhwach's elite Quincy warriors, each granted a Schrift, a letter-based power.",
+    "source_name": "Bleach Wiki - Sternritter",
+    "source_url": "https://bleach.fandom.com/wiki/Sternritter"
+  },
+  {
+    "id": 157,
+    "claim": "Gerard Valkyrie is a captain of the Gotei 13.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Gerard Valkyrie is a Sternritter of the Wandenreich, not a Gotei 13 captain.",
+    "source_name": "Bleach Wiki - Gerard Valkyrie",
+    "source_url": "https://bleach.fandom.com/wiki/Gerard_Valkyrie"
+  },
+  {
+    "id": 158,
+    "claim": "Ichigo Kurosaki's mother, Masaki, was a Quincy.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Masaki Kurosaki was a Quincy, which is the source of Ichigo's Quincy heritage.",
+    "source_name": "Bleach Wiki - Masaki Kurosaki",
+    "source_url": "https://bleach.fandom.com/wiki/Masaki_Kurosaki"
+  },
+  {
+    "id": 159,
+    "claim": "Ichigo Kurosaki's father, Isshin, is a Quincy.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Isshin Kurosaki is a Soul Reaper, formerly the captain of Squad 10. The Quincy parent is Ichigo's mother, Masaki.",
+    "source_name": "Bleach Wiki - Isshin Kurosaki",
+    "source_url": "https://bleach.fandom.com/wiki/Isshin_Kurosaki"
+  },
+  {
+    "id": 160,
+    "claim": "Yhwach's Schrift is the letter A, known as The Almighty.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Easy",
+    "explanation": "Yhwach's Schrift is A, The Almighty, the letter that marks him as the Quincy king.",
+    "source_name": "Bleach Wiki - Yhwach",
+    "source_url": "https://bleach.fandom.com/wiki/Yhwach"
+  },
+  {
+    "id": 161,
+    "claim": "Bazz-B's Schrift is H, The Heat.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Bazz-B is the Sternritter whose Schrift is H, The Heat, matching his fire-based abilities.",
+    "source_name": "Bleach Wiki - Bazz-B",
+    "source_url": "https://bleach.fandom.com/wiki/Bazz-B"
+  },
+  {
+    "id": 162,
+    "claim": "Jugram Haschwalth's Schrift is H, The Heat.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Haschwalth's Schrift is B, The Balance. H, The Heat, belongs to Bazz-B.",
+    "source_name": "Bleach Wiki - Jugram Haschwalth",
+    "source_url": "https://bleach.fandom.com/wiki/Jugram_Haschwalth"
+  },
+  {
+    "id": 163,
+    "claim": "Gremmy Thoumeaux's Schrift is V, The Visionary.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Gremmy Thoumeaux is the Sternritter whose Schrift is V, The Visionary.",
+    "source_name": "Bleach Wiki - Gremmy Thoumeaux",
+    "source_url": "https://bleach.fandom.com/wiki/Gremmy_Thoumeaux"
+  },
+  {
+    "id": 164,
+    "claim": "Gerard Valkyrie's Schrift is V, The Visionary.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Gerard Valkyrie's Schrift is M, The Miracle. V, The Visionary, belongs to Gremmy Thoumeaux.",
+    "source_name": "Bleach Wiki - Gerard Valkyrie",
+    "source_url": "https://bleach.fandom.com/wiki/Gerard_Valkyrie"
+  },
+  {
+    "id": 165,
+    "claim": "Askin Nakk Le Vaar's Schrift is D, The Deathdealing.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Askin Nakk Le Vaar is the Sternritter whose Schrift is D, The Deathdealing.",
+    "source_name": "Bleach Wiki - Askin Nakk Le Vaar",
+    "source_url": "https://bleach.fandom.com/wiki/Askin_Nakk_Le_Vaar"
+  },
+  {
+    "id": 166,
+    "claim": "Askin Nakk Le Vaar's Schrift is E, The Explode.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Askin's Schrift is D, The Deathdealing. E, The Explode, belongs to Bambietta Basterbine.",
+    "source_name": "Bleach Wiki - Askin Nakk Le Vaar",
+    "source_url": "https://bleach.fandom.com/wiki/Askin_Nakk_Le_Vaar"
+  },
+  {
+    "id": 167,
+    "claim": "Jugram Haschwalth's Schrift is B, The Balance.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Haschwalth's Schrift is B, The Balance, as the Sternritter Grandmaster.",
+    "source_name": "Bleach Wiki - Jugram Haschwalth",
+    "source_url": "https://bleach.fandom.com/wiki/Jugram_Haschwalth"
+  },
+  {
+    "id": 168,
+    "claim": "Bazz-B's Schrift is B, The Balance.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Bazz-B's Schrift is H, The Heat. B, The Balance, belongs to Jugram Haschwalth.",
+    "source_name": "Bleach Wiki - Bazz-B",
+    "source_url": "https://bleach.fandom.com/wiki/Bazz-B"
+  },
+  {
+    "id": 169,
+    "claim": "Ichibe Hyosube is the leader of the Royal Guard.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Ichibe Hyosube is the leader of the Royal Guard (Squad Zero).",
+    "source_name": "Bleach Wiki - Ichibē Hyōsube",
+    "source_url": "https://bleach.fandom.com/wiki/Ichib%C4%93_Hy%C5%8Dsube"
+  },
+  {
+    "id": 170,
+    "claim": "Oetsu Nimaiya is the leader of the Royal Guard.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "The leader of the Royal Guard is Ichibe Hyosube. Oetsu Nimaiya is a member of the group, not its leader.",
+    "source_name": "Bleach Wiki - Ōetsu Nimaiya",
+    "source_url": "https://bleach.fandom.com/wiki/%C5%8Cetsu_Nimaiya"
+  },
+  {
+    "id": 171,
+    "claim": "The Royal Guard is based in the Royal Realm, where the Soul King resides.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "The Royal Guard is stationed in the Royal Realm, home of the Soul King's Palace, which it protects.",
+    "source_name": "Bleach Wiki - Royal Guard",
+    "source_url": "https://bleach.fandom.com/wiki/Royal_Guard"
+  },
+  {
+    "id": 172,
+    "claim": "Squad Zero is stationed in Hueco Mundo.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Squad Zero is stationed in the Royal Realm. Hueco Mundo is the home of Hollows and Arrancar.",
+    "source_name": "Bleach Wiki - Royal Guard",
+    "source_url": "https://bleach.fandom.com/wiki/Royal_Guard"
+  },
+  {
+    "id": 173,
+    "claim": "Quincy destroy Hollows rather than purifying them, which disrupts the cycle of souls.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Quincy annihilate Hollow souls, while Soul Reapers purify them and send them to Soul Society, so the Quincy method upsets the balance of souls.",
+    "source_name": "Bleach Wiki - Quincy",
+    "source_url": "https://bleach.fandom.com/wiki/Quincy"
+  },
+  {
+    "id": 174,
+    "claim": "Quincy purify Hollows and send them to Soul Society, just as Soul Reapers do.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Quincy destroy Hollows outright, which is why Soul Society regarded them as a threat. Purification is the Soul Reaper method.",
+    "source_name": "Bleach Wiki - Quincy",
+    "source_url": "https://bleach.fandom.com/wiki/Quincy"
+  },
+  {
+    "id": 175,
+    "claim": "Silbern is the capital of the Wandenreich.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Silbern is the capital city of the Wandenreich.",
+    "source_name": "Bleach Wiki - Wandenreich",
+    "source_url": "https://bleach.fandom.com/wiki/Wandenreich"
+  },
+  {
+    "id": 176,
+    "claim": "Silbern is the capital of Soul Society.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Silbern is the capital of the Wandenreich, the Quincy empire. Soul Society's center is the Seireitei.",
+    "source_name": "Bleach Wiki - Wandenreich",
+    "source_url": "https://bleach.fandom.com/wiki/Wandenreich"
+  },
+  {
+    "id": 177,
+    "claim": "Gremmy Thoumeaux's Visionary power lets him make his imagination real.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Gremmy's Schrift lets him turn whatever he imagines into reality.",
+    "source_name": "Bleach Wiki - Gremmy Thoumeaux",
+    "source_url": "https://bleach.fandom.com/wiki/Gremmy_Thoumeaux"
+  },
+  {
+    "id": 178,
+    "claim": "Gremmy Thoumeaux's Visionary power lets him see the future.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "Gremmy's Visionary makes his imagination real. Foreseeing the future is the role of Yhwach's Almighty.",
+    "source_name": "Bleach Wiki - Gremmy Thoumeaux",
+    "source_url": "https://bleach.fandom.com/wiki/Gremmy_Thoumeaux"
+  },
+  {
+    "id": 179,
+    "claim": "The Schutzstaffel is an elite guard unit of the Wandenreich.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "The Schutzstaffel is the Wandenreich's elite guard unit serving Yhwach.",
+    "source_name": "Bleach Wiki - Schutzstaffel",
+    "source_url": "https://bleach.fandom.com/wiki/Schutzstaffel"
+  },
+  {
+    "id": 180,
+    "claim": "The Schutzstaffel is a division of the Gotei 13.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Medium",
+    "explanation": "The Schutzstaffel belongs to the Wandenreich, the Quincy empire, not to the Soul Reaper Gotei 13.",
+    "source_name": "Bleach Wiki - Schutzstaffel",
+    "source_url": "https://bleach.fandom.com/wiki/Schutzstaffel"
+  },
+  {
+    "id": 181,
+    "claim": "Candice Catnipp's Schrift is T, The Thunderbolt.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Candice Catnipp is the Sternritter whose Schrift is T, The Thunderbolt, matching her lightning attacks.",
+    "source_name": "Bleach Wiki - Candice Catnipp",
+    "source_url": "https://bleach.fandom.com/wiki/Candice_Catnipp"
+  },
+  {
+    "id": 182,
+    "claim": "Candice Catnipp's Schrift is Z, The Zombie.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Candice's Schrift is T, The Thunderbolt. Z, The Zombie, belongs to Giselle Gewelle.",
+    "source_name": "Bleach Wiki - Candice Catnipp",
+    "source_url": "https://bleach.fandom.com/wiki/Candice_Catnipp"
+  },
+  {
+    "id": 183,
+    "claim": "Giselle Gewelle's Schrift is Z, The Zombie.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Giselle Gewelle's Schrift is Z, The Zombie, which lets her command zombie-like bodies.",
+    "source_name": "Bleach Wiki - Giselle Gewelle",
+    "source_url": "https://bleach.fandom.com/wiki/Giselle_Gewelle"
+  },
+  {
+    "id": 184,
+    "claim": "Giselle Gewelle's Schrift is F, The Fear.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Giselle's Schrift is Z, The Zombie. F, The Fear, belongs to Äs Nödt.",
+    "source_name": "Bleach Wiki - Giselle Gewelle",
+    "source_url": "https://bleach.fandom.com/wiki/Giselle_Gewelle"
+  },
+  {
+    "id": 185,
+    "claim": "Äs Nödt's Schrift is F, The Fear.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Äs Nödt is the Sternritter whose Schrift is F, The Fear.",
+    "source_name": "Bleach Wiki - Äs Nödt",
+    "source_url": "https://bleach.fandom.com/wiki/%C3%84s_N%C3%B6dt"
+  },
+  {
+    "id": 186,
+    "claim": "Äs Nödt's Schrift is E, The Explode.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Äs Nödt's Schrift is F, The Fear. E, The Explode, belongs to Bambietta Basterbine.",
+    "source_name": "Bleach Wiki - Äs Nödt",
+    "source_url": "https://bleach.fandom.com/wiki/%C3%84s_N%C3%B6dt"
+  },
+  {
+    "id": 187,
+    "claim": "Bambietta Basterbine's Schrift is E, The Explode.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Bambietta Basterbine's Schrift is E, The Explode, which lets her turn objects into explosives.",
+    "source_name": "Bleach Wiki - Bambietta Basterbine",
+    "source_url": "https://bleach.fandom.com/wiki/Bambietta_Basterbine"
+  },
+  {
+    "id": 188,
+    "claim": "Bambietta Basterbine's Schrift is T, The Thunderbolt.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Bambietta's Schrift is E, The Explode. T, The Thunderbolt, belongs to Candice Catnipp.",
+    "source_name": "Bleach Wiki - Bambietta Basterbine",
+    "source_url": "https://bleach.fandom.com/wiki/Bambietta_Basterbine"
+  },
+  {
+    "id": 189,
+    "claim": "Gerard Valkyrie's Schrift is M, The Miracle.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Gerard Valkyrie is the Sternritter whose Schrift is M, The Miracle.",
+    "source_name": "Bleach Wiki - Gerard Valkyrie",
+    "source_url": "https://bleach.fandom.com/wiki/Gerard_Valkyrie"
+  },
+  {
+    "id": 190,
+    "claim": "Gremmy Thoumeaux's Schrift is M, The Miracle.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Gremmy's Schrift is V, The Visionary. M, The Miracle, belongs to Gerard Valkyrie.",
+    "source_name": "Bleach Wiki - Gremmy Thoumeaux",
+    "source_url": "https://bleach.fandom.com/wiki/Gremmy_Thoumeaux"
+  },
+  {
+    "id": 191,
+    "claim": "The anime adaptation of the Thousand-Year Blood War arc was produced by Studio Pierrot.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Studio Pierrot produces the Bleach: Thousand-Year Blood War anime, which adapts the manga's final arc.",
+    "source_name": "Wikipedia - Bleach: Thousand-Year Blood War",
+    "source_url": "https://en.wikipedia.org/wiki/Bleach:_Thousand-Year_Blood_War"
+  },
+  {
+    "id": 192,
+    "claim": "Part 2 of the Thousand-Year Blood War anime is subtitled The Conflict.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Part 2 is subtitled The Separation. The Conflict is the subtitle of Part 3.",
+    "source_name": "Wikipedia - Bleach: Thousand-Year Blood War",
+    "source_url": "https://en.wikipedia.org/wiki/Bleach:_Thousand-Year_Blood_War"
+  },
+  {
+    "id": 193,
+    "claim": "Part 3 of the Thousand-Year Blood War anime is subtitled The Conflict.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "The third part of the anime adaptation is subtitled The Conflict.",
+    "source_name": "Wikipedia - Bleach: Thousand-Year Blood War",
+    "source_url": "https://en.wikipedia.org/wiki/Bleach:_Thousand-Year_Blood_War"
+  },
+  {
+    "id": 194,
+    "claim": "The Thousand-Year Blood War anime first premiered in 2015.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "The anime adaptation premiered in October 2022, many years after the original anime ended in 2012.",
+    "source_name": "Wikipedia - Bleach: Thousand-Year Blood War",
+    "source_url": "https://en.wikipedia.org/wiki/Bleach:_Thousand-Year_Blood_War"
+  },
+  {
+    "id": 195,
+    "claim": "The Thousand-Year Blood War anime first premiered in October 2022.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "The first part of the Thousand-Year Blood War anime premiered in October 2022.",
+    "source_name": "Wikipedia - Bleach: Thousand-Year Blood War",
+    "source_url": "https://en.wikipedia.org/wiki/Bleach:_Thousand-Year_Blood_War"
+  },
+  {
+    "id": 196,
+    "claim": "Yhwach's Almighty gives him the power to see and alter the future.",
+    "answer": "FACT",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "The Almighty lets Yhwach perceive the future and rewrite it to his advantage.",
+    "source_name": "Bleach Wiki - Yhwach",
+    "source_url": "https://bleach.fandom.com/wiki/Yhwach"
+  },
+  {
+    "id": 197,
+    "claim": "Yhwach's Almighty allows him to resurrect the dead.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "The Almighty is a power over the future, not over death. It has no resurrection ability.",
+    "source_name": "Bleach Wiki - Yhwach",
+    "source_url": "https://bleach.fandom.com/wiki/Yhwach"
+  },
+  {
+    "id": 198,
+    "claim": "Ichigo Kurosaki's Quincy heritage comes from his father's side.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "Ichigo's Quincy heritage comes from his mother, Masaki Kurosaki. His father, Isshin, is a Soul Reaper.",
+    "source_name": "Bleach Wiki - Masaki Kurosaki",
+    "source_url": "https://bleach.fandom.com/wiki/Masaki_Kurosaki"
+  },
+  {
+    "id": 199,
+    "claim": "Jugram Haschwalth's Schrift is A, The Almighty.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "A, The Almighty, is Yhwach's Schrift. Haschwalth's is B, The Balance.",
+    "source_name": "Bleach Wiki - Jugram Haschwalth",
+    "source_url": "https://bleach.fandom.com/wiki/Jugram_Haschwalth"
+  },
+  {
+    "id": 200,
+    "claim": "Squad Zero consists of thirteen members.",
+    "answer": "TRAP",
+    "category": "Bleach",
+    "difficulty": "Hard",
+    "explanation": "The Royal Guard (Squad Zero) has five members: Ichibe Hyosube, Oetsu Nimaiya, Senjumaru Shutara, Tenjiro Kirinji and Kirio Hikifune. Thirteen is the number of Gotei 13 squads.",
+    "source_name": "Bleach Wiki - Royal Guard",
+    "source_url": "https://bleach.fandom.com/wiki/Royal_Guard"
+  }
+]
