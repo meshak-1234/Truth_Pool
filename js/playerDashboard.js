@@ -65,7 +65,7 @@
     if (window.BluffXP && typeof window.BluffXP.fetchCurrentXP === 'function') {
       return await window.BluffXP.fetchCurrentXP();
     }
-    const apiBase = window.BluffAuth && window.BluffAuth.API_BASE_URL ? window.BluffAuth.API_BASE_URL : (window.TRUTH_POOL_API_BASE_URL || window.BLUFF_API_BASE_URL || 'http://127.0.0.1:8001');
+    const apiBase = window.BluffAuth && window.BluffAuth.API_BASE_URL ? window.BluffAuth.API_BASE_URL : (window.TRUTH_POOL_API_BASE_URL || window.BLUFF_API_BASE_URL || 'https://truthpool-api-50046996624.development.catalystappsail.in');
     const res = await fetch(`${apiBase}/players/me/xp`, {
       headers: { 'Authorization': `Bearer ${token}` }
     });
