@@ -114,7 +114,7 @@
       try {
         res = await fetch(`${API_BASE_URL}/auth/register`, {
           method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
+          headers: { "Content-Type": "text/plain" },
           body: JSON.stringify({ username, email, password })
         });
       } catch {
@@ -138,7 +138,7 @@
       try {
         res = await fetch(`${API_BASE_URL}/auth/login`, {
           method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
+          headers: { 'Content-Type': 'text/plain' },
           body: JSON.stringify({ email, password })
         });
       } catch {
