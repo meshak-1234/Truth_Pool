@@ -9,7 +9,7 @@
   'use strict';
 
   // Configurable API base URL with local development fallback
-  const API_BASE_URL = window.TRUTH_POOL_API_BASE_URL || window.BLUFF_API_BASE_URL || 'http://127.0.0.1:8001';
+  const API_BASE_URL = window.TRUTH_POOL_API_BASE_URL || window.BLUFF_API_BASE_URL || 'https://truthpool-api-50046996624.development.catalystappsail.in';
   const STORAGE_KEY = 'bluff_auth_session';
   let onAuthExpired = null;
 
