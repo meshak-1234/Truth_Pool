@@ -9,7 +9,8 @@
   'use strict';
 
   // Configurable API base URL with local development fallback
-  const API_BASE_URL = window.TRUTH_POOL_API_BASE_URL || window.BLUFF_API_BASE_URL || 'https://truthpool-api-50046996624.development.catalystappsail.in';
+  const rawBaseUrl = window.TRUTH_POOL_API_BASE_URL || window.BLUFF_API_BASE_URL || 'https://truthpool-api-50046996624.development.catalystappsail.in';
+  const API_BASE_URL = String(rawBaseUrl).trim().replace(/\/+$/, '');
   const STORAGE_KEY = 'bluff_auth_session';
   let onAuthExpired = null;
 
@@ -114,10 +115,11 @@
       try {
         res = await fetch(`${API_BASE_URL}/auth/register`, {
           method: 'POST',
-          headers: { "Content-Type": "text/plain" },
+          headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ username, email, password })
         });
-      } catch {
+      } catch (err) {
+        console.warn('[BluffAuth] Network error during register:', err);
         throw new Error(`Authentication server is unreachable. Please verify the backend is running at ${API_BASE_URL}.`);
       }
 
@@ -126,6 +128,9 @@
       if (!res.ok) {
         if (res.status === 409) {
           throw new Error('This email is already registered. Please sign in instead.');
+        }
+        if (res.status >= 500) {
+          throw new Error(formatErrorMessage(data, `Server error (HTTP ${res.status}). Please try again later.`));
         }
         throw new Error(formatErrorMessage(data, 'Registration failed. Please check your inputs.'));
       }
@@ -138,10 +143,11 @@
       try {
         res = await fetch(`${API_BASE_URL}/auth/login`, {
           method: 'POST',
-          headers: { 'Content-Type': 'text/plain' },
+          headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ email, password })
         });
-      } catch {
+      } catch (err) {
+        console.warn('[BluffAuth] Network error during login:', err);
         throw new Error(`Authentication server is unreachable. Please verify the backend is running at ${API_BASE_URL}.`);
       }
 
@@ -150,6 +156,9 @@
       if (!res.ok) {
         if (res.status === 401) {
           throw new Error('Invalid email or password.');
+        }
+        if (res.status >= 500) {
+          throw new Error(formatErrorMessage(data, `Server error (HTTP ${res.status}). Please try again later.`));
         }
         throw new Error(formatErrorMessage(data, 'Login failed. Please check your credentials.'));
       }
@@ -184,7 +193,8 @@
             'Authorization': `Bearer ${token}`
           }
         });
-      } catch {
+      } catch (err) {
+        console.warn('[BluffAuth] Network error during deleteAccount:', err);
         throw new Error(`Authentication server is unreachable. Please verify the backend is running at ${API_BASE_URL}.`);
       }
 
@@ -193,6 +203,9 @@
       if (!res.ok) {
         if (res.status === 401) {
           throw new Error('Session has expired. Please sign in again.');
+        }
+        if (res.status >= 500) {
+          throw new Error(formatErrorMessage(data, `Server error (HTTP ${res.status}). Please try again later.`));
         }
         throw new Error(formatErrorMessage(data, 'Account deletion failed.'));
       }
@@ -216,7 +229,8 @@
           },
           body: JSON.stringify(payload)
         });
-      } catch {
+      } catch (err) {
+        console.warn('[BluffAuth] Network error during saveGameRound:', err);
         throw new Error(`Server is unreachable. Please verify the backend is running at ${API_BASE_URL}.`);
       }
 
@@ -229,6 +243,9 @@
       const data = await res.json().catch(() => null);
 
       if (!res.ok) {
+        if (res.status >= 500) {
+          throw new Error(formatErrorMessage(data, `Server error (HTTP ${res.status}). Please try again later.`));
+        }
         throw new Error(formatErrorMessage(data, 'Failed to save completed game round.'));
       }
 
@@ -249,7 +266,8 @@
             'Authorization': `Bearer ${session.access_token}`
           }
         });
-      } catch {
+      } catch (err) {
+        console.warn('[BluffAuth] Network error during getGameHistory:', err);
         throw new Error(`Server is unreachable. Please verify the backend is running at ${API_BASE_URL}.`);
       }
 
@@ -262,6 +280,9 @@
       const data = await res.json().catch(() => null);
 
       if (!res.ok) {
+        if (res.status >= 500) {
+          throw new Error(formatErrorMessage(data, `Server error (HTTP ${res.status}). Please try again later.`));
+        }
         throw new Error(formatErrorMessage(data, 'Failed to retrieve game history.'));
       }
 
@@ -282,7 +303,8 @@
             'Authorization': `Bearer ${session.access_token}`
           }
         });
-      } catch {
+      } catch (err) {
+        console.warn('[BluffAuth] Network error during getPlayerStats:', err);
         throw new Error(`Server is unreachable. Please verify the backend is running at ${API_BASE_URL}.`);
       }
 
@@ -295,6 +317,9 @@
       const data = await res.json().catch(() => null);
 
       if (!res.ok) {
+        if (res.status >= 500) {
+          throw new Error(formatErrorMessage(data, `Server error (HTTP ${res.status}). Please try again later.`));
+        }
         throw new Error(formatErrorMessage(data, 'Failed to retrieve player statistics.'));
       }
 
@@ -315,7 +340,8 @@
             'Authorization': `Bearer ${session.access_token}`
           }
         });
-      } catch {
+      } catch (err) {
+        console.warn('[BluffAuth] Network error during getPlayerAchievements:', err);
         throw new Error(`Server is unreachable. Please verify the backend is running at ${API_BASE_URL}.`);
       }
 
@@ -328,6 +354,9 @@
       const data = await res.json().catch(() => null);
 
       if (!res.ok) {
+        if (res.status >= 500) {
+          throw new Error(formatErrorMessage(data, `Server error (HTTP ${res.status}). Please try again later.`));
+        }
         throw new Error(formatErrorMessage(data, 'Failed to retrieve player achievements.'));
       }
 

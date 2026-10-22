@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "86068000000016001",
+      "name": "TruthPool",
+      "domain": {
+        "id": "50046996624",
+        "name": "truthpool-60092370505.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60092370505",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

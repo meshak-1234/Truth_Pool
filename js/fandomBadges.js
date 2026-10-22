@@ -838,7 +838,8 @@
     formatProgressStatus: formatFandomProgressStatus,
     renderBadgeSvg,
     getCachedBadges: () => cachedBadges.slice(),
-    getCachedProgress: () => cachedProgress.slice()
+    getCachedProgress: () => cachedProgress.slice(),
+    getFandomProgress: () => window.BluffAuth && window.BluffAuth.AuthService ? window.BluffAuth.AuthService.getFandomProgress() : null
   };
 
   // Auto-init on DOMContentLoaded

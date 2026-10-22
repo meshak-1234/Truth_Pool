@@ -47,8 +47,8 @@
       ]);
 
       if (statsRes.status === 'fulfilled') results.stats = statsRes.value;
-      if (historyRes.status === 'fulfilled' && historyRes.value && historyRes.value.rounds) {
-        results.history = historyRes.value.rounds;
+      if (historyRes.status === 'fulfilled' && historyRes.value) {
+        results.history = historyRes.value.games || historyRes.value.rounds || [];
       }
       if (xpRes.status === 'fulfilled') results.xp = xpRes.value;
       if (fandomRes.status === 'fulfilled') results.fandomProgress = fandomRes.value;
@@ -65,7 +65,8 @@
     if (window.BluffXP && typeof window.BluffXP.fetchCurrentXP === 'function') {
       return await window.BluffXP.fetchCurrentXP();
     }
-    const apiBase = window.BluffAuth && window.BluffAuth.API_BASE_URL ? window.BluffAuth.API_BASE_URL : (window.TRUTH_POOL_API_BASE_URL || window.BLUFF_API_BASE_URL || 'https://truthpool-api-50046996624.development.catalystappsail.in');
+    const rawApiBase = window.BluffAuth && window.BluffAuth.API_BASE_URL ? window.BluffAuth.API_BASE_URL : (window.TRUTH_POOL_API_BASE_URL || window.BLUFF_API_BASE_URL || 'https://truthpool-api-50046996624.development.catalystappsail.in');
+    const apiBase = String(rawApiBase).trim().replace(/\/+$/, '');
     const res = await fetch(`${apiBase}/players/me/xp`, {
       headers: { 'Authorization': `Bearer ${token}` }
     });
@@ -76,7 +77,11 @@
   async function fetchFandomProgress() {
     if (window.TruthPoolFandomBadges && typeof window.TruthPoolFandomBadges.getFandomProgress === 'function') {
       const resp = await window.TruthPoolFandomBadges.getFandomProgress();
-      return resp ? resp.progress : null;
+      return resp ? (resp.progress || resp.fandoms || resp) : null;
+    }
+    if (window.BluffAuth && window.BluffAuth.AuthService && typeof window.BluffAuth.AuthService.getFandomProgress === 'function') {
+      const resp = await window.BluffAuth.AuthService.getFandomProgress();
+      return resp ? (resp.progress || resp.fandoms || resp) : null;
     }
     return null;
   }

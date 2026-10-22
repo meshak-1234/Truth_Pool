@@ -231,16 +231,27 @@
    * Fetch authenticated user fandom progress
    */
   async function fetchUserProgress() {
-    if (window.TruthPoolFandomBadges && typeof window.TruthPoolFandomBadges.getFandomProgress === 'function') {
-      try {
-        const resp = await window.TruthPoolFandomBadges.getFandomProgress();
-        if (resp && resp.progress) {
-          cachedProgress = resp.progress;
-          return cachedProgress;
-        }
-      } catch (err) {
-        console.warn('[FandomSelection] Progress fetch error:', err);
+    try {
+      let resp = null;
+      if (window.TruthPoolFandomBadges && typeof window.TruthPoolFandomBadges.getFandomProgress === 'function') {
+        resp = await window.TruthPoolFandomBadges.getFandomProgress();
+      } else if (window.BluffAuth && window.BluffAuth.AuthService && typeof window.BluffAuth.AuthService.getFandomProgress === 'function') {
+        resp = await window.BluffAuth.AuthService.getFandomProgress();
       }
+
+      if (resp) {
+        const list = Array.isArray(resp.fandoms) ? resp.fandoms : (Array.isArray(resp.progress) ? resp.progress : (Array.isArray(resp) ? resp : []));
+        const map = {};
+        for (const item of list) {
+          if (item && item.fandom_id) {
+            map[item.fandom_id] = item;
+          }
+        }
+        cachedProgress = map;
+        return cachedProgress;
+      }
+    } catch (err) {
+      console.warn('[FandomSelection] Progress fetch error:', err);
     }
     cachedProgress = null;
     return null;

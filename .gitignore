@@ -37,3 +37,7 @@ Thumbs.db
 
 # Local dataset review and validation reports
 reports/
+
+# AppSail build and packaging artifacts
+truthpool-api-appsail/
+*.zip
