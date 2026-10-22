@@ -12,12 +12,22 @@ from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, Depends, Response, Query, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
-from pydantic import BaseModel, EmailStr, Field, model_validator
+from pydantic import BaseModel, EmailStr, Field, model_validator,ValidationError
 from argon2 import PasswordHasher
 from argon2.exceptions import VerifyMismatchError, VerificationError
 
 import json
-load_dotenv()
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+load_dotenv(BASE_DIR / ".env")
+
+print("ENV FILE FOUND:", (BASE_DIR / ".env").exists())
+print("DB_HOST:", os.getenv("DB_HOST"))
+print("DB_PORT:", os.getenv("DB_PORT"))
+print("DB_USER:", os.getenv("DB_USER"))
+print("DB_NAME:", os.getenv("DB_NAME"))
+print("DB_PASSWORD LOADED:", bool(os.getenv("DB_PASSWORD")))
 
 # ---------------------------------------------------------------------------
 # Phase 1 & 2: Fandom Badges Configuration & Dataset Mapping
@@ -357,64 +367,39 @@ app = FastAPI(
     openapi_url=None if is_production else "/openapi.json",
 )
 
-# Supported origins for frontend development and deployment.
-# Supports comma-separated FRONTEND_ORIGINS with safe local-development defaults,
-# maintaining backward-compatibility with FRONTEND_ORIGIN.
-default_origins = "http://localhost:8000,http://127.0.0.1:8000,https://truth-pool-hsxrawof.onslate.in"
+# Exact deployed Slate frontend origin and local development origins
+DEPLOYED_SLATE_ORIGIN = "https://truth-pool-hsxrawof.onslate.in"
+default_origins = f"http://localhost:8000,http://127.0.0.1:8000,http://localhost:3000,http://127.0.0.1:3000,{DEPLOYED_SLATE_ORIGIN}"
 raw_origins = os.getenv("FRONTEND_ORIGINS") or os.getenv("FRONTEND_ORIGIN") or default_origins
-allowed_origins = [origin.strip() for origin in raw_origins.split(",") if origin.strip()]
+
+# Parse, clean, and defensively normalize origins (strip trailing slashes, but keep both in list)
+parsed_origins_set = set()
+for origin in raw_origins.split(","):
+    clean = origin.strip()
+    if clean:
+        base = clean.rstrip("/")
+        parsed_origins_set.add(base)
+        parsed_origins_set.add(base + "/")
+
+# Guarantee the exact production Slate frontend origin is unconditionally included
+parsed_origins_set.add(DEPLOYED_SLATE_ORIGIN)
+parsed_origins_set.add(DEPLOYED_SLATE_ORIGIN + "/")
+
+allowed_origins = sorted(list(parsed_origins_set))
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=allowed_origins,
     allow_credentials=True,
-    allow_methods=["GET", "POST", "DELETE", "OPTIONS"],
-    allow_headers=["Content-Type", "Authorization"],
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
-# ---------------------------------------------------------------------------
-# Explicit OPTIONS (preflight) handler
-# ---------------------------------------------------------------------------
-# Catalyst AppSail's ZGS gateway intercepts OPTIONS requests before they reach
-# FastAPI's CORSMiddleware, responding with 200 but without CORS headers.
-# This catch-all OPTIONS route handler returns the required CORS headers
-# directly from the application layer, ensuring browser preflights succeed.
-# ---------------------------------------------------------------------------
-@app.options("/{rest_of_path:path}", include_in_schema=False)
-async def options_preflight(request: Request, rest_of_path: str):
-    origin = request.headers.get("origin", "")
-    # Only echo back the origin if it is in the allowed list
-    cors_origin = origin if origin in allowed_origins else (allowed_origins[0] if allowed_origins else "*")
-    return Response(
-        status_code=200,
-        headers={
-            "Access-Control-Allow-Origin": cors_origin,
-            "Access-Control-Allow-Credentials": "true",
-            "Access-Control-Allow-Methods": "GET, POST, DELETE, OPTIONS",
-            "Access-Control-Allow-Headers": "Content-Type, Authorization",
-            "Access-Control-Max-Age": "86400",
-        },
-    )
 
-@app.middleware("http")
-async def handle_auth_text_plain(request: Request, call_next):
-    auth_paths = {"/auth/register", "/auth/login"}
-
-    content_type = request.headers.get("content-type", "")
-    media_type = content_type.split(";", 1)[0].strip().lower()
-
-    if (
-        request.method == "POST"
-        and request.url.path in auth_paths
-        and media_type == "text/plain"
-    ):
-        request.scope["headers"] = [
-            (name, value)
-            for name, value in request.scope["headers"]
-            if name.lower() != b"content-type"
-        ] + [(b"content-type", b"application/json")]
-
-    return await call_next(request)
+@app.options("/{full_path:path}")
+async def preflight_options_handler(full_path: str):
+    """Fallback handler ensuring OPTIONS preflight always returns 200 OK."""
+    return Response(status_code=200)
 
 password_hasher = PasswordHasher()
 bearer = HTTPBearer()
@@ -463,6 +448,7 @@ def get_connection():
         "user": os.getenv("DB_USER", "root"),
         "password": os.getenv("DB_PASSWORD", ""),
         "database": os.getenv("DB_NAME", "bluff_or_believe"),
+        "connect_timeout": 5,  # Fail fast; prevents ZGS gateway timeout killing the response
     }
     # Optional Cloud MySQL SSL/TLS configuration (AWS RDS, Aiven, Azure, PlanetScale)
     ssl_ca = os.getenv("DB_SSL_CA")
@@ -538,7 +524,15 @@ def health():
 
 
 @app.post("/auth/register", status_code=201)
-def register(data: RegisterRequest, request: Request):
+async def register(request: Request):
+    try:
+        data = RegisterRequest.model_validate(await request.json())
+    except (json.JSONDecodeError, ValidationError):
+        raise HTTPException(
+            status_code=422,
+            detail="Invalid request body",
+        )
+
     client_ip = request.client.host if request.client else "127.0.0.1"
     check_rate_limit(REGISTER_ATTEMPTS, client_ip, RATE_LIMIT_REGISTER_MAX, RATE_LIMIT_WINDOW_SECONDS)
 
@@ -589,9 +583,15 @@ def register(data: RegisterRequest, request: Request):
         if connection and connection.is_connected():
             connection.close()
 
-
 @app.post("/auth/login")
-def login(data: LoginRequest, request: Request):
+async def login(request: Request):
+    try:
+        data = LoginRequest.model_validate(await request.json())
+    except (json.JSONDecodeError, ValidationError):
+        raise HTTPException(
+            status_code=422,
+            detail="Invalid request body",
+        )
     client_ip = request.client.host if request.client else "127.0.0.1"
     check_rate_limit(LOGIN_ATTEMPTS, client_ip, RATE_LIMIT_LOGIN_MAX, RATE_LIMIT_WINDOW_SECONDS)
 
@@ -1659,3 +1659,10 @@ def get_fandom_badges(
             cursor.close()
         if connection and connection.is_connected():
             connection.close()
+
+# --- Serve the website files (keep this LAST in the file) ---
+from fastapi.staticfiles import StaticFiles
+
+PUBLIC_DIR = BASE_DIR / "public"
+if PUBLIC_DIR.is_dir():
+    app.mount("/", StaticFiles(directory=str(PUBLIC_DIR), html=True), name="site")
