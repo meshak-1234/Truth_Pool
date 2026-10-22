@@ -142,33 +142,40 @@
     currentTiltY += (targetTiltY - currentTiltY) * lerpFactor;
 
     if (!prefersReducedMotion && parallaxStage) {
-      // Rotate overall 3D stage
-      const rotY = currentTiltX * 10;   // deg
-      const rotX = -currentTiltY * 6;  // deg
-      parallaxStage.style.transform = `rotateX(${rotX.toFixed(2)}deg) rotateY(${rotY.toFixed(2)}deg)`;
+      if (window.innerWidth > 860) {
+        // Rotate overall 3D stage on desktop
+        const rotY = currentTiltX * 10;   // deg
+        const rotX = -currentTiltY * 6;  // deg
+        parallaxStage.style.transform = `rotateX(${rotX.toFixed(2)}deg) rotateY(${rotY.toFixed(2)}deg)`;
 
-      // Subtle dynamic parallax offsets for cards
-      if (factCard) {
-        const factRotY = 16 + currentTiltX * 4;
-        const factRotX = -4 - currentTiltY * 3;
-        const factTransZ = 35 + currentTiltX * 15;
-        factCard.style.transform = `translate3d(${(-currentTiltX * 8).toFixed(1)}px, ${(-currentTiltY * 6).toFixed(1)}px, ${factTransZ.toFixed(1)}px) rotateY(${factRotY.toFixed(2)}deg) rotateX(${factRotX.toFixed(2)}deg)`;
-      }
+        // Subtle dynamic parallax offsets for cards
+        if (factCard) {
+          const factRotY = 16 + currentTiltX * 4;
+          const factRotX = -4 - currentTiltY * 3;
+          const factTransZ = 35 + currentTiltX * 15;
+          factCard.style.transform = `translate3d(${(-currentTiltX * 8).toFixed(1)}px, ${(-currentTiltY * 6).toFixed(1)}px, ${factTransZ.toFixed(1)}px) rotateY(${factRotY.toFixed(2)}deg) rotateX(${factRotX.toFixed(2)}deg)`;
+        }
 
-      if (mythCard) {
-        const mythRotY = -16 + currentTiltX * 4;
-        const mythRotX = -4 - currentTiltY * 3;
-        const mythTransZ = 35 - currentTiltX * 15;
-        mythCard.style.transform = `translate3d(${(currentTiltX * 8).toFixed(1)}px, ${(-currentTiltY * 6).toFixed(1)}px, ${mythTransZ.toFixed(1)}px) rotateY(${mythRotY.toFixed(2)}deg) rotateX(${mythRotX.toFixed(2)}deg)`;
-      }
+        if (mythCard) {
+          const mythRotY = -16 + currentTiltX * 4;
+          const mythRotX = -4 - currentTiltY * 3;
+          const mythTransZ = 35 - currentTiltX * 15;
+          mythCard.style.transform = `translate3d(${(currentTiltX * 8).toFixed(1)}px, ${(-currentTiltY * 6).toFixed(1)}px, ${mythTransZ.toFixed(1)}px) rotateY(${mythRotY.toFixed(2)}deg) rotateX(${mythRotX.toFixed(2)}deg)`;
+        }
 
-      if (centerCore) {
-        centerCore.style.transform = `translate3d(${(currentTiltX * 5).toFixed(1)}px, ${(currentTiltY * 4).toFixed(1)}px, 20px)`;
-      }
+        if (centerCore) {
+          centerCore.style.transform = `translate3d(${(currentTiltX * 5).toFixed(1)}px, ${(currentTiltY * 4).toFixed(1)}px, 20px)`;
+        }
 
-      if (platform3D) {
-        const platRotX = 70 - currentTiltY * 4;
-        platform3D.style.transform = `rotateX(${platRotX.toFixed(2)}deg) rotateZ(${(currentTiltX * 3).toFixed(2)}deg) translateZ(-50px)`;
+        if (platform3D) {
+          const platRotX = 70 - currentTiltY * 4;
+          platform3D.style.transform = `rotateX(${platRotX.toFixed(2)}deg) rotateZ(${(currentTiltX * 3).toFixed(2)}deg) translateZ(-50px)`;
+        }
+      } else {
+        // Static clean transforms on tablet and mobile viewports
+        parallaxStage.style.transform = 'none';
+        if (centerCore) centerCore.style.transform = 'none';
+        if (platform3D) platform3D.style.transform = 'none';
       }
     }
 

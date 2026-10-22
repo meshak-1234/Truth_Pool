@@ -75,6 +75,12 @@
 
   --transition-fast: 0.15s ease;
   --transition-normal: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Safe Area Insets for notched and home-bar devices */
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-left: env(safe-area-inset-left, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
 }
 
 *, *::before, *::after {
@@ -94,6 +100,7 @@ body {
   background-attachment: fixed;
   color: var(--text-main);
   min-height: 100vh;
+  min-height: 100dvh;
   min-height: 100svh;
   display: flex;
   flex-direction: column;
@@ -107,16 +114,26 @@ body {
   width: 100%;
   max-width: 1260px;
   margin: 0 auto;
-  padding: 16px 24px;
+  padding: clamp(10px, 2.5vw, 16px) clamp(12px, 3vw, 24px);
+  padding-top: max(clamp(10px, 2.5vw, 16px), var(--safe-top));
+  padding-bottom: max(clamp(14px, 3vw, 24px), var(--safe-bottom));
+  padding-left: max(clamp(12px, 3vw, 24px), var(--safe-left));
+  padding-right: max(clamp(12px, 3vw, 24px), var(--safe-right));
   flex: 1;
   display: flex;
   flex-direction: column;
+  min-width: 0;
 }
 
-#view-setup,
 #view-arena,
 #view-completion {
   max-width: 880px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#view-setup {
+  max-width: 1260px;
   width: 100%;
   margin: 0 auto;
 }
@@ -625,10 +642,12 @@ body {
   display: none;
   flex-direction: column;
   justify-content: space-between;
-  min-height: calc(100vh - 120px);
-  min-height: calc(100svh - 120px);
+  min-height: calc(100vh - 100px);
+  min-height: calc(100dvh - 100px);
+  min-height: calc(100svh - 100px);
   padding: 8px 0 16px;
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: visible;
 }
 
 .landing-view.active {
@@ -749,7 +768,7 @@ body {
 .landing-title-3d,
 .hero-comic-title {
   font-family: var(--font-comic);
-  font-size: clamp(2.3rem, 7.8vw, 4.8rem);
+  font-size: clamp(1.8rem, 7vw, 4.8rem);
   line-height: 0.95;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -4717,16 +4736,92 @@ body {
 
 
 /* ==========================================================================
-   TRUTH POOL — MASTER MOBILE & RESPONSIVE DESIGN SYSTEM
-   Supports 320px, 360px, 375px, 390px, 412px, 430px & Landscape
+   TRUTH POOL -- DEVICE-ADAPTIVE RESPONSIVE LAYOUT SYSTEM
+   Fluid, content-driven responsive design for 320px - 1366px+ and landscape.
+   Preserves visual identity, branding, colours, typography, and AAA aesthetic.
    ========================================================================== */
 
-/* --- Tablet / Compact Viewports (<= 860px) --- */
+/* --------------------------------------------------------------------------
+   1. GLOBAL FLUID & SAFE-AREA HELPERS
+   -------------------------------------------------------------------------- */
+img, svg, video, canvas {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Ensure shrinkable flex and grid children can contract without causing overflow */
+.container,
+.site-header,
+.landing-hero-grid,
+.hero-left-content,
+.hero-right-visual,
+.fandom-toolbar-grid,
+.fandoms-grid,
+.fandom-card,
+.fandom-header-meta,
+.arena-header,
+.claim-card,
+.feedback-card,
+.stats-grid,
+.badges-summary-grid,
+.badges-controls-bar,
+.fandom-badges-grid,
+.dash-content,
+.dash-profile-card,
+.dash-identity-col,
+.dash-metrics-grid,
+.dash-fandoms-grid,
+.auth-modal-card {
+  min-width: 0;
+}
+
+/* Base button and touch target standard */
+button,
+.btn,
+.nav-link-btn,
+.mobile-nav-btn,
+.pill-btn,
+.btn-answer {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+/* --------------------------------------------------------------------------
+   2. TABLET / COMPACT DESKTOP (<= 1024px)
+   -------------------------------------------------------------------------- */
+@media (max-width: 1024px) {
+  .landing-hero-grid {
+    gap: 24px;
+  }
+  .fandoms-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 18px;
+  }
+  .dash-metrics-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+  }
+  .features-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+  .badges-summary-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   3. TABLET PORTRAIT / NARROW SCREENS (<= 860px)
+   -------------------------------------------------------------------------- */
 @media (max-width: 860px) {
+  /* Site Header */
   .site-header {
-    padding: 8px 0 12px;
-    margin-bottom: 14px;
+    padding: 8px 0 clamp(8px, 1.8vw, 12px);
+    margin-bottom: clamp(12px, 2.5vw, 16px);
     gap: 8px;
+    flex-wrap: nowrap;
+    overflow: visible;
   }
   .header-nav {
     display: none !important;
@@ -4734,22 +4829,35 @@ body {
   .mobile-menu-toggle-btn {
     display: inline-flex !important;
   }
-  .header-logo-img {
-    height: 42px;
-    max-width: 155px;
-  }
-  .header-emblem-badge {
-    width: 32px;
-    height: 32px;
-  }
   .dataset-pill {
     display: none !important;
   }
+  #nav-guest-actions {
+    display: none !important;
+  }
   .header-actions {
-    gap: 8px;
+    gap: clamp(4px, 1.5vw, 8px);
+    flex-shrink: 0;
+    min-width: 0;
+  }
+  .logo-group {
+    min-width: 0;
+    flex-shrink: 1;
+    gap: clamp(6px, 1.8vw, 10px);
+  }
+  .header-logo-img {
+    height: clamp(30px, 6vw, 42px);
+    max-width: clamp(105px, 28vw, 150px);
+    width: auto;
+    object-fit: contain;
+  }
+  .header-emblem-badge {
+    width: clamp(24px, 5vw, 32px);
+    height: clamp(24px, 5vw, 32px);
+    flex-shrink: 0;
   }
 
-  /* Landing Page Hero */
+  /* Landing Hero */
   .landing-hero-grid {
     grid-template-columns: 1fr;
     gap: 20px;
@@ -4759,17 +4867,17 @@ body {
   .hero-left-content {
     align-items: center;
     width: 100%;
-    max-width: 100%;
   }
   .landing-title-3d,
   .hero-comic-title {
-    font-size: clamp(2.3rem, 7.5vw, 3.4rem);
-    line-height: 1.0;
-    margin-bottom: 14px;
+    font-size: clamp(1.75rem, 6.5vw, 3.2rem);
+    line-height: 1.05;
+    margin-bottom: 12px;
     word-break: break-word;
+    overflow-wrap: break-word;
   }
   .hero-badge-pill {
-    font-size: clamp(0.7rem, 2.5vw, 0.78rem);
+    font-size: clamp(0.66rem, 2.2vw, 0.78rem);
     padding: 5px 14px;
     white-space: normal;
     text-align: center;
@@ -4777,17 +4885,18 @@ body {
     margin-bottom: 12px;
   }
   .hero-comic-subtitle {
-    font-size: clamp(0.95rem, 3.2vw, 1.1rem);
+    font-size: clamp(0.92rem, 2.8vw, 1.1rem);
     line-height: 1.5;
-    margin-bottom: 22px;
-    max-width: 540px;
+    margin-bottom: 20px;
+    max-width: 560px;
   }
   .hero-cta-group {
     justify-content: center;
     gap: 12px;
+    width: 100%;
   }
 
-  /* Hero Right Mascot Visual */
+  /* Right Visual / Mascot / Speech Cards */
   .hero-right-visual {
     display: flex;
     flex-direction: column;
@@ -4796,75 +4905,144 @@ body {
     min-height: auto;
     gap: 14px;
     width: 100%;
-    max-width: 100%;
-    padding: 6px 0;
+    padding: 8px 0;
+    transform: none !important;
   }
   .comic-action-burst {
     display: none !important;
   }
   .hero-mascot-container {
-    width: min(220px, 55vw);
-    height: min(220px, 55vw);
-    margin: 4px auto;
+    width: min(220px, 52vw);
+    height: min(220px, 52vw);
+    margin: 6px auto;
   }
   .comic-speech-card {
     position: static !important;
     width: 100% !important;
-    max-width: 320px !important;
+    max-width: min(340px, 92vw) !important;
     margin: 0 auto !important;
     animation: none !important;
     transform: none !important;
     padding: 12px 14px;
   }
   .speech-claim {
-    font-size: 0.8rem;
-    line-height: 1.4;
+    font-size: 0.82rem;
+    line-height: 1.45;
+  }
+
+  /* Glow spots containment */
+  .landing-bg-fx {
+    overflow: hidden;
+  }
+  .glow-spot-blue {
+    width: min(400px, 100vw);
+    height: min(400px, 100vw);
+  }
+  .glow-spot-red {
+    width: min(360px, 95vw);
+    height: min(360px, 95vw);
+  }
+  .glow-spot-center {
+    width: min(420px, 100vw);
+    height: min(280px, 75vw);
+  }
+
+  /* Badges view summary grid */
+  .badges-summary-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  .fandom-badges-grid {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+  .badges-controls-bar {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
   }
 }
 
-/* --- Mobile Viewports (<= 600px) --- */
-@media (max-width: 600px) {
+/* --------------------------------------------------------------------------
+   4. INTERMEDIATE TABLET & PHABLETS (<= 768px)
+   -------------------------------------------------------------------------- */
+@media (max-width: 768px) {
+  .fandoms-grid {
+    grid-template-columns: 1fr;
+  }
+  .fandom-toolbar-grid {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .fandom-toolbar-grid .toolbar-action-col {
+    margin-left: 0;
+  }
+  .dash-metrics-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .guest-perks-grid {
+    grid-template-columns: 1fr;
+  }
+  .dash-profile-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .dash-level-col {
+    align-items: flex-start;
+  }
+  .badges-controls-bar {
+    padding: 12px 14px;
+    gap: 10px;
+  }
+  .badges-controls-bar .search-input-wrap {
+    min-width: 0;
+    width: 100%;
+  }
+  .filters-cluster {
+    width: 100%;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+  }
+  .badge-filter-tabs {
+    display: flex;
+    width: 100%;
+  }
+  .badge-filter-btn {
+    flex: 1;
+    text-align: center;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   5. STANDARD MOBILE PHONES (<= 640px / 600px)
+   -------------------------------------------------------------------------- */
+@media (max-width: 640px) {
   .container {
-    padding: 10px 14px;
+    padding: clamp(8px, 2.5vw, 12px) clamp(10px, 3vw, 16px);
   }
 
-  /* Header adjustments */
-  .header-logo-img {
-    height: 36px;
-    max-width: 130px;
+  /* Base card padding adaptation */
+  .card {
+    padding: clamp(14px, 3.8vw, 24px);
+    border-radius: clamp(12px, 3vw, 18px);
+    margin-bottom: clamp(14px, 3vw, 20px);
   }
-  .header-emblem-badge {
-    width: 28px;
-    height: 28px;
-  }
+
+  /* Header Controls */
   .fullscreen-toggle-btn,
   .mobile-menu-toggle-btn {
-    width: 35px;
-    height: 35px;
+    width: 36px;
+    height: 36px;
+    padding: 7px;
   }
-  .btn-outline-pill,
-  .btn-red-pill {
-    padding: 6px 14px;
-    font-size: 0.82rem;
-  }
-  .auth-trigger-btn {
+  .auth-trigger-btn,
+  .stats-trigger-btn {
     padding: 6px 12px;
     font-size: 0.82rem;
   }
-  #auth-trigger-text {
-    max-width: 75px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
-  .xp-header-panel {
-    max-width: 115px;
-    min-width: 80px;
-    padding: 2px 6px;
-    gap: 4px;
-  }
 
-  /* Landing Page buttons full-width */
+  /* Landing Page CTAs & Feature Strip */
   .hero-cta-group {
     flex-direction: column;
     width: 100%;
@@ -4876,8 +5054,8 @@ body {
     width: 100%;
     justify-content: center;
     min-height: 48px;
-    padding: 13px 20px;
-    font-size: 1.05rem;
+    padding: 12px 18px;
+    font-size: 1rem;
     box-sizing: border-box;
   }
   .features-grid {
@@ -4891,12 +5069,12 @@ body {
 
   /* Fandom Setup & Arenas View */
   .fandoms-hero {
-    padding: 18px 12px;
-    margin-bottom: 18px;
+    padding: 14px 8px;
+    margin-bottom: 16px;
   }
   .fandoms-hero .hero-title,
   .badges-hero-title {
-    font-size: clamp(1.8rem, 5.5vw, 2.3rem);
+    font-size: clamp(1.6rem, 5.5vw, 2.3rem);
     line-height: 1.1;
   }
   .fandoms-hero .hero-description,
@@ -4905,7 +5083,7 @@ body {
     line-height: 1.5;
   }
   .fandom-toolbar-card {
-    padding: 14px 14px;
+    padding: 14px;
     margin-bottom: 20px;
   }
   .fandom-toolbar-grid {
@@ -4924,24 +5102,25 @@ body {
     display: flex;
     flex-direction: row;
     width: 100%;
-    gap: 3px;
+    gap: 4px;
     padding: 3px;
     box-sizing: border-box;
   }
   .pill-btn {
     flex: 1;
     min-width: 0;
-    padding: 8px 4px;
-    font-size: clamp(0.74rem, 2.7vw, 0.85rem);
+    padding: 9px 4px;
+    font-size: clamp(0.72rem, 2.7vw, 0.85rem);
     text-align: center;
     white-space: nowrap;
+    text-overflow: ellipsis;
     border-radius: var(--radius-full);
   }
   .select-control {
     width: 100%;
     min-height: 44px;
     font-size: 0.9rem;
-    padding: 8px 14px;
+    padding: 8px 12px;
   }
   .toolbar-action-col {
     width: 100%;
@@ -4967,6 +5146,7 @@ body {
   .fandom-emblem-wrap {
     width: 48px;
     height: 48px;
+    flex-shrink: 0;
   }
   .fandom-title {
     font-size: 1.35rem;
@@ -4987,7 +5167,7 @@ body {
     font-size: 0.92rem;
   }
 
-  /* Game Arena Screen */
+  /* Gameplay Arena Screen */
   .arena-header {
     display: flex;
     flex-direction: column;
@@ -4995,11 +5175,10 @@ body {
     align-items: stretch;
     margin-bottom: 14px;
   }
-  .arena-header-top {
+  .arena-header > :first-child {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
   }
   .btn-arena-exit {
     padding: 6px 12px;
@@ -5010,9 +5189,8 @@ body {
   }
   .arena-status-boxes {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
-    width: 100%;
     gap: 8px;
   }
   .arena-streak-box,
@@ -5022,11 +5200,22 @@ body {
     min-height: 36px;
     box-sizing: border-box;
   }
+  .meta-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    width: 100%;
+  }
+  .badge {
+    white-space: normal;
+    word-break: break-word;
+    max-width: 100%;
+  }
   .claim-card {
     padding: 18px 14px;
     min-height: auto;
     min-height: 100px;
-    margin-bottom: 16px;
+    margin-bottom: 14px;
   }
   .question-counter {
     font-size: 0.78rem;
@@ -5037,18 +5226,9 @@ body {
     line-height: 1.45;
     word-break: break-word;
   }
-  .btn-answer {
-    padding: 14px 16px;
-    min-height: 52px;
-    font-size: clamp(1.25rem, 4.5vw, 1.7rem);
-    justify-content: center;
-  }
-  .btn-answer .kbd-hint {
-    display: none !important;
-  }
   .feedback-card {
     padding: 16px 14px;
-    margin-bottom: 16px;
+    margin-bottom: 14px;
   }
   .feedback-header {
     flex-direction: column;
@@ -5062,10 +5242,22 @@ body {
     font-size: 0.88rem;
     line-height: 1.5;
   }
+  .source-citation {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    font-size: 0.8rem;
+    word-break: break-word;
+  }
+  .source-link {
+    word-break: break-all;
+    overflow-wrap: anywhere;
+  }
   #next-question-btn {
     min-height: 50px;
     font-size: 1.05rem;
     justify-content: center;
+    width: 100%;
   }
 
   /* Completion Screen */
@@ -5078,7 +5270,7 @@ body {
     margin-bottom: 8px;
   }
   .completion-title {
-    font-size: clamp(1.9rem, 6vw, 3rem);
+    font-size: clamp(1.8rem, 6vw, 2.8rem);
     line-height: 1.05;
     margin-bottom: 6px;
   }
@@ -5123,8 +5315,6 @@ body {
   .badges-controls-bar {
     padding: 12px 14px;
     gap: 10px;
-    flex-direction: column;
-    align-items: stretch;
   }
   .badges-controls-bar .search-input-wrap {
     min-width: 0;
@@ -5143,13 +5333,13 @@ body {
   .badge-filter-btn {
     flex: 1;
     text-align: center;
-    padding: 6px 6px;
-    font-size: clamp(0.74rem, 2.8vw, 0.85rem);
+    padding: 7px 6px;
+    font-size: clamp(0.72rem, 2.6vw, 0.85rem);
     white-space: nowrap;
   }
   .badges-fandom-select {
     width: 100%;
-    height: 42px;
+    min-height: 42px;
   }
   .fandom-section-group {
     padding: 16px 14px;
@@ -5165,11 +5355,7 @@ body {
     gap: 8px;
   }
   .fandom-mastery-track {
-    width: min(110px, 30vw);
-  }
-  .fandom-badges-grid {
-    grid-template-columns: 1fr;
-    gap: 12px;
+    width: min(120px, 32vw);
   }
   .fandom-badge-card {
     padding: 16px 14px;
@@ -5211,11 +5397,14 @@ body {
   }
   .dash-shortcuts-strip .btn {
     width: 100%;
+    flex: 1 1 auto;
     min-height: 44px;
     text-align: center;
     justify-content: center;
     font-size: 0.88rem;
     padding: 10px 14px;
+    white-space: normal;
+    word-break: break-word;
   }
   .dash-fandoms-grid {
     grid-template-columns: 1fr;
@@ -5231,6 +5420,7 @@ body {
   .guest-actions-group {
     flex-direction: column;
     width: 100%;
+    gap: 10px;
   }
   .guest-actions-group .btn {
     width: 100%;
@@ -5254,13 +5444,20 @@ body {
     font-size: 0.74rem;
   }
 
-  /* Modals */
+  /* Modals -- Safe Sizing & Scrolling */
   .auth-modal {
-    padding: 10px;
+    padding: clamp(8px, 2.5vw, 14px);
   }
-  .auth-modal-card {
-    padding: 20px 14px;
-    max-height: 92vh;
+  .auth-modal-card,
+  .fandom-detail-modal-card,
+  .celebration-modal-card,
+  .about-modal-card {
+    padding: clamp(16px, 4vw, 24px) clamp(12px, 3.5vw, 18px) !important;
+    max-height: min(92vh, 92dvh) !important;
+    overflow-y: auto !important;
+    -webkit-overflow-scrolling: touch;
+    width: 100%;
+    box-sizing: border-box;
   }
   .auth-tabs {
     gap: 4px;
@@ -5274,10 +5471,6 @@ body {
     font-size: 0.72rem;
     padding: 6px 4px;
   }
-  .about-modal-card {
-    padding: 20px 14px;
-    max-height: 92vh;
-  }
   .about-feature-box {
     padding: 10px 12px;
     gap: 10px;
@@ -5287,159 +5480,6 @@ body {
   }
   .about-comic-tagline {
     font-size: 1rem;
-  }
-}
-
-/* --- Narrow Phones (<= 440px) --- */
-@media (max-width: 440px) {
-  .answers-grid {
-    grid-template-columns: 1fr;
-    gap: 12px;
-  }
-  .btn-answer {
-    padding: 14px 16px;
-    font-size: 1.35rem;
-  }
-}
-
-/* --- Compact Phones (<= 360px) --- */
-@media (max-width: 360px) {
-  .container {
-    padding: 8px 10px;
-  }
-  .header-logo-img {
-    height: 30px;
-    max-width: 105px;
-  }
-  .header-emblem-badge {
-    width: 24px;
-    height: 24px;
-  }
-  .logo-group {
-    gap: 6px;
-  }
-  /* On 320-360px phone, hide Sign Up from top bar to keep layout 100% clean, available in mobile drawer */
-  .nav-auth-buttons #btn-nav-register {
-    display: none !important;
-  }
-  .btn-outline-pill {
-    padding: 5px 10px;
-    font-size: 0.76rem;
-  }
-  .fullscreen-toggle-btn,
-  .mobile-menu-toggle-btn {
-    width: 32px;
-    height: 32px;
-    padding: 6px;
-  }
-  .auth-trigger-btn {
-    padding: 5px 8px;
-    font-size: 0.76rem;
-    max-width: 100px;
-  }
-  #auth-trigger-text {
-    max-width: 55px;
-  }
-  .landing-title-3d,
-  .hero-comic-title {
-    font-size: 2.15rem;
-  }
-  .hero-mascot-container {
-    width: 180px;
-    height: 180px;
-  }
-  .dash-metrics-grid {
-    grid-template-columns: 1fr;
-  }
-  .achievements-badges-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
-/* --- Landscape Orientation Optimization --- */
-@media (max-height: 520px) and (orientation: landscape) {
-  .site-header {
-    padding: 4px 0 8px;
-    margin-bottom: 8px;
-  }
-  .header-logo-img {
-    height: 34px;
-  }
-  .landing-hero-grid {
-    grid-template-columns: 1.1fr 0.9fr;
-    gap: 16px;
-    text-align: left;
-  }
-  .hero-left-content {
-    align-items: flex-start;
-  }
-  .landing-title-3d,
-  .hero-comic-title {
-    font-size: clamp(1.8rem, 5vw, 2.8rem);
-    margin-bottom: 8px;
-  }
-  .hero-comic-subtitle {
-    font-size: 0.88rem;
-    margin-bottom: 14px;
-    line-height: 1.4;
-  }
-  .hero-cta-group {
-    flex-direction: row;
-    justify-content: flex-start;
-    gap: 10px;
-  }
-  .hero-cta-group .btn {
-    width: auto;
-    min-height: 42px;
-    padding: 10px 18px;
-    font-size: 0.92rem;
-  }
-  .hero-right-visual {
-    flex-direction: column;
-    min-height: auto;
-    gap: 8px;
-  }
-  .hero-mascot-container {
-    width: 140px;
-    height: 140px;
-  }
-  .comic-speech-card {
-    padding: 8px 12px;
-    max-width: 260px;
-  }
-  .claim-card {
-    min-height: auto;
-    padding: 12px;
-    margin-bottom: 12px;
-  }
-  .claim-text {
-    font-size: 1.1rem;
-  }
-  .answers-grid {
-    grid-template-columns: 1fr 1fr;
-    gap: 12px;
-    margin-bottom: 12px;
-  }
-  .btn-answer {
-    padding: 10px 14px;
-    min-height: 44px;
-    font-size: 1.25rem;
-  }
-  .auth-modal {
-    padding: 8px;
-  }
-  .auth-modal-card {
-    max-height: 96vh;
-    padding: 14px;
-  }
-}
-
-
-@media (max-width: 600px) {
-  .fandom-detail-modal-card,
-  .celebration-modal-card {
-    padding: 18px 14px !important;
-    max-height: 92vh !important;
   }
   .badge-detail-modal-header {
     gap: 12px;
@@ -5463,260 +5503,116 @@ body {
     width: 90px !important;
     height: 90px !important;
   }
-  .mascot-platform-glow {
-    width: min(160px, 80%) !important;
-  }
-}
 
-@media (max-height: 520px) and (orientation: landscape) {
-  .mascot-platform-glow {
-    width: min(130px, 70%) !important;
-  }
-  .hero-mascot-container {
-    width: 130px !important;
-    height: 130px !important;
-  }
-}
-
-
-/* ==========================================================================
-   TRUTH POOL — MOBILE LAYOUT FIX PATCH
-   Fixes 7 root-cause issues visible on 320–430 px portrait viewports.
-   Root causes:
-     1. header-actions overflow — nav-auth-buttons not hidden on mobile
-     2. Logo/emblem too large at sub-600px
-     3. mobile-nav-close-btn unstyled (transparent bg, no visible border)
-     4. landing-title-3d clamp() minimum (2.3rem) too large for narrow phones
-     5. hero-badge-pill clipped (overflow, single line, no shrink)
-     6. Absolute glow-spots (580 px, 520 px wide) cause horizontal overflow
-     7. site-header flex items don't shrink — overflow on ≤430 px
-   ========================================================================== */
-
-/* ── 1. Hide header Login/Sign-Up buttons on mobile (they live in the drawer) ── */
-@media (max-width: 860px) {
-  #nav-guest-actions {
-    display: none !important;
-  }
-
-  /* Prevent header-actions from overflowing; allow it to shrink */
-  .header-actions {
-    flex-shrink: 1;
-    min-width: 0;
-    gap: 6px;
-    flex-wrap: nowrap;
-  }
-
-  /* Give logo-group room to shrink */
-  .logo-group {
-    flex-shrink: 1;
-    min-width: 0;
-  }
-
-  /* site-header: never let children overflow */
-  .site-header {
-    flex-wrap: nowrap;
-    overflow: hidden;
-  }
-}
-
-/* ── 2. Logo & emblem sizing at ≤ 600 px (already partially addressed but tighten) ── */
-@media (max-width: 600px) {
-  .header-logo-img {
-    height: 34px;
-    max-width: 120px;
-  }
-  .header-emblem-badge {
-    width: 26px;
-    height: 26px;
-  }
-  .logo-group {
-    gap: 8px;
-  }
-}
-
-/* ── 3. Close button — make it look like a proper styled icon button ── */
-.mobile-nav-close-btn {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 36px;
-  height: 36px;
-  border-radius: var(--radius-full);
-  background: rgba(14, 36, 69, 0.85);
-  border: 1.5px solid rgba(148, 163, 184, 0.25);
-  color: var(--color-soft-cream);
-  font-size: 1.4rem;
-  line-height: 1;
-  padding: 0;
-  cursor: pointer;
-  transition: background var(--transition-fast), border-color var(--transition-fast), color var(--transition-fast);
-  flex-shrink: 0;
-}
-
-.mobile-nav-close-btn:hover {
-  background: rgba(239, 68, 68, 0.2);
-  border-color: var(--color-hero-red);
-  color: var(--color-hero-red);
-}
-
-/* ── 4. Hero title clamp: lower the minimum so it never overflows on narrow phones ── */
-@media (max-width: 860px) {
-  .landing-title-3d,
-  .hero-comic-title {
-    /* Drop minimum from 2.3rem → 1.6rem so clamp actually works on small screens */
-    font-size: clamp(1.6rem, 7.5vw, 3.4rem);
-    word-break: break-word;
-    overflow-wrap: break-word;
-  }
-}
-
-@media (max-width: 600px) {
-  .landing-title-3d,
-  .hero-comic-title {
-    font-size: clamp(1.5rem, 7vw, 2.6rem);
-    line-height: 1.0;
-    margin-bottom: 12px;
-  }
-}
-
-/* ── 5. hero-badge-pill: allow wrapping; prevent horizontal clip ── */
-@media (max-width: 860px) {
-  .hero-badge-pill {
-    white-space: normal;
-    word-break: break-word;
-    text-align: center;
-    max-width: 100%;
+  /* Global Toasts on mobile */
+  .levelup-toast {
+    bottom: max(14px, var(--safe-bottom));
+    right: max(12px, var(--safe-right));
+    left: max(12px, var(--safe-left));
+    max-width: none;
     box-sizing: border-box;
   }
 }
 
-/* ── 6. Contain oversized absolute glow-spots so they cannot cause page-level overflow ── */
-/*  landing-view already has overflow:hidden — also add it to landing-bg-fx children */
-@media (max-width: 860px) {
-  .landing-bg-fx {
-    overflow: hidden;
-  }
-  /* Scale glow spots to a sensible viewport-relative size */
-  .glow-spot-blue {
-    width: min(400px, 110vw);
-    height: min(400px, 110vw);
-  }
-  .glow-spot-red {
-    width: min(360px, 100vw);
-    height: min(360px, 100vw);
-  }
-  .glow-spot-center {
-    width: min(420px, 115vw);
-    height: min(280px, 80vw);
-  }
-}
-
-/* ── 7. Fine-tune for 430 px (e.g. iPhone 14 Pro Max) ── */
-@media (max-width: 430px) {
-  .container {
-    padding: 10px 12px;
-  }
-  .header-logo-img {
-    height: 32px;
-    max-width: 110px;
-  }
-  .header-emblem-badge {
-    width: 24px;
-    height: 24px;
-  }
-  .logo-group {
-    gap: 6px;
-  }
-  .fullscreen-toggle-btn,
-  .mobile-menu-toggle-btn {
-    width: 34px;
-    height: 34px;
-    padding: 7px;
-  }
-  /* auth-trigger-btn: show icon only, hide text label on very narrow */
+/* --------------------------------------------------------------------------
+   6. PORTRAIT PHONES (<= 480px)
+   -------------------------------------------------------------------------- */
+@media (max-width: 480px) {
+  /* Header: Hide text on auth/stats triggers to keep bar clean */
   .auth-trigger-btn .stats-btn-text,
   #auth-trigger-text {
-    display: none;
+    display: none !important;
   }
   .auth-trigger-btn,
   .stats-trigger-btn {
     padding: 6px 10px;
-    gap: 0;
+    min-width: 38px;
+    min-height: 38px;
+    justify-content: center;
   }
-  /* Landing title */
-  .landing-title-3d,
-  .hero-comic-title {
-    font-size: clamp(1.5rem, 6.8vw, 2.4rem);
+  .xp-header-panel {
+    display: none !important;
   }
-  /* hero-badge-pill font tighter */
-  .hero-badge-pill {
-    font-size: 0.68rem;
-    padding: 5px 12px;
-    letter-spacing: 0.06em;
+  .header-logo-img {
+    height: clamp(28px, 6.5vw, 36px);
+    max-width: clamp(100px, 30vw, 130px);
   }
-  /* CTA group already column at 600px; ensure full-width */
-  .hero-cta-group {
-    width: 100%;
+  .header-emblem-badge {
+    width: clamp(22px, 5vw, 28px);
+    height: clamp(22px, 5vw, 28px);
   }
-  .btn-hero-red,
-  .btn-hero-dark,
-  .hero-cta-group .btn-outline-pill {
-    font-size: 1rem;
-    padding: 12px 16px;
-    min-height: 46px;
+
+  /* Answer buttons: Stack vertically in portrait for easy tapping */
+  .answers-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+    margin-bottom: 18px;
+  }
+  .btn-answer {
+    padding: 14px 18px;
+    min-height: 52px;
+    font-size: clamp(1.3rem, 4.8vw, 1.6rem);
+    justify-content: center;
+  }
+  .btn-answer .kbd-hint {
+    display: none !important;
   }
 }
 
-/* ── 390 px (iPhone 14 / 15) ── */
-@media (max-width: 390px) {
-  .landing-title-3d,
-  .hero-comic-title {
-    font-size: clamp(1.45rem, 6.5vw, 2.2rem);
-  }
-  .hero-comic-subtitle {
-    font-size: 0.9rem;
-  }
-}
-
-/* ── 375 px (iPhone SE 2nd gen, iPhone 12 mini) ── */
-@media (max-width: 375px) {
+/* --------------------------------------------------------------------------
+   7. COMPACT PHONES (<= 380px, e.g. 344px, 360px, 375px)
+   -------------------------------------------------------------------------- */
+@media (max-width: 380px) {
   .container {
-    padding: 8px 11px;
+    padding: 8px 10px;
   }
   .landing-title-3d,
   .hero-comic-title {
-    font-size: clamp(1.4rem, 6.2vw, 2.1rem);
-  }
-  .hero-badge-pill {
-    font-size: 0.64rem;
-    padding: 4px 10px;
-  }
-}
-
-/* ── 360 px (common Android flagship) — already partially handled above 5306 ── */
-@media (max-width: 360px) {
-  .landing-title-3d,
-  .hero-comic-title {
-    font-size: clamp(1.35rem, 6vw, 2rem);
+    font-size: clamp(1.4rem, 6.5vw, 2rem);
   }
   .hero-comic-subtitle {
     font-size: 0.85rem;
-    line-height: 1.4;
+    line-height: 1.42;
     margin-bottom: 16px;
   }
   .hero-badge-pill {
-    font-size: 0.6rem;
-    padding: 4px 8px;
-    letter-spacing: 0.04em;
+    font-size: 0.62rem;
+    padding: 4px 10px;
+    letter-spacing: 0.05em;
   }
   .hero-mascot-container {
     width: min(180px, 50vw);
     height: min(180px, 50vw);
   }
+  .fandom-title {
+    font-size: 1.25rem;
+  }
+  .dash-metrics-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 6px;
+  }
+  .dash-metrics-grid .metric-card {
+    padding: 10px 8px;
+  }
+  .dash-metrics-grid .metric-num {
+    font-size: 1.45rem;
+  }
+  .dash-metrics-grid .metric-lbl {
+    font-size: 0.7rem;
+  }
+  .achievements-badges-grid {
+    grid-template-columns: 1fr;
+  }
+  .pill-btn {
+    padding: 8px 2px;
+    font-size: 0.72rem;
+  }
 }
 
-/* ── 320 px (iPhone SE 1st gen, very small Android) ── */
-@media (max-width: 320px) {
+/* --------------------------------------------------------------------------
+   8. ULTRA-NARROW PHONES (<= 330px, e.g. 320px iPhone 5/SE1, Galaxy Fold cover)
+   -------------------------------------------------------------------------- */
+@media (max-width: 330px) {
   .container {
     padding: 6px 8px;
   }
@@ -5728,48 +5624,220 @@ body {
     width: 20px;
     height: 20px;
   }
-  .landing-title-3d,
-  .hero-comic-title {
-    font-size: clamp(1.25rem, 5.8vw, 1.8rem);
-  }
-  .hero-badge-pill {
-    font-size: 0.56rem;
-    padding: 3px 6px;
-  }
-  .hero-mascot-container {
-    width: min(160px, 48vw);
-    height: min(160px, 48vw);
+  .logo-group {
+    gap: 4px;
   }
   .fullscreen-toggle-btn,
   .mobile-menu-toggle-btn {
-    width: 30px;
-    height: 30px;
+    width: 32px;
+    height: 32px;
     padding: 5px;
+  }
+  .landing-title-3d,
+  .hero-comic-title {
+    font-size: clamp(1.25rem, 5.8vw, 1.7rem);
+  }
+  .hero-badge-pill {
+    font-size: 0.58rem;
+    padding: 3px 6px;
+  }
+  .hero-mascot-container {
+    width: min(150px, 46vw);
+    height: min(150px, 46vw);
+  }
+  .stats-grid {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+  .btn-answer {
+    padding: 12px 14px;
+    font-size: 1.2rem;
+    min-height: 48px;
+  }
+  .dash-metrics-grid {
+    grid-template-columns: 1fr;
   }
 }
 
-/* ── Landscape orientation on phones (height < 500px) ── */
-@media (max-height: 500px) and (orientation: landscape) {
+/* --------------------------------------------------------------------------
+   9. LANDSCAPE ORIENTATION ON PHONES (Height <= 520px)
+   Conserves vertical space, keeps CTAs and controls immediately reachable.
+   -------------------------------------------------------------------------- */
+@media (orientation: landscape) and (max-height: 520px) {
   .site-header {
     padding: 4px 0 6px;
     margin-bottom: 6px;
   }
   .header-logo-img {
     height: 28px;
+    max-width: 110px;
+  }
+  .header-emblem-badge {
+    width: 22px;
+    height: 22px;
+  }
+  .landing-view {
+    min-height: auto;
+    padding: 4px 0 12px;
+  }
+  .landing-hero-grid {
+    grid-template-columns: 1.15fr 0.85fr;
+    gap: 16px;
+    text-align: left;
+  }
+  .hero-left-content {
+    align-items: flex-start;
   }
   .landing-title-3d,
   .hero-comic-title {
-    font-size: clamp(1.3rem, 4.5vw, 2.4rem);
+    font-size: clamp(1.4rem, 4.8vw, 2.4rem);
     margin-bottom: 6px;
   }
   .hero-comic-subtitle {
     font-size: 0.82rem;
+    line-height: 1.35;
     margin-bottom: 10px;
   }
   .hero-badge-pill {
+    font-size: 0.65rem;
+    padding: 3px 8px;
+    margin-bottom: 6px;
+  }
+  .hero-cta-group {
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 8px;
+  }
+  .hero-cta-group .btn {
+    width: auto;
+    min-height: 40px;
+    padding: 8px 14px;
+    font-size: 0.88rem;
+  }
+  .hero-right-visual {
+    flex-direction: column;
+    gap: 6px;
+    padding: 0;
+  }
+  .hero-mascot-container {
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+  }
+  .mascot-platform-glow {
+    width: 100px !important;
+  }
+  .comic-speech-card {
+    padding: 6px 10px;
+    max-width: 240px;
+  }
+  .speech-badge {
+    font-size: 0.95rem;
+    margin-bottom: 2px;
+  }
+  .speech-claim {
+    font-size: 0.72rem;
+    line-height: 1.25;
+  }
+  .features-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+  }
+
+  /* Arena: 2 columns for answers so claim and buttons are both in view */
+  .arena-header {
     margin-bottom: 8px;
   }
-  #nav-guest-actions {
-    display: none !important;
+  .claim-card {
+    padding: 10px 14px;
+    min-height: auto;
+    margin-bottom: 8px;
+  }
+  .claim-text {
+    font-size: 1.05rem;
+    line-height: 1.35;
+  }
+  .answers-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 8px;
+  }
+  .btn-answer {
+    padding: 8px 12px;
+    min-height: 42px;
+    font-size: 1.2rem;
+  }
+  .feedback-card {
+    padding: 10px 12px;
+    margin-bottom: 8px;
+  }
+
+  /* Completion in landscape */
+  .completion-container {
+    padding: 14px 12px;
+  }
+  .trophy-badge {
+    font-size: 2rem;
+    margin-bottom: 4px;
+  }
+  .completion-title {
+    font-size: 1.6rem;
+    margin-bottom: 4px;
+  }
+  .completion-subtitle {
+    font-size: 0.8rem;
+    margin-bottom: 10px;
+  }
+  .stats-grid {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+  .stat-box {
+    padding: 6px 4px;
+  }
+  .stat-value {
+    font-size: 1.4rem;
+  }
+  .completion-actions {
+    flex-direction: row;
+    gap: 8px;
+  }
+  .completion-actions .btn {
+    width: auto;
+    min-height: 40px;
+    padding: 8px 14px;
+    font-size: 0.88rem;
+  }
+
+  /* Modals in landscape: full accessible scrolling */
+  .auth-modal {
+    padding: 6px;
+  }
+  .auth-modal-card,
+  .fandom-detail-modal-card,
+  .celebration-modal-card,
+  .about-modal-card {
+    max-height: calc(100dvh - 12px) !important;
+    padding: 12px 14px !important;
   }
 }
+
+/* --------------------------------------------------------------------------
+   10. ACCESSIBILITY & REDUCED MOTION
+   -------------------------------------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  .hero-mascot-container,
+  .comic-speech-card,
+  .pulse-dot,
+  .streak-flame,
+  .trophy-badge,
+  .levelup-toast-icon,
+  .fandom-card,
+  .fandom-badge-card {
+    animation: none !important;
+    transition: none !important;
+    transform: none !important;
+  }
+}
+
