@@ -523,6 +523,39 @@ def health():
     return {"status": "ok", "service": "Bluff or Believe API"}
 
 
+@app.get("/debug/db")
+def debug_db():
+    """Temporary diagnostic endpoint — remove after fixing DB connection."""
+    db_host = os.getenv("DB_HOST", "NOT_SET")
+    db_port = os.getenv("DB_PORT", "NOT_SET")
+    db_user = os.getenv("DB_USER", "NOT_SET")
+    db_name = os.getenv("DB_NAME", "NOT_SET")
+    db_pass_set = bool(os.getenv("DB_PASSWORD", ""))
+    ssl_verify = os.getenv("DB_SSL_VERIFY_CERT", "NOT_SET")
+    ssl_disabled = os.getenv("DB_SSL_DISABLED", "NOT_SET")
+
+    env_info = {
+        "DB_HOST": db_host,
+        "DB_PORT": db_port,
+        "DB_USER": db_user,
+        "DB_NAME": db_name,
+        "DB_PASSWORD_SET": db_pass_set,
+        "DB_SSL_VERIFY_CERT": ssl_verify,
+        "DB_SSL_DISABLED": ssl_disabled,
+    }
+
+    try:
+        conn = get_connection()
+        cursor = conn.cursor()
+        cursor.execute("SELECT 1")
+        cursor.fetchone()
+        cursor.close()
+        conn.close()
+        return {"env": env_info, "db_connection": "SUCCESS"}
+    except Exception as e:
+        return {"env": env_info, "db_connection": "FAILED", "error": str(e)}
+
+
 @app.post("/auth/register", status_code=201)
 async def register(request: Request):
     try:
