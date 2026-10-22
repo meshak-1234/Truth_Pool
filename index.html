@@ -100,8 +100,62 @@
           <span class="auth-trigger-icon" aria-hidden="true">👤</span>
           <span id="auth-trigger-text">Sign In</span>
         </button>
+
+        <!-- Mobile Navigation Menu Toggle Button -->
+        <button type="button" id="mobile-menu-toggle-btn" class="mobile-menu-toggle-btn" aria-label="Toggle navigation menu" aria-expanded="false" aria-controls="mobile-nav-drawer" title="Menu">
+          <span class="hamburger-bar"></span>
+          <span class="hamburger-bar"></span>
+          <span class="hamburger-bar"></span>
+        </button>
       </div>
     </header>
+
+    <!-- Mobile Navigation Drawer -->
+    <aside id="mobile-nav-drawer" class="mobile-nav-drawer" aria-label="Mobile Navigation" aria-hidden="true">
+      <div class="mobile-nav-backdrop" id="mobile-nav-backdrop"></div>
+      <div class="mobile-nav-panel">
+        <div class="mobile-nav-header">
+          <div class="mobile-nav-logo">
+            <img src="assets/truth-pool-emblem.png" alt="Truth Pool Emblem" class="mobile-nav-emblem" aria-hidden="true">
+            <span class="mobile-nav-brand">TRUTH POOL</span>
+          </div>
+          <button type="button" id="mobile-nav-close-btn" class="mobile-nav-close-btn" aria-label="Close navigation menu">&times;</button>
+        </div>
+        <div class="mobile-nav-links">
+          <button type="button" class="mobile-nav-btn active" data-target="home">
+            <span class="mobile-nav-icon">🏠</span> <span>Home</span>
+          </button>
+          <button type="button" class="mobile-nav-btn" data-target="play">
+            <span class="mobile-nav-icon">🌌</span> <span>Fandom Arenas</span>
+          </button>
+          <button type="button" class="mobile-nav-btn" data-target="badges">
+            <span class="mobile-nav-icon">🎖️</span> <span>Fandom Badges</span>
+          </button>
+          <button type="button" class="mobile-nav-btn" data-target="dashboard">
+            <span class="mobile-nav-icon">📊</span> <span>Player Dashboard</span>
+          </button>
+          <button type="button" class="mobile-nav-btn" data-target="about">
+            <span class="mobile-nav-icon">📖</span> <span>How to Play</span>
+          </button>
+        </div>
+        <div class="mobile-nav-footer">
+          <div id="mobile-guest-actions" class="mobile-nav-auth">
+            <button type="button" id="btn-mobile-login" class="btn btn-outline-pill btn-block">Sign In</button>
+            <button type="button" id="btn-mobile-register" class="btn btn-red-pill btn-block">Create Account</button>
+          </div>
+          <div id="mobile-user-actions" class="mobile-nav-auth" style="display: none;">
+            <div class="mobile-user-profile-row">
+              <span class="mobile-user-avatar">👤</span>
+              <div class="mobile-user-info">
+                <span id="mobile-nav-username" class="mobile-nav-username">Agent</span>
+                <span class="mobile-user-badge">Active Session</span>
+              </div>
+            </div>
+            <button type="button" id="btn-mobile-logout" class="btn btn-hero-dark btn-block">Sign Out</button>
+          </div>
+        </div>
+      </div>
+    </aside>
 
     <!-- VIEW 0: Full-Screen Landscape Landing Page -->
     <main id="view-landing" class="view landing-view active">

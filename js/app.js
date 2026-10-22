@@ -129,7 +129,18 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (navHome) navHome.classList.toggle('active', targetView === viewLanding);
     if (navPlay) navPlay.classList.toggle('active', targetView === viewSetup);
     if (navBadges) navBadges.classList.toggle('active', targetView === viewBadges);
+    
     if (navDashboard) navDashboard.classList.toggle('active', targetView === viewDashboard);
+
+    // Update mobile navigation drawer active states
+    document.querySelectorAll('.mobile-nav-btn').forEach(btn => {
+      const tgt = btn.getAttribute('data-target');
+      const isAct = (tgt === 'home' && targetView === viewLanding) ||
+                    (tgt === 'play' && targetView === viewSetup) ||
+                    (tgt === 'badges' && targetView === viewBadges) ||
+                    (tgt === 'dashboard' && targetView === viewDashboard);
+      btn.classList.toggle('active', isAct);
+    });
 
     // Refresh components on view entry
     if (targetView === viewSetup && window.TruthPoolFandomSelection && fandomsGrid) {
@@ -665,6 +676,96 @@ document.addEventListener('DOMContentLoaded', async () => {
       showView(viewBadges);
     });
   }
+
+  
+  // Mobile Navigation Menu Controller
+  const mobileMenuToggleBtn = document.getElementById('mobile-menu-toggle-btn');
+  const mobileNavDrawer = document.getElementById('mobile-nav-drawer');
+  const mobileNavBackdrop = document.getElementById('mobile-nav-backdrop');
+  const mobileNavCloseBtn = document.getElementById('mobile-nav-close-btn');
+
+  function openMobileNav() {
+    if (!mobileNavDrawer) return;
+    mobileNavDrawer.classList.add('open');
+    mobileNavDrawer.setAttribute('aria-hidden', 'false');
+    if (mobileMenuToggleBtn) {
+      mobileMenuToggleBtn.classList.add('active');
+      mobileMenuToggleBtn.setAttribute('aria-expanded', 'true');
+    }
+  }
+
+  function closeMobileNav() {
+    if (!mobileNavDrawer) return;
+    mobileNavDrawer.classList.remove('open');
+    mobileNavDrawer.setAttribute('aria-hidden', 'true');
+    if (mobileMenuToggleBtn) {
+      mobileMenuToggleBtn.classList.remove('active');
+      mobileMenuToggleBtn.setAttribute('aria-expanded', 'false');
+    }
+  }
+
+  if (mobileMenuToggleBtn) {
+    mobileMenuToggleBtn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      if (mobileNavDrawer && mobileNavDrawer.classList.contains('open')) {
+        closeMobileNav();
+      } else {
+        openMobileNav();
+      }
+    });
+  }
+
+  if (mobileNavCloseBtn) mobileNavCloseBtn.addEventListener('click', closeMobileNav);
+  if (mobileNavBackdrop) mobileNavBackdrop.addEventListener('click', closeMobileNav);
+
+  document.querySelectorAll('.mobile-nav-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const target = btn.getAttribute('data-target');
+      closeMobileNav();
+      if (target === 'home') showView(viewLanding);
+      else if (target === 'play') showView(viewSetup);
+      else if (target === 'badges') showView(viewBadges);
+      else if (target === 'dashboard') showView(viewDashboard);
+      else if (target === 'about') {
+        if (aboutModal) aboutModal.style.display = 'flex';
+      }
+    });
+  });
+
+  const btnMobileLogin = document.getElementById('btn-mobile-login');
+  const btnMobileRegister = document.getElementById('btn-mobile-register');
+  const btnMobileLogout = document.getElementById('btn-mobile-logout');
+
+  if (btnMobileLogin) {
+    btnMobileLogin.addEventListener('click', () => {
+      closeMobileNav();
+      if (window.BluffAuth && typeof window.BluffAuth.openModal === 'function') {
+        window.BluffAuth.openModal('login');
+      }
+    });
+  }
+  if (btnMobileRegister) {
+    btnMobileRegister.addEventListener('click', () => {
+      closeMobileNav();
+      if (window.BluffAuth && typeof window.BluffAuth.openModal === 'function') {
+        window.BluffAuth.openModal('register');
+      }
+    });
+  }
+  if (btnMobileLogout) {
+    btnMobileLogout.addEventListener('click', () => {
+      closeMobileNav();
+      const logoutBtn = document.getElementById('btn-logout');
+      if (logoutBtn) logoutBtn.click();
+    });
+  }
+
+  // Close mobile drawer on Escape key
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && mobileNavDrawer && mobileNavDrawer.classList.contains('open')) {
+      closeMobileNav();
+    }
+  });
 
   // Fullscreen Controller
   function isFullscreenActive() {

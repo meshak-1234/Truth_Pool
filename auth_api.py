@@ -360,7 +360,7 @@ app = FastAPI(
 # Supported origins for frontend development and deployment.
 # Supports comma-separated FRONTEND_ORIGINS with safe local-development defaults,
 # maintaining backward-compatibility with FRONTEND_ORIGIN.
-default_origins = "http://localhost:8000,http://127.0.0.1:8000"
+default_origins = "http://localhost:8000,http://127.0.0.1:8000,https://truth-pool-hsxrawof.onslate.in"
 raw_origins = os.getenv("FRONTEND_ORIGINS") or os.getenv("FRONTEND_ORIGIN") or default_origins
 allowed_origins = [origin.strip() for origin in raw_origins.split(",") if origin.strip()]
 
@@ -371,6 +371,25 @@ app.add_middleware(
     allow_methods=["GET", "POST", "DELETE", "OPTIONS"],
     allow_headers=["Content-Type", "Authorization"],
 )
+@app.middleware("http")
+async def handle_auth_text_plain(request: Request, call_next):
+    auth_paths = {"/auth/register", "/auth/login"}
+
+    content_type = request.headers.get("content-type", "")
+    media_type = content_type.split(";", 1)[0].strip().lower()
+
+    if (
+        request.method == "POST"
+        and request.url.path in auth_paths
+        and media_type == "text/plain"
+    ):
+        request.scope["headers"] = [
+            (name, value)
+            for name, value in request.scope["headers"]
+            if name.lower() != b"content-type"
+        ] + [(b"content-type", b"application/json")]
+
+    return await call_next(request)
 
 password_hasher = PasswordHasher()
 bearer = HTTPBearer()

@@ -654,6 +654,12 @@
       const session = SessionManager.get();
       if (session && session.user && session.user.username) {
         if (navGuestActions) navGuestActions.style.display = 'none';
+        const mobileGuestActions = document.getElementById('mobile-guest-actions');
+        const mobileUserActions = document.getElementById('mobile-user-actions');
+        const mobileNavUsername = document.getElementById('mobile-nav-username');
+        if (mobileGuestActions) mobileGuestActions.style.display = 'none';
+        if (mobileUserActions) mobileUserActions.style.display = 'block';
+        if (mobileNavUsername) mobileNavUsername.textContent = session.user.username;
         if (authTriggerBtn) {
           authTriggerBtn.style.display = 'flex';
           authTriggerText.textContent = session.user.username;
@@ -697,6 +703,10 @@
           window.TruthPoolFandomBadges.refresh();
         }
         if (navGuestActions) navGuestActions.style.display = 'flex';
+        const mobileGuestActions = document.getElementById('mobile-guest-actions');
+        const mobileUserActions = document.getElementById('mobile-user-actions');
+        if (mobileGuestActions) mobileGuestActions.style.display = 'block';
+        if (mobileUserActions) mobileUserActions.style.display = 'none';
         if (authTriggerBtn) {
           authTriggerBtn.style.display = 'none';
           authTriggerText.textContent = 'Sign In';

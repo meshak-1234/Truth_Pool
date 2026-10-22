@@ -1,0 +1,100 @@
+.venv\Lib\site-packages\pip\_internal\models\link.py:556:    # According to RFC 8089, an empty host in file: means localhost.
+.venv\Lib\site-packages\pip\_internal\models\link.py:558:        netloc = "localhost"
+.venv\Lib\site-packages\pip\_internal\network\session.py:71:    ("*", "localhost", "*"),
+.venv\Lib\site-packages\pip\_internal\utils\urls.py:36:    if not netloc or netloc == "localhost":
+.venv\Lib\site-packages\pip\_vendor\chardet\euctwfreq.py:357:    8000, 8001, 8002, 3489, 3307, 957, 3389, 2540, 2032, 1930, 2927, 2462, 870, 2018, 3604, 1746,  # 7638
+.venv\Lib\site-packages\pip\_vendor\distlib\locators.py:721:            if host.lower() == 'localhost':
+.venv\Lib\site-packages\pip\_vendor\requests\utils.py:97:        # '<local>' string by the localhost entry and the corresponding
+.venv\Lib\site-packages\pip\_vendor\rich\logging.py:248:    log.info("Listening on http://127.0.0.1:8080")
+.venv\Lib\site-packages\pip\_vendor\urllib3\connectionpool.py:117:        Host used for this HTTP Connection (e.g. "localhost"), passed into
+.venv\Lib\site-packages\pip\_vendor\urllib3\exceptions.py:292:        # 'localhost' is here because our URL parser parses
+.venv\Lib\site-packages\pip\_vendor\urllib3\exceptions.py:293:        # localhost:8080 -> scheme=localhost, remove if we fix this.
+.venv\Lib\site-packages\pip\_vendor\urllib3\exceptions.py:294:        if scheme == "localhost":
+.venv\Lib\site-packages\pip\_vendor\urllib3\poolmanager.py:449:        >>> proxy = urllib3.ProxyManager('http://localhost:3128/')
+auth_api.py:363:default_origins = "http://localhost:8000,http://127.0.0.1:8000,https://truth-pool-hsxrawof.onslate.in"
+auth_api.py:436:        "host": os.getenv("DB_HOST", "localhost"),
+auth_api.py:517:    client_ip = request.client.host if request.client else "127.0.0.1"
+auth_api.py:570:    client_ip = request.client.host if request.client else "127.0.0.1"
+bluffenv\Lib\site-packages\anyio\pytest_plugin.py:373:                    addr = "::1" if fam == socket.AF_INET6 else "127.0.0.1"
+bluffenv\Lib\site-packages\dns\reversename.py:39:    :param text: An IPv4 or IPv6 address in textual form (e.g. ``'127.0.0.1'``,
+bluffenv\Lib\site-packages\email_validator\__init__.py:85:    # to treat "localhost" as special, and since it cannot have a globally
+bluffenv\Lib\site-packages\email_validator\__init__.py:87:    "localhost",
+bluffenv\Lib\site-packages\fastapi\applications.py:871:                applicable for apps that need to be run locally (in localhost).
+bluffenv\Lib\site-packages\fastapi\routing.py:2555:                applicable for apps that need to be run locally (in localhost).
+bluffenv\Lib\site-packages\mysql\connector\abstracts.py:214:        self._host: str = "127.0.0.1"
+bluffenv\Lib\site-packages\mysql\connector\aio\abstracts.py:172:        host: str = "127.0.0.1",
+bluffenv\Lib\site-packages\mysql\connector\aio\network.py:730:        self, host: str = "127.0.0.1", port: int = 3306, force_ipv6: bool = False
+bluffenv\Lib\site-packages\mysql\connector\connection.py:153:        self._host: str = "127.0.0.1"
+bluffenv\Lib\site-packages\mysql\connector\constants.py:61:    "host": "127.0.0.1",
+bluffenv\Lib\site-packages\mysql\connector\errorcode.py:1741:CR_LOCALHOST_CONNECTION = 2010
+bluffenv\Lib\site-packages\mysql\connector\locales\eng\client_error.py:51:CR_LOCALHOST_CONNECTION = "Localhost via UNIX socket"
+bluffenv\Lib\site-packages\mysql\connector\network.py:737:        host: str = "127.0.0.1",
+bluffenv\Lib\site-packages\pip\_internal\models\link.py:556:    # According to RFC 8089, an empty host in file: means localhost.
+bluffenv\Lib\site-packages\pip\_internal\models\link.py:558:        netloc = "localhost"
+bluffenv\Lib\site-packages\pip\_internal\network\session.py:71:    ("*", "localhost", "*"),
+bluffenv\Lib\site-packages\pip\_internal\utils\urls.py:36:    if not netloc or netloc == "localhost":
+bluffenv\Lib\site-packages\pip\_vendor\chardet\euctwfreq.py:357:    8000, 8001, 8002, 3489, 3307, 957, 3389, 2540, 2032, 1930, 2927, 2462, 870, 2018, 3604, 1746,  # 7638
+bluffenv\Lib\site-packages\pip\_vendor\distlib\locators.py:721:            if host.lower() == 'localhost':
+bluffenv\Lib\site-packages\pip\_vendor\requests\utils.py:97:        # '<local>' string by the localhost entry and the corresponding
+bluffenv\Lib\site-packages\pip\_vendor\rich\logging.py:248:    log.info("Listening on http://127.0.0.1:8080")
+bluffenv\Lib\site-packages\pip\_vendor\urllib3\connectionpool.py:117:        Host used for this HTTP Connection (e.g. "localhost"), passed into
+bluffenv\Lib\site-packages\pip\_vendor\urllib3\exceptions.py:292:        # 'localhost' is here because our URL parser parses
+bluffenv\Lib\site-packages\pip\_vendor\urllib3\exceptions.py:293:        # localhost:8080 -> scheme=localhost, remove if we fix this.
+bluffenv\Lib\site-packages\pip\_vendor\urllib3\exceptions.py:294:        if scheme == "localhost":
+bluffenv\Lib\site-packages\pip\_vendor\urllib3\poolmanager.py:449:        >>> proxy = urllib3.ProxyManager('http://localhost:3128/')
+bluffenv\Lib\site-packages\pydantic\networks.py:809:    m = MyDatabaseModel(db='postgres://user:pass@localhost:5432/foobar')
+bluffenv\Lib\site-packages\pydantic\networks.py:811:    #> postgres://user:pass@localhost:5432/foobar
+bluffenv\Lib\site-packages\pydantic\networks.py:814:        MyDatabaseModel(db='postgres://user:pass@localhost:5432')
+bluffenv\Lib\site-packages\pydantic\networks.py:822:         +  where None = PostgresDsn('postgres://user:pass@localhost:5432').path [type=assertion_error, input_value='postgres://user:pass@localhost:5432', input_type=str]
+bluffenv\Lib\site-packages\pydantic\networks.py:887:    * Host required (e.g., `rediss://:pass@localhost`)
+bluffenv\Lib\site-packages\pydantic\networks.py:892:        default_host='localhost',
+bluffenv\Lib\site-packages\pydantic\networks.py:941:    _constraints = UrlConstraints(allowed_schemes=['kafka'], default_host='localhost', default_port=9092)
+bluffenv\Lib\site-packages\pydantic\networks.py:954:        allowed_schemes=['nats', 'tls', 'ws', 'wss'], default_host='localhost', default_port=4222
+bluffenv\Lib\site-packages\pydantic\networks.py:1013:        default_host='localhost',
+bluffenv\Lib\site-packages\pydantic\networks.py:1205:        print(IpModel(ip='127.0.0.1'))
+bluffenv\Lib\site-packages\pydantic\networks.py:1206:        #> ip=IPv4Address('127.0.0.1')
+bluffenv\Lib\site-packages\pydantic\v1\networks.py:526:            'domain': 'localhost' if not (parts['ipv4'] or parts['ipv6']) else '',
+bluffenv\Lib\site-packages\pydantic\v1\networks.py:549:            'domain': 'localhost',
+bluffenv\Lib\site-packages\pydantic_core\core_schema.py:4652:    print(v.validate_python('redis://localhost,0.0.0.0,127.0.0.1'))
+bluffenv\Lib\site-packages\pydantic_core\core_schema.py:4653:    #> redis://localhost,0.0.0.0,127.0.0.1
+bluffenv\Lib\site-packages\starlette\middleware\wsgi.py:52:    server = scope.get("server") or ("localhost", 80)
+bluffenv\Lib\site-packages\uvicorn\config.py:199:        host: str = "127.0.0.1",
+bluffenv\Lib\site-packages\uvicorn\config.py:363:            self.forwarded_allow_ips = os.environ.get("FORWARDED_ALLOW_IPS", "127.0.0.1,::1")
+bluffenv\Lib\site-packages\uvicorn\main.py:66:    default="127.0.0.1",
+bluffenv\Lib\site-packages\uvicorn\main.py:255:    "$FORWARDED_ALLOW_IPS environment variable if available, or '127.0.0.1,::1'. "
+bluffenv\Lib\site-packages\uvicorn\main.py:506:    host: str = "127.0.0.1",
+bluffenv\Lib\site-packages\uvicorn\middleware\proxy_headers.py:24:    def __init__(self, app: ASGI3Application, trusted_hosts: list[str] | str = "127.0.0.1") -> None:
+bluffenv\Lib\site-packages\uvicorn\middleware\wsgi.py:53:        server = ("localhost", 80)
+scripts\backup_restore_db.py:45:        "host": os.getenv("DB_HOST", "localhost"),
+scripts\prepare_claim_review.py:54:            suspicious_domains = ["example.com", "test.com", "placeholder.com", "localhost", "fake.com"]
+scripts\setup_achievements.py:28:        "host": os.getenv("DB_HOST", "localhost"),
+scripts\setup_complete_database.py:36:        "host": os.getenv("DB_HOST", "localhost"),
+scripts\setup_fandom_badge_tables.py:32:        "host": os.getenv("DB_HOST", "localhost"),
+scripts\setup_game_history.py:29:        "host": os.getenv("DB_HOST", "localhost"),
+scripts\validate_dataset.py:34:        # Basic domain validation (must contain a valid dot or localhost)
+scripts\validate_dataset.py:36:        if netloc.lower() != "localhost" and "." not in netloc:
+scripts\validate_dataset.py:63:            suspicious_domains = ["example.com", "test.com", "placeholder.com", "localhost", "fake.com"]
+server.py:46:    url = f"http://localhost:{chosen_port}"
+tests\test_auth_flow.js:10:const API_BASE = 'http://127.0.0.1:8001';
+tests\test_auth_flow.js:36:  // Test 2: CORS Preflight for localhost:8000 and 127.0.0.1:8000
+tests\test_auth_flow.js:38:  const origins = ['http://localhost:8000', 'http://127.0.0.1:8000'];
+tests\test_auth_flow.js:50:  console.log('  ✓ Both http://localhost:8000 and http://127.0.0.1:8000 allowed by CORS.');
+tests\test_fandom_badges_ui.js:22:const API_BASE = 'http://127.0.0.1:8001';
+tests\test_fandom_badge_system.js:23:const API_BASE = 'http://127.0.0.1:8001';
+tests\test_full_e2e_simulation.js:21:const API_BASE = 'http://127.0.0.1:8001';
+tests\test_game_history_api.js:19:const API_BASE = 'http://127.0.0.1:8001';
+tests\test_landing_page.js:94:  const res = await fetch('http://localhost:8000/index.html');
+tests\test_landing_page.js:101:  const scriptRes = await fetch('http://localhost:8000/js/landing3d.js');
+tests\test_phase3_5_enhancements.js:257:    const resFront = await fetch('http://localhost:8000/index.html');
+tests\test_phase3_5_enhancements.js:263:    const resBack = await fetch('http://127.0.0.1:8001/health');
+tests\test_phase3_5_enhancements.js:270:  console.log('  ✓ PASS: Live web server (port 8000) and auth API (port 8001) are operational.');
+tests\test_phase4a_xp_levels.js:17:const API_BASE = 'http://127.0.0.1:8001';
+tests\test_phase4_website_experience.js:29:const API_BASE = 'http://127.0.0.1:8001';
+tests\test_phase5_qa_security.js:19:const API_BASE = 'http://127.0.0.1:8001';
+tests\test_phase5_qa_security.js:94:      Origin: 'http://localhost:8000',
+tests\test_phase5_qa_security.js:100:      res.headers['access-control-allow-origin'] === 'http://localhost:8000',
+tests\test_phase5_qa_security.js:101:      'Allowed origin should match localhost:8000'
+tests\test_truth_pool_branding.js:132:  const resFrontend = await fetch('http://localhost:8000/index.html');
+tests\test_truth_pool_branding.js:139:  const resBackend = await fetch('http://127.0.0.1:8001/health');
+tests\test_truth_pool_branding.js:144:  console.log('  ✓ Live frontend server (port 8000) and FastAPI backend (port 8001) are operational.');
+test_db_connection.py:9:    "host": os.getenv("DB_HOST", "localhost"),
