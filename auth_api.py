@@ -371,6 +371,31 @@ app.add_middleware(
     allow_methods=["GET", "POST", "DELETE", "OPTIONS"],
     allow_headers=["Content-Type", "Authorization"],
 )
+
+# ---------------------------------------------------------------------------
+# Explicit OPTIONS (preflight) handler
+# ---------------------------------------------------------------------------
+# Catalyst AppSail's ZGS gateway intercepts OPTIONS requests before they reach
+# FastAPI's CORSMiddleware, responding with 200 but without CORS headers.
+# This catch-all OPTIONS route handler returns the required CORS headers
+# directly from the application layer, ensuring browser preflights succeed.
+# ---------------------------------------------------------------------------
+@app.options("/{rest_of_path:path}", include_in_schema=False)
+async def options_preflight(request: Request, rest_of_path: str):
+    origin = request.headers.get("origin", "")
+    # Only echo back the origin if it is in the allowed list
+    cors_origin = origin if origin in allowed_origins else (allowed_origins[0] if allowed_origins else "*")
+    return Response(
+        status_code=200,
+        headers={
+            "Access-Control-Allow-Origin": cors_origin,
+            "Access-Control-Allow-Credentials": "true",
+            "Access-Control-Allow-Methods": "GET, POST, DELETE, OPTIONS",
+            "Access-Control-Allow-Headers": "Content-Type, Authorization",
+            "Access-Control-Max-Age": "86400",
+        },
+    )
+
 @app.middleware("http")
 async def handle_auth_text_plain(request: Request, call_next):
     auth_paths = {"/auth/register", "/auth/login"}
