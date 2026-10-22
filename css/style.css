@@ -5477,3 +5477,299 @@ body {
     height: 130px !important;
   }
 }
+
+
+/* ==========================================================================
+   TRUTH POOL — MOBILE LAYOUT FIX PATCH
+   Fixes 7 root-cause issues visible on 320–430 px portrait viewports.
+   Root causes:
+     1. header-actions overflow — nav-auth-buttons not hidden on mobile
+     2. Logo/emblem too large at sub-600px
+     3. mobile-nav-close-btn unstyled (transparent bg, no visible border)
+     4. landing-title-3d clamp() minimum (2.3rem) too large for narrow phones
+     5. hero-badge-pill clipped (overflow, single line, no shrink)
+     6. Absolute glow-spots (580 px, 520 px wide) cause horizontal overflow
+     7. site-header flex items don't shrink — overflow on ≤430 px
+   ========================================================================== */
+
+/* ── 1. Hide header Login/Sign-Up buttons on mobile (they live in the drawer) ── */
+@media (max-width: 860px) {
+  #nav-guest-actions {
+    display: none !important;
+  }
+
+  /* Prevent header-actions from overflowing; allow it to shrink */
+  .header-actions {
+    flex-shrink: 1;
+    min-width: 0;
+    gap: 6px;
+    flex-wrap: nowrap;
+  }
+
+  /* Give logo-group room to shrink */
+  .logo-group {
+    flex-shrink: 1;
+    min-width: 0;
+  }
+
+  /* site-header: never let children overflow */
+  .site-header {
+    flex-wrap: nowrap;
+    overflow: hidden;
+  }
+}
+
+/* ── 2. Logo & emblem sizing at ≤ 600 px (already partially addressed but tighten) ── */
+@media (max-width: 600px) {
+  .header-logo-img {
+    height: 34px;
+    max-width: 120px;
+  }
+  .header-emblem-badge {
+    width: 26px;
+    height: 26px;
+  }
+  .logo-group {
+    gap: 8px;
+  }
+}
+
+/* ── 3. Close button — make it look like a proper styled icon button ── */
+.mobile-nav-close-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-full);
+  background: rgba(14, 36, 69, 0.85);
+  border: 1.5px solid rgba(148, 163, 184, 0.25);
+  color: var(--color-soft-cream);
+  font-size: 1.4rem;
+  line-height: 1;
+  padding: 0;
+  cursor: pointer;
+  transition: background var(--transition-fast), border-color var(--transition-fast), color var(--transition-fast);
+  flex-shrink: 0;
+}
+
+.mobile-nav-close-btn:hover {
+  background: rgba(239, 68, 68, 0.2);
+  border-color: var(--color-hero-red);
+  color: var(--color-hero-red);
+}
+
+/* ── 4. Hero title clamp: lower the minimum so it never overflows on narrow phones ── */
+@media (max-width: 860px) {
+  .landing-title-3d,
+  .hero-comic-title {
+    /* Drop minimum from 2.3rem → 1.6rem so clamp actually works on small screens */
+    font-size: clamp(1.6rem, 7.5vw, 3.4rem);
+    word-break: break-word;
+    overflow-wrap: break-word;
+  }
+}
+
+@media (max-width: 600px) {
+  .landing-title-3d,
+  .hero-comic-title {
+    font-size: clamp(1.5rem, 7vw, 2.6rem);
+    line-height: 1.0;
+    margin-bottom: 12px;
+  }
+}
+
+/* ── 5. hero-badge-pill: allow wrapping; prevent horizontal clip ── */
+@media (max-width: 860px) {
+  .hero-badge-pill {
+    white-space: normal;
+    word-break: break-word;
+    text-align: center;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+}
+
+/* ── 6. Contain oversized absolute glow-spots so they cannot cause page-level overflow ── */
+/*  landing-view already has overflow:hidden — also add it to landing-bg-fx children */
+@media (max-width: 860px) {
+  .landing-bg-fx {
+    overflow: hidden;
+  }
+  /* Scale glow spots to a sensible viewport-relative size */
+  .glow-spot-blue {
+    width: min(400px, 110vw);
+    height: min(400px, 110vw);
+  }
+  .glow-spot-red {
+    width: min(360px, 100vw);
+    height: min(360px, 100vw);
+  }
+  .glow-spot-center {
+    width: min(420px, 115vw);
+    height: min(280px, 80vw);
+  }
+}
+
+/* ── 7. Fine-tune for 430 px (e.g. iPhone 14 Pro Max) ── */
+@media (max-width: 430px) {
+  .container {
+    padding: 10px 12px;
+  }
+  .header-logo-img {
+    height: 32px;
+    max-width: 110px;
+  }
+  .header-emblem-badge {
+    width: 24px;
+    height: 24px;
+  }
+  .logo-group {
+    gap: 6px;
+  }
+  .fullscreen-toggle-btn,
+  .mobile-menu-toggle-btn {
+    width: 34px;
+    height: 34px;
+    padding: 7px;
+  }
+  /* auth-trigger-btn: show icon only, hide text label on very narrow */
+  .auth-trigger-btn .stats-btn-text,
+  #auth-trigger-text {
+    display: none;
+  }
+  .auth-trigger-btn,
+  .stats-trigger-btn {
+    padding: 6px 10px;
+    gap: 0;
+  }
+  /* Landing title */
+  .landing-title-3d,
+  .hero-comic-title {
+    font-size: clamp(1.5rem, 6.8vw, 2.4rem);
+  }
+  /* hero-badge-pill font tighter */
+  .hero-badge-pill {
+    font-size: 0.68rem;
+    padding: 5px 12px;
+    letter-spacing: 0.06em;
+  }
+  /* CTA group already column at 600px; ensure full-width */
+  .hero-cta-group {
+    width: 100%;
+  }
+  .btn-hero-red,
+  .btn-hero-dark,
+  .hero-cta-group .btn-outline-pill {
+    font-size: 1rem;
+    padding: 12px 16px;
+    min-height: 46px;
+  }
+}
+
+/* ── 390 px (iPhone 14 / 15) ── */
+@media (max-width: 390px) {
+  .landing-title-3d,
+  .hero-comic-title {
+    font-size: clamp(1.45rem, 6.5vw, 2.2rem);
+  }
+  .hero-comic-subtitle {
+    font-size: 0.9rem;
+  }
+}
+
+/* ── 375 px (iPhone SE 2nd gen, iPhone 12 mini) ── */
+@media (max-width: 375px) {
+  .container {
+    padding: 8px 11px;
+  }
+  .landing-title-3d,
+  .hero-comic-title {
+    font-size: clamp(1.4rem, 6.2vw, 2.1rem);
+  }
+  .hero-badge-pill {
+    font-size: 0.64rem;
+    padding: 4px 10px;
+  }
+}
+
+/* ── 360 px (common Android flagship) — already partially handled above 5306 ── */
+@media (max-width: 360px) {
+  .landing-title-3d,
+  .hero-comic-title {
+    font-size: clamp(1.35rem, 6vw, 2rem);
+  }
+  .hero-comic-subtitle {
+    font-size: 0.85rem;
+    line-height: 1.4;
+    margin-bottom: 16px;
+  }
+  .hero-badge-pill {
+    font-size: 0.6rem;
+    padding: 4px 8px;
+    letter-spacing: 0.04em;
+  }
+  .hero-mascot-container {
+    width: min(180px, 50vw);
+    height: min(180px, 50vw);
+  }
+}
+
+/* ── 320 px (iPhone SE 1st gen, very small Android) ── */
+@media (max-width: 320px) {
+  .container {
+    padding: 6px 8px;
+  }
+  .header-logo-img {
+    height: 26px;
+    max-width: 90px;
+  }
+  .header-emblem-badge {
+    width: 20px;
+    height: 20px;
+  }
+  .landing-title-3d,
+  .hero-comic-title {
+    font-size: clamp(1.25rem, 5.8vw, 1.8rem);
+  }
+  .hero-badge-pill {
+    font-size: 0.56rem;
+    padding: 3px 6px;
+  }
+  .hero-mascot-container {
+    width: min(160px, 48vw);
+    height: min(160px, 48vw);
+  }
+  .fullscreen-toggle-btn,
+  .mobile-menu-toggle-btn {
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+  }
+}
+
+/* ── Landscape orientation on phones (height < 500px) ── */
+@media (max-height: 500px) and (orientation: landscape) {
+  .site-header {
+    padding: 4px 0 6px;
+    margin-bottom: 6px;
+  }
+  .header-logo-img {
+    height: 28px;
+  }
+  .landing-title-3d,
+  .hero-comic-title {
+    font-size: clamp(1.3rem, 4.5vw, 2.4rem);
+    margin-bottom: 6px;
+  }
+  .hero-comic-subtitle {
+    font-size: 0.82rem;
+    margin-bottom: 10px;
+  }
+  .hero-badge-pill {
+    margin-bottom: 8px;
+  }
+  #nav-guest-actions {
+    display: none !important;
+  }
+}
